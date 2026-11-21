@@ -1,0 +1,659 @@
+{
+  "format_version": "retrieval-evaluation-seed/v1",
+  "artifact_id": "mdr-retrieval-seed-v1",
+  "frozen_corpus": {
+    "manifest_path": "data/corpus_manifest.json",
+    "source_count": 18,
+    "chunk_count": 938,
+    "corpus_identity": "corpus:sha256:7121229f6c645f3ffdee7a208ea9886b85171fcc90db2fd7148ab028d98a2eab",
+    "chunk_set_identity": "chunk-set:sha256:48c56cb87716c5da233522ecacfb712f6ebbc8dea19b66102f9916eebe8a035b"
+  },
+  "review_provenance": {
+    "approved_by": "user",
+    "approved_in": "chat",
+    "approved_on": "2026-10-16",
+    "basis": "Approval followed manual review of corpus-grounded evidence packets and the C3, C5, alternative-evidence, and C6 corrections.",
+    "scope": "Question-specific supporting judgments against the frozen normalized JSON and HTML corpus records."
+  },
+  "judgment_policy": {
+    "judgments_are_question_specific": true,
+    "approved_labels_in_this_seed": [
+      "supporting"
+    ],
+    "all_other_chunks": "unjudged",
+    "support_combination_semantics": "Every member of one combination is jointly required. Separate combinations would be alternatives.",
+    "approved_alternative_combinations": 0
+  },
+  "evidence": [
+    {
+      "evidence_id": "E1",
+      "chunk_id": "chunk:sha256:1efd49b589aee298bcb333ddbaf830a1c49ba2d845921df67112cfaa7c3762ac",
+      "source": {
+        "document_id": "eu-regulation-2017-745",
+        "title": "Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC",
+        "version": "Consolidated 19 July 2026",
+        "source_version_identity": "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+        "sha256": "6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+        "path": "data/rag_ready/regulation_eu_2017_745_consolidated_2026_07_19.html",
+        "regulatory_regimes": [
+          "MDR"
+        ],
+        "permitted_regimes": [
+          "MDR"
+        ]
+      },
+      "hierarchy": [
+        {
+          "kind": "Chapter",
+          "title": "CHAPTER VII — POST-MARKET SURVEILLANCE, VIGILANCE AND MARKET SURVEILLANCE"
+        },
+        {
+          "kind": "Section",
+          "title": "SECTION 2 — Vigilance"
+        },
+        {
+          "kind": "Article",
+          "title": "Article 87 — Reporting of serious incidents and field safety corrective actions"
+        }
+      ],
+      "legal_locators": [
+        [
+          { "kind": "chapter", "value": "VII" },
+          { "kind": "section", "value": "2" },
+          { "kind": "article", "value": "87" },
+          { "kind": "paragraph", "value": "3" }
+        ],
+        [
+          { "kind": "chapter", "value": "VII" },
+          { "kind": "section", "value": "2" },
+          { "kind": "article", "value": "87" },
+          { "kind": "paragraph", "value": "4" }
+        ],
+        [
+          { "kind": "chapter", "value": "VII" },
+          { "kind": "section", "value": "2" },
+          { "kind": "article", "value": "87" },
+          { "kind": "paragraph", "value": "5" }
+        ]
+      ],
+      "physical_pdf_pages": [],
+      "source_block_ids": [
+        "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc::art_87/paragraph/0003",
+        "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc::art_87/paragraph/0004",
+        "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc::art_87/paragraph/0005"
+      ],
+      "exact_excerpts": [
+        {
+          "excerpt_id": "E1-X1",
+          "text": "3. Manufacturers shall report any serious incident as referred to in point (a) of paragraph 1 immediately after they have established the causal relationship between that incident and their device or that such causal relationship is reasonably possible and not later than 15 days after they become aware of the incident."
+        },
+        {
+          "excerpt_id": "E1-X2",
+          "text": "4. Notwithstanding paragraph 3, in the event of a serious public health threat the report referred to in paragraph 1 shall be provided immediately, and not later than 2 days after the manufacturer becomes aware of that threat."
+        },
+        {
+          "excerpt_id": "E1-X3",
+          "text": "5. Notwithstanding paragraph 3, in the event of death or an unanticipated serious deterioration in a person's state of health the report shall be provided immediately after the manufacturer has established or as soon as it suspects a causal relationship between the device and the serious incident but not later than 10 days after the date on which the manufacturer becomes aware of the serious incident."
+        }
+      ],
+      "interpretation_limitations": [
+        "The day counts are maximum limits and must be retained with the immediate-reporting and causal-relationship qualifications.",
+        "The HTML-derived regulation record uses legal locators rather than PDF page numbers."
+      ]
+    },
+    {
+      "evidence_id": "E2",
+      "chunk_id": "chunk:sha256:578c8b018fbfeadefdbedf0c8e72b1c85eb0deb4f0b6d765fdf397a6ae2b8f4a",
+      "source": {
+        "document_id": "mdcg-2026-4",
+        "title": "MDCG Position Paper: Management of SS(C)P in EUDAMED after mandatory use",
+        "version": "June 2026",
+        "source_version_identity": "mdcg-2026-4@sha256:8a275845a8b80ab471fc06cdd1e66e545be7a93fb0a94ad0bce56b73f8c8799c",
+        "sha256": "8a275845a8b80ab471fc06cdd1e66e545be7a93fb0a94ad0bce56b73f8c8799c",
+        "path": "data/rag_ready/mdcg_2026_4.json",
+        "regulatory_regimes": [
+          "MDR",
+          "IVDR"
+        ],
+        "permitted_regimes": [
+          "MDR"
+        ]
+      },
+      "hierarchy": [
+        {
+          "kind": "SectionHeader",
+          "title": "MDCG 2026-4 MDCG Position Paper: Management of SS(C)P in EUDAMED after mandatory use"
+        },
+        {
+          "kind": "SectionHeader",
+          "title": "1. Current situation in EUDAMED :"
+        }
+      ],
+      "legal_locators": [],
+      "physical_pdf_pages": [
+        2
+      ],
+      "source_block_ids": [
+        "/page/1/Text/3"
+      ],
+      "exact_excerpts": [
+        {
+          "excerpt_id": "E2-X1",
+          "text": "The summary of safety and clinical performance and the summary of safety and performance (SSCP and SSP respectively), are to be uploaded by the notified body during the process of registering certificates information according to Article 32(1) MDR and Article 29(1) IVDR."
+        },
+        {
+          "excerpt_id": "E2-X2",
+          "text": "This policy is however evolving, as described below."
+        }
+      ],
+      "interpretation_limitations": [
+        "The approved question uses only the SSCP expansion and the Article 32(1) MDR association; SSP and the IVDR pairing are not required answer elements.",
+        "The evolving-policy qualification is part of the approved support.",
+        "This dual-applicable guidance is retained because MDR is included in permitted_regimes."
+      ]
+    },
+    {
+      "evidence_id": "E3",
+      "chunk_id": "chunk:sha256:209728e547695cd97ef6f0ce87d4ead7203e9b8bcca8193b6eda897c87517736",
+      "source": {
+        "document_id": "mdcg-2021-26",
+        "title": "Q&A on repackaging & relabelling activities under Article 16 of Regulation (EU) 2017/745 and Regulation (EU) 2017/746",
+        "version": "October 2021",
+        "source_version_identity": "mdcg-2021-26@sha256:137e079acedeb06e034a0de7fc5774c3045f9db92e1f31f436c949f687f8dcf2",
+        "sha256": "137e079acedeb06e034a0de7fc5774c3045f9db92e1f31f436c949f687f8dcf2",
+        "path": "data/rag_ready/mdcg_2021_26.json",
+        "regulatory_regimes": [
+          "MDR",
+          "IVDR"
+        ],
+        "permitted_regimes": [
+          "MDR"
+        ]
+      },
+      "hierarchy": [
+        { "kind": "SectionHeader", "title": "MDCG 2021-26" },
+        { "kind": "SectionHeader", "title": "3. Questions and Answers" },
+        { "kind": "SectionHeader", "title": "Do Article 16(3) and (4) of the MDR apply to 'legacy devices'?" },
+        { "kind": "SectionHeader", "title": "Question 3" }
+      ],
+      "legal_locators": [],
+      "physical_pdf_pages": [
+        3
+      ],
+      "source_block_ids": [
+        "/page/2/Text/12",
+        "/page/2/Text/13",
+        "/page/2/Text/14",
+        "/page/2/Text/167",
+        "/page/2/Footnote/16"
+      ],
+      "exact_excerpts": [
+        {
+          "excerpt_id": "E3-X1",
+          "text": "' Necessary in order to market' refers to conditions that should be met in order to market the device in that Member State. Whether a relabelling or repackaging activity is necessary, should be analysed on a case-by-case basis."
+        },
+        {
+          "excerpt_id": "E3-X2",
+          "text": "Examples of the abovementioned conditions may include (non-exhaustive list):"
+        },
+        {
+          "excerpt_id": "E3-X3",
+          "text": "national language requirements for device information supplied by the manufacturer; the need to supply in a new package, a specific number of devices different from the number of devices supplied in the original packaging by the manufacturer, for reasons of: providing the healthcare system with pack sizes that are suitable for the needs of health institutions in that Member state; national practices authorising only a certain packaging size; health insurance rules making the reimbursement of medical expenses dependent on the size of the packaging; well-established medical prescription practices."
+        }
+      ],
+      "interpretation_limitations": [
+        "The assessment is expressly case by case and the examples are non-exhaustive.",
+        "The normalized hierarchy includes an inherited legacy-devices heading that does not describe the Question 3 passage itself.",
+        "The evidence approval is for the normalized frozen record, not an independent check of original-PDF layout fidelity."
+      ]
+    },
+    {
+      "evidence_id": "E4",
+      "chunk_id": "chunk:sha256:f283e74476d9465ce3169bd67603e773b89b240b7f4bba28c833065813c3e49a",
+      "source": {
+        "document_id": "eudamed-gradual-rollout-qa",
+        "title": "Q&A on practical aspects related to the implementation of the gradual roll-out of Eudamed pursuant to the MDR and IVDR, as amended by Regulation (EU) 2024/1860 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices",
+        "version": "November 2024",
+        "source_version_identity": "eudamed-gradual-rollout-qa@sha256:2745d8fee07d0cd15ed26605b13f466b111c9b8d73d03d9a1c3888f58f2f1123",
+        "sha256": "2745d8fee07d0cd15ed26605b13f466b111c9b8d73d03d9a1c3888f58f2f1123",
+        "path": "data/rag_ready/Gradual_roll-out_of_EUDAMED_QA_RAG.json",
+        "regulatory_regimes": [
+          "MDR",
+          "IVDR"
+        ],
+        "permitted_regimes": [
+          "MDR"
+        ]
+      },
+      "hierarchy": [
+        {
+          "kind": "SectionHeader",
+          "title": "Q12. When will the use of the Post-Market Surveillance and Vigilance (VGL) module become mandatory?"
+        }
+      ],
+      "legal_locators": [],
+      "physical_pdf_pages": [
+        11,
+        12
+      ],
+      "source_block_ids": [
+        "/page/10/Text/13",
+        "/page/10/Text/14",
+        "/page/10/Table/15",
+        "/page/11/Text/0"
+      ],
+      "exact_excerpts": [
+        {
+          "excerpt_id": "E4-X1",
+          "text": "The obligation and requirements that relate to the Eudamed VGL module will become applicable 6 months after the publication in the OJEU of the notice confirming its functionality."
+        },
+        {
+          "excerpt_id": "E4-X2",
+          "text": "Note: Articles 90 MDR and 85 IVDR (analysis of vigilance data) will be implemented after the first mandatory version of the VGL module is made available."
+        }
+      ],
+      "structured_table": {
+        "block_id": "eudamed-gradual-rollout-qa@sha256:2745d8fee07d0cd15ed26605b13f466b111c9b8d73d03d9a1c3888f58f2f1123::/page/10/Table/15",
+        "physical_pdf_page": 11,
+        "headers": [
+          "Provision",
+          "Title /Content"
+        ],
+        "rows": [
+          [
+            "Art. 86(2) MDR and Art. 81(2) IVDR",
+            "Periodic safety update report"
+          ],
+          [
+            "Art. 87 MDR and Art. 82 IVDR",
+            "Reporting of serious incidents (including periodic summary reports) and field safety corrective actions (with field safety notice (see below))"
+          ],
+          [
+            "Art. 88 MDR and Art. 83 IVDR",
+            "Trend reporting"
+          ],
+          [
+            "Art. 89(5), (7) and (9) and 3rd subpara of Art. 89(8) MDR and Art. 84(5), (7) and (9) and 3rd subpara of Art. 84(8) IVDR",
+            "Analysis of serious incidents and field safety corrective actions with the subsequent exchange of information between national competent authorities (with possible coordinated assessment and identification of a coordinating CA) and field safety notice publication by the manufacturer."
+          ]
+        ],
+        "source_row_start": 0,
+        "source_row_end": 4,
+        "is_complete_table": true
+      },
+      "interpretation_limitations": [
+        "The six-month rule is a source-specific conditional trigger measured from publication of the functionality notice in the OJEU; this evidence does not establish a current calendar date.",
+        "The Article 90 MDR statement is a separate note after the table, not a fifth table row.",
+        "The source is dual-applicable guidance retained because MDR is included in permitted_regimes."
+      ]
+    },
+    {
+      "evidence_id": "E5",
+      "chunk_id": "chunk:sha256:7580367708439c9ae365425fd80e78e30b8308780369a3065fc02daa38f27ee4",
+      "source": {
+        "document_id": "mdcg-2021-3",
+        "title": "Questions and Answers on Custom-Made Devices and considerations on Adaptable medical devices and Patient-matched medical devices",
+        "version": "March 2021",
+        "source_version_identity": "mdcg-2021-3@sha256:11137ad53b57847cb9fe988dc87b152d6550540217dab9026d1e089a10011a85",
+        "sha256": "11137ad53b57847cb9fe988dc87b152d6550540217dab9026d1e089a10011a85",
+        "path": "data/rag_ready/mdcg_2021_3.json",
+        "regulatory_regimes": [
+          "MDR"
+        ],
+        "permitted_regimes": [
+          "MDR"
+        ]
+      },
+      "hierarchy": [
+        { "kind": "SectionHeader", "title": "Questions and Answers on Custom-Made Devices" },
+        { "kind": "SectionHeader", "title": "1. What is a custom-made device (CMD)?" }
+      ],
+      "legal_locators": [],
+      "physical_pdf_pages": [
+        2
+      ],
+      "source_block_ids": [
+        "/page/1/Text/7",
+        "/page/1/Text/210",
+        "/page/1/Text/9",
+        "/page/1/ListItem/211",
+        "/page/1/ListItem/212",
+        "/page/1/ListItem/213",
+        "/page/1/Text/11",
+        "/page/1/ListItem/214",
+        "/page/1/ListItem/215",
+        "/page/1/Footnote/13"
+      ],
+      "exact_excerpts": [
+        {
+          "excerpt_id": "E5-X1",
+          "text": "− is specifically made in accordance with a written prescription of any person authorised by national law by virtue of that person's professional qualifications; which gives − specific design characteristics provided under that person's responsibility; and − is intended for the sole use of a particular patient exclusively to meet their individual conditions and needs."
+        },
+        {
+          "excerpt_id": "E5-X2",
+          "text": "(a) Devices that are mass-produced which need to be adapted to meet the specific requirements of any professional user, hereafter referred to as adaptable medical devices. 1"
+        },
+        {
+          "excerpt_id": "E5-X3",
+          "text": "(b) Devices that are mass-produced by means of industrial manufacturing processes, potentially made in accordance with the written prescriptions of an authorised person."
+        }
+      ],
+      "interpretation_limitations": [
+        "This chunk contributes the CMD definition and exclusions but does not alone provide the complete approved answer."
+      ]
+    },
+    {
+      "evidence_id": "E6",
+      "chunk_id": "chunk:sha256:8c3330ef3d135e5bcf7e273f1a7d585981b26cf0f383ba29db9ccb9659a9c862",
+      "source": {
+        "document_id": "mdcg-2021-3",
+        "title": "Questions and Answers on Custom-Made Devices and considerations on Adaptable medical devices and Patient-matched medical devices",
+        "version": "March 2021",
+        "source_version_identity": "mdcg-2021-3@sha256:11137ad53b57847cb9fe988dc87b152d6550540217dab9026d1e089a10011a85",
+        "sha256": "11137ad53b57847cb9fe988dc87b152d6550540217dab9026d1e089a10011a85",
+        "path": "data/rag_ready/mdcg_2021_3.json",
+        "regulatory_regimes": [
+          "MDR"
+        ],
+        "permitted_regimes": [
+          "MDR"
+        ]
+      },
+      "hierarchy": [
+        {
+          "kind": "SectionHeader",
+          "title": ""
+        }
+      ],
+      "legal_locators": [],
+      "physical_pdf_pages": [
+        3
+      ],
+      "source_block_ids": [
+        "/page/2/Text/3",
+        "/page/2/Text/4",
+        "/page/2/ListItem/223",
+        "/page/2/ListItem/224",
+        "/page/2/ListItem/225",
+        "/page/2/ListItem/226",
+        "/page/2/ListItem/227",
+        "/page/2/Text/6",
+        "/page/2/Text/7",
+        "/page/2/ListItem/228",
+        "/page/2/ListItem/229",
+        "/page/2/ListItem/230",
+        "/page/2/Text/9",
+        "/page/2/Text/10",
+        "/page/2/Footnote/11",
+        "/page/2/Footnote/12",
+        "/page/2/Footnote/13",
+        "/page/2/Footnote/14"
+      ],
+      "exact_excerpts": [
+        {
+          "excerpt_id": "E6-X1",
+          "text": "Note 1: Adaptable medical devices (products which fall under (a) above) are mass-produced 2 medical devices which must be adapted, adjusted, assembled or shaped at the point of care, traditionally by a healthcare professional, in accordance with the manufacturer's validated instructions 3 to suit an individual patient's specific anatomo-physiologic features prior to use."
+        },
+        {
+          "excerpt_id": "E6-X2",
+          "text": "it is matched to a patient's anatomy within a specified design envelope using techniques such as scaling of the device based on anatomic references, or by using the full anatomic features from patient imaging; and"
+        },
+        {
+          "excerpt_id": "E6-X3",
+          "text": "it is typically produced in a batch through a process that is capable of being validated and reproduced; and"
+        },
+        {
+          "excerpt_id": "E6-X4",
+          "text": "it is designed and produced under the responsibility of a manufacturer even though the design may be developed in consultation with an authorized healthcare professional."
+        },
+        {
+          "excerpt_id": "E6-X5",
+          "text": "Different from a custom-made device, these devices are typically produced in batches or through mass production and do not require a written prescription by an authorised person (see Q6 for more information on written prescriptions)."
+        },
+        {
+          "excerpt_id": "E6-X6",
+          "text": "According to MDR art. 16(1), a person (e.g. healthcare professional) who adapts, adjusts, assembles or shapes an adaptable medical device for a particular patient is not regarded as a manufacturer, as long as the adaptation, adjustment, assembly and shaping does not modify the device in such a way that compliance with the applicable requirements may be affected or changes the intended purpose. 4"
+        }
+      ],
+      "interpretation_limitations": [
+        "This chunk contributes the adaptable and patient-matched characteristics and qualifications but does not alone provide the complete approved answer.",
+        "Its normalized hierarchy contains an empty inherited section title."
+      ]
+    },
+    {
+      "evidence_id": "E7",
+      "chunk_id": "chunk:sha256:25433d42e8af9d7eaaf321539c530cf3f983b61a8a0ae206f9b135cae71359b9",
+      "source": {
+        "document_id": "mdcg-2021-3",
+        "title": "Questions and Answers on Custom-Made Devices and considerations on Adaptable medical devices and Patient-matched medical devices",
+        "version": "March 2021",
+        "source_version_identity": "mdcg-2021-3@sha256:11137ad53b57847cb9fe988dc87b152d6550540217dab9026d1e089a10011a85",
+        "sha256": "11137ad53b57847cb9fe988dc87b152d6550540217dab9026d1e089a10011a85",
+        "path": "data/rag_ready/mdcg_2021_3.json",
+        "regulatory_regimes": [
+          "MDR"
+        ],
+        "permitted_regimes": [
+          "MDR"
+        ]
+      },
+      "hierarchy": [
+        {
+          "kind": "SectionHeader",
+          "title": ""
+        }
+      ],
+      "legal_locators": [],
+      "physical_pdf_pages": [
+        4
+      ],
+      "source_block_ids": [
+        "/page/3/Text/3",
+        "/page/3/Text/4",
+        "/page/3/ListItem/182",
+        "/page/3/ListItem/183",
+        "/page/3/ListItem/184",
+        "/page/3/ListItem/185",
+        "/page/3/ListItem/186"
+      ],
+      "exact_excerpts": [
+        {
+          "excerpt_id": "E7-X1",
+          "text": "It must be underlined that products which are adaptable medical devices or patient-matched medical devices (as defined by IMDRF) are not qualified as CMDs and must follow the 'standard' MDR regulatory pathway for placing on the market."
+        }
+      ],
+      "interpretation_limitations": [
+        "This chunk contributes the regulatory-pathway conclusion but does not alone provide the complete approved answer.",
+        "The chunk ends with an irrelevant, incomplete heading for the next question; that trailing text is not approved evidence.",
+        "Its normalized hierarchy contains an empty inherited section title."
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "case_id": "C1",
+      "question": "Under MDR Article 87(3)–(5), what are the maximum reporting deadlines for a serious incident generally, a serious public health threat, and death or an unanticipated serious deterioration in health?",
+      "topic_id": "vigilance-reporting-deadlines",
+      "coverage_tags": [
+        "explicit-legal-reference",
+        "primary-legislation",
+        "single-chunk"
+      ],
+      "required_answer_elements": [
+        { "element_id": "C1-A1", "text": "For a serious incident generally, reporting is immediate after the causal relationship is established or is reasonably possible, and no later than 15 days after awareness." },
+        { "element_id": "C1-A2", "text": "For a serious public health threat, reporting is immediate and no later than 2 days after awareness." },
+        { "element_id": "C1-A3", "text": "For death or an unanticipated serious deterioration in health, reporting is immediate after the causal relationship is established or as soon as it is suspected, and no later than 10 days after awareness." }
+      ],
+      "supporting_judgments": [
+        { "evidence_id": "E1", "label": "supporting", "support_extent": "independently complete for the required answer elements" }
+      ],
+      "element_to_evidence": {
+        "C1-A1": ["E1"],
+        "C1-A2": ["E1"],
+        "C1-A3": ["E1"]
+      },
+      "support_combinations": [
+        { "combination_id": "C1-S1", "members": ["E1"], "members_jointly_required": true, "approved": true }
+      ],
+      "review_status": "approved-for-seed-v1"
+    },
+    {
+      "case_id": "C2",
+      "question": "How quickly must a medical-device manufacturer report a serious incident, and how do the deadlines change for a serious public health threat or for death or an unexpected serious deterioration in health?",
+      "topic_id": "vigilance-reporting-deadlines",
+      "coverage_tags": [
+        "natural-paraphrase",
+        "primary-legislation",
+        "single-chunk"
+      ],
+      "required_answer_elements": [
+        { "element_id": "C2-A1", "text": "For a serious incident generally, reporting is immediate after the causal relationship is established or is reasonably possible, and no later than 15 days after awareness." },
+        { "element_id": "C2-A2", "text": "For a serious public health threat, reporting is immediate and no later than 2 days after awareness." },
+        { "element_id": "C2-A3", "text": "For death or an unanticipated serious deterioration in health, reporting is immediate after the causal relationship is established or as soon as it is suspected, and no later than 10 days after awareness." }
+      ],
+      "supporting_judgments": [
+        { "evidence_id": "E1", "label": "supporting", "support_extent": "independently complete for the required answer elements" }
+      ],
+      "element_to_evidence": {
+        "C2-A1": ["E1"],
+        "C2-A2": ["E1"],
+        "C2-A3": ["E1"]
+      },
+      "support_combinations": [
+        { "combination_id": "C2-S1", "members": ["E1"], "members_jointly_required": true, "approved": true }
+      ],
+      "review_status": "approved-for-seed-v1"
+    },
+    {
+      "case_id": "C3",
+      "question": "According to MDCG 2026-4, what does SSCP stand for, and which MDR provision does the paper associate with its upload during certificate-information registration in EUDAMED?",
+      "topic_id": "sscp-eudamed-upload",
+      "coverage_tags": [
+        "abbreviation",
+        "guidance-specific",
+        "single-chunk"
+      ],
+      "required_answer_elements": [
+        { "element_id": "C3-A1", "text": "SSCP stands for summary of safety and clinical performance." },
+        { "element_id": "C3-A2", "text": "The paper associates the upload during certificate-information registration with Article 32(1) MDR." },
+        { "element_id": "C3-A3", "text": "The paper qualifies the described policy as evolving." }
+      ],
+      "supporting_judgments": [
+        { "evidence_id": "E2", "label": "supporting", "support_extent": "independently complete for the MDR-narrowed required answer elements" }
+      ],
+      "element_to_evidence": {
+        "C3-A1": ["E2"],
+        "C3-A2": ["E2"],
+        "C3-A3": ["E2"]
+      },
+      "support_combinations": [
+        { "combination_id": "C3-S1", "members": ["E2"], "members_jointly_required": true, "approved": true }
+      ],
+      "review_status": "approved-for-seed-v1"
+    },
+    {
+      "case_id": "C4",
+      "question": "According to MDCG 2021-26, what does “necessary in order to market” mean for Article 16(2) relabelling or repackaging, and what examples of such conditions does the guidance give?",
+      "topic_id": "article-16-repackaging-relabelling",
+      "coverage_tags": [
+        "guidance-interpretation",
+        "qualified-examples",
+        "single-chunk"
+      ],
+      "required_answer_elements": [
+        { "element_id": "C4-A1", "text": "The phrase refers to conditions that should be met to market the device in the relevant Member State." },
+        { "element_id": "C4-A2", "text": "Necessity is assessed case by case." },
+        { "element_id": "C4-A3", "text": "The examples are non-exhaustive and include national-language requirements." },
+        { "element_id": "C4-A4", "text": "The examples include a different package quantity because of institutional needs, nationally authorized pack sizes, reimbursement rules tied to package size, or established prescription practices." }
+      ],
+      "supporting_judgments": [
+        { "evidence_id": "E3", "label": "supporting", "support_extent": "independently complete for the required answer elements" }
+      ],
+      "element_to_evidence": {
+        "C4-A1": ["E3"],
+        "C4-A2": ["E3"],
+        "C4-A3": ["E3"],
+        "C4-A4": ["E3"]
+      },
+      "support_combinations": [
+        { "combination_id": "C4-S1", "members": ["E3"], "members_jointly_required": true, "approved": true }
+      ],
+      "review_status": "approved-for-seed-v1"
+    },
+    {
+      "case_id": "C5",
+      "question": "According to the November 2024 EUDAMED gradual-roll-out Q&A, when do the VGL-module obligations become applicable, and which MDR provisions and subjects does its Q12 table list as concerned?",
+      "topic_id": "eudamed-vgl-rollout",
+      "coverage_tags": [
+        "structured-table",
+        "conditional-trigger",
+        "guidance-specific",
+        "single-chunk"
+      ],
+      "required_answer_elements": [
+        { "element_id": "C5-A1", "text": "The source states a conditional trigger: six months after publication in the OJEU of the notice confirming VGL-module functionality; it does not establish a current calendar date." },
+        { "element_id": "C5-A2", "text": "Article 86(2) MDR maps to periodic safety update report." },
+        { "element_id": "C5-A3", "text": "Article 87 MDR maps to reporting of serious incidents, including periodic summary reports, and field safety corrective actions with field safety notice." },
+        { "element_id": "C5-A4", "text": "Article 88 MDR maps to trend reporting." },
+        { "element_id": "C5-A5", "text": "Article 89(5), (7), (9), and the third subparagraph of Article 89(8) MDR map to analysis of serious incidents and field safety corrective actions, exchange between national competent authorities, possible coordinated assessment and a coordinating authority, and manufacturer publication of the field safety notice." },
+        { "element_id": "C5-A6", "text": "A separate note says Article 90 MDR analysis of vigilance data will be implemented after the first mandatory VGL-module version is made available." }
+      ],
+      "supporting_judgments": [
+        { "evidence_id": "E4", "label": "supporting", "support_extent": "independently complete for the required answer elements, including the structured table" }
+      ],
+      "element_to_evidence": {
+        "C5-A1": ["E4"],
+        "C5-A2": ["E4"],
+        "C5-A3": ["E4"],
+        "C5-A4": ["E4"],
+        "C5-A5": ["E4"],
+        "C5-A6": ["E4"]
+      },
+      "support_combinations": [
+        { "combination_id": "C5-S1", "members": ["E4"], "members_jointly_required": true, "approved": true }
+      ],
+      "review_status": "approved-for-seed-v1"
+    },
+    {
+      "case_id": "C6",
+      "question": "According to MDCG 2021-3, how are custom-made, adaptable, and patient-matched devices distinguished, and what MDR market pathway applies to adaptable and patient-matched devices?",
+      "topic_id": "device-categorization-market-pathway",
+      "coverage_tags": [
+        "multi-chunk",
+        "guidance-interpretation",
+        "joint-support"
+      ],
+      "required_answer_elements": [
+        { "element_id": "C6-A1", "text": "A custom-made device is made under an authorized person's written prescription with specific design characteristics under that person's responsibility for the sole use of a particular patient and their individual conditions and needs." },
+        { "element_id": "C6-A2", "text": "Mass-produced adaptable devices and devices mass-produced through industrial processes, potentially following a written prescription, are not custom-made devices." },
+        { "element_id": "C6-A3", "text": "An adaptable device is mass-produced and adapted, adjusted, assembled, or shaped at the point of care under the manufacturer's validated instructions to suit the patient's features." },
+        { "element_id": "C6-A4", "text": "A patient-matched device is matched within a specified design envelope, typically produced in a batch through a process capable of being validated and reproduced, and designed and produced under manufacturer responsibility; unlike a CMD it is typically batch- or mass-produced and does not require an authorized person's written prescription." },
+        { "element_id": "C6-A5", "text": "Adaptable and patient-matched devices are not CMDs and follow the standard MDR regulatory pathway for placing on the market." },
+        { "element_id": "C6-A6", "text": "Under MDR Article 16(1), a person who adapts, adjusts, assembles, or shapes an adaptable device for a particular patient is not regarded as a manufacturer as long as the activity does not modify the device in a way that may affect compliance with applicable requirements or change its intended purpose." }
+      ],
+      "supporting_judgments": [
+        { "evidence_id": "E5", "label": "supporting", "support_extent": "partial; supplies the CMD definition and mass-produced exclusions" },
+        { "evidence_id": "E6", "label": "supporting", "support_extent": "partial; supplies adaptable and patient-matched characteristics and qualifications" },
+        { "evidence_id": "E7", "label": "supporting", "support_extent": "partial; supplies the standard MDR pathway conclusion" }
+      ],
+      "element_to_evidence": {
+        "C6-A1": ["E5"],
+        "C6-A2": ["E5"],
+        "C6-A3": ["E5", "E6"],
+        "C6-A4": ["E6"],
+        "C6-A5": ["E7"],
+        "C6-A6": ["E6"]
+      },
+      "support_combinations": [
+        {
+          "combination_id": "C6-S1",
+          "members": ["E5", "E6", "E7"],
+          "members_jointly_required": true,
+          "approved": true,
+          "limitation": "All three members are required for this nominated combination. This is not a claim that no other valid evidence combination exists in the corpus."
+        }
+      ],
+      "review_status": "approved-for-seed-v1"
+    }
+  ]
+}

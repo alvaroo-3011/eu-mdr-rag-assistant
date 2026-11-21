@@ -1,0 +1,1639 @@
+{
+  "children": [
+    {
+      "id": "/page/0/Page/50",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/0/PageHeader/0'></content-ref><content-ref src='/page/0/PageHeader/1'></content-ref><content-ref src='/page/0/PageHeader/2'></content-ref><content-ref src='/page/0/SectionHeader/3'></content-ref><content-ref src='/page/0/SectionHeader/4'></content-ref><content-ref src='/page/0/SectionHeader/5'></content-ref><content-ref src='/page/0/Text/6'></content-ref><content-ref src='/page/0/Text/7'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/0/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.78904743338713,
+              33.61846923828125
+            ],
+            [
+              207.72955998725794,
+              33.61846923828125
+            ],
+            [
+              207.72955998725794,
+              61.4339599609375
+            ],
+            [
+              68.78904743338713,
+              61.4339599609375
+            ]
+          ],
+          "bbox": [
+            68.78904743338713,
+            33.61846923828125,
+            207.72955998725794,
+            61.4339599609375
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              429.71581600775346,
+              60.377146230886154
+            ],
+            [
+              525.0056112371103,
+              60.377146230886154
+            ],
+            [
+              525.0056112371103,
+              75.4874955242697
+            ],
+            [
+              429.71581600775346,
+              75.4874955242697
+            ]
+          ],
+          "bbox": [
+            429.71581600775346,
+            60.377146230886154,
+            525.0056112371103,
+            75.4874955242697
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.2482323250182,
+              58.875
+            ],
+            [
+              521.435302734375,
+              58.875
+            ],
+            [
+              521.435302734375,
+              77.6605224609375
+            ],
+            [
+              68.2482323250182,
+              77.6605224609375
+            ]
+          ],
+          "bbox": [
+            68.2482323250182,
+            58.875,
+            521.435302734375,
+            77.6605224609375
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/SectionHeader/3",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>MDCG 2024-13</b></h1>",
+          "polygon": [
+            [
+              226.09488168711624,
+              217.383544921875
+            ],
+            [
+              367.0821705392986,
+              217.383544921875
+            ],
+            [
+              367.0821705392986,
+              247.86407470703125
+            ],
+            [
+              226.09488168711624,
+              247.86407470703125
+            ]
+          ],
+          "bbox": [
+            226.09488168711624,
+            217.383544921875,
+            367.0821705392986,
+            247.86407470703125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/SectionHeader/4",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>Regulatory status of ethylene oxide (EtO) </b> <b>intended for the sterilisation of medical devices</b></h2>",
+          "polygon": [
+            [
+              77.5875454381371,
+              277.9835205078125
+            ],
+            [
+              517.316879464637,
+              277.9835205078125
+            ],
+            [
+              517.316879464637,
+              337.5040588378906
+            ],
+            [
+              77.5875454381371,
+              337.5040588378906
+            ]
+          ],
+          "bbox": [
+            77.5875454381371,
+            277.9835205078125,
+            517.316879464637,
+            337.5040588378906
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/0/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/SectionHeader/5",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>October 2024</b></h2>",
+          "polygon": [
+            [
+              69.06654769167191,
+              373.3775634765625
+            ],
+            [
+              162.64751951280107,
+              373.3775634765625
+            ],
+            [
+              162.64751951280107,
+              395.530029296875
+            ],
+            [
+              69.06654769167191,
+              395.530029296875
+            ]
+          ],
+          "bbox": [
+            69.06654769167191,
+            373.3775634765625,
+            162.64751951280107,
+            395.530029296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">This document has been endorsed by the Medical Device Coordination Group  (MDCG) established by Article 103 of Regulation (EU) 2017/745. The MDCG is  composed of representatives of all Member States and it is chaired by a representative  of the European Commission.</p>",
+          "polygon": [
+            [
+              68.97377844361273,
+              567.5377289660786
+            ],
+            [
+              526.6572265625,
+              567.5377289660786
+            ],
+            [
+              526.6572265625,
+              647.4199829101562
+            ],
+            [
+              68.97377844361273,
+              647.4199829101562
+            ]
+          ],
+          "bbox": [
+            68.97377844361273,
+            567.5377289660786,
+            526.6572265625,
+            647.4199829101562
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The document is not a European Commission document and it cannot be regarded as  reflecting the official position of the European Commission. Any views expressed in  this document are not legally binding and only the Court of Justice of the European  Union can give binding interpretations of Union law.</p>",
+          "polygon": [
+            [
+              69.12770472605823,
+              649.6484201079697
+            ],
+            [
+              526.6596069335938,
+              649.6484201079697
+            ],
+            [
+              526.6596069335938,
+              730.2200088500977
+            ],
+            [
+              69.12770472605823,
+              730.2200088500977
+            ]
+          ],
+          "bbox": [
+            69.12770472605823,
+            649.6484201079697,
+            526.6596069335938,
+            730.2200088500977
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/1/Page/209",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/1/PageHeader/0'></content-ref><content-ref src='/page/1/PageHeader/2'></content-ref><content-ref src='/page/1/PageHeader/3'></content-ref><content-ref src='/page/1/SectionHeader/1'></content-ref><content-ref src='/page/1/SectionHeader/4'></content-ref><content-ref src='/page/1/Text/5'></content-ref><content-ref src='/page/1/Text/6'></content-ref><content-ref src='/page/1/Text/7'></content-ref><content-ref src='/page/1/SectionHeader/8'></content-ref><content-ref src='/page/1/SectionHeader/9'></content-ref><content-ref src='/page/1/Text/10'></content-ref><content-ref src='/page/1/Text/11'></content-ref><content-ref src='/page/1/ListGroup/12'></content-ref><content-ref src='/page/1/Text/13'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/1/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.88691357821601,
+              33.61846923828125
+            ],
+            [
+              207.10668484089655,
+              33.61846923828125
+            ],
+            [
+              207.10668484089655,
+              61.4339599609375
+            ],
+            [
+              68.88691357821601,
+              61.4339599609375
+            ]
+          ],
+          "bbox": [
+            68.88691357821601,
+            33.61846923828125,
+            207.10668484089655,
+            61.4339599609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              429.9081465483312,
+              60.13900244586296
+            ],
+            [
+              525.2121901812421,
+              60.13900244586296
+            ],
+            [
+              525.2121901812421,
+              74.98702232517095
+            ],
+            [
+              429.9081465483312,
+              74.98702232517095
+            ]
+          ],
+          "bbox": [
+            429.9081465483312,
+            60.13900244586296,
+            525.2121901812421,
+            74.98702232517095
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageHeader/3",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.67041572935935,
+              58.875
+            ],
+            [
+              521.435302734375,
+              58.875
+            ],
+            [
+              521.435302734375,
+              77.6605224609375
+            ],
+            [
+              68.67041572935935,
+              77.6605224609375
+            ]
+          ],
+          "bbox": [
+            68.67041572935935,
+            58.875,
+            521.435302734375,
+            77.6605224609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/1",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.88691357821601,
+              36.83174418638778
+            ],
+            [
+              207.10668484089655,
+              36.83174418638778
+            ],
+            [
+              207.10668484089655,
+              56.646787526240225
+            ],
+            [
+              68.88691357821601,
+              56.646787526240225
+            ]
+          ],
+          "bbox": [
+            68.88691357821601,
+            36.83174418638778,
+            207.10668484089655,
+            56.646787526240225
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/4",
+          "block_type": "SectionHeader",
+          "html": "<h4><b>1.</b> <b>Introduction</b></h4>",
+          "polygon": [
+            [
+              87.54607424027373,
+              83.64400739661308
+            ],
+            [
+              172.45762553563344,
+              83.64400739661308
+            ],
+            [
+              172.45762553563344,
+              100.9510498046875
+            ],
+            [
+              87.54607424027373,
+              100.9510498046875
+            ]
+          ],
+          "bbox": [
+            87.54607424027373,
+            83.64400739661308,
+            172.45762553563344,
+            100.9510498046875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/1",
+            "4": "/page/1/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The regulatory status of ethylene oxide (EtO) for the sterilisation of single-use medical devices  during the manufacturing process has been discussed in relation to the Review Programme  under Regulation (EU) 528/2012 on biocidal products (BPR).</p>",
+          "polygon": [
+            [
+              69.50001871796039,
+              102.89866261809188
+            ],
+            [
+              526.7419006193915,
+              102.89866261809188
+            ],
+            [
+              526.7419006193915,
+              146.822265625
+            ],
+            [
+              69.50001871796039,
+              146.822265625
+            ]
+          ],
+          "bbox": [
+            69.50001871796039,
+            102.89866261809188,
+            526.7419006193915,
+            146.822265625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/1",
+            "4": "/page/1/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Ethylene oxide (EtO) is used to sterilise a wide range of medical products, such as medical  devices, <i>in vitro</i> diagnostic medical devices (IVDs) and medicinal products, as well as products  combining them. Sterilisation of products that are placed on the market in sterile condition is  part of the manufacturing process and is usually carried out in large industrial units either by  the manufacturers themselves or by external sterilisation service providers.</p>",
+          "polygon": [
+            [
+              69.0689644224998,
+              149.50630327939774
+            ],
+            [
+              526.9631403002991,
+              149.50630327939774
+            ],
+            [
+              526.9631403002991,
+              220.9779052734375
+            ],
+            [
+              69.0689644224998,
+              220.9779052734375
+            ]
+          ],
+          "bbox": [
+            69.0689644224998,
+            149.50630327939774,
+            526.9631403002991,
+            220.9779052734375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/1",
+            "4": "/page/1/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">On a much smaller scale, EtO is also provided in cartridges for sterilisation of reusable medical  devices, mainly in health institutions for use of such devices. Those EtO-containing cartridges,  which are used for the supply of EtO to specific EtO sterilisers, are generally CE marked in  accordance with the previous Directive 93/42/EEC or the current Regulation (EU) 2017/745  on medical devices (the 'MDR').</p>",
+          "polygon": [
+            [
+              68.79372054323441,
+              223.70297379803677
+            ],
+            [
+              526.8938225042309,
+              223.70297379803677
+            ],
+            [
+              526.8938225042309,
+              295.25506591796875
+            ],
+            [
+              68.79372054323441,
+              295.25506591796875
+            ]
+          ],
+          "bbox": [
+            68.79372054323441,
+            223.70297379803677,
+            526.8938225042309,
+            295.25506591796875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/1",
+            "4": "/page/1/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/8",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>2. Regulatory status of EtO</b> <b>for sterilisation of medical devices </b></h3>",
+          "polygon": [
+            [
+              69.03253592772207,
+              303.42132410744097
+            ],
+            [
+              399.7691650390625,
+              303.42132410744097
+            ],
+            [
+              399.7691650390625,
+              321.37567138671875
+            ],
+            [
+              69.03253592772207,
+              321.37567138671875
+            ]
+          ],
+          "bbox": [
+            69.03253592772207,
+            303.42132410744097,
+            399.7691650390625,
+            321.37567138671875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/9",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>2.1. EtO sterilisation during the manufacturing process</b></h3>",
+          "polygon": [
+            [
+              86.1479610952382,
+              328.321950829252
+            ],
+            [
+              378.1039750029518,
+              328.321950829252
+            ],
+            [
+              378.1039750029518,
+              346.3371276855469
+            ],
+            [
+              86.1479610952382,
+              346.3371276855469
+            ]
+          ],
+          "bbox": [
+            86.1479610952382,
+            328.321950829252,
+            378.1039750029518,
+            346.3371276855469
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">EtO is a substance that is used in the manufacturing process of many medical devices and  IVDs which are placed on the market in a sterile condition. As part of its Quality Management  System (QMS) pursuant to Article 10(9) MDR and Article 10(8) IVDR, the relevant medical  device manufacturers must address, among other matters, the sterilisation process and its  validation, which is further specified e.g. in the harmonised standard <i>EN ISO 13485:2016 -</i> <i>Medical devices —</i> <i>Quality management systems —</i> <i>Requirements for regulatory purposes</i>.</p>",
+          "polygon": [
+            [
+              68.80725309050052,
+              353.625816284071
+            ],
+            [
+              527.071079974811,
+              353.625816284071
+            ],
+            [
+              527.071079974811,
+              439.12835693359375
+            ],
+            [
+              68.80725309050052,
+              439.12835693359375
+            ]
+          ],
+          "bbox": [
+            68.80725309050052,
+            353.625816284071,
+            527.071079974811,
+            439.12835693359375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/11",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In addition, several provisions in the MDR and IVDR specifically address the sterilisation of  devices, in particular</p>",
+          "polygon": [
+            [
+              69.2214189044174,
+              441.4549557285869
+            ],
+            [
+              526.3150024414062,
+              441.4549557285869
+            ],
+            [
+              526.3150024414062,
+              472.3698425292969
+            ],
+            [
+              69.2214189044174,
+              472.3698425292969
+            ]
+          ],
+          "bbox": [
+            69.2214189044174,
+            441.4549557285869,
+            526.3150024414062,
+            472.3698425292969
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/ListGroup/12",
+          "block_type": "ListGroup",
+          "html": "<p block-type='ListGroup'><ul><content-ref src='/page/1/ListItem/206'></content-ref><content-ref src='/page/1/ListItem/207'></content-ref><content-ref src='/page/1/ListItem/208'></content-ref><content-ref src='/page/1/ListItem/209'></content-ref></ul></p>",
+          "polygon": [
+            [
+              88.2165624200547,
+              475.3567093452596
+            ],
+            [
+              527.3296587196945,
+              475.3567093452596
+            ],
+            [
+              527.3296587196945,
+              735.7730560302734
+            ],
+            [
+              88.2165624200547,
+              735.7730560302734
+            ]
+          ],
+          "bbox": [
+            88.2165624200547,
+            475.3567093452596,
+            527.3296587196945,
+            735.7730560302734
+          ],
+          "children": [
+            {
+              "id": "/page/1/ListItem/206",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> the general safety and performance requirements in Annex I MDR/IVDR (see sections  11.3-11.6 and 11.2-11.4 respectively), which are further specified in (harmonised) standards, such as o <i>EN ISO 11135:2014 + A1:2019:</i> <i>Sterilisation</i> <i>of health-care products -</i> <i>Ethylene </i> <i>oxide -</i> <i>Requirements for the development, validation and routine control of a </i> <i>sterilisation process for medical devices,</i> o <i>EN ISO 10993-7:2008 + AC:2009 + A1:2022: Biological evaluation of medical </i> <i>devices -</i> <i>Part 7: Ethylene oxide sterilization residuals, </i> o <i>EN 556-1:2024: Sterilization of medical devices -</i> <i>Requirements for medical </i> <i>devices to be designated \"STERILE\" -</i> <i>Part 1: Requirements for terminally </i> <i>sterilized medical devices</i></li>",
+              "polygon": [
+                [
+                  90.01097869873047,
+                  477.7021179199219
+                ],
+                [
+                  526.4199829101562,
+                  477.7021179199219
+                ],
+                [
+                  526.4199829101562,
+                  647.3315887451172
+                ],
+                [
+                  90.01097869873047,
+                  647.3315887451172
+                ]
+              ],
+              "bbox": [
+                90.01097869873047,
+                477.7021179199219,
+                526.4199829101562,
+                647.3315887451172
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/0/SectionHeader/3",
+                "2": "/page/1/SectionHeader/1",
+                "3": "/page/1/SectionHeader/9"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/1/ListItem/207",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> the technical documentation described in Annex II MDR/IVDR,</li>",
+              "polygon": [
+                [
+                  90.05508422851562,
+                  652.6639099121094
+                ],
+                [
+                  413.8271484375,
+                  652.6639099121094
+                ],
+                [
+                  413.8271484375,
+                  667.7335052490234
+                ],
+                [
+                  90.05508422851562,
+                  667.7335052490234
+                ]
+              ],
+              "bbox": [
+                90.05508422851562,
+                652.6639099121094,
+                413.8271484375,
+                667.7335052490234
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/0/SectionHeader/3",
+                "2": "/page/1/SectionHeader/1",
+                "3": "/page/1/SectionHeader/9"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/1/ListItem/208",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> the qualification requirements of notified body personnel laid down in Annex VII  (sections 3.2.1 and 3.2.5) and</li>",
+              "polygon": [
+                [
+                  90.06612396240234,
+                  673.0658416748047
+                ],
+                [
+                  526.3369140625,
+                  673.0658416748047
+                ],
+                [
+                  526.3369140625,
+                  701.8139953613281
+                ],
+                [
+                  90.06612396240234,
+                  701.8139953613281
+                ]
+              ],
+              "bbox": [
+                90.06612396240234,
+                673.0658416748047,
+                526.3369140625,
+                701.8139953613281
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/0/SectionHeader/3",
+                "2": "/page/1/SectionHeader/1",
+                "3": "/page/1/SectionHeader/9"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/1/ListItem/209",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> the conformity assessment procedures laid down in Annex IX and XI MDR/IVDR (e.g.  Annex IX, section 2.2 and 3.2 respectively).</li>",
+              "polygon": [
+                [
+                  90.07715606689453,
+                  707.0248565673828
+                ],
+                [
+                  526.38427734375,
+                  707.0248565673828
+                ],
+                [
+                  526.38427734375,
+                  735.7730560302734
+                ],
+                [
+                  90.07715606689453,
+                  735.7730560302734
+                ]
+              ],
+              "bbox": [
+                90.07715606689453,
+                707.0248565673828,
+                526.38427734375,
+                735.7730560302734
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/0/SectionHeader/3",
+                "2": "/page/1/SectionHeader/1",
+                "3": "/page/1/SectionHeader/9"
+              },
+              "images": {}
+            }
+          ],
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/9"
+          },
+          "images": null
+        },
+        {
+          "id": "/page/1/Text/13",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">As a consequence, EtO used for sterilisation during the manufacturing of medical devices and  IVDs is used for a process that falls within the regulatory obligations imposed by the MDR and</p>",
+          "polygon": [
+            [
+              68.79059368296895,
+              738.1518969922223
+            ],
+            [
+              526.4697606929903,
+              738.1518969922223
+            ],
+            [
+              526.4697606929903,
+              769.1359176635742
+            ],
+            [
+              68.79059368296895,
+              769.1359176635742
+            ]
+          ],
+          "bbox": [
+            68.79059368296895,
+            738.1518969922223,
+            526.4697606929903,
+            769.1359176635742
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/2/Page/94",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/2/PageHeader/1'></content-ref><content-ref src='/page/2/PageHeader/2'></content-ref><content-ref src='/page/2/SectionHeader/0'></content-ref><content-ref src='/page/2/Text/3'></content-ref><content-ref src='/page/2/Text/4'></content-ref><content-ref src='/page/2/SectionHeader/5'></content-ref><content-ref src='/page/2/Text/6'></content-ref><content-ref src='/page/2/Text/7'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/2/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              430.1248047489964,
+              60.93871274083614
+            ],
+            [
+              525.8935479228983,
+              60.93871274083614
+            ],
+            [
+              525.8935479228983,
+              75.6241775064307
+            ],
+            [
+              430.1248047489964,
+              75.6241775064307
+            ]
+          ],
+          "bbox": [
+            430.1248047489964,
+            60.93871274083614,
+            525.8935479228983,
+            75.6241775064307
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.94040236004653,
+              58.875
+            ],
+            [
+              521.435302734375,
+              58.875
+            ],
+            [
+              521.435302734375,
+              77.6605224609375
+            ],
+            [
+              68.94040236004653,
+              77.6605224609375
+            ]
+          ],
+          "bbox": [
+            68.94040236004653,
+            58.875,
+            521.435302734375,
+            77.6605224609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/0",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.86916034227654,
+              33.61846923828125
+            ],
+            [
+              207.20346861101817,
+              33.61846923828125
+            ],
+            [
+              207.20346861101817,
+              61.4339599609375
+            ],
+            [
+              68.86916034227654,
+              61.4339599609375
+            ]
+          ],
+          "bbox": [
+            68.86916034227654,
+            33.61846923828125,
+            207.20346861101817,
+            61.4339599609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/3",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">IVDR. That means that this use of EtO is in scope of the MDR and IVDR even though EtO  does not itself fall under the definitions of medical device or accessory for a medical device if  used during the manufacturing process. Therefore, EtO falls outside the scope of the BPR, as  its Article 2(2)(b) provides that the BPR does not apply in case of biocidal products or treated  articles falling within the scope of the MDR or IVDR.</p>",
+          "polygon": [
+            [
+              69.05832393463673,
+              83.30351515487168
+            ],
+            [
+              527.7409382010587,
+              83.30351515487168
+            ],
+            [
+              527.7409382010587,
+              155.1007080078125
+            ],
+            [
+              69.05832393463673,
+              155.1007080078125
+            ]
+          ],
+          "bbox": [
+            69.05832393463673,
+            83.30351515487168,
+            527.7409382010587,
+            155.1007080078125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Where EtO is used for sterilisation during the manufacturing of medical devices and IVDs, its  use is controlled as part of the sterilisation and validation processes of the manufacturer.  These processes are subject to MDR/IVDR conformity assessment procedure in relation to  the device being sterilised. EtO itself is not subject to additional MDR/IVDR conformity  assessments.</p>",
+          "polygon": [
+            [
+              69.00546510633953,
+              158.62355322765646
+            ],
+            [
+              527.5059082646213,
+              158.62355322765646
+            ],
+            [
+              527.5059082646213,
+              229.3779296875
+            ],
+            [
+              69.00546510633953,
+              229.3779296875
+            ]
+          ],
+          "bbox": [
+            69.00546510633953,
+            158.62355322765646,
+            527.5059082646213,
+            229.3779296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/5",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>2.2. EtO used by health institutions for sterilisation of medical devices before or </b> <b>after their use</b></h3>",
+          "polygon": [
+            [
+              87.40790252301194,
+              238.35896161318036
+            ],
+            [
+              526.9873763307817,
+              238.35896161318036
+            ],
+            [
+              526.9873763307817,
+              274.4542236328125
+            ],
+            [
+              87.40790252301194,
+              274.4542236328125
+            ]
+          ],
+          "bbox": [
+            87.40790252301194,
+            238.35896161318036,
+            526.9873763307817,
+            274.4542236328125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/0",
+            "3": "/page/2/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">EtO and the associated sterilising equipment can also be used by health institutions for  sterilisation before first use of medical devices or after their use to enable their re-use. This is  different from the use described in section 2.1.</p>",
+          "polygon": [
+            [
+              69.12871837856187,
+              281.85220486376824
+            ],
+            [
+              527.7364941652236,
+              281.85220486376824
+            ],
+            [
+              527.7364941652236,
+              326.209716796875
+            ],
+            [
+              69.12871837856187,
+              326.209716796875
+            ]
+          ],
+          "bbox": [
+            69.12871837856187,
+            281.85220486376824,
+            527.7364941652236,
+            326.209716796875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/0",
+            "3": "/page/2/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In this case the EtO cartridges used for the sterilisation are in scope of the MDR by virtue of falling under the definition of medical device, or accessory for a medical device, and therefore  are outside the scope of the BPR as per Article 2(2)(b) BPR.</p>",
+          "polygon": [
+            [
+              69.23077657781259,
+              328.4448238926494
+            ],
+            [
+              528.3267720796599,
+              328.4448238926494
+            ],
+            [
+              528.3267720796599,
+              373.251220703125
+            ],
+            [
+              69.23077657781259,
+              373.251220703125
+            ]
+          ],
+          "bbox": [
+            69.23077657781259,
+            328.4448238926494,
+            528.3267720796599,
+            373.251220703125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/0",
+            "3": "/page/2/SectionHeader/5"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "2": "/page/2/SectionHeader/0",
+        "3": "/page/2/SectionHeader/5"
+      },
+      "images": null
+    }
+  ],
+  "block_type": "Document",
+  "metadata": {
+    "table_of_contents": [
+      {
+        "title": "MDCG 2024-13",
+        "heading_level": null,
+        "page_id": 0,
+        "polygon": [
+          [
+            226.09488168711624,
+            217.383544921875
+          ],
+          [
+            367.0821705392986,
+            217.383544921875
+          ],
+          [
+            367.0821705392986,
+            247.86407470703125
+          ],
+          [
+            226.09488168711624,
+            247.86407470703125
+          ]
+        ]
+      },
+      {
+        "title": "Regulatory status of ethylene oxide (EtO) \nintended for the sterilisation of medical devices",
+        "heading_level": null,
+        "page_id": 0,
+        "polygon": [
+          [
+            77.5875454381371,
+            277.9835205078125
+          ],
+          [
+            517.316879464637,
+            277.9835205078125
+          ],
+          [
+            517.316879464637,
+            337.5040588378906
+          ],
+          [
+            77.5875454381371,
+            337.5040588378906
+          ]
+        ]
+      },
+      {
+        "title": "October 2024",
+        "heading_level": null,
+        "page_id": 0,
+        "polygon": [
+          [
+            69.06654769167191,
+            373.3775634765625
+          ],
+          [
+            162.64751951280107,
+            373.3775634765625
+          ],
+          [
+            162.64751951280107,
+            395.530029296875
+          ],
+          [
+            69.06654769167191,
+            395.530029296875
+          ]
+        ]
+      },
+      {
+        "title": "",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            68.88691357821601,
+            36.83174418638778
+          ],
+          [
+            207.10668484089655,
+            36.83174418638778
+          ],
+          [
+            207.10668484089655,
+            56.646787526240225
+          ],
+          [
+            68.88691357821601,
+            56.646787526240225
+          ]
+        ]
+      },
+      {
+        "title": "1. Introduction",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            87.54607424027373,
+            83.64400739661308
+          ],
+          [
+            172.45762553563344,
+            83.64400739661308
+          ],
+          [
+            172.45762553563344,
+            100.9510498046875
+          ],
+          [
+            87.54607424027373,
+            100.9510498046875
+          ]
+        ]
+      },
+      {
+        "title": "2. Regulatory status of EtO for sterilisation of medical devices",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            69.03253592772207,
+            303.42132410744097
+          ],
+          [
+            399.7691650390625,
+            303.42132410744097
+          ],
+          [
+            399.7691650390625,
+            321.37567138671875
+          ],
+          [
+            69.03253592772207,
+            321.37567138671875
+          ]
+        ]
+      },
+      {
+        "title": "2.1. EtO sterilisation during the manufacturing process",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            86.1479610952382,
+            328.321950829252
+          ],
+          [
+            378.1039750029518,
+            328.321950829252
+          ],
+          [
+            378.1039750029518,
+            346.3371276855469
+          ],
+          [
+            86.1479610952382,
+            346.3371276855469
+          ]
+        ]
+      },
+      {
+        "title": "Medical Devices",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            68.86916034227654,
+            33.61846923828125
+          ],
+          [
+            207.20346861101817,
+            33.61846923828125
+          ],
+          [
+            207.20346861101817,
+            61.4339599609375
+          ],
+          [
+            68.86916034227654,
+            61.4339599609375
+          ]
+        ]
+      },
+      {
+        "title": "2.2. EtO used by health institutions for sterilisation of medical devices before or \nafter their use",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            87.40790252301194,
+            238.35896161318036
+          ],
+          [
+            526.9873763307817,
+            238.35896161318036
+          ],
+          [
+            526.9873763307817,
+            274.4542236328125
+          ],
+          [
+            87.40790252301194,
+            274.4542236328125
+          ]
+        ]
+      }
+    ],
+    "page_stats": [
+      {
+        "page_id": 0,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            29
+          ],
+          [
+            "Line",
+            14
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "SectionHeader",
+            3
+          ],
+          [
+            "Text",
+            2
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 1,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            148
+          ],
+          [
+            "Line",
+            44
+          ],
+          [
+            "Text",
+            6
+          ],
+          [
+            "SectionHeader",
+            4
+          ],
+          [
+            "ListItem",
+            4
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "ListGroup",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 2,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            67
+          ],
+          [
+            "Line",
+            20
+          ],
+          [
+            "Text",
+            4
+          ],
+          [
+            "SectionHeader",
+            2
+          ],
+          [
+            "PageHeader",
+            2
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      }
+    ],
+    "debug_data_path": "debug_data/MDCG_2024-13_en"
+  }
+}

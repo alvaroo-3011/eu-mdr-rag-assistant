@@ -1,0 +1,5 @@
+# Preserve validated corpus sources byte-for-byte.
+# Their manifest SHA-256 values depend on exact file contents.
+/data/rag_ready/** -text
+data/evaluation/runs/** export-ignore
+

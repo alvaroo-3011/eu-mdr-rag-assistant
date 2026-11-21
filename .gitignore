@@ -1,0 +1,26 @@
+# Local Python environment
+.venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+/config/local_app_config.json
+
+# Editor and notebook-generated files
+.vscode/
+.ipynb_checkpoints/
+
+# Original PDFs are not application inputs
+data/pdfs_originals/
+# Generated local retrieval indexes
+data/indexes/
+
+# Logs and OS files
+*.log
+.DS_Store

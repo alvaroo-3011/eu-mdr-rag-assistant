@@ -1,0 +1,6092 @@
+{
+  "children": [
+    {
+      "id": "/page/0/Page/64",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/0/PageHeader/0'></content-ref><content-ref src='/page/0/PageHeader/1'></content-ref><content-ref src='/page/0/PageFooter/8'></content-ref><content-ref src='/page/0/SectionHeader/2'></content-ref><content-ref src='/page/0/Text/3'></content-ref><content-ref src='/page/0/Text/4'></content-ref><content-ref src='/page/0/SectionHeader/5'></content-ref><content-ref src='/page/0/Text/6'></content-ref><content-ref src='/page/0/Text/7'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "children": [
+        {
+          "id": "/page/0/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.43936595388263,
+              34.94341335143771
+            ],
+            [
+              523.5464477539062,
+              34.94341335143771
+            ],
+            [
+              523.5464477539062,
+              75.42840576171875
+            ],
+            [
+              68.43936595388263,
+              75.42840576171875
+            ]
+          ],
+          "bbox": [
+            68.43936595388263,
+            34.94341335143771,
+            523.5464477539062,
+            75.42840576171875
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              416.27883841949387,
+              57.145237549860774
+            ],
+            [
+              527.1440171402708,
+              57.145237549860774
+            ],
+            [
+              527.1440171402708,
+              72.63711445945135
+            ],
+            [
+              416.27883841949387,
+              72.63711445945135
+            ]
+          ],
+          "bbox": [
+            416.27883841949387,
+            57.145237549860774,
+            527.1440171402708,
+            72.63711445945135
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageFooter/8",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              473.97479355665536,
+              771.760319452464
+            ],
+            [
+              527.6875639562343,
+              771.760319452464
+            ],
+            [
+              527.6875639562343,
+              786.2099990844727
+            ],
+            [
+              473.97479355665536,
+              786.2099990844727
+            ]
+          ],
+          "bbox": [
+            473.97479355665536,
+            771.760319452464,
+            527.6875639562343,
+            786.2099990844727
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/SectionHeader/2",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>MDCG 2022-16</b></h1>",
+          "polygon": [
+            [
+              69.64746220586281,
+              196.596492994925
+            ],
+            [
+              241.22542635439623,
+              196.596492994925
+            ],
+            [
+              241.22542635439623,
+              223.94000244140625
+            ],
+            [
+              69.64746220586281,
+              223.94000244140625
+            ]
+          ],
+          "bbox": [
+            69.64746220586281,
+            196.596492994925,
+            241.22542635439623,
+            223.94000244140625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/3",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>Guidance on Authorised Representatives Regulation (EU) </b> <b>2017/745 on medical devices (MDR) and Regulation (EU) </b> <b>2017/746 on in vitro diagnostic medical devices (IVDR)</b></p>",
+          "polygon": [
+            [
+              69.2757838943443,
+              231.60309389544085
+            ],
+            [
+              528.2690912434076,
+              231.60309389544085
+            ],
+            [
+              528.2690912434076,
+              292.097412109375
+            ],
+            [
+              69.2757838943443,
+              292.097412109375
+            ]
+          ],
+          "bbox": [
+            69.2757838943443,
+            231.60309389544085,
+            528.2690912434076,
+            292.097412109375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>October</b> <b>2022</b></p>",
+          "polygon": [
+            [
+              69.1865252055209,
+              345.2297360563745
+            ],
+            [
+              173.07283815628935,
+              345.2297360563745
+            ],
+            [
+              173.07283815628935,
+              365.68157958984375
+            ],
+            [
+              69.1865252055209,
+              365.68157958984375
+            ]
+          ],
+          "bbox": [
+            69.1865252055209,
+            345.2297360563745,
+            173.07283815628935,
+            365.68157958984375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/SectionHeader/5",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              69.1865252055209,
+              345.2297360563745
+            ],
+            [
+              173.07283815628935,
+              345.2297360563745
+            ],
+            [
+              173.07283815628935,
+              363.21941970186583
+            ],
+            [
+              69.1865252055209,
+              363.21941970186583
+            ]
+          ],
+          "bbox": [
+            69.1865252055209,
+            345.2297360563745,
+            173.07283815628935,
+            363.21941970186583
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">This document has been endorsed by the Medical Device Coordination Group  (MDCG) established by Article 103 of Regulation (EU) 2017/745. The MDCG is  composed of representatives of all Member States and it is chaired by a representative  of the European Commission.</p>",
+          "polygon": [
+            [
+              69.169482099019,
+              488.53747085747926
+            ],
+            [
+              527.4421798744489,
+              488.53747085747926
+            ],
+            [
+              527.4421798744489,
+              550.2999877929688
+            ],
+            [
+              69.169482099019,
+              550.2999877929688
+            ]
+          ],
+          "bbox": [
+            69.169482099019,
+            488.53747085747926,
+            527.4421798744489,
+            550.2999877929688
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The document is not a European Commission document and it cannot be regarded as  reflecting the official position of the European Commission. Any views expressed in  this document are not legally binding and only the Court of Justice of the European  Union can give binding interpretations of Union law.</p>",
+          "polygon": [
+            [
+              68.80556939651143,
+              555.7386005024557
+            ],
+            [
+              527.4564282780029,
+              555.7386005024557
+            ],
+            [
+              527.4564282780029,
+              617.9680023193359
+            ],
+            [
+              68.80556939651143,
+              617.9680023193359
+            ]
+          ],
+          "bbox": [
+            68.80556939651143,
+            555.7386005024557,
+            527.4564282780029,
+            617.9680023193359
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/1/Page/237",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/1/PageHeader/0'></content-ref><content-ref src='/page/1/PageHeader/1'></content-ref><content-ref src='/page/1/PageHeader/2'></content-ref><content-ref src='/page/1/PageFooter/12'></content-ref><content-ref src='/page/1/SectionHeader/3'></content-ref><content-ref src='/page/1/Text/4'></content-ref><content-ref src='/page/1/SectionHeader/5'></content-ref><content-ref src='/page/1/Text/6'></content-ref><content-ref src='/page/1/Text/7'></content-ref><content-ref src='/page/1/SectionHeader/8'></content-ref><content-ref src='/page/1/Text/237'></content-ref><content-ref src='/page/1/Footnote/10'></content-ref><content-ref src='/page/1/Footnote/11'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "children": [
+        {
+          "id": "/page/1/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.66822807254358,
+              34.6051139831543
+            ],
+            [
+              304.44110107421875,
+              34.6051139831543
+            ],
+            [
+              304.44110107421875,
+              59.28839111328125
+            ],
+            [
+              68.66822807254358,
+              59.28839111328125
+            ]
+          ],
+          "bbox": [
+            68.66822807254358,
+            34.6051139831543,
+            304.44110107421875,
+            59.28839111328125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              416.172319003857,
+              56.96877287459607
+            ],
+            [
+              527.3305292009406,
+              56.96877287459607
+            ],
+            [
+              527.3305292009406,
+              72.39318406061732
+            ],
+            [
+              416.172319003857,
+              72.39318406061732
+            ]
+          ],
+          "bbox": [
+            416.172319003857,
+            56.96877287459607,
+            527.3305292009406,
+            72.39318406061732
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.26516089451403,
+              58.02056808675493
+            ],
+            [
+              523.5464477539062,
+              58.02056808675493
+            ],
+            [
+              523.5464477539062,
+              75.42840576171875
+            ],
+            [
+              68.26516089451403,
+              75.42840576171875
+            ]
+          ],
+          "bbox": [
+            68.26516089451403,
+            58.02056808675493,
+            523.5464477539062,
+            75.42840576171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageFooter/12",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              473.0442032898103,
+              770.9060132509878
+            ],
+            [
+              526.7638000949504,
+              770.9060132509878
+            ],
+            [
+              526.7638000949504,
+              786.2099990844727
+            ],
+            [
+              473.0442032898103,
+              786.2099990844727
+            ]
+          ],
+          "bbox": [
+            473.0442032898103,
+            770.9060132509878,
+            526.7638000949504,
+            786.2099990844727
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/3",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>1.</b> <b>Introduction </b></h1>",
+          "polygon": [
+            [
+              87.09893322231187,
+              83.68333808715494
+            ],
+            [
+              175.25360107421875,
+              83.68333808715494
+            ],
+            [
+              175.25360107421875,
+              100.37841796875
+            ],
+            [
+              87.09893322231187,
+              100.37841796875
+            ]
+          ],
+          "bbox": [
+            87.09893322231187,
+            83.68333808715494,
+            175.25360107421875,
+            100.37841796875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/1/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Where the manufacturer of a device is not established in a Member State, the device may only  be placed on the Union market<sup>1</sup> if the manufacturer designates a sole authorised  representative. The term 'device' will be understood to include medical devices, accessories  for medical devices, products listed in Annex XVI of the MDR, <i>in vitro</i> diagnostic medical  devices, accessories for <i>in vitro</i> diagnostic medical devices and also, custom-made devices 2 . For manufacturers who are not established in the Union the authorised representative plays a  pivotal role in ensuring the compliance of the devices produced by those manufacturers and  in serving as their contact person established in the Union. Article 11 of the Regulation (EU)  2017/745 on medical devices (MDR) and Regulation (EU) 2017/746 on <i>in vitro</i> diagnostic  medical devices (IVDR) outlines the obligations of and introduces enhanced responsibility for the authorised representative. References to 'the Regulations' should be understood to cover  both the MDR and IVDR.</p>",
+          "polygon": [
+            [
+              68.7646453242458,
+              114.12767538340731
+            ],
+            [
+              527.4210592505314,
+              114.12767538340731
+            ],
+            [
+              527.4210592505314,
+              289.6484375
+            ],
+            [
+              68.7646453242458,
+              289.6484375
+            ]
+          ],
+          "bbox": [
+            68.7646453242458,
+            114.12767538340731,
+            527.4210592505314,
+            289.6484375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/1/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/5",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>2.</b> <b>Scope</b></h3>",
+          "polygon": [
+            [
+              87.14463921458054,
+              311.3144533695754
+            ],
+            [
+              141.68085623868467,
+              311.3144533695754
+            ],
+            [
+              141.68085623868467,
+              326.7283935546875
+            ],
+            [
+              87.14463921458054,
+              326.7283935546875
+            ]
+          ],
+          "bbox": [
+            87.14463921458054,
+            311.3144533695754,
+            141.68085623868467,
+            326.7283935546875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/1/SectionHeader/3",
+            "3": "/page/1/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">This guidance document is written for authorised representatives, manufacturers and other  economic operators, and intends to provide guidance on relevant requirements under the  Regulations. Where clarification is already covered by other MDCG guidances, this guidance  on authorised representatives includes a reference.</p>",
+          "polygon": [
+            [
+              68.99743606221466,
+              335.0473142302896
+            ],
+            [
+              527.7550491602054,
+              335.0473142302896
+            ],
+            [
+              527.7550491602054,
+              394.90838623046875
+            ],
+            [
+              68.99743606221466,
+              394.90838623046875
+            ]
+          ],
+          "bbox": [
+            68.99743606221466,
+            335.0473142302896,
+            527.7550491602054,
+            394.90838623046875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/1/SectionHeader/3",
+            "3": "/page/1/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The requirement to have an authorised representative is not applicable to devices intended  for clinical investigation (MDR) or performance study (IVDR). To this end, Article 62(2) MDR  and Article 58(4) IVDR state that 'where the sponsor of a clinical investigation or performance  study is not established in the Union, that sponsor shall ensure that a natural or legal person  is established in the Union as its legal representative'. As the legal representative is not  defined as the authorised representative, these requirements are not further included in this  guidance.</p>",
+          "polygon": [
+            [
+              68.97689957702791,
+              401.03884874107786
+            ],
+            [
+              527.2210776379486,
+              401.03884874107786
+            ],
+            [
+              527.2210776379486,
+              504.8077697753906
+            ],
+            [
+              68.97689957702791,
+              504.8077697753906
+            ]
+          ],
+          "bbox": [
+            68.97689957702791,
+            401.03884874107786,
+            527.2210776379486,
+            504.8077697753906
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/1/SectionHeader/3",
+            "3": "/page/1/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/8",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>3.</b> <b>Definitions </b></h1>",
+          "polygon": [
+            [
+              86.847736387469,
+              525.5286178249179
+            ],
+            [
+              167.92303466796875,
+              525.5286178249179
+            ],
+            [
+              167.92303466796875,
+              541.6683959960938
+            ],
+            [
+              86.847736387469,
+              541.6683959960938
+            ]
+          ],
+          "bbox": [
+            86.847736387469,
+            525.5286178249179,
+            167.92303466796875,
+            541.6683959960938
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/1/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/237",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> <b>Economic operator</b>: a manufacturer, an authorised representative, an importer, a  distributor or the person referred to in Article 22(1) and 22(3) MDR (Article 2(35) MDR) and a manufacturer, an authorised representative, an importer or a distributor (Article 2(28)  IVDR).  <b>Manufacturer</b>: a natural or legal person who manufactures or fully refurbishes a device or  has a device designed, manufactured or fully refurbished, and markets that device under  its name or trademark (Article 2(30) MDR and Article 2(23) IVDR).</p>",
+          "polygon": [
+            [
+              69.59191748477349,
+              549.0487039350338
+            ],
+            [
+              526.929558050122,
+              549.0487039350338
+            ],
+            [
+              526.929558050122,
+              653.1784057617188
+            ],
+            [
+              69.59191748477349,
+              653.1784057617188
+            ]
+          ],
+          "bbox": [
+            69.59191748477349,
+            549.0487039350338,
+            526.929558050122,
+            653.1784057617188
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/1/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/10",
+          "block_type": "Footnote",
+          "html": "<p><sup> </sup> <sup>1</sup> The 'Union market' refers to the territories of the European Union Member States, and due to the European  Economic Area (EEA) is extended to Norway, Lichtenstein and Iceland, and via the<a href=\"https://ec.europa.eu/taxation_customs/turkey-customs-unions-and-preferential-arrangements_en\"> Customs Union Agreement</a> to  Turkey. For Turkey, please see also the<a href=\"https://ec.europa.eu/health/system/files/2022-04/md_eu-turkey_customs-union_en.pdf\"> 'Notice to stakeholders</a> EU-Turkey Customs Union Agreement in the field  of medical devices' on the Commission website.</p>",
+          "polygon": [
+            [
+              69.28250148974978,
+              667.375
+            ],
+            [
+              527.3216869440727,
+              667.375
+            ],
+            [
+              527.3216869440727,
+              717.4499969482422
+            ],
+            [
+              69.28250148974978,
+              717.4499969482422
+            ]
+          ],
+          "bbox": [
+            69.28250148974978,
+            667.375,
+            527.3216869440727,
+            717.4499969482422
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/1/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/11",
+          "block_type": "Footnote",
+          "html": "<p><sup>2</sup> Please note there are specific requirements applying to custom-made devices outlined in Annex XIII MDR  'Procedure for Custom-Made Devices' and as such, some of the authorised representative obligations elaborated  in this guidance may not be applicable for custom-made devices.<a href=\"https://health.ec.europa.eu/system/files/2021-03/mdcg_2021-3_en_0.pdf\"> MDCG 2021-3</a> 'Questions and Answers on  Custom-Made Devices &amp; considerations on Adaptable medical devices and Patient-matched medical devices' may  also be consulted for information on obligations relating to custom-made devices.</p>",
+          "polygon": [
+            [
+              69.23495145168353,
+              714.0384332346046
+            ],
+            [
+              527.1045247805808,
+              714.0384332346046
+            ],
+            [
+              527.1045247805808,
+              771.0510025024414
+            ],
+            [
+              69.23495145168353,
+              771.0510025024414
+            ]
+          ],
+          "bbox": [
+            69.23495145168353,
+            714.0384332346046,
+            527.1045247805808,
+            771.0510025024414
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/1/SectionHeader/8"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/8"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/2/Page/220",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/2/PageHeader/0'></content-ref><content-ref src='/page/2/PageHeader/2'></content-ref><content-ref src='/page/2/PageHeader/3'></content-ref><content-ref src='/page/2/SectionHeader/1'></content-ref><content-ref src='/page/2/PageFooter/12'></content-ref><content-ref src='/page/2/Text/220'></content-ref><content-ref src='/page/2/SectionHeader/5'></content-ref><content-ref src='/page/2/Text/6'></content-ref><content-ref src='/page/2/Text/7'></content-ref><content-ref src='/page/2/Text/8'></content-ref><content-ref src='/page/2/Text/9'></content-ref><content-ref src='/page/2/Text/10'></content-ref><content-ref src='/page/2/Footnote/11'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "children": [
+        {
+          "id": "/page/2/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.73570182281416,
+              34.548644370727
+            ],
+            [
+              304.44110107421875,
+              34.548644370727
+            ],
+            [
+              304.44110107421875,
+              59.28839111328125
+            ],
+            [
+              68.73570182281416,
+              59.28839111328125
+            ]
+          ],
+          "bbox": [
+            68.73570182281416,
+            34.548644370727,
+            304.44110107421875,
+            59.28839111328125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/1/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              416.24695131700645,
+              57.059628242907095
+            ],
+            [
+              527.3013909865987,
+              57.059628242907095
+            ],
+            [
+              527.3013909865987,
+              72.57217440515996
+            ],
+            [
+              416.24695131700645,
+              72.57217440515996
+            ]
+          ],
+          "bbox": [
+            416.24695131700645,
+            57.059628242907095,
+            527.3013909865987,
+            72.57217440515996
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/1/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/PageHeader/3",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.5814548367517,
+              58.01421096000094
+            ],
+            [
+              523.5464477539062,
+              58.01421096000094
+            ],
+            [
+              523.5464477539062,
+              75.42840576171875
+            ],
+            [
+              68.5814548367517,
+              75.42840576171875
+            ]
+          ],
+          "bbox": [
+            68.5814548367517,
+            58.01421096000094,
+            523.5464477539062,
+            75.42840576171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/1/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/1",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.73570182281416,
+              34.548644370727
+            ],
+            [
+              226.97239550535264,
+              34.548644370727
+            ],
+            [
+              226.97239550535264,
+              56.10977614446081
+            ],
+            [
+              68.73570182281416,
+              56.10977614446081
+            ]
+          ],
+          "bbox": [
+            68.73570182281416,
+            34.548644370727,
+            226.97239550535264,
+            56.10977614446081
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/1/SectionHeader/8",
+            "2": "/page/2/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/PageFooter/12",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              473.1429341890349,
+              771.1397722470155
+            ],
+            [
+              527.3012077273889,
+              771.1397722470155
+            ],
+            [
+              527.3012077273889,
+              786.2099990844727
+            ],
+            [
+              473.1429341890349,
+              786.2099990844727
+            ]
+          ],
+          "bbox": [
+            473.1429341890349,
+            771.1397722470155,
+            527.3012077273889,
+            786.2099990844727
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/1/SectionHeader/8",
+            "2": "/page/2/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/220",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> <b>Authorised representative</b>: any natural or legal person established within the Union who  has received and accepted a written mandate from a manufacturer, located outside the  Union, to act on the manufacturer's behalf in relation to specified tasks with regard to the  latter's obligations under this regulation (Article 2(32) MDR and Article 2(25) IVDR).   <b>Importer</b>: any natural or legal person established within the Union that places a device  from a third country on the Union market (Article 2(33) MDR and Article 2(26) IVDR).  <b>Distributor</b>: any natural or legal person in the supply chain, other than the manufacturer  or the importer, that makes a device available on the market, up until the point of putting  into service (Article 2(34) MDR and Article 2(27) IVDR).   <b>Generic device group</b>: a set of devices having the same or similar intended purposes or  a commonality of technology allowing them to be classified in a generic manner not reflecting specific characteristics (Article 2(7) MDR and Article 2(8) IVDR).</p>",
+          "polygon": [
+            [
+              69.96902485037931,
+              84.92963274227968
+            ],
+            [
+              528.273352020033,
+              84.92963274227968
+            ],
+            [
+              528.273352020033,
+              263.707763671875
+            ],
+            [
+              69.96902485037931,
+              263.707763671875
+            ]
+          ],
+          "bbox": [
+            69.96902485037931,
+            84.92963274227968,
+            528.273352020033,
+            263.707763671875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/1/SectionHeader/8",
+            "2": "/page/2/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/5",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>4.</b> <b>Designation and mandate</b></h1>",
+          "polygon": [
+            [
+              86.71215893339449,
+              286.5525626830511
+            ],
+            [
+              242.80892337059194,
+              286.5525626830511
+            ],
+            [
+              242.80892337059194,
+              302.55462646484375
+            ],
+            [
+              86.71215893339449,
+              302.55462646484375
+            ]
+          ],
+          "bbox": [
+            86.71215893339449,
+            286.5525626830511,
+            242.80892337059194,
+            302.55462646484375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Where a manufacturer of a device is not established in a Member State, the device may only  be placed on the Union market if the manufacturer designates a sole authorised representative  (Article 11(1) MDR and IVDR).</p>",
+          "polygon": [
+            [
+              68.9268125442774,
+              315.1074473651944
+            ],
+            [
+              527.0736456037469,
+              315.1074473651944
+            ],
+            [
+              527.0736456037469,
+              360.8083801269531
+            ],
+            [
+              68.9268125442774,
+              360.8083801269531
+            ]
+          ],
+          "bbox": [
+            68.9268125442774,
+            315.1074473651944,
+            527.0736456037469,
+            360.8083801269531
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">As regards its portfolio of devices therefore, a manufacturer can have more than one  authorised representative if the devices fall under different generic device groups (as defined  in Article 2(7) MDR and Article 2(8) IVDR.<sup>3</sup> ). However, for one specific generic device group, the manufacturer should designate only one authorised representative (i.e. a 'sole' authorised  representative').</p>",
+          "polygon": [
+            [
+              68.94230367434714,
+              373.70448657857025
+            ],
+            [
+              527.4586273885193,
+              373.70448657857025
+            ],
+            [
+              527.4586273885193,
+              448.0683898925781
+            ],
+            [
+              68.94230367434714,
+              448.0683898925781
+            ]
+          ],
+          "bbox": [
+            68.94230367434714,
+            373.70448657857025,
+            527.4586273885193,
+            448.0683898925781
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Article 11(2) of the Regulations provide that 'the designation shall constitute the authorised  representative's mandate, it shall be valid only when accepted in writing by the authorised  representative and shall be effective at least for all devices of the same generic device group'.</p>",
+          "polygon": [
+            [
+              69.34403076940579,
+              460.71135344127407
+            ],
+            [
+              527.2050424571001,
+              460.71135344127407
+            ],
+            [
+              527.2050424571001,
+              506.3677673339844
+            ],
+            [
+              69.34403076940579,
+              506.3677673339844
+            ]
+          ],
+          "bbox": [
+            69.34403076940579,
+            460.71135344127407,
+            527.2050424571001,
+            506.3677673339844
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The manufacturer and the authorised representative are free to configure the structure of their  contractual relationship as they see appropriate, as long as there is a written mandate that  meets the minimum requirements of Article 11(3) of the Regulations and the content of which  is agreed between the parties. A mandate should be drawn up irrespective of whether the  authorised representative is independent/outside of, or is part of the same larger organization  as the manufacturer.</p>",
+          "polygon": [
+            [
+              69.09192909221505,
+              519.5368368636256
+            ],
+            [
+              527.1200101838003,
+              519.5368368636256
+            ],
+            [
+              527.1200101838003,
+              608.0584106445312
+            ],
+            [
+              69.09192909221505,
+              608.0584106445312
+            ]
+          ],
+          "bbox": [
+            69.09192909221505,
+            519.5368368636256,
+            527.1200101838003,
+            608.0584106445312
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Article 11(3) of the Regulations requires the authorised representative to perform the tasks  specified in the mandate agreed between the authorised representative and the manufacturer. Upon request, the authorised representative has to provide a copy of the mandate to the  competent authority. Article 11(3) of the Regulations describes the minimum tasks that the  mandate (in relation to the devices that it covers) should comprise and which the manufacturer  should enable the authorised representative to perform. The mandate may however also</p>",
+          "polygon": [
+            [
+              69.10550172743328,
+              620.7942055951031
+            ],
+            [
+              527.5952929441514,
+              620.7942055951031
+            ],
+            [
+              527.5952929441514,
+              709.9915161132812
+            ],
+            [
+              69.10550172743328,
+              709.9915161132812
+            ]
+          ],
+          "bbox": [
+            69.10550172743328,
+            620.7942055951031,
+            527.5952929441514,
+            709.9915161132812
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Footnote/11",
+          "block_type": "Footnote",
+          "html": "<p><sup> </sup> 3 If applicable, the manufacturer may take into account<a href=\"https://ec.europa.eu/docsroom/documents/38669\"> 'MDCG 2019-13</a> Guidance on sampling of MDR Class IIa /  Class IIb and IVDR Class B / Class C devices for the assessment of the technical documentation', which elaborates  on the term 'generic device group' in that context.</p>",
+          "polygon": [
+            [
+              69.42605644629644,
+              723.3149948120117
+            ],
+            [
+              528.1281190963476,
+              723.3149948120117
+            ],
+            [
+              528.1281190963476,
+              763.0500030517578
+            ],
+            [
+              69.42605644629644,
+              763.0500030517578
+            ]
+          ],
+          "bbox": [
+            69.42605644629644,
+            723.3149948120117,
+            528.1281190963476,
+            763.0500030517578
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/5"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/5"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/3/Page/224",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/3/PageHeader/1'></content-ref><content-ref src='/page/3/PageHeader/2'></content-ref><content-ref src='/page/3/PageHeader/3'></content-ref><content-ref src='/page/3/SectionHeader/0'></content-ref><content-ref src='/page/3/PageFooter/16'></content-ref><content-ref src='/page/3/Text/4'></content-ref><content-ref src='/page/3/Text/5'></content-ref><content-ref src='/page/3/Text/6'></content-ref><content-ref src='/page/3/Text/7'></content-ref><content-ref src='/page/3/SectionHeader/8'></content-ref><content-ref src='/page/3/SectionHeader/9'></content-ref><content-ref src='/page/3/Text/11'></content-ref><content-ref src='/page/3/Text/12'></content-ref><content-ref src='/page/3/Text/224'></content-ref><content-ref src='/page/3/Footnote/14'></content-ref><content-ref src='/page/3/Footnote/15'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "children": [
+        {
+          "id": "/page/3/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.66692807752479,
+              34.46989045181342
+            ],
+            [
+              227.13403012830602,
+              34.46989045181342
+            ],
+            [
+              227.13403012830602,
+              55.98799421356283
+            ],
+            [
+              68.66692807752479,
+              55.98799421356283
+            ]
+          ],
+          "bbox": [
+            68.66692807752479,
+            34.46989045181342,
+            227.13403012830602,
+            55.98799421356283
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              416.141119123406,
+              56.99924699302667
+            ],
+            [
+              527.2884253975126,
+              56.99924699302667
+            ],
+            [
+              527.2884253975126,
+              72.32318694062883
+            ],
+            [
+              416.141119123406,
+              72.32318694062883
+            ]
+          ],
+          "bbox": [
+            416.141119123406,
+            56.99924699302667,
+            527.2884253975126,
+            72.32318694062883
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/PageHeader/3",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.70695876114314,
+              57.63498257699017
+            ],
+            [
+              523.5464477539062,
+              57.63498257699017
+            ],
+            [
+              523.5464477539062,
+              75.42840576171875
+            ],
+            [
+              68.70695876114314,
+              75.42840576171875
+            ]
+          ],
+          "bbox": [
+            68.70695876114314,
+            57.63498257699017,
+            523.5464477539062,
+            75.42840576171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/SectionHeader/0",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.66692807752479,
+              34.46989045181342
+            ],
+            [
+              304.44110107421875,
+              34.46989045181342
+            ],
+            [
+              304.44110107421875,
+              59.28839111328125
+            ],
+            [
+              68.66692807752479,
+              59.28839111328125
+            ]
+          ],
+          "bbox": [
+            68.66692807752479,
+            34.46989045181342,
+            304.44110107421875,
+            59.28839111328125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/PageFooter/16",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              473.74599443334773,
+              771.3945154884725
+            ],
+            [
+              526.7091888504605,
+              771.3945154884725
+            ],
+            [
+              526.7091888504605,
+              786.2099990844727
+            ],
+            [
+              473.74599443334773,
+              786.2099990844727
+            ]
+          ],
+          "bbox": [
+            473.74599443334773,
+            771.3945154884725,
+            526.7091888504605,
+            786.2099990844727
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">contain additional agreed tasks between the parties. The manufacturer could for instance  mandate the authorised representative to lodge, on its behalf, an application for conformity assessment according to annex IX, X, XI MDR/IVDR with a notified body at the pre-market  stage.</p>",
+          "polygon": [
+            [
+              68.8827616117463,
+              83.88601016064149
+            ],
+            [
+              528.1797981934824,
+              83.88601016064149
+            ],
+            [
+              528.1797981934824,
+              144.27777099609375
+            ],
+            [
+              68.8827616117463,
+              144.27777099609375
+            ]
+          ],
+          "bbox": [
+            68.8827616117463,
+            83.88601016064149,
+            528.1797981934824,
+            144.27777099609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Article 11(4) of the Regulations specifies however that 'The mandate shall not delegate the  manufacturer's obligations laid down in Article 10(1), (2), (3), (4), (6), (7), (9), (10), (11),(12)'  for the MDR' and Article 10(1), (2), (3), (4), (5), (6), (8), (9), (10) and (11) for the IVDR respectively. Whilst the manufacturer therefore can not delegate its responsibility for these  tasks, the authorised representative is not prevented from assisting in the performance of  those tasks.</p>",
+          "polygon": [
+            [
+              68.87405679928565,
+              158.0344255537405
+            ],
+            [
+              527.3195794631612,
+              158.0344255537405
+            ],
+            [
+              527.3195794631612,
+              245.96844482421875
+            ],
+            [
+              68.87405679928565,
+              245.96844482421875
+            ]
+          ],
+          "bbox": [
+            68.87405679928565,
+            158.0344255537405,
+            527.3195794631612,
+            245.96844482421875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Importers should verify that the authorised representative in accordance with Article 11 has  been designated by the manufacturer (Article 13(2)(b) MDR and IVDR).</p>",
+          "polygon": [
+            [
+              69.26992532648427,
+              259.4795872458155
+            ],
+            [
+              526.9903084781367,
+              259.4795872458155
+            ],
+            [
+              526.9903084781367,
+              289.747802734375
+            ],
+            [
+              69.26992532648427,
+              289.747802734375
+            ]
+          ],
+          "bbox": [
+            69.26992532648427,
+            259.4795872458155,
+            526.9903084781367,
+            289.747802734375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">To verify this, a check that the authorised representative's name appears on relevant  documentation such as the EU declaration of conformity, any relevant certificate and device  labelling could be performed. Moreover, the designation could be verified using the EUDAMED  database, or by contacting the manufacturer or the authorised representative directly to  confirm that a designation has taken place. In the latter case, a letter of designation issued by  a manufacturer or a copy of it made available by the authorised representative could also be  used in order to confirm to third parties that a designation has taken place.<sup>4</sup></p>",
+          "polygon": [
+            [
+              68.84515911265645,
+              302.90474211097506
+            ],
+            [
+              528.0809756646529,
+              302.90474211097506
+            ],
+            [
+              528.0809756646529,
+              406.0477600097656
+            ],
+            [
+              68.84515911265645,
+              406.0477600097656
+            ]
+          ],
+          "bbox": [
+            68.84515911265645,
+            302.90474211097506,
+            528.0809756646529,
+            406.0477600097656
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/SectionHeader/8",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>5.</b> <b>Registration</b> <b>&amp; verification obligations</b></h1>",
+          "polygon": [
+            [
+              86.97155661787133,
+              418.1645587707139
+            ],
+            [
+              307.65047579748506,
+              418.1645587707139
+            ],
+            [
+              307.65047579748506,
+              435.0546569824219
+            ],
+            [
+              86.97155661787133,
+              435.0546569824219
+            ]
+          ],
+          "bbox": [
+            86.97155661787133,
+            418.1645587707139,
+            307.65047579748506,
+            435.0546569824219
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/SectionHeader/9",
+          "block_type": "SectionHeader",
+          "html": "<h1>a) The authorised representatives' own obligations</h1>",
+          "polygon": [
+            [
+              87.61160086144127,
+              447.6864139764094
+            ],
+            [
+              342.32027775454577,
+              447.6864139764094
+            ],
+            [
+              342.32027775454577,
+              464.24774169921875
+            ],
+            [
+              87.61160086144127,
+              464.24774169921875
+            ]
+          ],
+          "bbox": [
+            87.61160086144127,
+            447.6864139764094,
+            342.32027775454577,
+            464.24774169921875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/11",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Article 11(3)(c) of the Regulations states that the authorised representative should comply with  the registration obligations laid down in Article 31 MDR and Article 28 IVDR. This means the  authorised representative must register its details in EUDAMED<sup>5</sup> providing in particular the  information referred to in Section 1 of Part A of Annex VI of the Regulations.</p>",
+          "polygon": [
+            [
+              68.63616916454708,
+              477.2565604368704
+            ],
+            [
+              527.7708552670418,
+              477.2565604368704
+            ],
+            [
+              527.7708552670418,
+              536.9677429199219
+            ],
+            [
+              68.63616916454708,
+              536.9677429199219
+            ]
+          ],
+          "bbox": [
+            68.63616916454708,
+            477.2565604368704,
+            527.7708552670418,
+            536.9677429199219
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/12",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In addition to registration, the authorised representative must verify that:</p>",
+          "polygon": [
+            [
+              68.88455411589115,
+              550.0478839008063
+            ],
+            [
+              423.3585540233391,
+              550.0478839008063
+            ],
+            [
+              423.3585540233391,
+              566.1577453613281
+            ],
+            [
+              68.88455411589115,
+              566.1577453613281
+            ]
+          ],
+          "bbox": [
+            68.88455411589115,
+            550.0478839008063,
+            423.3585540233391,
+            566.1577453613281
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/224",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> its own registered information is updated within one week of any change occurring  (MDR Article 31(4)/IVDR Article 28(4))  the accuracy of the data it has submitted at intervals defined in Article 31(5)  MDR/Article 28(5) IVDR, namely not later than one year after initial submission of the  information, and every second year thereafter.</p>",
+          "polygon": [
+            [
+              87.38955369464095,
+              579.8529347855389
+            ],
+            [
+              527.32182438848,
+              579.8529347855389
+            ],
+            [
+              527.32182438848,
+              654.8915100097656
+            ],
+            [
+              87.38955369464095,
+              654.8915100097656
+            ]
+          ],
+          "bbox": [
+            87.38955369464095,
+            579.8529347855389,
+            527.32182438848,
+            654.8915100097656
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Footnote/14",
+          "block_type": "Footnote",
+          "html": "<p><sup> </sup> <sup>4</sup> See also<a href=\"https://ec.europa.eu/health/system/files/2021-12/mdcg_2021-27_en.pdf\"> MDGC 2021-27</a> 'Questions and Answers on Articles 13 &amp; 14 of Regulation (EU) 2017/745 and  Regulation (EU) 2017/746' for further information on the obligations of importers.</p>",
+          "polygon": [
+            [
+              69.3024137482535,
+              689.9350128173828
+            ],
+            [
+              526.0962326088239,
+              689.9350128173828
+            ],
+            [
+              526.0962326088239,
+              719.25
+            ],
+            [
+              69.3024137482535,
+              719.25
+            ]
+          ],
+          "bbox": [
+            69.3024137482535,
+            689.9350128173828,
+            526.0962326088239,
+            719.25
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Footnote/15",
+          "block_type": "Footnote",
+          "html": "<p><sup>5</sup> Prior to the full functionality of EUDAMED, reference should be made to<a href=\"https://health.ec.europa.eu/system/files/2021-05/2021-1_guidance-administrative-practices_en_0.pdf\"> 'MDCG 2021-1</a> Guidance on harmonised  administrative practices and alternative technical solutions until EUDAMED is fully functional' for the MDR, and  <a href=\"https://health.ec.europa.eu/document/download/c9008091-8ad7-4449-af75-f4f5a6abc761_en?filename=md_mdcg_2022-12_guidance-admpractice_techsol_eudamed_en_0.pdf\">MDCG 2022-12</a> 'Guidance on harmonised administrative practices and alternative technical solutions until  Eudamed is fully functional (for Regulation (EU) 2017/746 on in vitro diagnostic medical devices)'.</p>",
+          "polygon": [
+            [
+              69.07715381843316,
+              714.7504772481808
+            ],
+            [
+              527.2106776777983,
+              714.7504772481808
+            ],
+            [
+              527.2106776777983,
+              760.6500015258789
+            ],
+            [
+              69.07715381843316,
+              760.6500015258789
+            ]
+          ],
+          "bbox": [
+            69.07715381843316,
+            714.7504772481808,
+            527.2106776777983,
+            760.6500015258789
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/9"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/4/Page/219",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/4/PageHeader/0'></content-ref><content-ref src='/page/4/PageHeader/1'></content-ref><content-ref src='/page/4/PageHeader/2'></content-ref><content-ref src='/page/4/PageFooter/14'></content-ref><content-ref src='/page/4/Text/3'></content-ref><content-ref src='/page/4/SectionHeader/4'></content-ref><content-ref src='/page/4/Text/5'></content-ref><content-ref src='/page/4/Text/6'></content-ref><content-ref src='/page/4/Text/7'></content-ref><content-ref src='/page/4/SectionHeader/8'></content-ref><content-ref src='/page/4/Text/9'></content-ref><content-ref src='/page/4/Text/10'></content-ref><content-ref src='/page/4/Text/11'></content-ref><content-ref src='/page/4/Text/12'></content-ref><content-ref src='/page/4/Footnote/13'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "children": [
+        {
+          "id": "/page/4/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.66435099488842,
+              34.480468481646405
+            ],
+            [
+              304.44110107421875,
+              34.480468481646405
+            ],
+            [
+              304.44110107421875,
+              59.28839111328125
+            ],
+            [
+              68.66435099488842,
+              59.28839111328125
+            ]
+          ],
+          "bbox": [
+            68.66435099488842,
+            34.480468481646405,
+            304.44110107421875,
+            59.28839111328125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              416.07894843651604,
+              57.00779188772662
+            ],
+            [
+              527.5129179293923,
+              57.00779188772662
+            ],
+            [
+              527.5129179293923,
+              72.51522371287018
+            ],
+            [
+              416.07894843651604,
+              72.51522371287018
+            ]
+          ],
+          "bbox": [
+            416.07894843651604,
+            57.00779188772662,
+            527.5129179293923,
+            72.51522371287018
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.44872362727783,
+              57.84730488343209
+            ],
+            [
+              523.5464477539062,
+              57.84730488343209
+            ],
+            [
+              523.5464477539062,
+              75.42840576171875
+            ],
+            [
+              68.44872362727783,
+              75.42840576171875
+            ]
+          ],
+          "bbox": [
+            68.44872362727783,
+            57.84730488343209,
+            523.5464477539062,
+            75.42840576171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/PageFooter/14",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              473.19607935984726,
+              771.03650043654
+            ],
+            [
+              527.0279682457297,
+              771.03650043654
+            ],
+            [
+              527.0279682457297,
+              786.2099990844727
+            ],
+            [
+              473.19607935984726,
+              786.2099990844727
+            ]
+          ],
+          "bbox": [
+            473.19607935984726,
+            771.03650043654,
+            527.0279682457297,
+            786.2099990844727
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/3",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Further information on registration procedures for economic operators and management of  mandates for authorised representatives in EUDAMED, including termination of a mandate, is  provided in the 'EUDAMED: Economic Operator user guide'<sup>6</sup> .</p>",
+          "polygon": [
+            [
+              68.61601065148034,
+              84.02657711474043
+            ],
+            [
+              527.2840729912823,
+              84.02657711474043
+            ],
+            [
+              527.2840729912823,
+              129.53839111328125
+            ],
+            [
+              68.61601065148034,
+              129.53839111328125
+            ]
+          ],
+          "bbox": [
+            68.61601065148034,
+            84.02657711474043,
+            527.2840729912823,
+            129.53839111328125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/SectionHeader/4",
+          "block_type": "SectionHeader",
+          "html": "<h3>b) The authorised representative's verification obligations toward the manufacturer</h3>",
+          "polygon": [
+            [
+              86.30309574309764,
+              143.38343615374816
+            ],
+            [
+              498.77130126953125,
+              143.38343615374816
+            ],
+            [
+              498.77130126953125,
+              158.79779052734375
+            ],
+            [
+              86.30309574309764,
+              158.79779052734375
+            ]
+          ],
+          "bbox": [
+            86.30309574309764,
+            143.38343615374816,
+            498.77130126953125,
+            158.79779052734375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/9",
+            "3": "/page/4/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"></p>",
+          "polygon": [
+            [
+              86.30309574309764,
+              143.38343615374816
+            ],
+            [
+              496.8473755190294,
+              143.38343615374816
+            ],
+            [
+              496.8473755190294,
+              157.85089358621056
+            ],
+            [
+              86.30309574309764,
+              157.85089358621056
+            ]
+          ],
+          "bbox": [
+            86.30309574309764,
+            143.38343615374816,
+            496.8473755190294,
+            157.85089358621056
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/9",
+            "3": "/page/4/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Article 11(3)(c) of the Regulations also outlines the authorised representative's obligation to  verify that the manufacturer has complied with its UDI and devices registration obligations in  EUDAMED, as set out in Articles 27, 29 MDR and Articles 24, 26 IVDR</p>",
+          "polygon": [
+            [
+              69.17731070338328,
+              172.07720401047175
+            ],
+            [
+              527.4173482515349,
+              172.07720401047175
+            ],
+            [
+              527.4173482515349,
+              216.8984375
+            ],
+            [
+              69.17731070338328,
+              216.8984375
+            ]
+          ],
+          "bbox": [
+            69.17731070338328,
+            172.07720401047175,
+            527.4173482515349,
+            216.8984375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/9",
+            "3": "/page/4/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">It is noted that in line with Article 11(4) of the Regulations, the manufacturer's obligation to  register its information and devices in EUDAMED cannot be delegated to the authorised  representative.</p>",
+          "polygon": [
+            [
+              69.10086297868781,
+              230.3094930538405
+            ],
+            [
+              527.721329465621,
+              230.3094930538405
+            ],
+            [
+              527.721329465621,
+              275.12841796875
+            ],
+            [
+              69.10086297868781,
+              275.12841796875
+            ]
+          ],
+          "bbox": [
+            69.10086297868781,
+            230.3094930538405,
+            527.721329465621,
+            275.12841796875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/9",
+            "3": "/page/4/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/SectionHeader/8",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>6.</b> <b>Minimum tasks &amp; responsibilities of the authorised representative</b></h1>",
+          "polygon": [
+            [
+              87.00498424309026,
+              301.77518950247486
+            ],
+            [
+              453.9015418372166,
+              301.77518950247486
+            ],
+            [
+              453.9015418372166,
+              318.56842041015625
+            ],
+            [
+              87.00498424309026,
+              318.56842041015625
+            ]
+          ],
+          "bbox": [
+            87.00498424309026,
+            301.77518950247486,
+            453.9015418372166,
+            318.56842041015625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The minimum tasks &amp; responsibilities of the authorised representative are described in Article  11(3) (a) - (h) of the Regulations. The manufacturer should enable the authorised  representative to perform the tasks mandated.</p>",
+          "polygon": [
+            [
+              69.35725979360585,
+              332.07437813165245
+            ],
+            [
+              528.0865650705487,
+              332.07437813165245
+            ],
+            [
+              528.0865650705487,
+              376.8883972167969
+            ],
+            [
+              69.35725979360585,
+              376.8883972167969
+            ]
+          ],
+          "bbox": [
+            69.35725979360585,
+            332.07437813165245,
+            528.0865650705487,
+            376.8883972167969
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Pursuant to Article 11 (3)(a) of the Regulations the authorised representative verifies that the  EU declaration of conformity and technical documentation have been drawn up (i.e. checks  the existence of such documents) and, where applicable, that an appropriate conformity  assessment procedure has been carried out by the manufacturer. If the authorised  representative considers or has reason to believe that the conformity assessment procedure  is not appropriate for the device in question, they may inform the manufacturer.</p>",
+          "polygon": [
+            [
+              68.99145150364797,
+              389.6634633989071
+            ],
+            [
+              527.862622316298,
+              389.6634633989071
+            ],
+            [
+              527.862622316298,
+              478.821533203125
+            ],
+            [
+              68.99145150364797,
+              478.821533203125
+            ]
+          ],
+          "bbox": [
+            68.99145150364797,
+            389.6634633989071,
+            527.862622316298,
+            478.821533203125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/11",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Article 11(3)(b) of the Regulations describes the task of the authorised representative to keep a copy of the technical documentation, the EU declaration of conformity and, if applicable, a  copy of the relevant certificate (including any amendments and supplements of such a  certificate), issued in accordance with Article 56 MDR or Article 51 IVDR at the disposal of  competent authorities for the period referred to in Article 10(8) MDR and Article 10(7) IVDR,  of the devices for which it is designated. This includes a period of at least 10 years after the  last device covered by the EU declaration of conformity has been placed on the market, and in the case of implantable devices, a period of at least 15 years after the last device has been  placed on the market.</p>",
+          "polygon": [
+            [
+              68.89729063096514,
+              491.76405058645923
+            ],
+            [
+              527.5500737341586,
+              491.76405058645923
+            ],
+            [
+              527.5500737341586,
+              624.2584075927734
+            ],
+            [
+              68.89729063096514,
+              624.2584075927734
+            ]
+          ],
+          "bbox": [
+            68.89729063096514,
+            491.76405058645923,
+            527.5500737341586,
+            624.2584075927734
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/12",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The manufacturer's obligation to ensure the authorised representative has the necessary  documentation 'permanently available' in order to fulfil the tasks specified in Article 11(3) of  the Regulations, is outlined in the third sub-paragraph of Article 10(8) MDR and Article 10(7) IVDR. 'Permanently available' in this context means it will be mandatory for the manufacturer  to provide the authorised representatives with the requisite documentation, in their most recent  versions and for certificates this includes amendments or supplements, either in hard or</p>",
+          "polygon": [
+            [
+              68.57020157590621,
+              637.1807478703458
+            ],
+            [
+              527.2454052980361,
+              637.1807478703458
+            ],
+            [
+              527.2454052980361,
+              726.0383987426758
+            ],
+            [
+              68.57020157590621,
+              726.0383987426758
+            ]
+          ],
+          "bbox": [
+            68.57020157590621,
+            637.1807478703458,
+            527.2454052980361,
+            726.0383987426758
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Footnote/13",
+          "block_type": "Footnote",
+          "html": "<p><sup> </sup> <sup>6</sup> Please see<a href=\"https://webgate.ec.europa.eu/eudamed-static/documents/assets/guides/user_guide_eo_en.pdf\"> 'EUDAMED: Economic Operator user guide How economic operators can use the actor registration </a> <a href=\"https://webgate.ec.europa.eu/eudamed-static/documents/assets/guides/user_guide_eo_en.pdf\">module',</a> noting in particular section 2.3 'Managing mandates' and sub-section 2.3.4 of 'Terminating a mandate'.</p>",
+          "polygon": [
+            [
+              68.77423779850342,
+              739.875
+            ],
+            [
+              527.2175957129643,
+              739.875
+            ],
+            [
+              527.2175957129643,
+              771.7448332626058
+            ],
+            [
+              68.77423779850342,
+              771.7448332626058
+            ]
+          ],
+          "bbox": [
+            68.77423779850342,
+            739.875,
+            527.2175957129643,
+            771.7448332626058
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/8"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/8"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/5/Page/232",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/5/PageHeader/1'></content-ref><content-ref src='/page/5/PageHeader/2'></content-ref><content-ref src='/page/5/PageHeader/3'></content-ref><content-ref src='/page/5/SectionHeader/0'></content-ref><content-ref src='/page/5/PageFooter/16'></content-ref><content-ref src='/page/5/Text/4'></content-ref><content-ref src='/page/5/Text/229'></content-ref><content-ref src='/page/5/Text/6'></content-ref><content-ref src='/page/5/Text/230'></content-ref><content-ref src='/page/5/Text/8'></content-ref><content-ref src='/page/5/Text/9'></content-ref><content-ref src='/page/5/Text/231'></content-ref><content-ref src='/page/5/Text/11'></content-ref><content-ref src='/page/5/Text/232'></content-ref><content-ref src='/page/5/Footnote/13'></content-ref><content-ref src='/page/5/Footnote/14'></content-ref><content-ref src='/page/5/Footnote/15'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "children": [
+        {
+          "id": "/page/5/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.79159588177198,
+              34.428709442872396
+            ],
+            [
+              227.18021144914985,
+              34.428709442872396
+            ],
+            [
+              227.18021144914985,
+              56.31791191067105
+            ],
+            [
+              68.79159588177198,
+              56.31791191067105
+            ]
+          ],
+          "bbox": [
+            68.79159588177198,
+            34.428709442872396,
+            227.18021144914985,
+            56.31791191067105
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              416.0887986190373,
+              56.92537259843237
+            ],
+            [
+              527.4341164692223,
+              56.92537259843237
+            ],
+            [
+              527.4341164692223,
+              72.60434375739162
+            ],
+            [
+              416.0887986190373,
+              72.60434375739162
+            ]
+          ],
+          "bbox": [
+            416.0887986190373,
+            56.92537259843237,
+            527.4341164692223,
+            72.60434375739162
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/PageHeader/3",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.4919785276168,
+              57.53626384378435
+            ],
+            [
+              523.5464477539062,
+              57.53626384378435
+            ],
+            [
+              523.5464477539062,
+              75.42840576171875
+            ],
+            [
+              68.4919785276168,
+              75.42840576171875
+            ]
+          ],
+          "bbox": [
+            68.4919785276168,
+            57.53626384378435,
+            523.5464477539062,
+            75.42840576171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/SectionHeader/0",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.79159588177198,
+              34.428709442872396
+            ],
+            [
+              304.44110107421875,
+              34.428709442872396
+            ],
+            [
+              304.44110107421875,
+              59.28839111328125
+            ],
+            [
+              68.79159588177198,
+              59.28839111328125
+            ]
+          ],
+          "bbox": [
+            68.79159588177198,
+            34.428709442872396,
+            304.44110107421875,
+            59.28839111328125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/PageFooter/16",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              473.349650577574,
+              770.7869803478753
+            ],
+            [
+              527.0926129319505,
+              770.7869803478753
+            ],
+            [
+              527.0926129319505,
+              786.2099990844727
+            ],
+            [
+              473.349650577574,
+              786.2099990844727
+            ]
+          ],
+          "bbox": [
+            473.349650577574,
+            770.7869803478753,
+            527.0926129319505,
+            786.2099990844727
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">electronic copy. In practical terms having 'permanent access' to such documents, should imply  constant availability via electronic or physical storage, either shared or otherwise.</p>",
+          "polygon": [
+            [
+              68.6290449627701,
+              84.8540573867431
+            ],
+            [
+              527.6767516628621,
+              84.8540573867431
+            ],
+            [
+              527.6767516628621,
+              115.1177978515625
+            ],
+            [
+              68.6290449627701,
+              115.1177978515625
+            ]
+          ],
+          "bbox": [
+            68.6290449627701,
+            84.8540573867431,
+            527.6767516628621,
+            115.1177978515625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/229",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> Article 11(3)(d) outlines that in response to a request from a competent authority, the  authorised representative must provide the competent authority with all the information  and documentation necessary to demonstrate the conformity of a device, in an official  Union language determined by the Member State concerned.</p>",
+          "polygon": [
+            [
+              87.64115713585534,
+              129.89228448502632
+            ],
+            [
+              527.5225848527039,
+              129.89228448502632
+            ],
+            [
+              527.5225848527039,
+              188.55780029296875
+            ],
+            [
+              87.64115713585534,
+              188.55780029296875
+            ]
+          ],
+          "bbox": [
+            87.64115713585534,
+            129.89228448502632,
+            527.5225848527039,
+            188.55780029296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In addition to documentation referred to in Article 11(3)(b) of the Regulations, there is  information/documentation detailed in the Annexes of the Regulations, which, if applicable<sup>7</sup> , is to be taken into account/ kept available by the authorised representative. This includes:</p>",
+          "polygon": [
+            [
+              68.68252801775031,
+              201.86161427824814
+            ],
+            [
+              527.1042040769639,
+              201.86161427824814
+            ],
+            [
+              527.1042040769639,
+              246.72149658203125
+            ],
+            [
+              68.68252801775031,
+              246.72149658203125
+            ]
+          ],
+          "bbox": [
+            68.68252801775031,
+            201.86161427824814,
+            527.1042040769639,
+            246.72149658203125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/230",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> Annex IX, Chapter III, section 7, 8<sup>8</sup> MDR  Annex X, section 7 MDR  Annex XI, section 9, 10.5, 17 or 18.4 MDR  Annex IX, section 6 IVDR   Annex X, section 6 IVDR  Annex XI, section 6 IVDR</p>",
+          "polygon": [
+            [
+              87.50804795426144,
+              260.18033733690623
+            ],
+            [
+              314.42162870700173,
+              260.18033733690623
+            ],
+            [
+              314.42162870700173,
+              353.07464599609375
+            ],
+            [
+              87.50804795426144,
+              353.07464599609375
+            ]
+          ],
+          "bbox": [
+            87.50804795426144,
+            260.18033733690623,
+            314.42162870700173,
+            353.07464599609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Please note that for custom-made devices, the statement referred to in section 1 of Annex XIII  may be drawn up by either the manufacturer or its authorised representative. This statement  must also be kept for a period of at least 10 years after the device has been placed on the  market, and a period of at least 15 years in the case of implantable devices. Section 8 of  Annex IX MDR also applies.</p>",
+          "polygon": [
+            [
+              68.59991820212876,
+              365.90638818511553
+            ],
+            [
+              527.8793447191829,
+              365.90638818511553
+            ],
+            [
+              527.8793447191829,
+              440.2684020996094
+            ],
+            [
+              68.59991820212876,
+              440.2684020996094
+            ]
+          ],
+          "bbox": [
+            68.59991820212876,
+            365.90638818511553,
+            527.8793447191829,
+            440.2684020996094
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">To ensure the authorised representative can comply with the above mentioned requirement  and cooperate effectively with the authorities, the authorised representative is advised to  maintain open communication lines with the manufacturer and should verify that:</p>",
+          "polygon": [
+            [
+              68.71098473690618,
+              453.2384879434098
+            ],
+            [
+              527.925663484434,
+              453.2384879434098
+            ],
+            [
+              527.925663484434,
+              498.50152587890625
+            ],
+            [
+              68.71098473690618,
+              498.50152587890625
+            ]
+          ],
+          "bbox": [
+            68.71098473690618,
+            453.2384879434098,
+            527.925663484434,
+            498.50152587890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/231",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> the necessary documentation has been drawn up by the manufacturer;  the necessary documentation is accessible to the authorised representative in their up  to-date versions</p>",
+          "polygon": [
+            [
+              87.46817189560129,
+              511.72359590878574
+            ],
+            [
+              527.1554708408769,
+              511.72359590878574
+            ],
+            [
+              527.1554708408769,
+              558.1383972167969
+            ],
+            [
+              87.46817189560129,
+              558.1383972167969
+            ]
+          ],
+          "bbox": [
+            87.46817189560129,
+            511.72359590878574,
+            527.1554708408769,
+            558.1383972167969
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/11",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The authorised representative should be able to demonstrate to the competent authority (e.g.  during an inspection) that the above verifications have been performed, through their internal  records.</p>",
+          "polygon": [
+            [
+              68.37172612495326,
+              571.2427506756803
+            ],
+            [
+              527.4543207970914,
+              571.2427506756803
+            ],
+            [
+              527.4543207970914,
+              616.3384094238281
+            ],
+            [
+              68.37172612495326,
+              616.3384094238281
+            ]
+          ],
+          "bbox": [
+            68.37172612495326,
+            571.2427506756803,
+            527.4543207970914,
+            616.3384094238281
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/232",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> Article 11(3)(e): forward to the manufacturer any request by a competent authority of  the Member State in which the authorised representative has its registered place of  business for samples, or access to a device and verify that the competent authority  receives the samples or is given access to the device;</p>",
+          "polygon": [
+            [
+              87.19747513547652,
+              628.1869369330198
+            ],
+            [
+              527.2049508274953,
+              628.1869369330198
+            ],
+            [
+              527.2049508274953,
+              689.8777618408203
+            ],
+            [
+              87.19747513547652,
+              689.8777618408203
+            ]
+          ],
+          "bbox": [
+            87.19747513547652,
+            628.1869369330198,
+            527.2049508274953,
+            689.8777618408203
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Footnote/13",
+          "block_type": "Footnote",
+          "html": "<p><sup> </sup> <sup>7</sup> Given Annexes IX, X, XI MDR/IVDR pertain to conformity assessment activities performed by a notified body, 'if  applicable' in this context refers to devices for which notified body involvement is required.</p>",
+          "polygon": [
+            [
+              68.78809104938651,
+              700.2750091552734
+            ],
+            [
+              525.9467847233154,
+              700.2750091552734
+            ],
+            [
+              525.9467847233154,
+              730.0099639484952
+            ],
+            [
+              68.78809104938651,
+              730.0099639484952
+            ]
+          ],
+          "bbox": [
+            68.78809104938651,
+            700.2750091552734,
+            525.9467847233154,
+            730.0099639484952
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Footnote/14",
+          "block_type": "Footnote",
+          "html": "<p><sup>8</sup> Annex IX, section 8 MDR states 'Each Member State shall require that the documentation referred to in Section</p>",
+          "polygon": [
+            [
+              69.1061030467151,
+              723.5285353214742
+            ],
+            [
+              524.7733760036209,
+              723.5285353214742
+            ],
+            [
+              524.7733760036209,
+              748.0908236822058
+            ],
+            [
+              69.1061030467151,
+              748.0908236822058
+            ]
+          ],
+          "bbox": [
+            69.1061030467151,
+            723.5285353214742,
+            524.7733760036209,
+            748.0908236822058
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Footnote/15",
+          "block_type": "Footnote",
+          "html": "<p><sup>7 </sup>is kept at the disposal of competent authorities for the period indicated in that Section in case a manufacturer,  or its authorised representative, established within its territory goes bankrupt or ceases its business activity prior  to the end of that period'.</p>",
+          "polygon": [
+            [
+              68.69952530944978,
+              728.4142907703973
+            ],
+            [
+              525.5934151522158,
+              728.4142907703973
+            ],
+            [
+              525.5934151522158,
+              770.9700012207031
+            ],
+            [
+              68.69952530944978,
+              770.9700012207031
+            ]
+          ],
+          "bbox": [
+            68.69952530944978,
+            728.4142907703973,
+            525.5934151522158,
+            770.9700012207031
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/0"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/6/Page/224",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/6/PageHeader/0'></content-ref><content-ref src='/page/6/PageHeader/1'></content-ref><content-ref src='/page/6/PageHeader/2'></content-ref><content-ref src='/page/6/PageFooter/14'></content-ref><content-ref src='/page/6/Text/222'></content-ref><content-ref src='/page/6/Text/4'></content-ref><content-ref src='/page/6/Text/223'></content-ref><content-ref src='/page/6/SectionHeader/6'></content-ref><content-ref src='/page/6/Text/7'></content-ref><content-ref src='/page/6/Text/8'></content-ref><content-ref src='/page/6/Text/9'></content-ref><content-ref src='/page/6/Text/224'></content-ref><content-ref src='/page/6/Text/11'></content-ref><content-ref src='/page/6/Footnote/12'></content-ref><content-ref src='/page/6/Footnote/13'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "children": [
+        {
+          "id": "/page/6/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.64816691593198,
+              34.4470992933292
+            ],
+            [
+              304.44110107421875,
+              34.4470992933292
+            ],
+            [
+              304.44110107421875,
+              59.28839111328125
+            ],
+            [
+              68.64816691593198,
+              59.28839111328125
+            ]
+          ],
+          "bbox": [
+            68.64816691593198,
+            34.4470992933292,
+            304.44110107421875,
+            59.28839111328125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              416.4928393616184,
+              56.76166799380539
+            ],
+            [
+              527.2966262471465,
+              56.76166799380539
+            ],
+            [
+              527.2966262471465,
+              72.38393472754733
+            ],
+            [
+              416.4928393616184,
+              72.38393472754733
+            ]
+          ],
+          "bbox": [
+            416.4928393616184,
+            56.76166799380539,
+            527.2966262471465,
+            72.38393472754733
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.01311075897601,
+              57.611060308115036
+            ],
+            [
+              523.5464477539062,
+              57.611060308115036
+            ],
+            [
+              523.5464477539062,
+              75.42840576171875
+            ],
+            [
+              68.01311075897601,
+              75.42840576171875
+            ]
+          ],
+          "bbox": [
+            68.01311075897601,
+            57.611060308115036,
+            523.5464477539062,
+            75.42840576171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/PageFooter/14",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              473.4909892430533,
+              771.5387478129521
+            ],
+            [
+              526.6485300520505,
+              771.5387478129521
+            ],
+            [
+              526.6485300520505,
+              786.2099990844727
+            ],
+            [
+              473.4909892430533,
+              786.2099990844727
+            ]
+          ],
+          "bbox": [
+            473.4909892430533,
+            771.5387478129521,
+            526.6485300520505,
+            786.2099990844727
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/222",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> Article 11(3)(f): cooperate with the competent authorities on any preventive or  corrective action taken to eliminate or, if that is not possible, mitigate the risks posed  by devices;</p>",
+          "polygon": [
+            [
+              88.31100390840237,
+              100.21060767645083
+            ],
+            [
+              527.2358300043293,
+              100.21060767645083
+            ],
+            [
+              527.2358300043293,
+              144.9315185546875
+            ],
+            [
+              88.31100390840237,
+              144.9315185546875
+            ]
+          ],
+          "bbox": [
+            88.31100390840237,
+            100.21060767645083,
+            527.2358300043293,
+            144.9315185546875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In addition to cooperation with the competent authorities upon request in vigilance or market  surveillance cases, meeting this requirement may involve the authorised representative  coordinating and communicating with importers and distributors and other entities in the supply  chain as relevant:</p>",
+          "polygon": [
+            [
+              68.68823196065216,
+              158.48500266206764
+            ],
+            [
+              527.406123624941,
+              158.48500266206764
+            ],
+            [
+              527.406123624941,
+              217.618408203125
+            ],
+            [
+              68.68823196065216,
+              217.618408203125
+            ]
+          ],
+          "bbox": [
+            68.68823196065216,
+            158.48500266206764,
+            527.406123624941,
+            217.618408203125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/223",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> Article 11(3)(g): immediately inform the manufacturer about complaints and reports  from healthcare professionals, patients and users about suspected incidents related to  a device for which they have been designated.</p>",
+          "polygon": [
+            [
+              87.40074396013313,
+              232.04923819646385
+            ],
+            [
+              527.0420333900739,
+              232.04923819646385
+            ],
+            [
+              527.0420333900739,
+              276.66778564453125
+            ],
+            [
+              87.40074396013313,
+              276.66778564453125
+            ]
+          ],
+          "bbox": [
+            87.40074396013313,
+            232.04923819646385,
+            527.0420333900739,
+            276.66778564453125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/SectionHeader/6",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>7.</b> <b>Liability</b></h2>",
+          "polygon": [
+            [
+              87.03088106016067,
+              304.23776859273255
+            ],
+            [
+              150.26254141781132,
+              304.23776859273255
+            ],
+            [
+              150.26254141781132,
+              320.1614990234375
+            ],
+            [
+              87.03088106016067,
+              320.1614990234375
+            ]
+          ],
+          "bbox": [
+            87.03088106016067,
+            304.23776859273255,
+            150.26254141781132,
+            320.1614990234375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0",
+            "2": "/page/6/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">According to the Article 11(5) of the Regulations the authorised representative is legally liable  for defective devices under the following terms: \"Without prejudice to paragraph 4 of this  Article, where the manufacturer is not established in a Member State and has not complied  with the obligations laid down in Article 10, the authorised representative shall be legally liable  for defective devices on the same basis as, and jointly and severally with, the manufacturer\". 9</p>",
+          "polygon": [
+            [
+              68.51240047579748,
+              332.38836292188716
+            ],
+            [
+              527.5950180553368,
+              332.38836292188716
+            ],
+            [
+              527.5950180553368,
+              407.5083923339844
+            ],
+            [
+              68.51240047579748,
+              407.5083923339844
+            ]
+          ],
+          "bbox": [
+            68.51240047579748,
+            332.38836292188716,
+            527.5950180553368,
+            407.5083923339844
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0",
+            "2": "/page/6/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The phrase 'Without prejudice to paragraph 4 of Article' should be understood as meaning  that whilst the manufacturer cannot delegate its obligations referred to in Article 11(4), the authorised representative may nonetheless remain legally liable for defective devices if the  manufacturer has not complied with its obligations laid down in Article 10 of the Regulations.</p>",
+          "polygon": [
+            [
+              69.16855434926991,
+              413.6120313065241
+            ],
+            [
+              526.925572162311,
+              413.6120313065241
+            ],
+            [
+              526.925572162311,
+              473.7277526855469
+            ],
+            [
+              69.16855434926991,
+              473.7277526855469
+            ]
+          ],
+          "bbox": [
+            69.16855434926991,
+            413.6120313065241,
+            526.925572162311,
+            473.7277526855469
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0",
+            "2": "/page/6/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The authorised representative's potential joint liability under Article 11(5) of the Regulations is  conditional upon the manufacturer's failure to comply with its obligations, and the authorised representative can therefore only be liable in cases where:</p>",
+          "polygon": [
+            [
+              68.77849857512889,
+              486.2731883048162
+            ],
+            [
+              526.9778010370749,
+              486.2731883048162
+            ],
+            [
+              526.9778010370749,
+              531.8615417480469
+            ],
+            [
+              68.77849857512889,
+              531.8615417480469
+            ]
+          ],
+          "bbox": [
+            68.77849857512889,
+            486.2731883048162,
+            526.9778010370749,
+            531.8615417480469
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0",
+            "2": "/page/6/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/224",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> First, the manufacturer's liability for a defective device is established under applicable  Union or national law, e.g. under the product liability Directive 85/374/EEC as  transposed into national law which establishes \"strict liability\"<sup>10</sup> for defective products;  and  Second, it is established that the manufacturer has not complied with its obligations under Article 10 MDR/IVDR.</p>",
+          "polygon": [
+            [
+              93.14370389308976,
+              545.1619451833642
+            ],
+            [
+              527.02022554412,
+              545.1619451833642
+            ],
+            [
+              527.02022554412,
+              635.1784057617188
+            ],
+            [
+              93.14370389308976,
+              635.1784057617188
+            ]
+          ],
+          "bbox": [
+            93.14370389308976,
+            545.1619451833642,
+            527.02022554412,
+            635.1784057617188
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0",
+            "2": "/page/6/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/11",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In light of the above, the authorised representative may have a particular interest to verify that  the manufacturer has fulfilled its obligations, including the manufacturer's obligation to have</p>",
+          "polygon": [
+            [
+              68.55306111294917,
+              648.4499291057366
+            ],
+            [
+              526.7252698461115,
+              648.4499291057366
+            ],
+            [
+              526.7252698461115,
+              678.9577484130859
+            ],
+            [
+              68.55306111294917,
+              678.9577484130859
+            ]
+          ],
+          "bbox": [
+            68.55306111294917,
+            648.4499291057366,
+            526.7252698461115,
+            678.9577484130859
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0",
+            "2": "/page/6/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Footnote/12",
+          "block_type": "Footnote",
+          "html": "<p><sup> </sup> <sup>9</sup> Please also see MDR Recital 35 / IVDR Recital 34 which state: \"The liability of the authorised representative  provided for in this Regulation is without prejudice to the provisions of Directive 85/374/EEC, and accordingly the  authorised representative should be jointly and severally liable with the importer and the manufacturer''.</p>",
+          "polygon": [
+            [
+              69.08591017254653,
+              688.135009765625
+            ],
+            [
+              526.2611658975519,
+              688.135009765625
+            ],
+            [
+              526.2611658975519,
+              727.7969970703125
+            ],
+            [
+              69.08591017254653,
+              727.7969970703125
+            ]
+          ],
+          "bbox": [
+            69.08591017254653,
+            688.135009765625,
+            526.2611658975519,
+            727.7969970703125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0",
+            "2": "/page/6/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Footnote/13",
+          "block_type": "Footnote",
+          "html": "<p><sup>10</sup> Directive 85/374/EEC establishes a regime of \"strict liability\", i.e. the plaintiff does not have to prove negligence,  only that the device caused damage. See further section 1.4 of the 'Commission Notice - The <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.2022.247.01.0001.01.ENG&amp;toc=OJ%3AC%3A2022%3A247%3ATOC\">'Blue Guide' </a>on the  implementation of EU products rules 2022'.</p>",
+          "polygon": [
+            [
+              69.41293050540183,
+              722.687699356147
+            ],
+            [
+              526.5205234940767,
+              722.687699356147
+            ],
+            [
+              526.5205234940767,
+              758.8499984741211
+            ],
+            [
+              69.41293050540183,
+              758.8499984741211
+            ]
+          ],
+          "bbox": [
+            69.41293050540183,
+            722.687699356147,
+            526.5205234940767,
+            758.8499984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0",
+            "2": "/page/6/SectionHeader/6"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/0",
+        "2": "/page/6/SectionHeader/6"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/7/Page/228",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/7/PageHeader/0'></content-ref><content-ref src='/page/7/PageHeader/2'></content-ref><content-ref src='/page/7/PageHeader/3'></content-ref><content-ref src='/page/7/SectionHeader/1'></content-ref><content-ref src='/page/7/PageFooter/13'></content-ref><content-ref src='/page/7/Text/4'></content-ref><content-ref src='/page/7/Text/5'></content-ref><content-ref src='/page/7/SectionHeader/6'></content-ref><content-ref src='/page/7/Text/7'></content-ref><content-ref src='/page/7/Text/8'></content-ref><content-ref src='/page/7/Text/9'></content-ref><content-ref src='/page/7/Text/10'></content-ref><content-ref src='/page/7/SectionHeader/11'></content-ref><content-ref src='/page/7/Text/12'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "children": [
+        {
+          "id": "/page/7/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.67936106953272,
+              34.76410801412798
+            ],
+            [
+              304.44110107421875,
+              34.76410801412798
+            ],
+            [
+              304.44110107421875,
+              59.28839111328125
+            ],
+            [
+              68.67936106953272,
+              59.28839111328125
+            ]
+          ],
+          "bbox": [
+            68.67936106953272,
+            34.76410801412798,
+            304.44110107421875,
+            59.28839111328125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0",
+            "2": "/page/6/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              416.12210598039985,
+              57.13354272748993
+            ],
+            [
+              527.3394630874134,
+              57.13354272748993
+            ],
+            [
+              527.3394630874134,
+              72.57947078307399
+            ],
+            [
+              416.12210598039985,
+              72.57947078307399
+            ]
+          ],
+          "bbox": [
+            416.12210598039985,
+            57.13354272748993,
+            527.3394630874134,
+            72.57947078307399
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0",
+            "2": "/page/6/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/PageHeader/3",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.6071283066603,
+              57.875980679519664
+            ],
+            [
+              523.5464477539062,
+              57.875980679519664
+            ],
+            [
+              523.5464477539062,
+              75.42840576171875
+            ],
+            [
+              68.6071283066603,
+              75.42840576171875
+            ]
+          ],
+          "bbox": [
+            68.6071283066603,
+            57.875980679519664,
+            523.5464477539062,
+            75.42840576171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0",
+            "2": "/page/6/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/SectionHeader/1",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.67936106953272,
+              34.76410801412798
+            ],
+            [
+              227.0413238756002,
+              34.76410801412798
+            ],
+            [
+              227.0413238756002,
+              56.358580340472905
+            ],
+            [
+              68.67936106953272,
+              56.358580340472905
+            ]
+          ],
+          "bbox": [
+            68.67936106953272,
+            34.76410801412798,
+            227.0413238756002,
+            56.358580340472905
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0",
+            "2": "/page/7/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/PageFooter/13",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              472.2122981073874,
+              771.1058675709943
+            ],
+            [
+              527.0845495267239,
+              771.1058675709943
+            ],
+            [
+              527.0845495267239,
+              786.2099990844727
+            ],
+            [
+              472.2122981073874,
+              786.2099990844727
+            ]
+          ],
+          "bbox": [
+            472.2122981073874,
+            771.1058675709943,
+            527.0845495267239,
+            786.2099990844727
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0",
+            "2": "/page/7/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">measures in place to provide sufficient financial coverage (e.g. liability insurance) under Article  10(16) of the Regulations. Matters of liability would ultimately however be for the competent  courts to decide upon. This includes whether a causal relationship needs to be established between the manufacturers' non-compliance with its obligations under Article 10 of the  Regulations and the damage caused by a defective device, in order to trigger the authorised  representative's joint and several liability.</p>",
+          "polygon": [
+            [
+              68.96557186712846,
+              84.62407257677928
+            ],
+            [
+              527.9361550741892,
+              84.62407257677928
+            ],
+            [
+              527.9361550741892,
+              173.25152587890625
+            ],
+            [
+              68.96557186712846,
+              173.25152587890625
+            ]
+          ],
+          "bbox": [
+            68.96557186712846,
+            84.62407257677928,
+            527.9361550741892,
+            173.25152587890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0",
+            "2": "/page/7/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Finally, with reference to the phrase \"on the same basis as… the manufacturer'' in Article 11(5)  of the Regulations, 'same' means that when the liability of the authorised representative is  alleged within the framework of a specific legal regime on liability for defective products, the  authorised representative is afforded the same rights to defend itself as the manufacturer  under that regime.</p>",
+          "polygon": [
+            [
+              68.78830294284772,
+              186.6436493517773
+            ],
+            [
+              527.3975562568876,
+              186.6436493517773
+            ],
+            [
+              527.3975562568876,
+              260.5877685546875
+            ],
+            [
+              68.78830294284772,
+              260.5877685546875
+            ]
+          ],
+          "bbox": [
+            68.78830294284772,
+            186.6436493517773,
+            527.3975562568876,
+            260.5877685546875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/0",
+            "2": "/page/7/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/SectionHeader/6",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>8.</b> <b>Termination of the mandate</b></h1>",
+          "polygon": [
+            [
+              86.50406810078272,
+              273.481050105787
+            ],
+            [
+              253.67717952391962,
+              273.481050105787
+            ],
+            [
+              253.67717952391962,
+              289.5284423828125
+            ],
+            [
+              86.50406810078272,
+              289.5284423828125
+            ]
+          ],
+          "bbox": [
+            86.50406810078272,
+            273.481050105787,
+            253.67717952391962,
+            289.5284423828125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">According to the s Article 11(3)(h) of the Regulations, the mandate should enable the  authorised representative to terminate the mandate if the manufacturer acts contrary to its  obligations under the Regulations. The termination of the mandate is therefore the right of the  authorised representative,</p>",
+          "polygon": [
+            [
+              68.89617389515605,
+              302.0975817360203
+            ],
+            [
+              527.7090969133737,
+              302.0975817360203
+            ],
+            [
+              527.7090969133737,
+              362.3683776855469
+            ],
+            [
+              68.89617389515605,
+              362.3683776855469
+            ]
+          ],
+          "bbox": [
+            68.89617389515605,
+            302.0975817360203,
+            527.7090969133737,
+            362.3683776855469
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Given that under Article 11(2) of the Regulations the mandate is 'effective at least for all  devices of the same generic device group' of a manufacturer, the termination of the mandate  is only possible with respect to the whole generic device group and not a specific device within  that group, unless the specific device is removed/withdrawn from the market and so is outside  the scope of the effective mandate.</p>",
+          "polygon": [
+            [
+              69.04262091110576,
+              375.1639683384611
+            ],
+            [
+              527.2124644550929,
+              375.1639683384611
+            ],
+            [
+              527.2124644550929,
+              449.6283874511719
+            ],
+            [
+              69.04262091110576,
+              449.6283874511719
+            ]
+          ],
+          "bbox": [
+            69.04262091110576,
+            375.1639683384611,
+            527.2124644550929,
+            449.6283874511719
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Article 11(6) of the Regulations states that 'an authorised representative who terminates its  mandate on the ground referred to in point (h) of paragraph 3 shall immediately inform the competent authority of the Member State in which it is established and, where applicable, the  notified body that was involved in the conformity assessment for the device of the termination  of the mandate and the reasons therefore'. In the event of a problematic termination (e.g.  where the manufacturer fails or refuses to address a non-compliance identified, or is either  not responsive to or traceable by the authorised representative), the out-going authorised  representative is also advised to inform the competent authorities and where applicable, the  notified body, of the extent of the manufacturer's non-compliance.</p>",
+          "polygon": [
+            [
+              68.82434201180484,
+              462.32901884165597
+            ],
+            [
+              527.3905007773142,
+              462.32901884165597
+            ],
+            [
+              527.3905007773142,
+              595.1315155029297
+            ],
+            [
+              68.82434201180484,
+              595.1315155029297
+            ]
+          ],
+          "bbox": [
+            68.82434201180484,
+            462.32901884165597,
+            527.3905007773142,
+            595.1315155029297
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">It may be relevant for the authorised representative who terminates the mandate to thereafter still cooperate with the competent authorities for devices placed on the market during the  period in which it was designated. This would in particular be relevant where no new  authorised representative has yet been designated for those devices.</p>",
+          "polygon": [
+            [
+              68.51069960125747,
+              607.9653634456047
+            ],
+            [
+              527.1709562440964,
+              607.9653634456047
+            ],
+            [
+              527.1709562440964,
+              667.9177551269531
+            ],
+            [
+              68.51069960125747,
+              667.9177551269531
+            ]
+          ],
+          "bbox": [
+            68.51069960125747,
+            607.9653634456047,
+            527.1709562440964,
+            667.9177551269531
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/SectionHeader/11",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>9.</b> <b>Change of authorised representative </b></h1>",
+          "polygon": [
+            [
+              86.6277795210293,
+              694.5909401544586
+            ],
+            [
+              302.3019104003906,
+              694.5909401544586
+            ],
+            [
+              302.3019104003906,
+              711.4646453857422
+            ],
+            [
+              86.6277795210293,
+              711.4646453857422
+            ]
+          ],
+          "bbox": [
+            86.6277795210293,
+            694.5909401544586,
+            302.3019104003906,
+            711.4646453857422
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/12",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Article 12 of the Regulations requires that 'the detailed arrangements for a change of  authorised representative shall be clearly defined in an agreement between the manufacturer,  where practicable the outgoing authorised representative, and the incoming authorised</p>",
+          "polygon": [
+            [
+              68.4498117288354,
+              722.2670522878346
+            ],
+            [
+              527.5938726852762,
+              722.2670522878346
+            ],
+            [
+              527.5938726852762,
+              769.8177642822266
+            ],
+            [
+              68.4498117288354,
+              769.8177642822266
+            ]
+          ],
+          "bbox": [
+            68.4498117288354,
+            722.2670522878346,
+            527.5938726852762,
+            769.8177642822266
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/11"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/11"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/8/Page/222",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/8/PageHeader/0'></content-ref><content-ref src='/page/8/PageHeader/2'></content-ref><content-ref src='/page/8/PageHeader/3'></content-ref><content-ref src='/page/8/SectionHeader/1'></content-ref><content-ref src='/page/8/PageFooter/17'></content-ref><content-ref src='/page/8/Text/4'></content-ref><content-ref src='/page/8/Text/5'></content-ref><content-ref src='/page/8/Text/6'></content-ref><content-ref src='/page/8/SectionHeader/7'></content-ref><content-ref src='/page/8/Text/8'></content-ref><content-ref src='/page/8/Text/9'></content-ref><content-ref src='/page/8/Text/10'></content-ref><content-ref src='/page/8/SectionHeader/11'></content-ref><content-ref src='/page/8/Text/12'></content-ref><content-ref src='/page/8/Footnote/13'></content-ref><content-ref src='/page/8/Footnote/14'></content-ref><content-ref src='/page/8/Footnote/15'></content-ref><content-ref src='/page/8/Footnote/16'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "children": [
+        {
+          "id": "/page/8/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.73660666516206,
+              34.667508323173486
+            ],
+            [
+              304.44110107421875,
+              34.667508323173486
+            ],
+            [
+              304.44110107421875,
+              59.28839111328125
+            ],
+            [
+              68.73660666516206,
+              59.28839111328125
+            ]
+          ],
+          "bbox": [
+            68.73660666516206,
+            34.667508323173486,
+            304.44110107421875,
+            59.28839111328125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/8/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              415.73203875255825,
+              56.98239201641677
+            ],
+            [
+              527.3378595693285,
+              56.98239201641677
+            ],
+            [
+              527.3378595693285,
+              72.42003289865576
+            ],
+            [
+              415.73203875255825,
+              72.42003289865576
+            ]
+          ],
+          "bbox": [
+            415.73203875255825,
+            56.98239201641677,
+            527.3378595693285,
+            72.42003289865576
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/8/PageHeader/3",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.42583913346682,
+              57.76447896711124
+            ],
+            [
+              523.5464477539062,
+              57.76447896711124
+            ],
+            [
+              523.5464477539062,
+              75.42840576171875
+            ],
+            [
+              68.42583913346682,
+              75.42840576171875
+            ]
+          ],
+          "bbox": [
+            68.42583913346682,
+            57.76447896711124,
+            523.5464477539062,
+            75.42840576171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/8/SectionHeader/1",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.73660666516206,
+              34.667508323173486
+            ],
+            [
+              227.1574185849437,
+              34.667508323173486
+            ],
+            [
+              227.1574185849437,
+              56.32859875618721
+            ],
+            [
+              68.73660666516206,
+              56.32859875618721
+            ]
+          ],
+          "bbox": [
+            68.73660666516206,
+            34.667508323173486,
+            227.1574185849437,
+            56.32859875618721
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/11",
+            "2": "/page/8/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/8/PageFooter/17",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              472.79025183997163,
+              771.0566599736337
+            ],
+            [
+              526.5057253128936,
+              771.0566599736337
+            ],
+            [
+              526.5057253128936,
+              786.2099990844727
+            ],
+            [
+              472.79025183997163,
+              786.2099990844727
+            ]
+          ],
+          "bbox": [
+            472.79025183997163,
+            771.0566599736337,
+            526.5057253128936,
+            786.2099990844727
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/11",
+            "2": "/page/8/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/8/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">representative'. It also further specifies the minimum aspects to be addressed in the  agreement (Article 12 (a) – (d) MDR/IVDR) including relevant dates, transfer of documentation  and communication.</p>",
+          "polygon": [
+            [
+              69.13765226503463,
+              85.05852205543144
+            ],
+            [
+              527.2811866587296,
+              85.05852205543144
+            ],
+            [
+              527.2811866587296,
+              129.53839111328125
+            ],
+            [
+              69.13765226503463,
+              129.53839111328125
+            ]
+          ],
+          "bbox": [
+            69.13765226503463,
+            85.05852205543144,
+            527.2811866587296,
+            129.53839111328125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/11",
+            "2": "/page/8/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/8/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In the case of a termination based on Article 11(3)(h) of the Regulations, the agreement may  also address the reason of the mandate termination by the previous authorised representative.</p>",
+          "polygon": [
+            [
+              69.19449125429244,
+              143.1970635241732
+            ],
+            [
+              527.6078462000157,
+              143.1970635241732
+            ],
+            [
+              527.6078462000157,
+              173.25152587890625
+            ],
+            [
+              69.19449125429244,
+              173.25152587890625
+            ]
+          ],
+          "bbox": [
+            69.19449125429244,
+            143.1970635241732,
+            527.6078462000157,
+            173.25152587890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/11",
+            "2": "/page/8/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/8/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In general, a tripartite agreement should exist under Article 12 of the Regulations, except in  cases where this is 'not practicable' i.e. in particular where the outgoing authorised  representative ceases to exist (for example, due to bankruptcy), they are no longer traceable  or, where justified, for other substantial reasons making the conclusion of an arrangement  between the parties not possible. Where it is not possible to involve the outgoing authorised  representative in a tripartite agreement, the obligation under Article 12(d) (to forward  complaints to the manufacturer or incoming authorised representative) should apply. 11</p>",
+          "polygon": [
+            [
+              69.12068933443699,
+              186.99041629835418
+            ],
+            [
+              527.8573077992168,
+              186.99041629835418
+            ],
+            [
+              527.8573077992168,
+              289.747802734375
+            ],
+            [
+              69.12068933443699,
+              289.747802734375
+            ]
+          ],
+          "bbox": [
+            69.12068933443699,
+            186.99041629835418,
+            527.8573077992168,
+            289.747802734375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/11",
+            "2": "/page/8/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/8/SectionHeader/7",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>10.</b> <b>Person Responsible for Regulatory Compliance (PRRC)</b></h1>",
+          "polygon": [
+            [
+              87.77362491021528,
+              317.0642053429186
+            ],
+            [
+              400.5062680184391,
+              317.0642053429186
+            ],
+            [
+              400.5062680184391,
+              333.1546630859375
+            ],
+            [
+              87.77362491021528,
+              333.1546630859375
+            ]
+          ],
+          "bbox": [
+            87.77362491021528,
+            317.0642053429186,
+            400.5062680184391,
+            333.1546630859375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/8/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Article 15(6) of the Regulations state that authorised representatives shall have permanently  and continuously at their disposal at least one Person Responsible for Regulatory Compliance  (PRRC) who possesses the requisite expertise regarding the regulatory requirements for  devices or <i>in vitro</i> diagnostic medical devices in the Union. Such persons should possess the  requisite expertise in accordance with Article 15(6) MDR or IVDR.</p>",
+          "polygon": [
+            [
+              69.01185627127775,
+              346.4725486096376
+            ],
+            [
+              527.268495958458,
+              346.4725486096376
+            ],
+            [
+              527.268495958458,
+              420.58837890625
+            ],
+            [
+              69.01185627127775,
+              420.58837890625
+            ]
+          ],
+          "bbox": [
+            69.01185627127775,
+            346.4725486096376,
+            527.268495958458,
+            420.58837890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/8/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Further guidance on the PRRC is included in the MDCG 2019-7 Guidance on PRRC<sup>12</sup>, which  highlights that the PRRC for an authorised representative and for an 'outside EU' manufacturer  cannot be the same person. In addition, there should be a clear contractual relationship in  place between the authorised representative and the PRRC.</p>",
+          "polygon": [
+            [
+              68.99173211931281,
+              432.6710409434481
+            ],
+            [
+              526.9190206455644,
+              432.6710409434481
+            ],
+            [
+              526.9190206455644,
+              493.3083801269531
+            ],
+            [
+              68.99173211931281,
+              493.3083801269531
+            ]
+          ],
+          "bbox": [
+            68.99173211931281,
+            432.6710409434481,
+            526.9190206455644,
+            493.3083801269531
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/8/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Finally, it is noted that authorised representatives whose mandate with the manufacturer also  covers 'legacy devices', are not required to appoint a PRRC for those devices. Please see  section 2 of MDCG 2021-25<sup>13</sup> Report of the ad hoc task-force on transitional provisions for  MDR and MDCG 2022-8 <sup>14</sup> for IVDR, for further information.</p>",
+          "polygon": [
+            [
+              68.68828350230488,
+              505.52004817374984
+            ],
+            [
+              527.4508388721072,
+              505.52004817374984
+            ],
+            [
+              527.4508388721072,
+              566.0583801269531
+            ],
+            [
+              68.68828350230488,
+              566.0583801269531
+            ]
+          ],
+          "bbox": [
+            68.68828350230488,
+            505.52004817374984,
+            527.4508388721072,
+            566.0583801269531
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/8/SectionHeader/11",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>11.</b> <b>Market Surveillance </b></h3>",
+          "polygon": [
+            [
+              87.24447539591368,
+              594.2515176176919
+            ],
+            [
+              214.50079345703125,
+              594.2515176176919
+            ],
+            [
+              214.50079345703125,
+              609.618408203125
+            ],
+            [
+              87.24447539591368,
+              609.618408203125
+            ]
+          ],
+          "bbox": [
+            87.24447539591368,
+            594.2515176176919,
+            214.50079345703125,
+            609.618408203125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7",
+            "3": "/page/8/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/8/Text/12",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In addition to its minimum responsibilities under Article 11(3) of the Regulations and other  obligations covered in the mandate, it is noted that authorised representatives:</p>",
+          "polygon": [
+            [
+              69.4839033612076,
+              623.2550894515597
+            ],
+            [
+              509.9123229980469,
+              623.2550894515597
+            ],
+            [
+              509.9123229980469,
+              653.3977508544922
+            ],
+            [
+              69.4839033612076,
+              653.3977508544922
+            ]
+          ],
+          "bbox": [
+            69.4839033612076,
+            623.2550894515597,
+            509.9123229980469,
+            653.3977508544922
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7",
+            "3": "/page/8/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/8/Footnote/13",
+          "block_type": "Footnote",
+          "html": "<p><sup> </sup> <sup>11</sup> See obligation in the mandate pursuant to Article 11(3)(g) MDR/IVDR continuing after termination.</p>",
+          "polygon": [
+            [
+              69.9901970159497,
+              689.9350128173828
+            ],
+            [
+              472.1585115293411,
+              689.9350128173828
+            ],
+            [
+              472.1585115293411,
+              709.010986328125
+            ],
+            [
+              69.9901970159497,
+              709.010986328125
+            ]
+          ],
+          "bbox": [
+            69.9901970159497,
+            689.9350128173828,
+            472.1585115293411,
+            709.010986328125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7",
+            "3": "/page/8/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/8/Footnote/14",
+          "block_type": "Footnote",
+          "html": "<p><sup>12</sup> <a href=\"https://health.ec.europa.eu/system/files/2020-09/md_mdcg_2019_7_guidance_art15_mdr_ivdr_en_0.pdf\">MDCG 2019-7 G</a>uidance on article 15 of the medical device regulation (MDR) and in vitro diagnostic device  regulation (IVDR) on a 'person responsible for regulatory compliance' (PRRC).</p>",
+          "polygon": [
+            [
+              69.01919236651595,
+              704.1901328272833
+            ],
+            [
+              526.055869767888,
+              704.1901328272833
+            ],
+            [
+              526.055869767888,
+              729.6510009765625
+            ],
+            [
+              69.01919236651595,
+              729.6510009765625
+            ]
+          ],
+          "bbox": [
+            69.01919236651595,
+            704.1901328272833,
+            526.055869767888,
+            729.6510009765625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7",
+            "3": "/page/8/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/8/Footnote/15",
+          "block_type": "Footnote",
+          "html": "<p><sup>13</sup> <a href=\"https://ec.europa.eu/health/system/files/2021-10/md_mdcg_2021_25_en_0.pdf\">MDCG 2021-25</a> Regulation (EU) 2017/745 – application of MDR requirements to 'legacy devices' and to devices  placed on the market prior to 26 May 2021 in accordance with Directives 90/385/EEC or 93/42/EEC.</p>",
+          "polygon": [
+            [
+              69.54172164186723,
+              724.863417396987
+            ],
+            [
+              526.8010933441238,
+              724.863417396987
+            ],
+            [
+              526.8010933441238,
+              751.2058845173538
+            ],
+            [
+              69.54172164186723,
+              751.2058845173538
+            ]
+          ],
+          "bbox": [
+            69.54172164186723,
+            724.863417396987,
+            526.8010933441238,
+            751.2058845173538
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7",
+            "3": "/page/8/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/8/Footnote/16",
+          "block_type": "Footnote",
+          "html": "<p><sup>14</sup> <a href=\"https://health.ec.europa.eu/system/files/2022-05/mdcg_2022-8_en.pdf\">MDCG 2022-8</a> Regulation (EU) 2017/746 - application of IVDR requirements to 'legacy devices' and to devices  placed on the market prior to 26 May 2022 in accordance with Directive 98/79/EC.</p>",
+          "polygon": [
+            [
+              70.00302516062854,
+              742.9527991168327
+            ],
+            [
+              527.1274321817931,
+              742.9527991168327
+            ],
+            [
+              527.1274321817931,
+              770.9970016479492
+            ],
+            [
+              70.00302516062854,
+              770.9970016479492
+            ]
+          ],
+          "bbox": [
+            70.00302516062854,
+            742.9527991168327,
+            527.1274321817931,
+            770.9970016479492
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7",
+            "3": "/page/8/SectionHeader/11"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/7",
+        "3": "/page/8/SectionHeader/11"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/9/Page/174",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/9/PageHeader/0'></content-ref><content-ref src='/page/9/PageHeader/1'></content-ref><content-ref src='/page/9/PageHeader/2'></content-ref><content-ref src='/page/9/PageFooter/9'></content-ref><content-ref src='/page/9/Text/174'></content-ref><content-ref src='/page/9/SectionHeader/4'></content-ref><content-ref src='/page/9/Text/5'></content-ref><content-ref src='/page/9/Text/6'></content-ref><content-ref src='/page/9/Footnote/7'></content-ref><content-ref src='/page/9/Footnote/8'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "children": [
+        {
+          "id": "/page/9/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.76121494091427,
+              34.758695865675264
+            ],
+            [
+              304.44110107421875,
+              34.758695865675264
+            ],
+            [
+              304.44110107421875,
+              59.28839111328125
+            ],
+            [
+              68.76121494091427,
+              59.28839111328125
+            ]
+          ],
+          "bbox": [
+            68.76121494091427,
+            34.758695865675264,
+            304.44110107421875,
+            59.28839111328125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7",
+            "3": "/page/8/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/9/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              416.67655671934034,
+              57.02936030156041
+            ],
+            [
+              527.263318885784,
+              57.02936030156041
+            ],
+            [
+              527.263318885784,
+              72.61403408033553
+            ],
+            [
+              416.67655671934034,
+              72.61403408033553
+            ]
+          ],
+          "bbox": [
+            416.67655671934034,
+            57.02936030156041,
+            527.263318885784,
+            72.61403408033553
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7",
+            "3": "/page/8/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/9/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.31795100060758,
+              57.978639685884716
+            ],
+            [
+              523.5464477539062,
+              57.978639685884716
+            ],
+            [
+              523.5464477539062,
+              75.42840576171875
+            ],
+            [
+              68.31795100060758,
+              75.42840576171875
+            ]
+          ],
+          "bbox": [
+            68.31795100060758,
+            57.978639685884716,
+            523.5464477539062,
+            75.42840576171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7",
+            "3": "/page/8/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/9/PageFooter/9",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              469.1043135405187,
+              771.3912166551299
+            ],
+            [
+              526.2795376333241,
+              771.3912166551299
+            ],
+            [
+              526.2795376333241,
+              786.2099990844727
+            ],
+            [
+              469.1043135405187,
+              786.2099990844727
+            ]
+          ],
+          "bbox": [
+            469.1043135405187,
+            771.3912166551299,
+            526.2795376333241,
+            786.2099990844727
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7",
+            "3": "/page/8/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/9/Text/174",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> may be consulted in the context of market surveillance measures taken by competent  authorities under Articles 95 &amp; 97 MDR/Articles 90 &amp; 92 IVDR, regarding devices  presenting serious risk to health and safety of patients or presenting other noncompliances respectively.  may be required to make documentation and information available to competent  authorities as part of their market surveillance activities under Article 93(3)(a)  MDR/Article 88(3)(a) IVDR.  may be subject to announced and unannounced inspections by the competent  authorities as part of their market surveillance activities under Article 93(3)(b) MDR/Article 88(3)(b) IVDR.</p>",
+          "polygon": [
+            [
+              88.14528031433258,
+              86.12463512063982
+            ],
+            [
+              527.5339011089027,
+              86.12463512063982
+            ],
+            [
+              527.5339011089027,
+              233.69842529296875
+            ],
+            [
+              88.14528031433258,
+              233.69842529296875
+            ]
+          ],
+          "bbox": [
+            88.14528031433258,
+            86.12463512063982,
+            527.5339011089027,
+            233.69842529296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7",
+            "3": "/page/8/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/9/SectionHeader/4",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>12.</b> <b>Transitional provisions</b></h3>",
+          "polygon": [
+            [
+              87.32972528952494,
+              242.3271200124005
+            ],
+            [
+              232.8492663789456,
+              242.3271200124005
+            ],
+            [
+              232.8492663789456,
+              258.08843994140625
+            ],
+            [
+              87.32972528952494,
+              258.08843994140625
+            ]
+          ],
+          "bbox": [
+            87.32972528952494,
+            242.3271200124005,
+            232.8492663789456,
+            258.08843994140625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7",
+            "3": "/page/9/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/9/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Further guidance on the MDR/IVDR transitional provisions is included in the MDCG 2021-25<sup>15</sup> Report of the ad hoc task-force on transitional provisions for MDR and MDCG 2022-8 <sup>16</sup> for  IVDR. These indicate that the requirements for authorised representatives under the  Directives continue to apply for 'legacy devices'. In addition, the MDR/IVDR requirements  concerning market surveillance, post-market surveillance, vigilance and registration of  economic operators and devices apply for 'legacy devices'. For authorised representatives,  this includes Article 11(3)(c)-(g) MDR/IVDR and the mandate between the manufacturer and  the authorised representative should be updated accordingly.</p>",
+          "polygon": [
+            [
+              68.88752062434814,
+              270.12144034055336
+            ],
+            [
+              528.0180719409241,
+              270.12144034055336
+            ],
+            [
+              528.0180719409241,
+              389.2277526855469
+            ],
+            [
+              68.88752062434814,
+              389.2277526855469
+            ]
+          ],
+          "bbox": [
+            68.88752062434814,
+            270.12144034055336,
+            528.0180719409241,
+            389.2277526855469
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7",
+            "3": "/page/9/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/9/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The market surveillance cooperation provisions outlined in section 11 of this document also  apply to authorised representatives whose mandate with the manufacturer covers 'legacy  devices'.</p>",
+          "polygon": [
+            [
+              69.41306794980912,
+              401.9419043686171
+            ],
+            [
+              528.0713087413413,
+              401.9419043686171
+            ],
+            [
+              528.0713087413413,
+              447.348388671875
+            ],
+            [
+              69.41306794980912,
+              447.348388671875
+            ]
+          ],
+          "bbox": [
+            69.41306794980912,
+            401.9419043686171,
+            528.0713087413413,
+            447.348388671875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7",
+            "3": "/page/9/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/9/Footnote/7",
+          "block_type": "Footnote",
+          "html": "<p><sup> </sup> <sup>15</sup> <a href=\"https://ec.europa.eu/health/system/files/2021-10/md_mdcg_2021_25_en_0.pdf\">MDCG 2021-25</a> 'Regulation (EU) 2017/745 – application of MDR requirements to 'legacy devices' and to devices  placed on the market prior to 26 May 2021 in accordance with Directives 90/385/EEC or 93/42/EEC.</p>",
+          "polygon": [
+            [
+              68.80460728566052,
+              721.0349960327148
+            ],
+            [
+              526.8602860688562,
+              721.0349960327148
+            ],
+            [
+              526.8602860688562,
+              750.3570022583008
+            ],
+            [
+              68.80460728566052,
+              750.3570022583008
+            ]
+          ],
+          "bbox": [
+            68.80460728566052,
+            721.0349960327148,
+            526.8602860688562,
+            750.3570022583008
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7",
+            "3": "/page/9/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/9/Footnote/8",
+          "block_type": "Footnote",
+          "html": "<p><sup>16</sup> <a href=\"https://health.ec.europa.eu/system/files/2022-05/mdcg_2022-8_en.pdf\">MDCG 2022-8</a> Regulation (EU) 2017/746 - application of IVDR requirements to 'legacy devices' and to devices  placed on the market prior to 26 May 2022 in accordance with Directive 98/79/EC.</p>",
+          "polygon": [
+            [
+              69.15273106188258,
+              745.3530669106188
+            ],
+            [
+              526.6398710543923,
+              745.3530669106188
+            ],
+            [
+              526.6398710543923,
+              770.9970016479492
+            ],
+            [
+              69.15273106188258,
+              770.9970016479492
+            ]
+          ],
+          "bbox": [
+            69.15273106188258,
+            745.3530669106188,
+            526.6398710543923,
+            770.9970016479492
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/8/SectionHeader/7",
+            "3": "/page/9/SectionHeader/4"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/7",
+        "3": "/page/9/SectionHeader/4"
+      },
+      "images": null
+    }
+  ],
+  "block_type": "Document",
+  "metadata": {
+    "table_of_contents": [
+      {
+        "title": "MDCG 2022-16",
+        "heading_level": null,
+        "page_id": 0,
+        "polygon": [
+          [
+            69.64746220586281,
+            196.596492994925
+          ],
+          [
+            241.22542635439623,
+            196.596492994925
+          ],
+          [
+            241.22542635439623,
+            223.94000244140625
+          ],
+          [
+            69.64746220586281,
+            223.94000244140625
+          ]
+        ]
+      },
+      {
+        "title": "",
+        "heading_level": null,
+        "page_id": 0,
+        "polygon": [
+          [
+            69.1865252055209,
+            345.2297360563745
+          ],
+          [
+            173.07283815628935,
+            345.2297360563745
+          ],
+          [
+            173.07283815628935,
+            363.21941970186583
+          ],
+          [
+            69.1865252055209,
+            363.21941970186583
+          ]
+        ]
+      },
+      {
+        "title": "1. Introduction",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            87.09893322231187,
+            83.68333808715494
+          ],
+          [
+            175.25360107421875,
+            83.68333808715494
+          ],
+          [
+            175.25360107421875,
+            100.37841796875
+          ],
+          [
+            87.09893322231187,
+            100.37841796875
+          ]
+        ]
+      },
+      {
+        "title": "2. Scope",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            87.14463921458054,
+            311.3144533695754
+          ],
+          [
+            141.68085623868467,
+            311.3144533695754
+          ],
+          [
+            141.68085623868467,
+            326.7283935546875
+          ],
+          [
+            87.14463921458054,
+            326.7283935546875
+          ]
+        ]
+      },
+      {
+        "title": "3. Definitions",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            86.847736387469,
+            525.5286178249179
+          ],
+          [
+            167.92303466796875,
+            525.5286178249179
+          ],
+          [
+            167.92303466796875,
+            541.6683959960938
+          ],
+          [
+            86.847736387469,
+            541.6683959960938
+          ]
+        ]
+      },
+      {
+        "title": "",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            68.73570182281416,
+            34.548644370727
+          ],
+          [
+            226.97239550535264,
+            34.548644370727
+          ],
+          [
+            226.97239550535264,
+            56.10977614446081
+          ],
+          [
+            68.73570182281416,
+            56.10977614446081
+          ]
+        ]
+      },
+      {
+        "title": "4. Designation and mandate",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            86.71215893339449,
+            286.5525626830511
+          ],
+          [
+            242.80892337059194,
+            286.5525626830511
+          ],
+          [
+            242.80892337059194,
+            302.55462646484375
+          ],
+          [
+            86.71215893339449,
+            302.55462646484375
+          ]
+        ]
+      },
+      {
+        "title": "Medical Devices",
+        "heading_level": null,
+        "page_id": 3,
+        "polygon": [
+          [
+            68.66692807752479,
+            34.46989045181342
+          ],
+          [
+            304.44110107421875,
+            34.46989045181342
+          ],
+          [
+            304.44110107421875,
+            59.28839111328125
+          ],
+          [
+            68.66692807752479,
+            59.28839111328125
+          ]
+        ]
+      },
+      {
+        "title": "5. Registration & verification obligations",
+        "heading_level": null,
+        "page_id": 3,
+        "polygon": [
+          [
+            86.97155661787133,
+            418.1645587707139
+          ],
+          [
+            307.65047579748506,
+            418.1645587707139
+          ],
+          [
+            307.65047579748506,
+            435.0546569824219
+          ],
+          [
+            86.97155661787133,
+            435.0546569824219
+          ]
+        ]
+      },
+      {
+        "title": "a) The authorised representatives' own obligations",
+        "heading_level": null,
+        "page_id": 3,
+        "polygon": [
+          [
+            87.61160086144127,
+            447.6864139764094
+          ],
+          [
+            342.32027775454577,
+            447.6864139764094
+          ],
+          [
+            342.32027775454577,
+            464.24774169921875
+          ],
+          [
+            87.61160086144127,
+            464.24774169921875
+          ]
+        ]
+      },
+      {
+        "title": "b) The authorised representative's verification obligations toward the manufacturer",
+        "heading_level": null,
+        "page_id": 4,
+        "polygon": [
+          [
+            86.30309574309764,
+            143.38343615374816
+          ],
+          [
+            498.77130126953125,
+            143.38343615374816
+          ],
+          [
+            498.77130126953125,
+            158.79779052734375
+          ],
+          [
+            86.30309574309764,
+            158.79779052734375
+          ]
+        ]
+      },
+      {
+        "title": "6. Minimum tasks & responsibilities of the authorised representative",
+        "heading_level": null,
+        "page_id": 4,
+        "polygon": [
+          [
+            87.00498424309026,
+            301.77518950247486
+          ],
+          [
+            453.9015418372166,
+            301.77518950247486
+          ],
+          [
+            453.9015418372166,
+            318.56842041015625
+          ],
+          [
+            87.00498424309026,
+            318.56842041015625
+          ]
+        ]
+      },
+      {
+        "title": "Medical Devices",
+        "heading_level": null,
+        "page_id": 5,
+        "polygon": [
+          [
+            68.79159588177198,
+            34.428709442872396
+          ],
+          [
+            304.44110107421875,
+            34.428709442872396
+          ],
+          [
+            304.44110107421875,
+            59.28839111328125
+          ],
+          [
+            68.79159588177198,
+            59.28839111328125
+          ]
+        ]
+      },
+      {
+        "title": "7. Liability",
+        "heading_level": null,
+        "page_id": 6,
+        "polygon": [
+          [
+            87.03088106016067,
+            304.23776859273255
+          ],
+          [
+            150.26254141781132,
+            304.23776859273255
+          ],
+          [
+            150.26254141781132,
+            320.1614990234375
+          ],
+          [
+            87.03088106016067,
+            320.1614990234375
+          ]
+        ]
+      },
+      {
+        "title": "",
+        "heading_level": null,
+        "page_id": 7,
+        "polygon": [
+          [
+            68.67936106953272,
+            34.76410801412798
+          ],
+          [
+            227.0413238756002,
+            34.76410801412798
+          ],
+          [
+            227.0413238756002,
+            56.358580340472905
+          ],
+          [
+            68.67936106953272,
+            56.358580340472905
+          ]
+        ]
+      },
+      {
+        "title": "8. Termination of the mandate",
+        "heading_level": null,
+        "page_id": 7,
+        "polygon": [
+          [
+            86.50406810078272,
+            273.481050105787
+          ],
+          [
+            253.67717952391962,
+            273.481050105787
+          ],
+          [
+            253.67717952391962,
+            289.5284423828125
+          ],
+          [
+            86.50406810078272,
+            289.5284423828125
+          ]
+        ]
+      },
+      {
+        "title": "9. Change of authorised representative",
+        "heading_level": null,
+        "page_id": 7,
+        "polygon": [
+          [
+            86.6277795210293,
+            694.5909401544586
+          ],
+          [
+            302.3019104003906,
+            694.5909401544586
+          ],
+          [
+            302.3019104003906,
+            711.4646453857422
+          ],
+          [
+            86.6277795210293,
+            711.4646453857422
+          ]
+        ]
+      },
+      {
+        "title": "",
+        "heading_level": null,
+        "page_id": 8,
+        "polygon": [
+          [
+            68.73660666516206,
+            34.667508323173486
+          ],
+          [
+            227.1574185849437,
+            34.667508323173486
+          ],
+          [
+            227.1574185849437,
+            56.32859875618721
+          ],
+          [
+            68.73660666516206,
+            56.32859875618721
+          ]
+        ]
+      },
+      {
+        "title": "10. Person Responsible for Regulatory Compliance (PRRC)",
+        "heading_level": null,
+        "page_id": 8,
+        "polygon": [
+          [
+            87.77362491021528,
+            317.0642053429186
+          ],
+          [
+            400.5062680184391,
+            317.0642053429186
+          ],
+          [
+            400.5062680184391,
+            333.1546630859375
+          ],
+          [
+            87.77362491021528,
+            333.1546630859375
+          ]
+        ]
+      },
+      {
+        "title": "11. Market Surveillance",
+        "heading_level": null,
+        "page_id": 8,
+        "polygon": [
+          [
+            87.24447539591368,
+            594.2515176176919
+          ],
+          [
+            214.50079345703125,
+            594.2515176176919
+          ],
+          [
+            214.50079345703125,
+            609.618408203125
+          ],
+          [
+            87.24447539591368,
+            609.618408203125
+          ]
+        ]
+      },
+      {
+        "title": "12. Transitional provisions",
+        "heading_level": null,
+        "page_id": 9,
+        "polygon": [
+          [
+            87.32972528952494,
+            242.3271200124005
+          ],
+          [
+            232.8492663789456,
+            242.3271200124005
+          ],
+          [
+            232.8492663789456,
+            258.08843994140625
+          ],
+          [
+            87.32972528952494,
+            258.08843994140625
+          ]
+        ]
+      }
+    ],
+    "page_stats": [
+      {
+        "page_id": 0,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            40
+          ],
+          [
+            "Line",
+            16
+          ],
+          [
+            "Text",
+            4
+          ],
+          [
+            "PageHeader",
+            2
+          ],
+          [
+            "SectionHeader",
+            2
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 1,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            175
+          ],
+          [
+            "Line",
+            49
+          ],
+          [
+            "Text",
+            4
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "SectionHeader",
+            3
+          ],
+          [
+            "Footnote",
+            2
+          ],
+          [
+            "ListGroup",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 2,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            162
+          ],
+          [
+            "Line",
+            45
+          ],
+          [
+            "Text",
+            6
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "SectionHeader",
+            2
+          ],
+          [
+            "ListGroup",
+            1
+          ],
+          [
+            "Footnote",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 3,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            166
+          ],
+          [
+            "Line",
+            41
+          ],
+          [
+            "Text",
+            7
+          ],
+          [
+            "SectionHeader",
+            3
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "ListGroup",
+            2
+          ],
+          [
+            "Footnote",
+            2
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 4,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            163
+          ],
+          [
+            "Line",
+            42
+          ],
+          [
+            "Text",
+            8
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "SectionHeader",
+            2
+          ],
+          [
+            "Footnote",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 5,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            168
+          ],
+          [
+            "Line",
+            44
+          ],
+          [
+            "Text",
+            9
+          ],
+          [
+            "ListGroup",
+            4
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "Footnote",
+            3
+          ],
+          [
+            "SectionHeader",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 6,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            165
+          ],
+          [
+            "Line",
+            42
+          ],
+          [
+            "Text",
+            8
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "ListGroup",
+            3
+          ],
+          [
+            "Footnote",
+            2
+          ],
+          [
+            "SectionHeader",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 7,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            174
+          ],
+          [
+            "Line",
+            41
+          ],
+          [
+            "Text",
+            7
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "SectionHeader",
+            3
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 8,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            163
+          ],
+          [
+            "Line",
+            42
+          ],
+          [
+            "Text",
+            7
+          ],
+          [
+            "Footnote",
+            4
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "SectionHeader",
+            3
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 9,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            133
+          ],
+          [
+            "Line",
+            31
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "Text",
+            3
+          ],
+          [
+            "Footnote",
+            2
+          ],
+          [
+            "ListGroup",
+            1
+          ],
+          [
+            "SectionHeader",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      }
+    ],
+    "debug_data_path": "debug_data/mdcg_202216_en"
+  }
+}

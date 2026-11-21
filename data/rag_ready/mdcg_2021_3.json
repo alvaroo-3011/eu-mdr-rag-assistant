@@ -1,0 +1,5802 @@
+{
+  "children": [
+    {
+      "id": "/page/0/Page/54",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/0/PageHeader/0'></content-ref><content-ref src='/page/0/PageHeader/1'></content-ref><content-ref src='/page/0/PageHeader/2'></content-ref><content-ref src='/page/0/PageFooter/9'></content-ref><content-ref src='/page/0/SectionHeader/3'></content-ref><content-ref src='/page/0/SectionHeader/4'></content-ref><content-ref src='/page/0/Text/5'></content-ref><content-ref src='/page/0/SectionHeader/6'></content-ref><content-ref src='/page/0/Text/7'></content-ref><content-ref src='/page/0/Text/8'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/0/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.38695985424128,
+              33.61846923828125
+            ],
+            [
+              206.61536689969694,
+              33.61846923828125
+            ],
+            [
+              206.61536689969694,
+              61.4339599609375
+            ],
+            [
+              67.38695985424128,
+              61.4339599609375
+            ]
+          ],
+          "bbox": [
+            67.38695985424128,
+            33.61846923828125,
+            206.61536689969694,
+            61.4339599609375
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              435.0851734074897,
+              60.18033195624687
+            ],
+            [
+              523.6612674895702,
+              60.18033195624687
+            ],
+            [
+              523.6612674895702,
+              74.85800560860366
+            ],
+            [
+              435.0851734074897,
+              74.85800560860366
+            ]
+          ],
+          "bbox": [
+            435.0851734074897,
+            60.18033195624687,
+            523.6612674895702,
+            74.85800560860366
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              66.8438081909487,
+              52.51861572265625
+            ],
+            [
+              527.135498046875,
+              52.51861572265625
+            ],
+            [
+              527.135498046875,
+              79.512451171875
+            ],
+            [
+              66.8438081909487,
+              79.512451171875
+            ]
+          ],
+          "bbox": [
+            66.8438081909487,
+            52.51861572265625,
+            527.135498046875,
+            79.512451171875
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageFooter/9",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              516.04043325429,
+              776.6492862310774
+            ],
+            [
+              525.4393399716624,
+              776.6492862310774
+            ],
+            [
+              525.4393399716624,
+              793.2334403991699
+            ],
+            [
+              516.04043325429,
+              793.2334403991699
+            ]
+          ],
+          "bbox": [
+            516.04043325429,
+            776.6492862310774,
+            525.4393399716624,
+            793.2334403991699
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/SectionHeader/3",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>MDCG 2021-3</b></h1>",
+          "polygon": [
+            [
+              68.71829219789288,
+              168.54351806640625
+            ],
+            [
+              198.0826806517632,
+              168.54351806640625
+            ],
+            [
+              198.0826806517632,
+              199.0240478515625
+            ],
+            [
+              68.71829219789288,
+              199.0240478515625
+            ]
+          ],
+          "bbox": [
+            68.71829219789288,
+            168.54351806640625,
+            198.0826806517632,
+            199.0240478515625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/SectionHeader/4",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>Questions and Answers on Custom-Made Devices</b></h1>",
+          "polygon": [
+            [
+              68.62273970058642,
+              229.0235595703125
+            ],
+            [
+              525.5925446709698,
+              229.0235595703125
+            ],
+            [
+              525.5925446709698,
+              259.5040283203125
+            ],
+            [
+              68.62273970058642,
+              259.5040283203125
+            ]
+          ],
+          "bbox": [
+            68.62273970058642,
+            229.0235595703125,
+            525.5925446709698,
+            259.5040283203125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><i>&amp; considerations on Adaptable medical devices and Patient-matched medical devices</i></p>",
+          "polygon": [
+            [
+              68.42130346802679,
+              265.51667727218177
+            ],
+            [
+              486.345935581313,
+              265.51667727218177
+            ],
+            [
+              486.345935581313,
+              282.63201904296875
+            ],
+            [
+              68.42130346802679,
+              282.63201904296875
+            ]
+          ],
+          "bbox": [
+            68.42130346802679,
+            265.51667727218177,
+            486.345935581313,
+            282.63201904296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/SectionHeader/6",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>March 2021</b></h2>",
+          "polygon": [
+            [
+              68.1936611684804,
+              353.93756103515625
+            ],
+            [
+              150.1770166353855,
+              353.93756103515625
+            ],
+            [
+              150.1770166353855,
+              376.09002685546875
+            ],
+            [
+              68.1936611684804,
+              376.09002685546875
+            ]
+          ],
+          "bbox": [
+            68.1936611684804,
+            353.93756103515625,
+            150.1770166353855,
+            376.09002685546875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/0/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">This document has been endorsed by the Medical Device Coordination Group (MDCG)  established by Article 103 of Regulation (EU) 2017/745. The MDCG is composed of  representatives of all Member States and a representative of the European  Commission chairs it.</p>",
+          "polygon": [
+            [
+              67.56830629593779,
+              446.7961585570528
+            ],
+            [
+              528.3678679574347,
+              446.7961585570528
+            ],
+            [
+              528.3678679574347,
+              526.9400024414062
+            ],
+            [
+              67.56830629593779,
+              526.9400024414062
+            ]
+          ],
+          "bbox": [
+            67.56830629593779,
+            446.7961585570528,
+            528.3678679574347,
+            526.9400024414062
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/0/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The document is not a European Commission document and it cannot be regarded as  reflecting the official position of the European Commission. Any views expressed in  this document are not legally binding and only the Court of Justice of the European  Union can give binding interpretations of Union law.</p>",
+          "polygon": [
+            [
+              67.60037093078459,
+              537.2208942199327
+            ],
+            [
+              528.1792942306557,
+              537.2208942199327
+            ],
+            [
+              528.1792942306557,
+              617.7800140380859
+            ],
+            [
+              67.60037093078459,
+              617.7800140380859
+            ]
+          ],
+          "bbox": [
+            67.60037093078459,
+            537.2208942199327,
+            528.1792942306557,
+            617.7800140380859
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/0/SectionHeader/6"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/4",
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/1/Page/216",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/1/PageHeader/0'></content-ref><content-ref src='/page/1/PageHeader/1'></content-ref><content-ref src='/page/1/PageHeader/2'></content-ref><content-ref src='/page/1/PageFooter/14'></content-ref><content-ref src='/page/1/SectionHeader/3'></content-ref><content-ref src='/page/1/Text/4'></content-ref><content-ref src='/page/1/Text/5'></content-ref><content-ref src='/page/1/SectionHeader/6'></content-ref><content-ref src='/page/1/Text/7'></content-ref><content-ref src='/page/1/Text/210'></content-ref><content-ref src='/page/1/Text/9'></content-ref><content-ref src='/page/1/ListGroup/10'></content-ref><content-ref src='/page/1/Text/11'></content-ref><content-ref src='/page/1/ListGroup/12'></content-ref><content-ref src='/page/1/Footnote/13'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/1/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.54293634909526,
+              33.61846923828125
+            ],
+            [
+              206.45260981408413,
+              33.61846923828125
+            ],
+            [
+              206.45260981408413,
+              61.4339599609375
+            ],
+            [
+              67.54293634909526,
+              61.4339599609375
+            ]
+          ],
+          "bbox": [
+            67.54293634909526,
+            33.61846923828125,
+            206.45260981408413,
+            61.4339599609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/0/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              435.0265304603865,
+              59.662457460180946
+            ],
+            [
+              523.6139866134682,
+              59.662457460180946
+            ],
+            [
+              523.6139866134682,
+              74.45176941352769
+            ],
+            [
+              435.0265304603865,
+              74.45176941352769
+            ]
+          ],
+          "bbox": [
+            435.0265304603865,
+            59.662457460180946,
+            523.6139866134682,
+            74.45176941352769
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/0/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.08114604805819,
+              52.63848876953125
+            ],
+            [
+              527.2554931640625,
+              52.63848876953125
+            ],
+            [
+              527.2554931640625,
+              79.63238525390625
+            ],
+            [
+              67.08114604805819,
+              79.63238525390625
+            ]
+          ],
+          "bbox": [
+            67.08114604805819,
+            52.63848876953125,
+            527.2554931640625,
+            79.63238525390625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/0/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageFooter/14",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              515.3184835976857,
+              774.5324830949465
+            ],
+            [
+              526.8822313592176,
+              774.5324830949465
+            ],
+            [
+              526.8822313592176,
+              793.2334403991699
+            ],
+            [
+              515.3184835976857,
+              793.2334403991699
+            ]
+          ],
+          "bbox": [
+            515.3184835976857,
+            774.5324830949465,
+            526.8822313592176,
+            793.2334403991699
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/0/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/3",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>Introduction</b></h2>",
+          "polygon": [
+            [
+              67.57447984056448,
+              83.62396240234375
+            ],
+            [
+              143.20659224272373,
+              83.62396240234375
+            ],
+            [
+              143.20659224272373,
+              104.3719482421875
+            ],
+            [
+              67.57447984056448,
+              104.3719482421875
+            ]
+          ],
+          "bbox": [
+            67.57447984056448,
+            83.62396240234375,
+            143.20659224272373,
+            104.3719482421875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/1/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">This Q&amp;A is a high-level document aimed at addressing the most pertinent questions relating  to custom-made devices falling under Regulation (EU) 2017/745 on medical devices (MDR). Further guidance on this subject may be elaborated by the MDCG, as appropriate.</p>",
+          "polygon": [
+            [
+              67.7878851902575,
+              109.2301025390625
+            ],
+            [
+              527.4398433195253,
+              109.2301025390625
+            ],
+            [
+              527.4398433195253,
+              159.539306640625
+            ],
+            [
+              67.7878851902575,
+              159.539306640625
+            ]
+          ],
+          "bbox": [
+            67.7878851902575,
+            109.2301025390625,
+            527.4398433195253,
+            159.539306640625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/1/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In accordance with Recital 5 of the MDR, certain references to International Medical Device  Regulatory Forum (IMDRF) guidance documents and terminology included therein have been  taken into account under this Q&amp;A. Specifically, the MDR regulatory status of adaptable  medical devices and patient-matched medical devices (introduced by<a href=\"http://www.imdrf.org/docs/imdrf/final/technical/imdrf-tech-181018-pmd-definitions-n49.pdf\"> IMDRF PMD WG/N49 </a> <a href=\"http://www.imdrf.org/docs/imdrf/final/technical/imdrf-tech-181018-pmd-definitions-n49.pdf\">FINAL: 2018)</a> is clarified in this Q&amp;A.</p>",
+          "polygon": [
+            [
+              67.62315806814044,
+              164.55157470703125
+            ],
+            [
+              528.1416802778652,
+              164.55157470703125
+            ],
+            [
+              528.1416802778652,
+              246.41741943359375
+            ],
+            [
+              67.62315806814044,
+              246.41741943359375
+            ]
+          ],
+          "bbox": [
+            67.62315806814044,
+            164.55157470703125,
+            528.1416802778652,
+            246.41741943359375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/1/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/6",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>1.</b> <b>What is a custom-made device (CMD)?</b></h2>",
+          "polygon": [
+            [
+              97.19813064844242,
+              255.34393310546875
+            ],
+            [
+              335.79934238847017,
+              255.34393310546875
+            ],
+            [
+              335.79934238847017,
+              276.0919189453125
+            ],
+            [
+              97.19813064844242,
+              276.0919189453125
+            ]
+          ],
+          "bbox": [
+            97.19813064844242,
+            255.34393310546875,
+            335.79934238847017,
+            276.0919189453125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/1/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">MDR Article 2(3) defines a 'custom-made device' as any device that:</p>",
+          "polygon": [
+            [
+              67.29484346711665,
+              283.4700927734375
+            ],
+            [
+              400.1151470501417,
+              283.4700927734375
+            ],
+            [
+              400.1151470501417,
+              302.33740234375
+            ],
+            [
+              67.29484346711665,
+              302.33740234375
+            ]
+          ],
+          "bbox": [
+            67.29484346711665,
+            283.4700927734375,
+            400.1151470501417,
+            302.33740234375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/1/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/210",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">− is specifically made in accordance with a written prescription of any person authorised  by national law by virtue of that person's professional qualifications; which gives − specific design characteristics provided under that person's responsibility; and − is intended for the sole use of a particular patient exclusively to meet their individual  conditions and needs.</p>",
+          "polygon": [
+            [
+              85.4940807813361,
+              306.03009033203125
+            ],
+            [
+              528.245496620159,
+              306.03009033203125
+            ],
+            [
+              528.245496620159,
+              383.4573974609375
+            ],
+            [
+              85.4940807813361,
+              383.4573974609375
+            ]
+          ],
+          "bbox": [
+            85.4940807813361,
+            306.03009033203125,
+            528.245496620159,
+            383.4573974609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/1/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Examples of CMDs include:</p>",
+          "polygon": [
+            [
+              67.6988269411947,
+              393.86907958984375
+            ],
+            [
+              202.68759516564663,
+              393.86907958984375
+            ],
+            [
+              202.68759516564663,
+              412.7364196777344
+            ],
+            [
+              67.6988269411947,
+              412.7364196777344
+            ]
+          ],
+          "bbox": [
+            67.6988269411947,
+            393.86907958984375,
+            202.68759516564663,
+            412.7364196777344
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/1/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/ListGroup/10",
+          "block_type": "ListGroup",
+          "html": "<p block-type='ListGroup'><ul><content-ref src='/page/1/ListItem/211'></content-ref><content-ref src='/page/1/ListItem/212'></content-ref><content-ref src='/page/1/ListItem/213'></content-ref></ul></p>",
+          "polygon": [
+            [
+              86.10900705947684,
+              423.1471862792969
+            ],
+            [
+              527.8163035510469,
+              423.1471862792969
+            ],
+            [
+              527.8163035510469,
+              552.425537109375
+            ],
+            [
+              86.10900705947684,
+              552.425537109375
+            ]
+          ],
+          "bbox": [
+            86.10900705947684,
+            423.1471862792969,
+            527.8163035510469,
+            552.425537109375
+          ],
+          "children": [
+            {
+              "id": "/page/1/ListItem/211",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> A dental crown manufactured according to a written prescription provided by a dentist containing specific design characteristics for a particular patient's individual condition.</li>",
+              "polygon": [
+                [
+                  88.91520690917969,
+                  423.1471862792969
+                ],
+                [
+                  524.54150390625,
+                  423.1471862792969
+                ],
+                [
+                  524.54150390625,
+                  457.73553466796875
+                ],
+                [
+                  88.91520690917969,
+                  457.73553466796875
+                ]
+              ],
+              "bbox": [
+                88.91520690917969,
+                423.1471862792969,
+                524.54150390625,
+                457.73553466796875
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/0/SectionHeader/4",
+                "2": "/page/1/SectionHeader/6"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/1/ListItem/212",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> An orthosis made in accordance with a written prescription containing specific design  characteristic to aid a person with neuromuscular or musculoskeletal impairment of the  lower extremity, such as a Knee Ankle Foot Orthosis (KAFO).</li>",
+              "polygon": [
+                [
+                  88.9262466430664,
+                  454.7105407714844
+                ],
+                [
+                  527.4207153320312,
+                  454.7105407714844
+                ],
+                [
+                  527.4207153320312,
+                  505.14129638671875
+                ],
+                [
+                  88.9262466430664,
+                  505.14129638671875
+                ]
+              ],
+              "bbox": [
+                88.9262466430664,
+                454.7105407714844,
+                527.4207153320312,
+                505.14129638671875
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/0/SectionHeader/4",
+                "2": "/page/1/SectionHeader/6"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/1/ListItem/213",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> Hand prosthesis intended to replace a lost body part and/or function made in  accordance with a written prescription, where the practionner provides patient specific  design characteristics necessary for the manufacturing of the device.</li>",
+              "polygon": [
+                [
+                  88.9262466430664,
+                  502.11627197265625
+                ],
+                [
+                  527.4559936523438,
+                  502.11627197265625
+                ],
+                [
+                  527.4559936523438,
+                  552.425537109375
+                ],
+                [
+                  88.9262466430664,
+                  552.425537109375
+                ]
+              ],
+              "bbox": [
+                88.9262466430664,
+                502.11627197265625,
+                527.4559936523438,
+                552.425537109375
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/0/SectionHeader/4",
+                "2": "/page/1/SectionHeader/6"
+              },
+              "images": {}
+            }
+          ],
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/1/SectionHeader/6"
+          },
+          "images": null
+        },
+        {
+          "id": "/page/1/Text/11",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Devices which are not considered CMDs may include:</p>",
+          "polygon": [
+            [
+              67.52891129270309,
+              557.3163146972656
+            ],
+            [
+              332.0966491699219,
+              557.3163146972656
+            ],
+            [
+              332.0966491699219,
+              576.1836853027344
+            ],
+            [
+              67.52891129270309,
+              576.1836853027344
+            ]
+          ],
+          "bbox": [
+            67.52891129270309,
+            557.3163146972656,
+            332.0966491699219,
+            576.1836853027344
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/1/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/ListGroup/12",
+          "block_type": "ListGroup",
+          "html": "<p block-type='ListGroup'><ul><content-ref src='/page/1/ListItem/214'></content-ref><content-ref src='/page/1/ListItem/215'></content-ref></ul></p>",
+          "polygon": [
+            [
+              104.52001184420261,
+              581.1900939941406
+            ],
+            [
+              527.8925393822811,
+              581.1900939941406
+            ],
+            [
+              527.8925393822811,
+              673.2564849853516
+            ],
+            [
+              104.52001184420261,
+              673.2564849853516
+            ]
+          ],
+          "bbox": [
+            104.52001184420261,
+            581.1900939941406,
+            527.8925393822811,
+            673.2564849853516
+          ],
+          "children": [
+            {
+              "id": "/page/1/ListItem/214",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\">(a) Devices that are mass-produced which need to be adapted to meet the specific  requirements of any professional user, hereafter referred to as adaptable medical  devices.<a href=\"#page-1-0\">1</a></li>",
+              "polygon": [
+                [
+                  106.31999969482422,
+                  581.1900939941406
+                ],
+                [
+                  527.4544067382812,
+                  581.1900939941406
+                ],
+                [
+                  527.4544067382812,
+                  629.3374481201172
+                ],
+                [
+                  106.31999969482422,
+                  629.3374481201172
+                ]
+              ],
+              "bbox": [
+                106.31999969482422,
+                581.1900939941406,
+                527.4544067382812,
+                629.3374481201172
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/0/SectionHeader/4",
+                "2": "/page/1/SectionHeader/6"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/1/ListItem/215",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\">(b) Devices that are mass-produced by means of industrial manufacturing processes,  potentially made in accordance with the written prescriptions of an authorised  person.</li>",
+              "polygon": [
+                [
+                  106.31999969482422,
+                  625.1100769042969
+                ],
+                [
+                  527.423095703125,
+                  625.1100769042969
+                ],
+                [
+                  527.423095703125,
+                  673.2564849853516
+                ],
+                [
+                  106.31999969482422,
+                  673.2564849853516
+                ]
+              ],
+              "bbox": [
+                106.31999969482422,
+                625.1100769042969,
+                527.423095703125,
+                673.2564849853516
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/0/SectionHeader/4",
+                "2": "/page/1/SectionHeader/6"
+              },
+              "images": {}
+            }
+          ],
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/1/SectionHeader/6"
+          },
+          "images": null
+        },
+        {
+          "id": "/page/1/Footnote/13",
+          "block_type": "Footnote",
+          "html": "<p><span id=\"page-1-0\"></span><sup> </sup><sup>1</sup> An Adaptable medical device is defined in in <i><a href=\"http://www.imdrf.org/docs/imdrf/final/technical/imdrf-tech-181018-pmd-definitions-n49.pdf\">IMDRF PMD WG/N49 FINAL: 2018</a></i> as a mass-produced medical device that must be  adapted or assembled at the point of care, in accordance with the manufacturer's validated instructions, to suit an individual  patient's specific anatomo-physio logic features prior to use.</p>",
+          "polygon": [
+            [
+              68.38138732141451,
+              719.0825653076172
+            ],
+            [
+              527.4668740529557,
+              719.0825653076172
+            ],
+            [
+              527.4668740529557,
+              766.8215560913086
+            ],
+            [
+              68.38138732141451,
+              766.8215560913086
+            ]
+          ],
+          "bbox": [
+            68.38138732141451,
+            719.0825653076172,
+            527.4668740529557,
+            766.8215560913086
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/1/SectionHeader/6"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/4",
+        "2": "/page/1/SectionHeader/6"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/2/Page/234",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/2/PageHeader/1'></content-ref><content-ref src='/page/2/PageHeader/2'></content-ref><content-ref src='/page/2/SectionHeader/0'></content-ref><content-ref src='/page/2/PageFooter/15'></content-ref><content-ref src='/page/2/Text/3'></content-ref><content-ref src='/page/2/Text/4'></content-ref><content-ref src='/page/2/ListGroup/5'></content-ref><content-ref src='/page/2/Text/6'></content-ref><content-ref src='/page/2/Text/7'></content-ref><content-ref src='/page/2/ListGroup/8'></content-ref><content-ref src='/page/2/Text/9'></content-ref><content-ref src='/page/2/Text/10'></content-ref><content-ref src='/page/2/Footnote/11'></content-ref><content-ref src='/page/2/Footnote/12'></content-ref><content-ref src='/page/2/Footnote/13'></content-ref><content-ref src='/page/2/Footnote/14'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/2/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              434.5761709525543,
+              59.414840779767324
+            ],
+            [
+              523.6045487641687,
+              59.414840779767324
+            ],
+            [
+              523.6045487641687,
+              74.32907940124892
+            ],
+            [
+              434.5761709525543,
+              74.32907940124892
+            ]
+          ],
+          "bbox": [
+            434.5761709525543,
+            59.414840779767324,
+            523.6045487641687,
+            74.32907940124892
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/1/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.32997196687559,
+              52.63848876953125
+            ],
+            [
+              527.2554931640625,
+              52.63848876953125
+            ],
+            [
+              527.2554931640625,
+              79.63238525390625
+            ],
+            [
+              67.32997196687559,
+              79.63238525390625
+            ]
+          ],
+          "bbox": [
+            67.32997196687559,
+            52.63848876953125,
+            527.2554931640625,
+            79.63238525390625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/4",
+            "2": "/page/1/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/0",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.45378074357731,
+              33.61846923828125
+            ],
+            [
+              206.347350305514,
+              33.61846923828125
+            ],
+            [
+              206.347350305514,
+              61.4339599609375
+            ],
+            [
+              67.45378074357731,
+              61.4339599609375
+            ]
+          ],
+          "bbox": [
+            67.45378074357731,
+            33.61846923828125,
+            206.347350305514,
+            61.4339599609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/PageFooter/15",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              514.7619711926361,
+              774.8135580876419
+            ],
+            [
+              526.414462226464,
+              774.8135580876419
+            ],
+            [
+              526.414462226464,
+              793.2334403991699
+            ],
+            [
+              514.7619711926361,
+              793.2334403991699
+            ]
+          ],
+          "bbox": [
+            514.7619711926361,
+            774.8135580876419,
+            526.414462226464,
+            793.2334403991699
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/3",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Note 1: Adaptable medical devices (products which fall under (a) above) are mass-produced<a href=\"#page-2-0\">2</a> medical devices which must be adapted, adjusted, assembled or shaped at the point of care,  traditionally by a healthcare professional, in accordance with the manufacturer's validated  instructions<a href=\"#page-2-1\">3</a> to suit an individual patient's specific anatomo-physiologic features prior to use.</p>",
+          "polygon": [
+            [
+              67.68757940719951,
+              83.90240478515625
+            ],
+            [
+              527.4352416992188,
+              83.90240478515625
+            ],
+            [
+              527.4352416992188,
+              150.06170654296875
+            ],
+            [
+              67.68757940719951,
+              150.06170654296875
+            ]
+          ],
+          "bbox": [
+            67.68757940719951,
+            83.90240478515625,
+            527.4352416992188,
+            150.06170654296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Examples of mass produced adaptable medical devices may include:</p>",
+          "polygon": [
+            [
+              67.73662415319485,
+              154.94818115234375
+            ],
+            [
+              402.45115219615866,
+              154.94818115234375
+            ],
+            [
+              402.45115219615866,
+              173.8155517578125
+            ],
+            [
+              67.73662415319485,
+              173.8155517578125
+            ]
+          ],
+          "bbox": [
+            67.73662415319485,
+            154.94818115234375,
+            402.45115219615866,
+            173.8155517578125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/ListGroup/5",
+          "block_type": "ListGroup",
+          "html": "<p block-type='ListGroup'><ul><content-ref src='/page/2/ListItem/223'></content-ref><content-ref src='/page/2/ListItem/224'></content-ref><content-ref src='/page/2/ListItem/225'></content-ref><content-ref src='/page/2/ListItem/226'></content-ref><content-ref src='/page/2/ListItem/227'></content-ref></ul></p>",
+          "polygon": [
+            [
+              86.69329468849624,
+              178.94915771484375
+            ],
+            [
+              520.951871703794,
+              178.94915771484375
+            ],
+            [
+              520.951871703794,
+              260.82183837890625
+            ],
+            [
+              86.69329468849624,
+              260.82183837890625
+            ]
+          ],
+          "bbox": [
+            86.69329468849624,
+            178.94915771484375,
+            520.951871703794,
+            260.82183837890625
+          ],
+          "children": [
+            {
+              "id": "/page/2/ListItem/223",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> certain spectacle frames and optical glasses (assembled together to form spectacles).</li>",
+              "polygon": [
+                [
+                  88.91958618164062,
+                  178.94915771484375
+                ],
+                [
+                  518.2763671875,
+                  178.94915771484375
+                ],
+                [
+                  518.2763671875,
+                  197.81646728515625
+                ],
+                [
+                  88.91958618164062,
+                  197.81646728515625
+                ]
+              ],
+              "bbox": [
+                88.91958618164062,
+                178.94915771484375,
+                518.2763671875,
+                197.81646728515625
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/2/SectionHeader/0"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/2/ListItem/224",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> patient fitted wheelchairs.</li>",
+              "polygon": [
+                [
+                  88.91962432861328,
+                  194.67010498046875
+                ],
+                [
+                  231.72203063964844,
+                  194.67010498046875
+                ],
+                [
+                  231.72203063964844,
+                  213.53741455078125
+                ],
+                [
+                  88.91962432861328,
+                  213.53741455078125
+                ]
+              ],
+              "bbox": [
+                88.91962432861328,
+                194.67010498046875,
+                231.72203063964844,
+                213.53741455078125
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/2/SectionHeader/0"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/2/ListItem/225",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> hearing aids (otoplastic and amplifier).</li>",
+              "polygon": [
+                [
+                  88.91963195800781,
+                  210.51251220703125
+                ],
+                [
+                  292.6849060058594,
+                  210.51251220703125
+                ],
+                [
+                  292.6849060058594,
+                  229.3798828125
+                ],
+                [
+                  88.91963195800781,
+                  229.3798828125
+                ]
+              ],
+              "bbox": [
+                88.91963195800781,
+                210.51251220703125,
+                292.6849060058594,
+                229.3798828125
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/2/SectionHeader/0"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/2/ListItem/226",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> orthotic braces.</li>",
+              "polygon": [
+                [
+                  88.93067169189453,
+                  226.2333984375
+                ],
+                [
+                  181.93162536621094,
+                  226.2333984375
+                ],
+                [
+                  181.93162536621094,
+                  245.10076904296875
+                ],
+                [
+                  88.93067169189453,
+                  245.10076904296875
+                ]
+              ],
+              "bbox": [
+                88.93067169189453,
+                226.2333984375,
+                181.93162536621094,
+                245.10076904296875
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/2/SectionHeader/0"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/2/ListItem/227",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> exo-prosthetics.</li>",
+              "polygon": [
+                [
+                  88.93067169189453,
+                  241.9544677734375
+                ],
+                [
+                  184.3306427001953,
+                  241.9544677734375
+                ],
+                [
+                  184.3306427001953,
+                  260.82183837890625
+                ],
+                [
+                  88.93067169189453,
+                  260.82183837890625
+                ]
+              ],
+              "bbox": [
+                88.93067169189453,
+                241.9544677734375,
+                184.3306427001953,
+                260.82183837890625
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/2/SectionHeader/0"
+              },
+              "images": {}
+            }
+          ],
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/0"
+          },
+          "images": null
+        },
+        {
+          "id": "/page/2/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">According to MDR art. 16(1), a person (e.g. healthcare professional) who adapts, adjusts,  assembles or shapes an adaptable medical device for a particular patient is not regarded as a  manufacturer, as long as the adaptation, adjustment, assembly and shaping does not modify  the device in such a way that compliance with the applicable requirements may be affected or  changes the intended purpose.<a href=\"#page-2-2\">4</a></p>",
+          "polygon": [
+            [
+              67.89258919434823,
+              265.833984375
+            ],
+            [
+              528.0079010547859,
+              265.833984375
+            ],
+            [
+              528.0079010547859,
+              347.8280334472656
+            ],
+            [
+              67.89258919434823,
+              347.8280334472656
+            ]
+          ],
+          "bbox": [
+            67.89258919434823,
+            265.833984375,
+            528.0079010547859,
+            347.8280334472656
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Note 2: Patient-matched medical devices, as defined by IMDRF,<a href=\"#page-2-3\">5</a> are devices which may fall  under point (b) above. A patient-matched device is defined as a medical device that meets the  following requirements:</p>",
+          "polygon": [
+            [
+              68.08865364132359,
+              352.82958984375
+            ],
+            [
+              528.198536447674,
+              352.82958984375
+            ],
+            [
+              528.198536447674,
+              403.1393737792969
+            ],
+            [
+              68.08865364132359,
+              403.1393737792969
+            ]
+          ],
+          "bbox": [
+            68.08865364132359,
+            352.82958984375,
+            528.198536447674,
+            403.1393737792969
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/ListGroup/8",
+          "block_type": "ListGroup",
+          "html": "<p block-type='ListGroup'><ul><content-ref src='/page/2/ListItem/228'></content-ref><content-ref src='/page/2/ListItem/229'></content-ref><content-ref src='/page/2/ListItem/230'></content-ref></ul></p>",
+          "polygon": [
+            [
+              86.80020352995365,
+              408.1515197753906
+            ],
+            [
+              528.0797844797899,
+              408.1515197753906
+            ],
+            [
+              528.0797844797899,
+              537.4299011230469
+            ],
+            [
+              86.80020352995365,
+              537.4299011230469
+            ]
+          ],
+          "bbox": [
+            86.80020352995365,
+            408.1515197753906,
+            528.0797844797899,
+            537.4299011230469
+          ],
+          "children": [
+            {
+              "id": "/page/2/ListItem/228",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> it is matched to a patient's anatomy within a specified design envelope using  techniques such as scaling of the device based on anatomic references, or by using the  full anatomic features from patient imaging; and</li>",
+              "polygon": [
+                [
+                  88.923828125,
+                  408.1515197753906
+                ],
+                [
+                  527.475830078125,
+                  408.1515197753906
+                ],
+                [
+                  527.475830078125,
+                  458.5822448730469
+                ],
+                [
+                  88.923828125,
+                  458.5822448730469
+                ]
+              ],
+              "bbox": [
+                88.923828125,
+                408.1515197753906,
+                527.475830078125,
+                458.5822448730469
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/2/SectionHeader/0"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/2/ListItem/229",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> it is typically produced in a batch through a process that is capable of being validated  and reproduced; and</li>",
+              "polygon": [
+                [
+                  88.93484497070312,
+                  455.5572814941406
+                ],
+                [
+                  527.45361328125,
+                  455.5572814941406
+                ],
+                [
+                  527.45361328125,
+                  490.1455383300781
+                ],
+                [
+                  88.93484497070312,
+                  490.1455383300781
+                ]
+              ],
+              "bbox": [
+                88.93484497070312,
+                455.5572814941406,
+                527.45361328125,
+                490.1455383300781
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/2/SectionHeader/0"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/2/ListItem/230",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> it is designed and produced under the responsibility of a manufacturer even though  the design may be developed in consultation with an authorized healthcare  professional.</li>",
+              "polygon": [
+                [
+                  88.94589233398438,
+                  487.12060546875
+                ],
+                [
+                  527.48583984375,
+                  487.12060546875
+                ],
+                [
+                  527.48583984375,
+                  537.4299011230469
+                ],
+                [
+                  88.94589233398438,
+                  537.4299011230469
+                ]
+              ],
+              "bbox": [
+                88.94589233398438,
+                487.12060546875,
+                527.48583984375,
+                537.4299011230469
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/2/SectionHeader/0"
+              },
+              "images": {}
+            }
+          ],
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/0"
+          },
+          "images": null
+        },
+        {
+          "id": "/page/2/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Different from a custom-made device, these devices are typically produced in batches or  through mass production and do not require a written prescription by an authorised person  (see Q6 for more information on written prescriptions).</p>",
+          "polygon": [
+            [
+              67.46367101405069,
+              542.4420471191406
+            ],
+            [
+              527.5309689615475,
+              542.4420471191406
+            ],
+            [
+              527.5309689615475,
+              592.8727874755859
+            ],
+            [
+              67.46367101405069,
+              592.8727874755859
+            ]
+          ],
+          "bbox": [
+            67.46367101405069,
+            542.4420471191406,
+            527.5309689615475,
+            592.8727874755859
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In particular, a patient-matched medical device is held under the sole accountability of the  manufacturer who is entirely responsible for the design, safety, performance and overall  compliance of the device.</p>",
+          "polygon": [
+            [
+              67.34883621177384,
+              597.3980799850776
+            ],
+            [
+              527.715602615318,
+              597.3980799850776
+            ],
+            [
+              527.715602615318,
+              648.1942138671875
+            ],
+            [
+              67.34883621177384,
+              648.1942138671875
+            ]
+          ],
+          "bbox": [
+            67.34883621177384,
+            597.3980799850776,
+            527.715602615318,
+            648.1942138671875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Footnote/11",
+          "block_type": "Footnote",
+          "html": "<p><span id=\"page-2-0\"></span><sup> </sup><sup>2</sup> A mass-produced medical device is defined in <i><a href=\"http://www.imdrf.org/docs/imdrf/final/technical/imdrf-tech-181018-pmd-definitions-n49.pdf\">IMDRF PMD WG/N49 FINAL: 2018</a></i> as a medical device that is based on standardised  dimensions/designs; that is not designed for a particular individual; and that is typically produced in a continuous production run  or homogenous batch.</p>",
+          "polygon": [
+            [
+              67.13679385245297,
+              675.882568359375
+            ],
+            [
+              526.9662098920616,
+              675.882568359375
+            ],
+            [
+              526.9662098920616,
+              723.6209487915039
+            ],
+            [
+              67.13679385245297,
+              723.6209487915039
+            ]
+          ],
+          "bbox": [
+            67.13679385245297,
+            675.882568359375,
+            526.9662098920616,
+            723.6209487915039
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Footnote/12",
+          "block_type": "Footnote",
+          "html": "<p><span id=\"page-2-1\"></span><sup>3</sup> These instructions are those deemed necessary for the adaptation of the device and should not be confused with instructions  for use referred to in Annex I Chapter III 23.1d of Regulation (EU) 2017/745 on medical devices.</p>",
+          "polygon": [
+            [
+              67.9245793801411,
+              718.7262377038346
+            ],
+            [
+              526.58740234375,
+              718.7262377038346
+            ],
+            [
+              526.58740234375,
+              744.9815673828125
+            ],
+            [
+              67.9245793801411,
+              744.9815673828125
+            ]
+          ],
+          "bbox": [
+            67.9245793801411,
+            718.7262377038346,
+            526.58740234375,
+            744.9815673828125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Footnote/13",
+          "block_type": "Footnote",
+          "html": "<p><span id=\"page-2-2\"></span><sup>4</sup> Please note that components of a system or procedure pack, which can be assembled at the point of care are not subject of  this Q&amp;A.</p>",
+          "polygon": [
+            [
+              68.04882912431616,
+              741.3831153387272
+            ],
+            [
+              519.8353191539082,
+              741.3831153387272
+            ],
+            [
+              519.8353191539082,
+              768.0251617431641
+            ],
+            [
+              68.04882912431616,
+              768.0251617431641
+            ]
+          ],
+          "bbox": [
+            68.04882912431616,
+            741.3831153387272,
+            519.8353191539082,
+            768.0251617431641
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Footnote/14",
+          "block_type": "Footnote",
+          "html": "<p><span id=\"page-2-3\"></span><sup>5</sup> <a href=\"http://www.imdrf.org/docs/imdrf/final/technical/imdrf-tech-181018-pmd-definitions-n49.pdf\">IMDRF PMD WG/N49 FINAL: 2018</a></p>",
+          "polygon": [
+            [
+              67.70706215193049,
+              762.8957861936846
+            ],
+            [
+              198.59163729189623,
+              762.8957861936846
+            ],
+            [
+              198.59163729189623,
+              779.7844429016113
+            ],
+            [
+              67.70706215193049,
+              779.7844429016113
+            ]
+          ],
+          "bbox": [
+            67.70706215193049,
+            762.8957861936846,
+            198.59163729189623,
+            779.7844429016113
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/0"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/3/Page/188",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/3/PageHeader/1'></content-ref><content-ref src='/page/3/PageHeader/2'></content-ref><content-ref src='/page/3/SectionHeader/0'></content-ref><content-ref src='/page/3/PageFooter/10'></content-ref><content-ref src='/page/3/Text/3'></content-ref><content-ref src='/page/3/Text/4'></content-ref><content-ref src='/page/3/ListGroup/5'></content-ref><content-ref src='/page/3/SectionHeader/6'></content-ref><content-ref src='/page/3/Text/7'></content-ref><content-ref src='/page/3/Text/8'></content-ref><content-ref src='/page/3/Footnote/9'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/3/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              434.43432832424827,
+              59.83710538842056
+            ],
+            [
+              524.4569789780777,
+              59.83710538842056
+            ],
+            [
+              524.4569789780777,
+              74.43075285696708
+            ],
+            [
+              434.43432832424827,
+              74.43075285696708
+            ]
+          ],
+          "bbox": [
+            434.43432832424827,
+            59.83710538842056,
+            524.4569789780777,
+            74.43075285696708
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.3564128347248,
+              52.63848876953125
+            ],
+            [
+              527.2554931640625,
+              52.63848876953125
+            ],
+            [
+              527.2554931640625,
+              79.63238525390625
+            ],
+            [
+              67.3564128347248,
+              79.63238525390625
+            ]
+          ],
+          "bbox": [
+            67.3564128347248,
+            52.63848876953125,
+            527.2554931640625,
+            79.63238525390625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/SectionHeader/0",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.45175916542034,
+              33.61846923828125
+            ],
+            [
+              206.18429542368546,
+              33.61846923828125
+            ],
+            [
+              206.18429542368546,
+              61.4339599609375
+            ],
+            [
+              67.45175916542034,
+              61.4339599609375
+            ]
+          ],
+          "bbox": [
+            67.45175916542034,
+            33.61846923828125,
+            206.18429542368546,
+            61.4339599609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/PageFooter/10",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              515.303502157293,
+              775.9801428668327
+            ],
+            [
+              526.4067653396568,
+              775.9801428668327
+            ],
+            [
+              526.4067653396568,
+              793.2334403991699
+            ],
+            [
+              515.303502157293,
+              793.2334403991699
+            ]
+          ],
+          "bbox": [
+            515.303502157293,
+            775.9801428668327,
+            526.4067653396568,
+            793.2334403991699
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/3",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">It must be underlined that products which are adaptable medical devices or patient-matched  medical devices (as defined by IMDRF) are not qualified as CMDs and must follow the 'standard'  MDR regulatory pathway for placing on the market.</p>",
+          "polygon": [
+            [
+              67.60663610501614,
+              83.90240478515625
+            ],
+            [
+              528.5736680499252,
+              83.90240478515625
+            ],
+            [
+              528.5736680499252,
+              134.3331298828125
+            ],
+            [
+              67.60663610501614,
+              134.3331298828125
+            ]
+          ],
+          "bbox": [
+            67.60663610501614,
+            83.90240478515625,
+            528.5736680499252,
+            134.3331298828125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Examples of patient-matched devices:</p>",
+          "polygon": [
+            [
+              67.94781321182059,
+              139.223876953125
+            ],
+            [
+              255.02802897340405,
+              139.223876953125
+            ],
+            [
+              255.02802897340405,
+              158.0911865234375
+            ],
+            [
+              67.94781321182059,
+              158.0911865234375
+            ]
+          ],
+          "bbox": [
+            67.94781321182059,
+            139.223876953125,
+            255.02802897340405,
+            158.0911865234375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/ListGroup/5",
+          "block_type": "ListGroup",
+          "html": "<p block-type='ListGroup'><ul><content-ref src='/page/3/ListItem/182'></content-ref><content-ref src='/page/3/ListItem/183'></content-ref><content-ref src='/page/3/ListItem/184'></content-ref><content-ref src='/page/3/ListItem/185'></content-ref><content-ref src='/page/3/ListItem/186'></content-ref></ul></p>",
+          "polygon": [
+            [
+              85.48719138042152,
+              163.1009607085774
+            ],
+            [
+              529.894233915007,
+              163.1009607085774
+            ],
+            [
+              529.894233915007,
+              474.0330209434828
+            ],
+            [
+              85.48719138042152,
+              474.0330209434828
+            ]
+          ],
+          "bbox": [
+            85.48719138042152,
+            163.1009607085774,
+            529.894233915007,
+            474.0330209434828
+          ],
+          "children": [
+            {
+              "id": "/page/3/ListItem/182",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> Plates used to fix a broken bone, which are made by 3D printing, based on a template  model and DICOM files/ images of the patient. The plates are printed within the  validated dimensional ranges allowed by the specified design envelope under the sole  responsibility of the manufacturer.</li>",
+              "polygon": [
+                [
+                  88.87200927734375,
+                  163.10345458984375
+                ],
+                [
+                  527.4263916015625,
+                  163.10345458984375
+                ],
+                [
+                  527.4263916015625,
+                  229.37652587890625
+                ],
+                [
+                  88.87200927734375,
+                  229.37652587890625
+                ]
+              ],
+              "bbox": [
+                88.87200927734375,
+                163.10345458984375,
+                527.4263916015625,
+                229.37652587890625
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/3/SectionHeader/0"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/3/ListItem/183",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> Cutting guides used in procedures such as knee arthroplasties, or guides used for  pedicle screw placement, that are made by 3D printing based on MR or CT data to  match a specific patient.</li>",
+              "polygon": [
+                [
+                  88.87200927734375,
+                  226.23016357421875
+                ],
+                [
+                  527.430419921875,
+                  226.23016357421875
+                ],
+                [
+                  527.430419921875,
+                  276.7823486328125
+                ],
+                [
+                  88.87200927734375,
+                  276.7823486328125
+                ]
+              ],
+              "bbox": [
+                88.87200927734375,
+                226.23016357421875,
+                527.430419921875,
+                276.7823486328125
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/3/SectionHeader/0"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/3/ListItem/184",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> Mandibular implants produced by a 3D printing manufacturer, from a template model  and DICOM files.</li>",
+              "polygon": [
+                [
+                  88.88308715820312,
+                  273.635986328125
+                ],
+                [
+                  527.4229736328125,
+                  273.635986328125
+                ],
+                [
+                  527.4229736328125,
+                  308.345703125
+                ],
+                [
+                  88.88308715820312,
+                  308.345703125
+                ]
+              ],
+              "bbox": [
+                88.88308715820312,
+                273.635986328125,
+                527.4229736328125,
+                308.345703125
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/3/SectionHeader/0"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/3/ListItem/185",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> Made to order contact lenses which are produced on request typically in batches with  validated or verified production processes using standardised tools and materials and  within clearly specified dimensions. No specific or individual design process necessary.</li>",
+              "polygon": [
+                [
+                  88.89410400390625,
+                  305.19927978515625
+                ],
+                [
+                  527.4119873046875,
+                  305.19927978515625
+                ],
+                [
+                  527.4119873046875,
+                  355.6300964355469
+                ],
+                [
+                  88.89410400390625,
+                  355.6300964355469
+                ]
+              ],
+              "bbox": [
+                88.89410400390625,
+                305.19927978515625,
+                527.4119873046875,
+                355.6300964355469
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/3/SectionHeader/0"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/3/ListItem/186",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> An externally worn orthosis to support, prevent or assist body functions, based on  external 3D scan images and or measures, by a manufacturer who produces this  under his sole responsibility, within validated parameters. <ul><li block-type=\"ListItem\" class=\"list-indent-1\"><b>2.</b> <b>Can parts, components or materials specifically intended to be used in a </b> <b>custom-made device,</b> <b>adaptable medical device</b> <b>or patient-matched </b> <b>medical device</b> <b>be placed on the market as medical devices according to </b></li></ul></li>",
+              "polygon": [
+                [
+                  88.89410400390625,
+                  352.6051025390625
+                ],
+                [
+                  527.7156372070312,
+                  352.6051025390625
+                ],
+                [
+                  527.7156372070312,
+                  464.4920349121094
+                ],
+                [
+                  88.89410400390625,
+                  464.4920349121094
+                ]
+              ],
+              "bbox": [
+                88.89410400390625,
+                352.6051025390625,
+                527.7156372070312,
+                464.4920349121094
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/3/SectionHeader/0"
+              },
+              "images": {}
+            }
+          ],
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/0"
+          },
+          "images": null
+        },
+        {
+          "id": "/page/3/SectionHeader/6",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>the MDR? </b></h1>",
+          "polygon": [
+            [
+              96.52692088552325,
+              413.12056459747885
+            ],
+            [
+              528.4493266761452,
+              413.12056459747885
+            ],
+            [
+              528.4493266761452,
+              480.4519958496094
+            ],
+            [
+              96.52692088552325,
+              480.4519958496094
+            ]
+          ],
+          "bbox": [
+            96.52692088552325,
+            413.12056459747885,
+            528.4493266761452,
+            480.4519958496094
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In accordance with Article 2(1) MDR, the intended purpose of a medical device can be achieved  either alone or in combination with other devices or products. Certain parts, components or  materials may carry a medical intended purpose and can thus fulfil the definition of a medical  device. By analogy, parts, components or materials of custom-made devices, adaptable medical  devices or patient-matched medical devices may be CE-marked medical devices.</p>",
+          "polygon": [
+            [
+              67.44686843526154,
+              487.830078125
+            ],
+            [
+              528.2453133609492,
+              487.830078125
+            ],
+            [
+              528.2453133609492,
+              569.7027282714844
+            ],
+            [
+              67.44686843526154,
+              569.7027282714844
+            ]
+          ],
+          "bbox": [
+            67.44686843526154,
+            487.830078125,
+            528.2453133609492,
+            569.7027282714844
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Accordingly, it is possible for \"intermediate products\" which are specifically intended for the  manufacture of CMDs, adaptable medical devices or patient-matched medical devices to be  also placed on the market as medical devices, as these products are specifically intended to  become a part or component of a final CMD, adaptable medical device (finally adapted) or  patient-matched medical device. <a href=\"#page-3-0\"><sup>6</sup></a> Instructions for use provided by the manufacturer of these  CE marked devices should be followed when performing further preparatory processing,  preparation, configuration, installation, assembly, adaptation or fitting in order to meet the  needs of the user or patient prior to their use.</p>",
+          "polygon": [
+            [
+              67.42027866930445,
+              574.7148742675781
+            ],
+            [
+              528.0968734010942,
+              574.7148742675781
+            ],
+            [
+              528.0968734010942,
+              703.9803161621094
+            ],
+            [
+              67.42027866930445,
+              703.9803161621094
+            ]
+          ],
+          "bbox": [
+            67.42027866930445,
+            574.7148742675781,
+            528.0968734010942,
+            703.9803161621094
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Footnote/9",
+          "block_type": "Footnote",
+          "html": "<p><span id=\"page-3-0\"></span><sup> </sup><sup>6</sup> This essentially applies to dental ceramics and modular components for prosthesis, if these intermediate products are specifically  intended to be used for the manufacture of CMDs, adaptable medical devices or patient-matched medical devices.</p>",
+          "polygon": [
+            [
+              67.7237444668633,
+              743.3225631713867
+            ],
+            [
+              527.5680789515113,
+              743.3225631713867
+            ],
+            [
+              527.5680789515113,
+              780.5015525817871
+            ],
+            [
+              67.7237444668633,
+              780.5015525817871
+            ]
+          ],
+          "bbox": [
+            67.7237444668633,
+            743.3225631713867,
+            527.5680789515113,
+            780.5015525817871
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/6"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/4/Page/218",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/4/PageHeader/0'></content-ref><content-ref src='/page/4/PageHeader/1'></content-ref><content-ref src='/page/4/PageHeader/2'></content-ref><content-ref src='/page/4/PageFooter/14'></content-ref><content-ref src='/page/4/SectionHeader/3'></content-ref><content-ref src='/page/4/Text/4'></content-ref><content-ref src='/page/4/Text/215'></content-ref><content-ref src='/page/4/Text/6'></content-ref><content-ref src='/page/4/Text/7'></content-ref><content-ref src='/page/4/Text/8'></content-ref><content-ref src='/page/4/Text/9'></content-ref><content-ref src='/page/4/Text/10'></content-ref><content-ref src='/page/4/Footnote/11'></content-ref><content-ref src='/page/4/Footnote/12'></content-ref><content-ref src='/page/4/Footnote/13'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/4/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.55422969789288,
+              33.61846923828125
+            ],
+            [
+              206.3089345936811,
+              33.61846923828125
+            ],
+            [
+              206.3089345936811,
+              61.4339599609375
+            ],
+            [
+              67.55422969789288,
+              61.4339599609375
+            ]
+          ],
+          "bbox": [
+            67.55422969789288,
+            33.61846923828125,
+            206.3089345936811,
+            61.4339599609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              434.6260632723945,
+              59.94439050499499
+            ],
+            [
+              523.9993349166601,
+              59.94439050499499
+            ],
+            [
+              523.9993349166601,
+              74.57718231119647
+            ],
+            [
+              434.6260632723945,
+              74.57718231119647
+            ]
+          ],
+          "bbox": [
+            434.6260632723945,
+            59.94439050499499,
+            523.9993349166601,
+            74.57718231119647
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.32851734689861,
+              52.63848876953125
+            ],
+            [
+              527.2554931640625,
+              52.63848876953125
+            ],
+            [
+              527.2554931640625,
+              79.63238525390625
+            ],
+            [
+              67.32851734689861,
+              79.63238525390625
+            ]
+          ],
+          "bbox": [
+            67.32851734689861,
+            52.63848876953125,
+            527.2554931640625,
+            79.63238525390625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/PageFooter/14",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              514.948803956923,
+              774.5459373521677
+            ],
+            [
+              527.0427206121103,
+              774.5459373521677
+            ],
+            [
+              527.0427206121103,
+              793.2334403991699
+            ],
+            [
+              514.948803956923,
+              793.2334403991699
+            ]
+          ],
+          "bbox": [
+            514.948803956923,
+            774.5459373521677,
+            527.0427206121103,
+            793.2334403991699
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/SectionHeader/3",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>3.</b> <b>Are there specific considerations/requirements</b> <b>which must be taken into </b> <b>account by manufacturers of devices referred to in Question 2? </b></h2>",
+          "polygon": [
+            [
+              96.6273240250364,
+              83.7440185546875
+            ],
+            [
+              527.7108764648438,
+              83.7440185546875
+            ],
+            [
+              527.7108764648438,
+              120.4520263671875
+            ],
+            [
+              96.6273240250364,
+              120.4520263671875
+            ]
+          ],
+          "bbox": [
+            96.6273240250364,
+            83.7440185546875,
+            527.7108764648438,
+            120.4520263671875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/4/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Manufacturers of devices referenced in question 2 shall fulfil all relevant and applicable  requirements of the MDR. To determine the risk classes of those products, it is necessary to  consider:</p>",
+          "polygon": [
+            [
+              67.73264399223423,
+              127.830078125
+            ],
+            [
+              527.747123199386,
+              127.830078125
+            ],
+            [
+              527.747123199386,
+              178.2607421875
+            ],
+            [
+              67.73264399223423,
+              178.2607421875
+            ]
+          ],
+          "bbox": [
+            67.73264399223423,
+            127.830078125,
+            527.747123199386,
+            178.2607421875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/4/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/215",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">− the intended medical purpose of the final CMD, adaptable medical device or  patient-matched medical device; − whether it is an implantable medical device (i.e. whether the part, component or material is intended to be used in the manufacturing of an implantable CMD,  adaptable medical device or patient-matched medical device) <a href=\"#page-4-0\">7</a> ; − the risks related to the intended contact or interaction of the product as a part,  component or material in the final CMD, adaptable medical device or patientmatched medical device with the patient's body.<a href=\"#page-4-1\">8</a></p>",
+          "polygon": [
+            [
+              102.4632021041601,
+              183.27294921875
+            ],
+            [
+              527.6465597080644,
+              183.27294921875
+            ],
+            [
+              527.6465597080644,
+              312.7808837890625
+            ],
+            [
+              102.4632021041601,
+              312.7808837890625
+            ]
+          ],
+          "bbox": [
+            102.4632021041601,
+            183.27294921875,
+            527.6465597080644,
+            312.7808837890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/4/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">If any of the physical, chemical or biological properties of those products referred to in question  2 change during the manufacturing of the CMD, patient-matched medical device or the  adaptation process of the adaptable medical device (e.g. plastics, metallic compounds, ceramic  fluids for crowns), compliance of the finished product with the general safety and performance  requirements of MDR Annex I has to be demonstrated.</p>",
+          "polygon": [
+            [
+              67.57015606858567,
+              317.79010009765625
+            ],
+            [
+              528.0813879978747,
+              317.79010009765625
+            ],
+            [
+              528.0813879978747,
+              399.6627197265625
+            ],
+            [
+              67.57015606858567,
+              399.6627197265625
+            ]
+          ],
+          "bbox": [
+            67.57015606858567,
+            317.79010009765625,
+            528.0813879978747,
+            399.6627197265625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/4/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">It is important to note that the manufacturer must also demonstrate that these products do  not create unacceptable risks to the persons performing the relevant preparatory processing  (such as preparation, configuration, installation, assembly, adaptation or fitting) to the needs  of the patient prior to their use.</p>",
+          "polygon": [
+            [
+              67.97080078893704,
+              404.67486572265625
+            ],
+            [
+              527.8561166143537,
+              404.67486572265625
+            ],
+            [
+              527.8561166143537,
+              470.8265686035156
+            ],
+            [
+              67.97080078893704,
+              470.8265686035156
+            ]
+          ],
+          "bbox": [
+            67.97080078893704,
+            404.67486572265625,
+            527.8561166143537,
+            470.8265686035156
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/4/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The clinical evaluation conducted by the manufacturer should focus on demonstrating the  clinical benefit related to the intended medical purpose of the products when used as parts,  components or materials of a custom-made devices, adaptable medical devices or patientmatched medical devices. <a href=\"#page-4-2\">9</a></p>",
+          "polygon": [
+            [
+              67.8402114214765,
+              475.8387451171875
+            ],
+            [
+              527.7486809026684,
+              475.8387451171875
+            ],
+            [
+              527.7486809026684,
+              541.9903564453125
+            ],
+            [
+              67.8402114214765,
+              541.9903564453125
+            ]
+          ],
+          "bbox": [
+            67.8402114214765,
+            475.8387451171875,
+            527.7486809026684,
+            541.9903564453125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/4/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">To perform a post-market clinical follow-up (PMCF), liaison with the authorised person  responsible for the issuing of the relevant written prescription, CMD manufacturers who have  utilised the part, component or material and persons adapting the final device is necessary.</p>",
+          "polygon": [
+            [
+              68.1147108102025,
+              546.9895935058594
+            ],
+            [
+              528.0396048980635,
+              546.9895935058594
+            ],
+            [
+              528.0396048980635,
+              597.2988891601562
+            ],
+            [
+              68.1147108102025,
+              597.2988891601562
+            ]
+          ],
+          "bbox": [
+            68.1147108102025,
+            546.9895935058594,
+            528.0396048980635,
+            597.2988891601562
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/4/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Furthermore, the manufacturer of devices referred to in question 2 bears the responsibility  over these CE marked medical devices and is responsible for all incumbent MDR obligations  such as post-market surveillance activities and vigilance reporting for the parts, components  or materials.</p>",
+          "polygon": [
+            [
+              67.90385390889435,
+              602.4324798583984
+            ],
+            [
+              520.6358870114727,
+              602.4324798583984
+            ],
+            [
+              520.6358870114727,
+              668.4627380371094
+            ],
+            [
+              67.90385390889435,
+              668.4627380371094
+            ]
+          ],
+          "bbox": [
+            67.90385390889435,
+            602.4324798583984,
+            520.6358870114727,
+            668.4627380371094
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/4/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Footnote/11",
+          "block_type": "Footnote",
+          "html": "<p><span id=\"page-4-0\"></span><sup> </sup><sup>7</sup> Implantable devices encompass those devices which are partially or wholly implanted. Please refer to Article 2(5) of the MDR for  the definition of an 'implantable device'.</p>",
+          "polygon": [
+            [
+              68.09115627490603,
+              686.8025665283203
+            ],
+            [
+              527.193909460111,
+              686.8025665283203
+            ],
+            [
+              527.193909460111,
+              723.8615646362305
+            ],
+            [
+              68.09115627490603,
+              723.8615646362305
+            ]
+          ],
+          "bbox": [
+            68.09115627490603,
+            686.8025665283203,
+            527.193909460111,
+            723.8615646362305
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/4/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Footnote/12",
+          "block_type": "Footnote",
+          "html": "<p><span id=\"page-4-1\"></span><sup>8</sup> In general, the risk class of the product is expected to be the same as the risk class of the final CMD, adaptable medical device  or patient-matched medical device. For example, if a part, component or material is specifically intended to be used for the  manufacture of a Class III implantable custom-made device, then that part, component or material would be classified as a Class  III implantable.</p>",
+          "polygon": [
+            [
+              67.95962770399579,
+              719.3694793347896
+            ],
+            [
+              527.7767195617522,
+              719.3694793347896
+            ],
+            [
+              527.7767195617522,
+              768.9878005981445
+            ],
+            [
+              67.95962770399579,
+              768.9878005981445
+            ]
+          ],
+          "bbox": [
+            67.95962770399579,
+            719.3694793347896,
+            527.7767195617522,
+            768.9878005981445
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/4/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Footnote/13",
+          "block_type": "Footnote",
+          "html": "<p><span id=\"page-4-2\"></span><sup>9</sup> For further clarifications on clinical evaluation for custom-made devices, please refer to question 8.</p>",
+          "polygon": [
+            [
+              68.02675211639789,
+              764.1514711048809
+            ],
+            [
+              424.54694418342643,
+              764.1514711048809
+            ],
+            [
+              424.54694418342643,
+              780.5044288635254
+            ],
+            [
+              68.02675211639789,
+              780.5044288635254
+            ]
+          ],
+          "bbox": [
+            68.02675211639789,
+            764.1514711048809,
+            424.54694418342643,
+            780.5044288635254
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/4/SectionHeader/3"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/6",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/5/Page/169",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/5/PageHeader/0'></content-ref><content-ref src='/page/5/PageHeader/2'></content-ref><content-ref src='/page/5/PageHeader/3'></content-ref><content-ref src='/page/5/SectionHeader/1'></content-ref><content-ref src='/page/5/PageFooter/16'></content-ref><content-ref src='/page/5/SectionHeader/4'></content-ref><content-ref src='/page/5/Text/5'></content-ref><content-ref src='/page/5/SectionHeader/6'></content-ref><content-ref src='/page/5/Text/7'></content-ref><content-ref src='/page/5/Text/164'></content-ref><content-ref src='/page/5/SectionHeader/9'></content-ref><content-ref src='/page/5/Text/10'></content-ref><content-ref src='/page/5/Text/165'></content-ref><content-ref src='/page/5/Text/12'></content-ref><content-ref src='/page/5/ListGroup/13'></content-ref><content-ref src='/page/5/Text/14'></content-ref><content-ref src='/page/5/Footnote/15'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/5/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.53472404576068,
+              33.61846923828125
+            ],
+            [
+              206.3951809592451,
+              33.61846923828125
+            ],
+            [
+              206.3951809592451,
+              61.4339599609375
+            ],
+            [
+              67.53472404576068,
+              61.4339599609375
+            ]
+          ],
+          "bbox": [
+            67.53472404576068,
+            33.61846923828125,
+            206.3951809592451,
+            61.4339599609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/4/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              434.73904257517313,
+              60.15672980263524
+            ],
+            [
+              523.8239558529793,
+              60.15672980263524
+            ],
+            [
+              523.8239558529793,
+              74.55855113952582
+            ],
+            [
+              434.73904257517313,
+              74.55855113952582
+            ]
+          ],
+          "bbox": [
+            434.73904257517313,
+            60.15672980263524,
+            523.8239558529793,
+            74.55855113952582
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/4/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/PageHeader/3",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              66.98408166227172,
+              52.63848876953125
+            ],
+            [
+              527.2554931640625,
+              52.63848876953125
+            ],
+            [
+              527.2554931640625,
+              79.63238525390625
+            ],
+            [
+              66.98408166227172,
+              79.63238525390625
+            ]
+          ],
+          "bbox": [
+            66.98408166227172,
+            52.63848876953125,
+            527.2554931640625,
+            79.63238525390625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/4/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/SectionHeader/1",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.53472404576068,
+              36.824296293997484
+            ],
+            [
+              206.3951809592451,
+              36.824296293997484
+            ],
+            [
+              206.3951809592451,
+              56.49077649001871
+            ],
+            [
+              67.53472404576068,
+              56.49077649001871
+            ]
+          ],
+          "bbox": [
+            67.53472404576068,
+            36.824296293997484,
+            206.3951809592451,
+            56.49077649001871
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/5/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/PageFooter/16",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              515.1718304151251,
+              775.3704911161509
+            ],
+            [
+              527.5452631799039,
+              775.3704911161509
+            ],
+            [
+              527.5452631799039,
+              793.2334403991699
+            ],
+            [
+              515.1718304151251,
+              793.2334403991699
+            ]
+          ],
+          "bbox": [
+            515.1718304151251,
+            775.3704911161509,
+            527.5452631799039,
+            793.2334403991699
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/5/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/SectionHeader/4",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>4.</b> <b>Can manufacturers use state of the art industrial manufacturing </b> <b>processes to manufacture CMDs? </b></h2>",
+          "polygon": [
+            [
+              96.34580351783886,
+              83.7440185546875
+            ],
+            [
+              527.7131958007812,
+              83.7440185546875
+            ],
+            [
+              527.7131958007812,
+              120.4520263671875
+            ],
+            [
+              96.34580351783886,
+              120.4520263671875
+            ]
+          ],
+          "bbox": [
+            96.34580351783886,
+            83.7440185546875,
+            527.7131958007812,
+            120.4520263671875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/5/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">As long as the definition of a CMD is fulfilled (refer to question 1) and the device is not massproduced, manufacturers may use modern state of the art technologies (such as CAD CAM,  3D-Printing etc.) to manufacture CMDs.</p>",
+          "polygon": [
+            [
+              67.40141442440618,
+              127.830078125
+            ],
+            [
+              527.8294982141451,
+              127.830078125
+            ],
+            [
+              527.8294982141451,
+              178.2607421875
+            ],
+            [
+              67.40141442440618,
+              178.2607421875
+            ]
+          ],
+          "bbox": [
+            67.40141442440618,
+            127.830078125,
+            527.8294982141451,
+            178.2607421875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/5/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/SectionHeader/6",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>5.</b> <b>Does a 3D printed device (additive manufacturing) qualify as a CMD?</b></h2>",
+          "polygon": [
+            [
+              96.4758144734188,
+              187.06402587890625
+            ],
+            [
+              509.57752233548484,
+              187.06402587890625
+            ],
+            [
+              509.57752233548484,
+              207.81201171875
+            ],
+            [
+              96.4758144734188,
+              207.81201171875
+            ]
+          ],
+          "bbox": [
+            96.4758144734188,
+            187.06402587890625,
+            509.57752233548484,
+            207.81201171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/5/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">A 3D printed device does not qualify as a CMD by default. An assessment should be performed  on a case-by-case basis. In order for a 3D printed device to qualify as a CMD, the following  requirements must be met:</p>",
+          "polygon": [
+            [
+              67.1490321315506,
+              215.1900634765625
+            ],
+            [
+              528.474341558269,
+              215.1900634765625
+            ],
+            [
+              528.474341558269,
+              264.77069091796875
+            ],
+            [
+              67.1490321315506,
+              264.77069091796875
+            ]
+          ],
+          "bbox": [
+            67.1490321315506,
+            215.1900634765625,
+            528.474341558269,
+            264.77069091796875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/5/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/164",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">− a written prescription, containing patient specific design characteristics, of an  authorised person is in compliance with the requirements expressed below (see  question 6), − the manufactured device is intended for the sole use of a particular patient,  exclusively to meet their individual conditions and needs, − the device is not mass-produced.</p>",
+          "polygon": [
+            [
+              103.99689843012042,
+              276.61669921875
+            ],
+            [
+              528.2713819835288,
+              276.61669921875
+            ],
+            [
+              528.2713819835288,
+              374.3316955566406
+            ],
+            [
+              103.99689843012042,
+              374.3316955566406
+            ]
+          ],
+          "bbox": [
+            103.99689843012042,
+            276.61669921875,
+            528.2713819835288,
+            374.3316955566406
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/5/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/SectionHeader/9",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>6.</b> <b>What defines a written prescription containing patient specific design </b> <b>characteristics?</b></h2>",
+          "polygon": [
+            [
+              96.96832359948145,
+              383.1439514160156
+            ],
+            [
+              527.7120971679688,
+              383.1439514160156
+            ],
+            [
+              527.7120971679688,
+              419.97198486328125
+            ],
+            [
+              96.96832359948145,
+              419.97198486328125
+            ]
+          ],
+          "bbox": [
+            96.96832359948145,
+            383.1439514160156,
+            527.7120971679688,
+            419.97198486328125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/5/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">A written prescription must be issued by a qualified person authorised by national law. At  minimum, it should contain:</p>",
+          "polygon": [
+            [
+              67.8195718529843,
+              427.35003662109375
+            ],
+            [
+              527.6887551410973,
+              427.35003662109375
+            ],
+            [
+              527.6887551410973,
+              461.81695556640625
+            ],
+            [
+              67.8195718529843,
+              461.81695556640625
+            ]
+          ],
+          "bbox": [
+            67.8195718529843,
+            427.35003662109375,
+            527.6887551410973,
+            461.81695556640625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/5/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/165",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">− the name of the patient (or pseudonym if relevant), − specific design characteristics made by the authorised person which are unique to  the patient's anatomic-physiological features and/or pathological condition.</p>",
+          "polygon": [
+            [
+              103.26034530524342,
+              466.9505310058594
+            ],
+            [
+              527.7198633919435,
+              466.9505310058594
+            ],
+            [
+              527.7198633919435,
+              517.2597961425781
+            ],
+            [
+              103.26034530524342,
+              517.2597961425781
+            ]
+          ],
+          "bbox": [
+            103.26034530524342,
+            466.9505310058594,
+            527.7198633919435,
+            517.2597961425781
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/5/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/12",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The following (non-exhaustive) additions can accompany a written prescription and if so, also  constitute specific design characteristics:</p>",
+          "polygon": [
+            [
+              68.0145997400548,
+              522.27197265625
+            ],
+            [
+              527.9465550343396,
+              522.27197265625
+            ],
+            [
+              527.9465550343396,
+              556.8602905273438
+            ],
+            [
+              68.0145997400548,
+              556.8602905273438
+            ]
+          ],
+          "bbox": [
+            68.0145997400548,
+            522.27197265625,
+            527.9465550343396,
+            556.8602905273438
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/5/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/ListGroup/13",
+          "block_type": "ListGroup",
+          "html": "<p block-type='ListGroup'><ul><content-ref src='/page/5/ListItem/166'></content-ref><content-ref src='/page/5/ListItem/167'></content-ref><content-ref src='/page/5/ListItem/168'></content-ref></ul></p>",
+          "polygon": [
+            [
+              104.04570264840305,
+              561.8724670410156
+            ],
+            [
+              342.60989602807183,
+              561.8724670410156
+            ],
+            [
+              342.60989602807183,
+              612.3031463623047
+            ],
+            [
+              104.04570264840305,
+              612.3031463623047
+            ]
+          ],
+          "bbox": [
+            104.04570264840305,
+            561.8724670410156,
+            342.60989602807183,
+            612.3031463623047
+          ],
+          "children": [
+            {
+              "id": "/page/5/ListItem/166",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> models (physical or 3D model data).</li>",
+              "polygon": [
+                [
+                  106.91040802001953,
+                  561.8724670410156
+                ],
+                [
+                  302.5491027832031,
+                  561.8724670410156
+                ],
+                [
+                  302.5491027832031,
+                  580.7398376464844
+                ],
+                [
+                  106.91040802001953,
+                  580.7398376464844
+                ]
+              ],
+              "bbox": [
+                106.91040802001953,
+                561.8724670410156,
+                302.5491027832031,
+                580.7398376464844
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/3/SectionHeader/6",
+                "2": "/page/5/SectionHeader/9"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/5/ListItem/167",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> moulds (e.g. for dental or orthotic purposes).</li>",
+              "polygon": [
+                [
+                  106.91040802001953,
+                  577.5934448242188
+                ],
+                [
+                  342.2489013671875,
+                  577.5934448242188
+                ],
+                [
+                  342.2489013671875,
+                  596.4608001708984
+                ],
+                [
+                  106.91040802001953,
+                  596.4608001708984
+                ]
+              ],
+              "bbox": [
+                106.91040802001953,
+                577.5934448242188,
+                342.2489013671875,
+                596.4608001708984
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/3/SectionHeader/6",
+                "2": "/page/5/SectionHeader/9"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/5/ListItem/168",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\"> dental impressions.</li>",
+              "polygon": [
+                [
+                  106.92143249511719,
+                  593.435791015625
+                ],
+                [
+                  218.4088897705078,
+                  593.435791015625
+                ],
+                [
+                  218.4088897705078,
+                  612.3031463623047
+                ],
+                [
+                  106.92143249511719,
+                  612.3031463623047
+                ]
+              ],
+              "bbox": [
+                106.92143249511719,
+                593.435791015625,
+                218.4088897705078,
+                612.3031463623047
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/3/SectionHeader/6",
+                "2": "/page/5/SectionHeader/9"
+              },
+              "images": {}
+            }
+          ],
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/5/SectionHeader/9"
+          },
+          "images": null
+        },
+        {
+          "id": "/page/5/Text/14",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Note: Dimensions and/or geometric parameters (such as DICOM files from CT scans) are not  considered specific design characteristics on their own. Additional measured data or  information<a href=\"#page-5-0\">10</a> by the prescribing person is necessary as part of a written prescription in order  for the definition of a CMD to be met.</p>",
+          "polygon": [
+            [
+              67.42071963677779,
+              615.1514739990234
+            ],
+            [
+              528.5327096165578,
+              615.1514739990234
+            ],
+            [
+              528.5327096165578,
+              681.2969665527344
+            ],
+            [
+              67.42071963677779,
+              681.2969665527344
+            ]
+          ],
+          "bbox": [
+            67.42071963677779,
+            615.1514739990234,
+            528.5327096165578,
+            681.2969665527344
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/5/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Footnote/15",
+          "block_type": "Footnote",
+          "html": "<p><span id=\"page-5-0\"></span><sup> </sup><sup>10</sup> Such as the thickness and trajectory of a plate, the number, type and positions of fixation screws, choice of material, shall also  be provided for in the prescription to be considered as containing specific design characteristics.</p>",
+          "polygon": [
+            [
+              68.37678866062116,
+              721.242561340332
+            ],
+            [
+              527.8418682107997,
+              721.242561340332
+            ],
+            [
+              527.8418682107997,
+              759.1451644897461
+            ],
+            [
+              68.37678866062116,
+              759.1451644897461
+            ]
+          ],
+          "bbox": [
+            68.37678866062116,
+            721.242561340332,
+            527.8418682107997,
+            759.1451644897461
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/5/SectionHeader/9"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/6",
+        "2": "/page/5/SectionHeader/9"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/6/Page/172",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/6/PageHeader/0'></content-ref><content-ref src='/page/6/PageHeader/1'></content-ref><content-ref src='/page/6/PageHeader/2'></content-ref><content-ref src='/page/6/PageFooter/15'></content-ref><content-ref src='/page/6/SectionHeader/3'></content-ref><content-ref src='/page/6/Text/4'></content-ref><content-ref src='/page/6/SectionHeader/5'></content-ref><content-ref src='/page/6/Text/6'></content-ref><content-ref src='/page/6/Text/7'></content-ref><content-ref src='/page/6/Text/8'></content-ref><content-ref src='/page/6/Text/9'></content-ref><content-ref src='/page/6/Text/10'></content-ref><content-ref src='/page/6/SectionHeader/11'></content-ref><content-ref src='/page/6/Text/12'></content-ref><content-ref src='/page/6/Text/13'></content-ref><content-ref src='/page/6/Footnote/14'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/6/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.57752079807541,
+              33.61846923828125
+            ],
+            [
+              206.2631426986579,
+              33.61846923828125
+            ],
+            [
+              206.2631426986579,
+              61.4339599609375
+            ],
+            [
+              67.57752079807541,
+              61.4339599609375
+            ]
+          ],
+          "bbox": [
+            67.57752079807541,
+            33.61846923828125,
+            206.2631426986579,
+            61.4339599609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/5/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              434.47844797898296,
+              60.342932832739976
+            ],
+            [
+              524.3857827751102,
+              60.342932832739976
+            ],
+            [
+              524.3857827751102,
+              74.66911973554113
+            ],
+            [
+              434.47844797898296,
+              74.66911973554113
+            ]
+          ],
+          "bbox": [
+            434.47844797898296,
+            60.342932832739976,
+            524.3857827751102,
+            74.66911973554113
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/5/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.32993187892346,
+              52.63848876953125
+            ],
+            [
+              527.2554931640625,
+              52.63848876953125
+            ],
+            [
+              527.2554931640625,
+              79.63238525390625
+            ],
+            [
+              67.32993187892346,
+              79.63238525390625
+            ]
+          ],
+          "bbox": [
+            67.32993187892346,
+            52.63848876953125,
+            527.2554931640625,
+            79.63238525390625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/5/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/PageFooter/15",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              515.2630935015546,
+              774.6175103395619
+            ],
+            [
+              527.2874632866617,
+              774.6175103395619
+            ],
+            [
+              527.2874632866617,
+              793.2334403991699
+            ],
+            [
+              515.2630935015546,
+              793.2334403991699
+            ]
+          ],
+          "bbox": [
+            515.2630935015546,
+            774.6175103395619,
+            527.2874632866617,
+            793.2334403991699
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/5/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/SectionHeader/3",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>7.</b> <b>Shall the authorised person referred to in the definition of a CMD be a </b> <b>healthcare professional?</b></h2>",
+          "polygon": [
+            [
+              97.37017668524676,
+              83.7440185546875
+            ],
+            [
+              527.7169799804688,
+              83.7440185546875
+            ],
+            [
+              527.7169799804688,
+              120.4520263671875
+            ],
+            [
+              97.37017668524676,
+              120.4520263671875
+            ]
+          ],
+          "bbox": [
+            97.37017668524676,
+            83.7440185546875,
+            527.7169799804688,
+            120.4520263671875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/6/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">No. The Regulation explicitly states that it should be any person authorised by national law.  Therefore, it is up to Member States to establish who qualifies as an authorised person.</p>",
+          "polygon": [
+            [
+              66.98057682988625,
+              127.830078125
+            ],
+            [
+              527.4529418945312,
+              127.830078125
+            ],
+            [
+              527.4529418945312,
+              162.4183349609375
+            ],
+            [
+              66.98057682988625,
+              162.4183349609375
+            ]
+          ],
+          "bbox": [
+            66.98057682988625,
+            127.830078125,
+            527.4529418945312,
+            162.4183349609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/6/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/SectionHeader/5",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>8.</b> <b>What are the obligations of CMD manufacturers according to the MDR?</b></h2>",
+          "polygon": [
+            [
+              96.24249113837176,
+              171.2239990234375
+            ],
+            [
+              524.7670993756888,
+              171.2239990234375
+            ],
+            [
+              524.7670993756888,
+              191.97198486328125
+            ],
+            [
+              96.24249113837176,
+              191.97198486328125
+            ]
+          ],
+          "bbox": [
+            96.24249113837176,
+            171.2239990234375,
+            524.7670993756888,
+            191.97198486328125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/6/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">With the absence of stated exceptions, CMD manufacturers must meet nearly all of the MDR  requirements. Although the authorised person issuing the written prescription primarily  determines the design and intended purpose of the CMD, it is the responsibility of the CMD  manufacturer to consider which MDR Annex I requirements are applicable to the device at  hand.</p>",
+          "polygon": [
+            [
+              67.68193273280069,
+              199.4700927734375
+            ],
+            [
+              528.3121571576866,
+              199.4700927734375
+            ],
+            [
+              528.3121571576866,
+              276.77215576171875
+            ],
+            [
+              67.68193273280069,
+              276.77215576171875
+            ]
+          ],
+          "bbox": [
+            67.68193273280069,
+            199.4700927734375,
+            528.3121571576866,
+            276.77215576171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/6/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Additionally, and as any other medical device manufacturer, CMD manufacturers shall  establish, document, implement, maintain, keep up to date and continually improve a quality  management system (QMS) that shall ensure compliance with the MDR in the most effective  manner and in a manner that is proportionate to the risk class and the type of device. The QMS  must address all elements described in Article 10(9) of the MDR.</p>",
+          "polygon": [
+            [
+              67.57697674729661,
+              284.5443115234375
+            ],
+            [
+              528.4398430120434,
+              284.5443115234375
+            ],
+            [
+              528.4398430120434,
+              366.53839111328125
+            ],
+            [
+              67.57697674729661,
+              366.53839111328125
+            ]
+          ],
+          "bbox": [
+            67.57697674729661,
+            284.5443115234375,
+            528.4398430120434,
+            366.53839111328125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/6/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">To implement an MDR compliant post-market surveillance system, the CMD manufacturer  should establish appropriate communication channels with relevant healthcare  providers/professionals or patients to receive feedback on the quality, performance and in  particular the clinical performance and safety of the devices in the field.</p>",
+          "polygon": [
+            [
+              67.92633752318413,
+              371.550537109375
+            ],
+            [
+              528.2705115022827,
+              371.550537109375
+            ],
+            [
+              528.2705115022827,
+              437.7022399902344
+            ],
+            [
+              67.92633752318413,
+              437.7022399902344
+            ]
+          ],
+          "bbox": [
+            67.92633752318413,
+            371.550537109375,
+            528.2705115022827,
+            437.7022399902344
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/6/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">For risk management, post-market surveillance and clinical evaluation life cycle processes as  defined by the MDR, CMD manufacturers should apply these obligations to groups of devices  with the same intended purpose, materials used, process utilised, same principal design etc. and not to each individual CMD.</p>",
+          "polygon": [
+            [
+              67.96414046203459,
+              442.7143859863281
+            ],
+            [
+              527.7195426883264,
+              442.7143859863281
+            ],
+            [
+              527.7195426883264,
+              508.74462890625
+            ],
+            [
+              67.96414046203459,
+              508.74462890625
+            ]
+          ],
+          "bbox": [
+            67.96414046203459,
+            442.7143859863281,
+            527.7195426883264,
+            508.74462890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/6/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In accordance with Article 87(1) of the MDR, CMD manufacturers shall report to the competent  authorities any serious incidents and/or field safety corrective actions as soon as they learn of  them.</p>",
+          "polygon": [
+            [
+              67.73848537954335,
+              513.878173828125
+            ],
+            [
+              528.1689400853078,
+              513.878173828125
+            ],
+            [
+              528.1689400853078,
+              564.1875
+            ],
+            [
+              67.73848537954335,
+              564.1875
+            ]
+          ],
+          "bbox": [
+            67.73848537954335,
+            513.878173828125,
+            528.1689400853078,
+            564.1875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/6/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/SectionHeader/11",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>9.</b> <b>Which obligations of CMD manufacturers differ from those of other </b> <b>medical device manufacturers?</b></h2>",
+          "polygon": [
+            [
+              96.15751613357504,
+              572.9840087890625
+            ],
+            [
+              527.714599609375,
+              572.9840087890625
+            ],
+            [
+              527.714599609375,
+              609.6920013427734
+            ],
+            [
+              96.15751613357504,
+              609.6920013427734
+            ]
+          ],
+          "bbox": [
+            96.15751613357504,
+            572.9840087890625,
+            527.714599609375,
+            609.6920013427734
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/6/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/12",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The conformity assessment procedure for all types of CMDs is described in MDR Annex XIII. In  accordance with section 1 of Annex XIII, and in place of a declaration of conformity, CMDs shall  be accompanied by an Annex XIII statement. This statement shall be made available to the  particular patient or user identified by a name, an acronym or a numerical code.</p>",
+          "polygon": [
+            [
+              67.42766630619539,
+              617.070068359375
+            ],
+            [
+              528.4601847843198,
+              617.070068359375
+            ],
+            [
+              528.4601847843198,
+              683.2217559814453
+            ],
+            [
+              67.42766630619539,
+              683.2217559814453
+            ]
+          ],
+          "bbox": [
+            67.42766630619539,
+            617.070068359375,
+            528.4601847843198,
+            683.2217559814453
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/6/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/13",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">A conformity assessment procedure covering QMS certification by a notified body (in  accordance with Chapter I of Annex IX or Part A of Annex XI of the MDR) is applicable to Class  III implantable CMDs.<a href=\"#page-6-0\">11</a> According to Article 56 (5), the registration of QMS-certificates issued  for Class III implantable CMD shall be entered into EUDAMED. In addition, manufacturers may</p>",
+          "polygon": [
+            [
+              67.38844883532008,
+              687.7671223451066
+            ],
+            [
+              528.9015187760745,
+              687.7671223451066
+            ],
+            [
+              528.9015187760745,
+              754.4984130859375
+            ],
+            [
+              67.38844883532008,
+              754.4984130859375
+            ]
+          ],
+          "bbox": [
+            67.38844883532008,
+            687.7671223451066,
+            528.9015187760745,
+            754.4984130859375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/6/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Footnote/14",
+          "block_type": "Footnote",
+          "html": "<p><span id=\"page-6-0\"></span><sup> </sup><sup>11</sup> Article 52(8) MDR.</p>",
+          "polygon": [
+            [
+              67.89540107784703,
+              754.002555847168
+            ],
+            [
+              144.7727813720703,
+              754.002555847168
+            ],
+            [
+              144.7727813720703,
+              780.5044288635254
+            ],
+            [
+              67.89540107784703,
+              780.5044288635254
+            ]
+          ],
+          "bbox": [
+            67.89540107784703,
+            754.002555847168,
+            144.7727813720703,
+            780.5044288635254
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/6/SectionHeader/11"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/6",
+        "2": "/page/6/SectionHeader/11"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/7/Page/163",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/7/PageHeader/1'></content-ref><content-ref src='/page/7/PageHeader/2'></content-ref><content-ref src='/page/7/SectionHeader/0'></content-ref><content-ref src='/page/7/PageFooter/14'></content-ref><content-ref src='/page/7/Text/3'></content-ref><content-ref src='/page/7/Text/4'></content-ref><content-ref src='/page/7/Text/5'></content-ref><content-ref src='/page/7/Text/6'></content-ref><content-ref src='/page/7/Text/7'></content-ref><content-ref src='/page/7/SectionHeader/8'></content-ref><content-ref src='/page/7/Text/9'></content-ref><content-ref src='/page/7/Text/10'></content-ref><content-ref src='/page/7/Text/11'></content-ref><content-ref src='/page/7/Text/12'></content-ref><content-ref src='/page/7/Text/13'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/7/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              434.67568070342014,
+              60.08542567157151
+            ],
+            [
+              524.2878307275267,
+              60.08542567157151
+            ],
+            [
+              524.2878307275267,
+              74.5863520281716
+            ],
+            [
+              434.67568070342014,
+              74.5863520281716
+            ]
+          ],
+          "bbox": [
+            434.67568070342014,
+            60.08542567157151,
+            524.2878307275267,
+            74.5863520281716
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/6/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.50708053934784,
+              52.63848876953125
+            ],
+            [
+              527.2554931640625,
+              52.63848876953125
+            ],
+            [
+              527.2554931640625,
+              79.63238525390625
+            ],
+            [
+              67.50708053934784,
+              79.63238525390625
+            ]
+          ],
+          "bbox": [
+            67.50708053934784,
+            52.63848876953125,
+            527.2554931640625,
+            79.63238525390625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/3/SectionHeader/6",
+            "2": "/page/6/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/SectionHeader/0",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.54390418679648,
+              33.61846923828125
+            ],
+            [
+              206.36826476282076,
+              33.61846923828125
+            ],
+            [
+              206.36826476282076,
+              61.4339599609375
+            ],
+            [
+              67.54390418679648,
+              61.4339599609375
+            ]
+          ],
+          "bbox": [
+            67.54390418679648,
+            33.61846923828125,
+            206.36826476282076,
+            61.4339599609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/PageFooter/14",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              514.7671482653101,
+              774.9834295257541
+            ],
+            [
+              527.0223330250315,
+              774.9834295257541
+            ],
+            [
+              527.0223330250315,
+              793.2334403991699
+            ],
+            [
+              514.7671482653101,
+              793.2334403991699
+            ]
+          ],
+          "bbox": [
+            514.7671482653101,
+            774.9834295257541,
+            527.0223330250315,
+            793.2334403991699
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/3",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">have to comply with national requirements on the registration of economic operators and  devices.</p>",
+          "polygon": [
+            [
+              67.90485038084707,
+              83.90240478515625
+            ],
+            [
+              527.7562861598709,
+              83.90240478515625
+            ],
+            [
+              527.7562861598709,
+              118.49072265625
+            ],
+            [
+              67.90485038084707,
+              118.49072265625
+            ]
+          ],
+          "bbox": [
+            67.90485038084707,
+            83.90240478515625,
+            527.7562861598709,
+            118.49072265625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">CMD manufacturers are exempt from device UDI registration, assignment and labelling  requirements. As such, and although they must appoint a person responsible for regulatory  compliance (PRRC) in accordance with Article 15 of the MDR, they are not required to register  these persons in EUDAMED.</p>",
+          "polygon": [
+            [
+              67.81820313576186,
+              123.50286865234375
+            ],
+            [
+              528.0847782932541,
+              123.50286865234375
+            ],
+            [
+              528.0847782932541,
+              189.654541015625
+            ],
+            [
+              67.81820313576186,
+              189.654541015625
+            ]
+          ],
+          "bbox": [
+            67.81820313576186,
+            123.50286865234375,
+            528.0847782932541,
+            189.654541015625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In addition, Article 32(1) prescribes that a Summary of Safety and Clinical Performance (SSCP)  is not required for a custom-made device.</p>",
+          "polygon": [
+            [
+              67.8516479415317,
+              194.666748046875
+            ],
+            [
+              527.4708599407667,
+              194.666748046875
+            ],
+            [
+              527.4708599407667,
+              229.2550048828125
+            ],
+            [
+              67.8516479415317,
+              229.2550048828125
+            ]
+          ],
+          "bbox": [
+            67.8516479415317,
+            194.666748046875,
+            527.4708599407667,
+            229.2550048828125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">As for post-market surveillance, a report for Class I devices according to Article 85 MDR and a  Periodic Safety Update Report (PSUR) for class IIa, IIb and III according to Article 86 MDR, must  be established by the CMD manufacturer. Both the post-market surveillance report and the  PSUR must be part of the CMD documentation according to Section 2 of Annex XIII of the  MDR.</p>",
+          "polygon": [
+            [
+              67.7914701985472,
+              234.26715087890625
+            ],
+            [
+              528.1955126707139,
+              234.26715087890625
+            ],
+            [
+              528.1955126707139,
+              316.1397705078125
+            ],
+            [
+              67.7914701985472,
+              316.1397705078125
+            ]
+          ],
+          "bbox": [
+            67.7914701985472,
+            234.26715087890625,
+            528.1955126707139,
+            316.1397705078125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In case of Class III implantable CMDs, PSURs are not required to be sent to notified bodies but  must be part of the CMD documentation according to Section 2 of Annex XIII of the MDR.</p>",
+          "polygon": [
+            [
+              67.8878301817464,
+              321.2734375
+            ],
+            [
+              527.9949354656998,
+              321.2734375
+            ],
+            [
+              527.9949354656998,
+              355.7402648925781
+            ],
+            [
+              67.8878301817464,
+              355.7402648925781
+            ]
+          ],
+          "bbox": [
+            67.8878301817464,
+            321.2734375,
+            527.9949354656998,
+            355.7402648925781
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/SectionHeader/8",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>10.</b> <b>What are the implications for a</b> <b>CMD manufacturer using CE-marked </b> <b>devices</b> <b>referred to in question 2</b> <b>instead of non-CE marked devices? </b></h2>",
+          "polygon": [
+            [
+              96.99046360275307,
+              364.54400634765625
+            ],
+            [
+              527.7119750976562,
+              364.54400634765625
+            ],
+            [
+              527.7119750976562,
+              401.3719787597656
+            ],
+            [
+              96.99046360275307,
+              401.3719787597656
+            ]
+          ],
+          "bbox": [
+            96.99046360275307,
+            364.54400634765625,
+            527.7119750976562,
+            401.3719787597656
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/0",
+            "2": "/page/7/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In both cases, it is the responsibility of the CMD manufacturer to establish full compliance of  the CMD with the MDR.</p>",
+          "polygon": [
+            [
+              67.95584225594547,
+              408.75006103515625
+            ],
+            [
+              527.9216317818207,
+              408.75006103515625
+            ],
+            [
+              527.9216317818207,
+              443.2169494628906
+            ],
+            [
+              67.95584225594547,
+              443.2169494628906
+            ]
+          ],
+          "bbox": [
+            67.95584225594547,
+            408.75006103515625,
+            527.9216317818207,
+            443.2169494628906
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/0",
+            "2": "/page/7/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Where a CMD manufacturer uses a CE marked device, part, component or material (as  described in Q2) for the purpose of manufacturing a CMD, then the CMD manufacturer may  take into consideration the compliance of these aforementioned CE-marked products with the  general safety and performance requirements of the MDR. When performing a clinical  evaluation for the CMD, the CMD manufacturer can make use of the clinical evaluation  performed for the aforementioned CE marked products, as this clinical evaluation (see also  answer to Q3) can support the fulfilment of the general safety a performance requirements  and demonstrating clinical evidence necessary for the final CMD.</p>",
+          "polygon": [
+            [
+              67.67262660105823,
+              448.3505554199219
+            ],
+            [
+              528.228545143262,
+              448.3505554199219
+            ],
+            [
+              528.228545143262,
+              577.6289367675781
+            ],
+            [
+              67.67262660105823,
+              577.6289367675781
+            ]
+          ],
+          "bbox": [
+            67.67262660105823,
+            448.3505554199219,
+            528.228545143262,
+            577.6289367675781
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/0",
+            "2": "/page/7/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/11",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">When the CMD manufacturer has to perform further preparatory processing, preparation,  configuration, installation, assembly, adaptation or fitting to the needs of the patient prior to  the device's use, this must be done in accordance with the instructions provided by the  manufacturer of the CE-marked device.</p>",
+          "polygon": [
+            [
+              67.63686814776595,
+              582.64111328125
+            ],
+            [
+              527.9308863719104,
+              582.64111328125
+            ],
+            [
+              527.9308863719104,
+              648.7927703857422
+            ],
+            [
+              67.63686814776595,
+              648.7927703857422
+            ]
+          ],
+          "bbox": [
+            67.63686814776595,
+            582.64111328125,
+            527.9308863719104,
+            648.7927703857422
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/0",
+            "2": "/page/7/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/12",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">It must be noted that it is not possible to presume conformity or to rely on clinical evaluations  of non-CE marked devices. It is also not possible to presume conformity or to rely on clinical  evaluations of CE</p>",
+          "polygon": [
+            [
+              67.47710047801135,
+              653.804931640625
+            ],
+            [
+              527.7083638765349,
+              653.804931640625
+            ],
+            [
+              527.7083638765349,
+              704.1141967773438
+            ],
+            [
+              67.47710047801135,
+              704.1141967773438
+            ]
+          ],
+          "bbox": [
+            67.47710047801135,
+            653.804931640625,
+            527.7083638765349,
+            704.1141967773438
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/0",
+            "2": "/page/7/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/13",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">marked devices when they are being used outside of their intended purpose or outside the  instructions provided by the manufacturer.</p>",
+          "polygon": [
+            [
+              67.73919550898093,
+              709.1263732910156
+            ],
+            [
+              527.9445391830329,
+              709.1263732910156
+            ],
+            [
+              527.9445391830329,
+              743.7146835327148
+            ],
+            [
+              67.73919550898093,
+              743.7146835327148
+            ]
+          ],
+          "bbox": [
+            67.73919550898093,
+            709.1263732910156,
+            527.9445391830329,
+            743.7146835327148
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/0",
+            "2": "/page/7/SectionHeader/8"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/0",
+        "2": "/page/7/SectionHeader/8"
+      },
+      "images": null
+    }
+  ],
+  "block_type": "Document",
+  "metadata": {
+    "table_of_contents": [
+      {
+        "title": "MDCG 2021-3",
+        "heading_level": null,
+        "page_id": 0,
+        "polygon": [
+          [
+            68.71829219789288,
+            168.54351806640625
+          ],
+          [
+            198.0826806517632,
+            168.54351806640625
+          ],
+          [
+            198.0826806517632,
+            199.0240478515625
+          ],
+          [
+            68.71829219789288,
+            199.0240478515625
+          ]
+        ]
+      },
+      {
+        "title": "Questions and Answers on Custom-Made Devices",
+        "heading_level": null,
+        "page_id": 0,
+        "polygon": [
+          [
+            68.62273970058642,
+            229.0235595703125
+          ],
+          [
+            525.5925446709698,
+            229.0235595703125
+          ],
+          [
+            525.5925446709698,
+            259.5040283203125
+          ],
+          [
+            68.62273970058642,
+            259.5040283203125
+          ]
+        ]
+      },
+      {
+        "title": "March 2021",
+        "heading_level": null,
+        "page_id": 0,
+        "polygon": [
+          [
+            68.1936611684804,
+            353.93756103515625
+          ],
+          [
+            150.1770166353855,
+            353.93756103515625
+          ],
+          [
+            150.1770166353855,
+            376.09002685546875
+          ],
+          [
+            68.1936611684804,
+            376.09002685546875
+          ]
+        ]
+      },
+      {
+        "title": "Introduction",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            67.57447984056448,
+            83.62396240234375
+          ],
+          [
+            143.20659224272373,
+            83.62396240234375
+          ],
+          [
+            143.20659224272373,
+            104.3719482421875
+          ],
+          [
+            67.57447984056448,
+            104.3719482421875
+          ]
+        ]
+      },
+      {
+        "title": "1. What is a custom-made device (CMD)?",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            97.19813064844242,
+            255.34393310546875
+          ],
+          [
+            335.79934238847017,
+            255.34393310546875
+          ],
+          [
+            335.79934238847017,
+            276.0919189453125
+          ],
+          [
+            97.19813064844242,
+            276.0919189453125
+          ]
+        ]
+      },
+      {
+        "title": "Medical Devices",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            67.45378074357731,
+            33.61846923828125
+          ],
+          [
+            206.347350305514,
+            33.61846923828125
+          ],
+          [
+            206.347350305514,
+            61.4339599609375
+          ],
+          [
+            67.45378074357731,
+            61.4339599609375
+          ]
+        ]
+      },
+      {
+        "title": "Medical Devices",
+        "heading_level": null,
+        "page_id": 3,
+        "polygon": [
+          [
+            67.45175916542034,
+            33.61846923828125
+          ],
+          [
+            206.18429542368546,
+            33.61846923828125
+          ],
+          [
+            206.18429542368546,
+            61.4339599609375
+          ],
+          [
+            67.45175916542034,
+            61.4339599609375
+          ]
+        ]
+      },
+      {
+        "title": "the MDR?",
+        "heading_level": null,
+        "page_id": 3,
+        "polygon": [
+          [
+            96.52692088552325,
+            413.12056459747885
+          ],
+          [
+            528.4493266761452,
+            413.12056459747885
+          ],
+          [
+            528.4493266761452,
+            480.4519958496094
+          ],
+          [
+            96.52692088552325,
+            480.4519958496094
+          ]
+        ]
+      },
+      {
+        "title": "3. Are there specific considerations/requirements which must be taken into \naccount by manufacturers of devices referred to in Question 2?",
+        "heading_level": null,
+        "page_id": 4,
+        "polygon": [
+          [
+            96.6273240250364,
+            83.7440185546875
+          ],
+          [
+            527.7108764648438,
+            83.7440185546875
+          ],
+          [
+            527.7108764648438,
+            120.4520263671875
+          ],
+          [
+            96.6273240250364,
+            120.4520263671875
+          ]
+        ]
+      },
+      {
+        "title": "",
+        "heading_level": null,
+        "page_id": 5,
+        "polygon": [
+          [
+            67.53472404576068,
+            36.824296293997484
+          ],
+          [
+            206.3951809592451,
+            36.824296293997484
+          ],
+          [
+            206.3951809592451,
+            56.49077649001871
+          ],
+          [
+            67.53472404576068,
+            56.49077649001871
+          ]
+        ]
+      },
+      {
+        "title": "4. Can manufacturers use state of the art industrial manufacturing \nprocesses to manufacture CMDs?",
+        "heading_level": null,
+        "page_id": 5,
+        "polygon": [
+          [
+            96.34580351783886,
+            83.7440185546875
+          ],
+          [
+            527.7131958007812,
+            83.7440185546875
+          ],
+          [
+            527.7131958007812,
+            120.4520263671875
+          ],
+          [
+            96.34580351783886,
+            120.4520263671875
+          ]
+        ]
+      },
+      {
+        "title": "5. Does a 3D printed device (additive manufacturing) qualify as a CMD?",
+        "heading_level": null,
+        "page_id": 5,
+        "polygon": [
+          [
+            96.4758144734188,
+            187.06402587890625
+          ],
+          [
+            509.57752233548484,
+            187.06402587890625
+          ],
+          [
+            509.57752233548484,
+            207.81201171875
+          ],
+          [
+            96.4758144734188,
+            207.81201171875
+          ]
+        ]
+      },
+      {
+        "title": "6. What defines a written prescription containing patient specific design \ncharacteristics?",
+        "heading_level": null,
+        "page_id": 5,
+        "polygon": [
+          [
+            96.96832359948145,
+            383.1439514160156
+          ],
+          [
+            527.7120971679688,
+            383.1439514160156
+          ],
+          [
+            527.7120971679688,
+            419.97198486328125
+          ],
+          [
+            96.96832359948145,
+            419.97198486328125
+          ]
+        ]
+      },
+      {
+        "title": "7. Shall the authorised person referred to in the definition of a CMD be a \nhealthcare professional?",
+        "heading_level": null,
+        "page_id": 6,
+        "polygon": [
+          [
+            97.37017668524676,
+            83.7440185546875
+          ],
+          [
+            527.7169799804688,
+            83.7440185546875
+          ],
+          [
+            527.7169799804688,
+            120.4520263671875
+          ],
+          [
+            97.37017668524676,
+            120.4520263671875
+          ]
+        ]
+      },
+      {
+        "title": "8. What are the obligations of CMD manufacturers according to the MDR?",
+        "heading_level": null,
+        "page_id": 6,
+        "polygon": [
+          [
+            96.24249113837176,
+            171.2239990234375
+          ],
+          [
+            524.7670993756888,
+            171.2239990234375
+          ],
+          [
+            524.7670993756888,
+            191.97198486328125
+          ],
+          [
+            96.24249113837176,
+            191.97198486328125
+          ]
+        ]
+      },
+      {
+        "title": "9. Which obligations of CMD manufacturers differ from those of other \nmedical device manufacturers?",
+        "heading_level": null,
+        "page_id": 6,
+        "polygon": [
+          [
+            96.15751613357504,
+            572.9840087890625
+          ],
+          [
+            527.714599609375,
+            572.9840087890625
+          ],
+          [
+            527.714599609375,
+            609.6920013427734
+          ],
+          [
+            96.15751613357504,
+            609.6920013427734
+          ]
+        ]
+      },
+      {
+        "title": "Medical Devices",
+        "heading_level": null,
+        "page_id": 7,
+        "polygon": [
+          [
+            67.54390418679648,
+            33.61846923828125
+          ],
+          [
+            206.36826476282076,
+            33.61846923828125
+          ],
+          [
+            206.36826476282076,
+            61.4339599609375
+          ],
+          [
+            67.54390418679648,
+            61.4339599609375
+          ]
+        ]
+      },
+      {
+        "title": "10. What are the implications for a CMD manufacturer using CE-marked \ndevices referred to in question 2 instead of non-CE marked devices?",
+        "heading_level": null,
+        "page_id": 7,
+        "polygon": [
+          [
+            96.99046360275307,
+            364.54400634765625
+          ],
+          [
+            527.7119750976562,
+            364.54400634765625
+          ],
+          [
+            527.7119750976562,
+            401.3719787597656
+          ],
+          [
+            96.99046360275307,
+            401.3719787597656
+          ]
+        ]
+      }
+    ],
+    "page_stats": [
+      {
+        "page_id": 0,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            30
+          ],
+          [
+            "Line",
+            15
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "SectionHeader",
+            3
+          ],
+          [
+            "Text",
+            3
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 1,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            157
+          ],
+          [
+            "Line",
+            38
+          ],
+          [
+            "Text",
+            6
+          ],
+          [
+            "ListItem",
+            5
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "ListGroup",
+            3
+          ],
+          [
+            "SectionHeader",
+            2
+          ],
+          [
+            "Footnote",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ],
+          [
+            "Reference",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 2,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            164
+          ],
+          [
+            "Line",
+            43
+          ],
+          [
+            "ListItem",
+            8
+          ],
+          [
+            "Text",
+            6
+          ],
+          [
+            "Footnote",
+            4
+          ],
+          [
+            "Reference",
+            4
+          ],
+          [
+            "PageHeader",
+            2
+          ],
+          [
+            "ListGroup",
+            2
+          ],
+          [
+            "SectionHeader",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 3,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            129
+          ],
+          [
+            "Line",
+            42
+          ],
+          [
+            "ListItem",
+            6
+          ],
+          [
+            "Text",
+            4
+          ],
+          [
+            "SectionHeader",
+            2
+          ],
+          [
+            "PageHeader",
+            2
+          ],
+          [
+            "ListGroup",
+            1
+          ],
+          [
+            "Footnote",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ],
+          [
+            "Reference",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 4,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            154
+          ],
+          [
+            "Line",
+            46
+          ],
+          [
+            "Text",
+            7
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "Footnote",
+            3
+          ],
+          [
+            "Reference",
+            3
+          ],
+          [
+            "SectionHeader",
+            1
+          ],
+          [
+            "ListGroup",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 5,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            111
+          ],
+          [
+            "Line",
+            36
+          ],
+          [
+            "Text",
+            7
+          ],
+          [
+            "SectionHeader",
+            4
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "ListGroup",
+            3
+          ],
+          [
+            "ListItem",
+            3
+          ],
+          [
+            "Footnote",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ],
+          [
+            "Reference",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 6,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            116
+          ],
+          [
+            "Line",
+            40
+          ],
+          [
+            "Text",
+            8
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "SectionHeader",
+            3
+          ],
+          [
+            "Footnote",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ],
+          [
+            "Reference",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 7,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            110
+          ],
+          [
+            "Line",
+            39
+          ],
+          [
+            "Text",
+            10
+          ],
+          [
+            "SectionHeader",
+            2
+          ],
+          [
+            "PageHeader",
+            2
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      }
+    ],
+    "debug_data_path": "debug_data/MDCG_2021-3"
+  }
+}

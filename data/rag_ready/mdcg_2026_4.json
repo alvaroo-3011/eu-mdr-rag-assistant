@@ -1,0 +1,1356 @@
+{
+  "children": [
+    {
+      "id": "/page/0/Page/65",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/0/PageHeader/0'></content-ref><content-ref src='/page/0/PageHeader/1'></content-ref><content-ref src='/page/0/PageFooter/6'></content-ref><content-ref src='/page/0/SectionHeader/2'></content-ref><content-ref src='/page/0/Text/3'></content-ref><content-ref src='/page/0/Text/4'></content-ref><content-ref src='/page/0/Text/5'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/0/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.32596889851375,
+              34.84456698382846
+            ],
+            [
+              513.5753173828125,
+              34.84456698382846
+            ],
+            [
+              513.5753173828125,
+              90.6484375
+            ],
+            [
+              67.32596889851375,
+              90.6484375
+            ]
+          ],
+          "bbox": [
+            67.32596889851375,
+            34.84456698382846,
+            513.5753173828125,
+            90.6484375
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              426.0467375555927,
+              57.19614109436741
+            ],
+            [
+              515.5572703479219,
+              57.19614109436741
+            ],
+            [
+              515.5572703479219,
+              72.4128488080372
+            ],
+            [
+              426.0467375555927,
+              72.4128488080372
+            ]
+          ],
+          "bbox": [
+            426.0467375555927,
+            57.19614109436741,
+            515.5572703479219,
+            72.4128488080372
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageFooter/6",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              471.12708288235984,
+              777.094924179444
+            ],
+            [
+              527.6389544508619,
+              777.094924179444
+            ],
+            [
+              527.6389544508619,
+              793.0399971008301
+            ],
+            [
+              471.12708288235984,
+              793.0399971008301
+            ]
+          ],
+          "bbox": [
+            471.12708288235984,
+            777.094924179444,
+            527.6389544508619,
+            793.0399971008301
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/SectionHeader/2",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>MDCG 2026-4</b> <b>MDCG Position Paper:</b> <b>Management of SS(C)P in EUDAMED</b> <b>after mandatory use</b></h1>",
+          "polygon": [
+            [
+              103.11605158500767,
+              243.57781765021497
+            ],
+            [
+              526.8767335829266,
+              243.57781765021497
+            ],
+            [
+              526.8767335829266,
+              397.6419982910156
+            ],
+            [
+              103.11605158500767,
+              397.6419982910156
+            ]
+          ],
+          "bbox": [
+            103.11605158500767,
+            243.57781765021497,
+            526.8767335829266,
+            397.6419982910156
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/3",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>June 2026</b></p>",
+          "polygon": [
+            [
+              103.84577830432343,
+              488.48563896580026
+            ],
+            [
+              185.05155349078046,
+              488.48563896580026
+            ],
+            [
+              185.05155349078046,
+              507.7416076660156
+            ],
+            [
+              103.84577830432343,
+              507.7416076660156
+            ]
+          ],
+          "bbox": [
+            103.84577830432343,
+            488.48563896580026,
+            185.05155349078046,
+            507.7416076660156
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">This document has been endorsed by the Medical Device Coordination Group (MDCG)  established by Article 103 of Regulation (EU) 2017/745. The MDCG is composed of  representatives of all Member States and it is chaired by a representative of the  European Commission.</p>",
+          "polygon": [
+            [
+              67.48718546139503,
+              603.8486641181545
+            ],
+            [
+              527.8681659073914,
+              603.8486641181545
+            ],
+            [
+              527.8681659073914,
+              667.8600006103516
+            ],
+            [
+              67.48718546139503,
+              667.8600006103516
+            ]
+          ],
+          "bbox": [
+            67.48718546139503,
+            603.8486641181545,
+            527.8681659073914,
+            667.8600006103516
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The document is not a European Commission document and it cannot be regarded as  reflecting the official position of the European Commission. Any views expressed in  this document are not legally binding and only the Court of Justice of the European  Union can give binding interpretations of Union law.</p>",
+          "polygon": [
+            [
+              67.50409685033995,
+              676.3314613349079
+            ],
+            [
+              528.3356601513302,
+              676.3314613349079
+            ],
+            [
+              528.3356601513302,
+              741.4280014038086
+            ],
+            [
+              67.50409685033995,
+              741.4280014038086
+            ]
+          ],
+          "bbox": [
+            67.50409685033995,
+            676.3314613349079,
+            528.3356601513302,
+            741.4280014038086
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/1/Page/181",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/1/PageHeader/0'></content-ref><content-ref src='/page/1/PageHeader/1'></content-ref><content-ref src='/page/1/PageFooter/13'></content-ref><content-ref src='/page/1/SectionHeader/2'></content-ref><content-ref src='/page/1/Text/3'></content-ref><content-ref src='/page/1/SectionHeader/4'></content-ref><content-ref src='/page/1/Text/5'></content-ref><content-ref src='/page/1/Text/6'></content-ref><content-ref src='/page/1/SectionHeader/7'></content-ref><content-ref src='/page/1/Text/8'></content-ref><content-ref src='/page/1/Text/9'></content-ref><content-ref src='/page/1/Text/10'></content-ref><content-ref src='/page/1/Footnote/11'></content-ref><content-ref src='/page/1/Footnote/12'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/1/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.85324573276625,
+              34.529490245842865
+            ],
+            [
+              513.5753173828125,
+              34.529490245842865
+            ],
+            [
+              513.5753173828125,
+              90.6484375
+            ],
+            [
+              67.85324573276625,
+              90.6484375
+            ]
+          ],
+          "bbox": [
+            67.85324573276625,
+            34.529490245842865,
+            513.5753173828125,
+            90.6484375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              425.83713483450094,
+              56.77324152714635
+            ],
+            [
+              515.4339368997953,
+              56.77324152714635
+            ],
+            [
+              515.4339368997953,
+              72.48545717832135
+            ],
+            [
+              425.83713483450094,
+              72.48545717832135
+            ]
+          ],
+          "bbox": [
+            425.83713483450094,
+            56.77324152714635,
+            515.4339368997953,
+            72.48545717832135
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageFooter/13",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.7371530989255,
+              776.3046925002087
+            ],
+            [
+              527.9448598866499,
+              776.3046925002087
+            ],
+            [
+              527.9448598866499,
+              793.0399971008301
+            ],
+            [
+              470.7371530989255,
+              793.0399971008301
+            ]
+          ],
+          "bbox": [
+            470.7371530989255,
+            776.3046925002087,
+            527.9448598866499,
+            793.0399971008301
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/2",
+          "block_type": "SectionHeader",
+          "html": "<h4><b>1.</b> <b>Current situation in EUDAMED</b>:</h4>",
+          "polygon": [
+            [
+              85.68510560004476,
+              107.47209185144249
+            ],
+            [
+              276.926025390625,
+              107.47209185144249
+            ],
+            [
+              276.926025390625,
+              123.843994140625
+            ],
+            [
+              85.68510560004476,
+              123.843994140625
+            ]
+          ],
+          "bbox": [
+            85.68510560004476,
+            107.47209185144249,
+            276.926025390625,
+            123.843994140625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "4": "/page/1/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/3",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The summary of safety and clinical performance and the summary of safety and  performance (SSCP and SSP respectively), are to be uploaded by the notified body during  the process of registering certificates information according to Article 32(1) MDR and  Article 29(1) IVDR. This policy is however evolving, as described below.</p>",
+          "polygon": [
+            [
+              67.26990303404685,
+              124.02618247870345
+            ],
+            [
+              527.5926356856108,
+              124.02618247870345
+            ],
+            [
+              527.5926356856108,
+              191.64398193359375
+            ],
+            [
+              67.26990303404685,
+              191.64398193359375
+            ]
+          ],
+          "bbox": [
+            67.26990303404685,
+            124.02618247870345,
+            527.5926356856108,
+            191.64398193359375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "4": "/page/1/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/4",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>2.</b> <b>Revision of the guidance MDCG 2019-9 –</b> <b>rev.1 on SSCP:</b></h2>",
+          "polygon": [
+            [
+              86.24083915345314,
+              199.73647981611404
+            ],
+            [
+              405.1008971091782,
+              199.73647981611404
+            ],
+            [
+              405.1008971091782,
+              216.7239990234375
+            ],
+            [
+              86.24083915345314,
+              216.7239990234375
+            ]
+          ],
+          "bbox": [
+            86.24083915345314,
+            199.73647981611404,
+            405.1008971091782,
+            216.7239990234375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Guidance MDCG 2019-9 – rev.1 is being revised to assign to the manufacturer the task to  upload the SSCPs in EUDAMED, both the 'master' version along with the translations<sup>1</sup> in  accordance with Article 29(4) MDR. It is the responsibility of the manufacturer to ensure  that the uploaded SSCP is the one validated by the notified body during the certification  process. The changes outlined in the revised guidance will be reflected in EUDAMED and  will require the notified body to indicate which is the validated SSCP(s), or parts thereof,  in accordance with Article 32(1) MDR, by ticking the box(es) corresponding to the relevant  Basic UDI-DI(s). This functionality will be available when registering and/or linking the  relevant certificate. See the guidance for more details.</p>",
+          "polygon": [
+            [
+              67.71447269622264,
+              216.77840167459163
+            ],
+            [
+              527.9251595216074,
+              216.77840167459163
+            ],
+            [
+              527.9251595216074,
+              369.3940124511719
+            ],
+            [
+              67.71447269622264,
+              369.3940124511719
+            ]
+          ],
+          "bbox": [
+            67.71447269622264,
+            216.77840167459163,
+            527.9251595216074,
+            369.3940124511719
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">This procedure will apply as well to SSP (IVDs).</p>",
+          "polygon": [
+            [
+              67.3973082727389,
+              376.5470426156918
+            ],
+            [
+              310.1901964624823,
+              376.5470426156918
+            ],
+            [
+              310.1901964624823,
+              394.35400390625
+            ],
+            [
+              67.3973082727389,
+              394.35400390625
+            ]
+          ],
+          "bbox": [
+            67.3973082727389,
+            376.5470426156918,
+            310.1901964624823,
+            394.35400390625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/7",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>3.</b> <b>Timeline for implementation in EUDAMED:</b></h2>",
+          "polygon": [
+            [
+              84.53447256400543,
+              402.3125858731495
+            ],
+            [
+              336.1527119595698,
+              402.3125858731495
+            ],
+            [
+              336.1527119595698,
+              419.3340148925781
+            ],
+            [
+              84.53447256400543,
+              419.3340148925781
+            ]
+          ],
+          "bbox": [
+            84.53447256400543,
+            402.3125858731495,
+            336.1527119595698,
+            419.3340148925781
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Changes will be implemented in EUDAMED in the coming months and after the  mandatory use date. A transitional period will be foreseen to switch the task of SS(C)P  upload in EUDAMED from the notified body to the manufacturer.</p>",
+          "polygon": [
+            [
+              67.73495191290637,
+              418.83564933579834
+            ],
+            [
+              527.9624985855833,
+              418.83564933579834
+            ],
+            [
+              527.9624985855833,
+              470.2139892578125
+            ],
+            [
+              67.73495191290637,
+              470.2139892578125
+            ]
+          ],
+          "bbox": [
+            67.73495191290637,
+            418.83564933579834,
+            527.9624985855833,
+            470.2139892578125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In practice, from 28th May 2026 (date of mandatory use of the first four modules of  EUDAMED) and until the new functionalities described in paragraph 2 are fully available  in the EUDAMED Production environment, notified bodies need to upload SS(C)Ps  alongside the registration of new certificates, including their updates, for concerned  devices. The upload concerns only the master SS(C)Ps, without the translations.  Management of translations will be done by the manufacturer in line with<a href=\"https://health.ec.europa.eu/document/download/ea0369a7-d86c-465e-9a54-0c0dfb01bc84_en?filename=2021-1_guidance-administrative-practices_en.pdf\"> MDCG 2021-1 </a> <a href=\"https://health.ec.europa.eu/document/download/ea0369a7-d86c-465e-9a54-0c0dfb01bc84_en?filename=2021-1_guidance-administrative-practices_en.pdf\">rev.1</a> and<a href=\"https://health.ec.europa.eu/document/download/c9008091-8ad7-4449-af75-f4f5a6abc761_en?filename=md_mdcg_2022-12_guidance-admpractice_techsol_eudamed_en_0.pdf\"> MDCG 2022-12</a> respectively.</p>",
+          "polygon": [
+            [
+              67.52432981246064,
+              477.23701043608776
+            ],
+            [
+              527.8947384927975,
+              477.23701043608776
+            ],
+            [
+              527.8947384927975,
+              597.0839996337891
+            ],
+            [
+              67.52432981246064,
+              597.0839996337891
+            ]
+          ],
+          "bbox": [
+            67.52432981246064,
+            477.23701043608776,
+            527.8947384927975,
+            597.0839996337891
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The new functionalities will first be available in the EUDAMED Playground environment  and a few months later in the Production environment<sup>2</sup> . The interval between the  deployments in Playground and Production is intended to provide manufacturers and notified bodies with a transition period to adapt their internal processes and test the  functionalities in Playground and therefore ensure compliance with the requirements.</p>",
+          "polygon": [
+            [
+              67.44198343195302,
+              604.1789340989884
+            ],
+            [
+              527.9609408823009,
+              604.1789340989884
+            ],
+            [
+              527.9609408823009,
+              689.9640045166016
+            ],
+            [
+              67.44198343195302,
+              689.9640045166016
+            ]
+          ],
+          "bbox": [
+            67.44198343195302,
+            604.1789340989884,
+            527.9609408823009,
+            689.9640045166016
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/11",
+          "block_type": "Footnote",
+          "html": "<p><sup>1</sup> The certificate registration does not require the SS(C)P translations upload in EUDAMED.</p>",
+          "polygon": [
+            [
+              67.74630253020702,
+              742.570110317648
+            ],
+            [
+              436.40179919956313,
+              742.570110317648
+            ],
+            [
+              436.40179919956313,
+              758.9300003051758
+            ],
+            [
+              67.74630253020702,
+              758.9300003051758
+            ]
+          ],
+          "bbox": [
+            67.74630253020702,
+            742.570110317648,
+            436.40179919956313,
+            758.9300003051758
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/12",
+          "block_type": "Footnote",
+          "html": "<p><sup>2</sup> Deployment in Playground planned in July 2026 and in Production in October 2026.</p>",
+          "polygon": [
+            [
+              67.76381523843376,
+              754.9996473765862
+            ],
+            [
+              416.0245204512358,
+              754.9996473765862
+            ],
+            [
+              416.0245204512358,
+              771.0499954223633
+            ],
+            [
+              67.76381523843376,
+              771.0499954223633
+            ]
+          ],
+          "bbox": [
+            67.76381523843376,
+            754.9996473765862,
+            416.0245204512358,
+            771.0499954223633
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/7"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/7"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/2/Page/82",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/2/PageHeader/0'></content-ref><content-ref src='/page/2/PageHeader/1'></content-ref><content-ref src='/page/2/PageHeader/2'></content-ref><content-ref src='/page/2/PageFooter/7'></content-ref><content-ref src='/page/2/SectionHeader/3'></content-ref><content-ref src='/page/2/Text/4'></content-ref><content-ref src='/page/2/Text/5'></content-ref><content-ref src='/page/2/Text/6'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/2/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.86509458604327,
+              34.61885065365772
+            ],
+            [
+              226.54670726862602,
+              34.61885065365772
+            ],
+            [
+              226.54670726862602,
+              58.52838134765625
+            ],
+            [
+              67.86509458604327,
+              58.52838134765625
+            ]
+          ],
+          "bbox": [
+            67.86509458604327,
+            34.61885065365772,
+            226.54670726862602,
+            58.52838134765625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              70.8239974975586,
+              57.11018715346379
+            ],
+            [
+              515.7728289933289,
+              57.11018715346379
+            ],
+            [
+              515.7728289933289,
+              74.54840087890625
+            ],
+            [
+              70.8239974975586,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            70.8239974975586,
+            57.11018715346379,
+            515.7728289933289,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.29376651177779,
+              75.92064595413548
+            ],
+            [
+              79.24056069016156,
+              75.92064595413548
+            ],
+            [
+              79.24056069016156,
+              90.6484375
+            ],
+            [
+              68.29376651177779,
+              90.6484375
+            ]
+          ],
+          "bbox": [
+            68.29376651177779,
+            75.92064595413548,
+            79.24056069016156,
+            90.6484375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/PageFooter/7",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.80390526605794,
+              776.4069265499777
+            ],
+            [
+              527.3689678201747,
+              776.4069265499777
+            ],
+            [
+              527.3689678201747,
+              793.0399971008301
+            ],
+            [
+              470.80390526605794,
+              793.0399971008301
+            ]
+          ],
+          "bbox": [
+            470.80390526605794,
+            776.4069265499777,
+            527.3689678201747,
+            793.0399971008301
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/3",
+          "block_type": "SectionHeader",
+          "html": "<h4><b>4.</b> <b>Devices placed on the market before the mandatory use of the UDI/Devices </b> <b>module:</b></h4>",
+          "polygon": [
+            [
+              86.60766109591466,
+              108.43999752272268
+            ],
+            [
+              528.1559744962217,
+              108.43999752272268
+            ],
+            [
+              528.1559744962217,
+              140.76397705078125
+            ],
+            [
+              86.60766109591466,
+              140.76397705078125
+            ]
+          ],
+          "bbox": [
+            86.60766109591466,
+            108.43999752272268,
+            528.1559744962217,
+            140.76397705078125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/7",
+            "4": "/page/2/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Since manufacturers will only be able to upload SS(C)Ps from October 2026 onwards, the  original transitional period of 6 months for devices registration is de facto reduced  substantially for SS(C)P upload.</p>",
+          "polygon": [
+            [
+              68.02863052329728,
+              141.84624320189016
+            ],
+            [
+              528.1828219704423,
+              141.84624320189016
+            ],
+            [
+              528.1828219704423,
+              191.64398193359375
+            ],
+            [
+              68.02863052329728,
+              191.64398193359375
+            ]
+          ],
+          "bbox": [
+            68.02863052329728,
+            141.84624320189016,
+            528.1828219704423,
+            191.64398193359375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/7",
+            "4": "/page/2/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Moreover, a 12-month transition period for notified bodies to upload the corresponding  certificates in the Notified Bodies &amp; Certificates module (ending on 27 May 2027) is  foreseen. Due to this transition period, there may be a significant number of devices  registered in EUDAMED which do not have yet a corresponding certificate and related  SS(C)P registered by the notified body when the functionality that allows manufacturers  to manage SS(C)Ps is available in Production.</p>",
+          "polygon": [
+            [
+              67.87692625876939,
+              200.14207533227474
+            ],
+            [
+              528.5910776748465,
+              200.14207533227474
+            ],
+            [
+              528.5910776748465,
+              301.593994140625
+            ],
+            [
+              67.87692625876939,
+              301.593994140625
+            ]
+          ],
+          "bbox": [
+            67.87692625876939,
+            200.14207533227474,
+            528.5910776748465,
+            301.593994140625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/7",
+            "4": "/page/2/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Therefore, manufacturers should upload SS(C)Ps in EUDAMED as soon as possible, and  <b>no later than 27</b> <b>February 2027</b> for devices placed on the market before mandatory use considering that manufacturers and notified bodies should align on timelines to fulfil their  registration obligations.</p>",
+          "polygon": [
+            [
+              67.88600331649972,
+              309.70089273291404
+            ],
+            [
+              528.7746575881612,
+              309.70089273291404
+            ],
+            [
+              528.7746575881612,
+              377.4339904785156
+            ],
+            [
+              67.88600331649972,
+              377.4339904785156
+            ]
+          ],
+          "bbox": [
+            67.88600331649972,
+            309.70089273291404,
+            528.7746575881612,
+            377.4339904785156
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/7",
+            "4": "/page/2/SectionHeader/3"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/7",
+        "4": "/page/2/SectionHeader/3"
+      },
+      "images": null
+    }
+  ],
+  "block_type": "Document",
+  "metadata": {
+    "table_of_contents": [
+      {
+        "title": "MDCG 2026-4\nMDCG Position Paper:\nManagement of SS(C)P in EUDAMED\nafter mandatory use",
+        "heading_level": null,
+        "page_id": 0,
+        "polygon": [
+          [
+            103.11605158500767,
+            243.57781765021497
+          ],
+          [
+            526.8767335829266,
+            243.57781765021497
+          ],
+          [
+            526.8767335829266,
+            397.6419982910156
+          ],
+          [
+            103.11605158500767,
+            397.6419982910156
+          ]
+        ]
+      },
+      {
+        "title": "1. Current situation in EUDAMED:",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            85.68510560004476,
+            107.47209185144249
+          ],
+          [
+            276.926025390625,
+            107.47209185144249
+          ],
+          [
+            276.926025390625,
+            123.843994140625
+          ],
+          [
+            85.68510560004476,
+            123.843994140625
+          ]
+        ]
+      },
+      {
+        "title": "2. Revision of the guidance MDCG 2019-9 – rev.1 on SSCP:",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            86.24083915345314,
+            199.73647981611404
+          ],
+          [
+            405.1008971091782,
+            199.73647981611404
+          ],
+          [
+            405.1008971091782,
+            216.7239990234375
+          ],
+          [
+            86.24083915345314,
+            216.7239990234375
+          ]
+        ]
+      },
+      {
+        "title": "3. Timeline for implementation in EUDAMED:",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            84.53447256400543,
+            402.3125858731495
+          ],
+          [
+            336.1527119595698,
+            402.3125858731495
+          ],
+          [
+            336.1527119595698,
+            419.3340148925781
+          ],
+          [
+            84.53447256400543,
+            419.3340148925781
+          ]
+        ]
+      },
+      {
+        "title": "4. Devices placed on the market before the mandatory use of the UDI/Devices \nmodule:",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            86.60766109591466,
+            108.43999752272268
+          ],
+          [
+            528.1559744962217,
+            108.43999752272268
+          ],
+          [
+            528.1559744962217,
+            140.76397705078125
+          ],
+          [
+            86.60766109591466,
+            140.76397705078125
+          ]
+        ]
+      }
+    ],
+    "page_stats": [
+      {
+        "page_id": 0,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            42
+          ],
+          [
+            "Line",
+            17
+          ],
+          [
+            "Text",
+            3
+          ],
+          [
+            "PageHeader",
+            2
+          ],
+          [
+            "SectionHeader",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 1,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            128
+          ],
+          [
+            "Line",
+            40
+          ],
+          [
+            "Text",
+            6
+          ],
+          [
+            "SectionHeader",
+            3
+          ],
+          [
+            "PageHeader",
+            2
+          ],
+          [
+            "Footnote",
+            2
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 2,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            56
+          ],
+          [
+            "Line",
+            19
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "Text",
+            3
+          ],
+          [
+            "SectionHeader",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      }
+    ],
+    "debug_data_path": "debug_data/MDCG_2026-4"
+  }
+}

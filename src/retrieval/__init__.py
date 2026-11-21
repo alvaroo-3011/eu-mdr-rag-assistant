@@ -1,0 +1,1 @@
+"""Deterministic retrieval components for the closed EU MDR corpus."""

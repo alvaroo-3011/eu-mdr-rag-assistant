@@ -1,0 +1,204 @@
+{
+  "case": 3,
+  "question": "What should a manufacturer do if it needs to recall a device?",
+  "prompt_version": "mdr-grounding/v6",
+  "chunk_set_id": "chunk-set:sha256:48c56cb87716c5da233522ecacfb712f6ebbc8dea19b66102f9916eebe8a035b",
+  "saved_request_id": "gemini-request:sha256:6b6d019c1cb0aca6dff4ba0a9e9111cc5bfdf4f1198a6efe227a0ffaeb3313b5",
+  "reconstructed_request_id": "gemini-request:sha256:6b6d019c1cb0aca6dff4ba0a9e9111cc5bfdf4f1198a6efe227a0ffaeb3313b5",
+  "request_id_matches": true,
+  "source_diagnostic_request_id": "gemini-request:sha256:6b6d019c1cb0aca6dff4ba0a9e9111cc5bfdf4f1198a6efe227a0ffaeb3313b5",
+  "provider_calls": 0,
+  "index_opened": false,
+  "selected": [
+    {
+      "citation_id": "1",
+      "chunk_id": "chunk:sha256:f8d087e5440f0ada9948d4cbbb2b2011851f39eb202a293e89db1094a78c884e",
+      "source_identity": "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+      "locators": [
+        [
+          "chapter: II",
+          "article: 10",
+          "paragraph: 10"
+        ],
+        [
+          "chapter: II",
+          "article: 10",
+          "paragraph: 11"
+        ],
+        [
+          "chapter: II",
+          "article: 10",
+          "paragraph: 12"
+        ],
+        [
+          "chapter: II",
+          "article: 10",
+          "paragraph: 12",
+          "subparagraph: 1"
+        ],
+        [
+          "chapter: II",
+          "article: 10",
+          "paragraph: 13"
+        ],
+        [
+          "chapter: II",
+          "article: 10",
+          "paragraph: 14"
+        ],
+        [
+          "chapter: II",
+          "article: 10",
+          "paragraph: 14",
+          "subparagraph: 1"
+        ]
+      ]
+    },
+    {
+      "citation_id": "2",
+      "chunk_id": "chunk:sha256:8b3a0532d7df49f9fa2495c64a814d6c5bf599e7f42cd304c428cb809a364bb2",
+      "source_identity": "mdcg-2019-15@sha256:6c32134a74411cba3fc2545e75485b42e2d590f89a976bcf431f5e901918c7a2",
+      "locators": []
+    },
+    {
+      "citation_id": "3",
+      "chunk_id": "chunk:sha256:1efd49b589aee298bcb333ddbaf830a1c49ba2d845921df67112cfaa7c3762ac",
+      "source_identity": "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+      "locators": [
+        [
+          "chapter: VII",
+          "section: 2",
+          "article: 87",
+          "paragraph: 1"
+        ],
+        [
+          "chapter: VII",
+          "section: 2",
+          "article: 87",
+          "paragraph: 1",
+          "point: a"
+        ],
+        [
+          "chapter: VII",
+          "section: 2",
+          "article: 87",
+          "paragraph: 1",
+          "point: b"
+        ],
+        [
+          "chapter: VII",
+          "section: 2",
+          "article: 87",
+          "paragraph: 1",
+          "subparagraph: 1"
+        ],
+        [
+          "chapter: VII",
+          "section: 2",
+          "article: 87",
+          "paragraph: 2"
+        ],
+        [
+          "chapter: VII",
+          "section: 2",
+          "article: 87",
+          "paragraph: 3"
+        ],
+        [
+          "chapter: VII",
+          "section: 2",
+          "article: 87",
+          "paragraph: 4"
+        ],
+        [
+          "chapter: VII",
+          "section: 2",
+          "article: 87",
+          "paragraph: 5"
+        ],
+        [
+          "chapter: VII",
+          "section: 2",
+          "article: 87",
+          "paragraph: 6"
+        ],
+        [
+          "chapter: VII",
+          "section: 2",
+          "article: 87",
+          "paragraph: 7"
+        ],
+        [
+          "chapter: VII",
+          "section: 2",
+          "article: 87",
+          "paragraph: 8"
+        ]
+      ]
+    },
+    {
+      "citation_id": "4",
+      "chunk_id": "chunk:sha256:1fa80da04da94c11e626b135a374ff034133dc5810b6b51387b6cc4f030786f7",
+      "source_identity": "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+      "locators": [
+        [
+          "chapter: II",
+          "article: 10",
+          "paragraph: 16"
+        ],
+        [
+          "chapter: II",
+          "article: 10",
+          "paragraph: 16",
+          "subparagraph: 1"
+        ]
+      ]
+    },
+    {
+      "citation_id": "5",
+      "chunk_id": "chunk:sha256:4b3a0069b371a5043cdd757e1722efaa457d79c16fc7c968350fbbcbd2262505",
+      "source_identity": "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+      "locators": [
+        [
+          "chapter: VII",
+          "section: 2",
+          "article: 89",
+          "paragraph: 6"
+        ],
+        [
+          "chapter: VII",
+          "section: 2",
+          "article: 89",
+          "paragraph: 6",
+          "subparagraph: 1"
+        ],
+        [
+          "chapter: VII",
+          "section: 2",
+          "article: 89",
+          "paragraph: 7"
+        ],
+        [
+          "chapter: VII",
+          "section: 2",
+          "article: 89",
+          "paragraph: 8"
+        ],
+        [
+          "chapter: VII",
+          "section: 2",
+          "article: 89",
+          "paragraph: 8",
+          "subparagraph: 1"
+        ],
+        [
+          "chapter: VII",
+          "section: 2",
+          "article: 89",
+          "paragraph: 8",
+          "subparagraph: 2"
+        ]
+      ]
+    }
+  ]
+}

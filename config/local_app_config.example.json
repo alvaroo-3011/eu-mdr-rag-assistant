@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "profile_label": "DIAGNOSTIC C3 EXAMPLE — UNAPPROVED FOR PRODUCTION",
+  "paths": {
+    "project_root": "..",
+    "manifest_path": "data/corpus_manifest.json",
+    "persistence_directory": "data/indexes/chroma"
+  },
+  "chroma": {
+    "tenant": "default_tenant",
+    "database": "default_database",
+    "migration_hash_algorithm": "md5"
+  },
+  "profiles": {
+    "chunking": "baseline_frozen_18_source_v1",
+    "embedding": "gte_modernbert_base_pinned_cpu"
+  },
+  "bm25": {
+    "k1": 1.2,
+    "b": 0.75
+  },
+  "retrieval": {
+    "dense_candidate_count": 5,
+    "lexical_candidate_count": 5,
+    "rank_constant": 2.0,
+    "max_chunks": 5
+  },
+  "generation": {
+    "model": "models/gemini-3.5-flash-lite",
+    "max_output_tokens": 1024,
+    "temperature": 1.0,
+    "thinking_budget": null,
+    "thinking_level": "MINIMAL"
+  },
+  "budget": {
+    "input_token_limit": 16384,
+    "output_token_limit": 1024
+  },
+  "transport": {
+    "api_version": "v1beta",
+    "timeout_seconds": 30.0,
+    "max_response_bytes": 1048576,
+    "verify_tls": true,
+    "trust_env": false,
+    "follow_redirects": false,
+    "retries": 0
+  }
+}

@@ -1,0 +1,19 @@
+# Broad MDR retrieval: offline baseline diagnostic
+
+The full machine-readable output is [broad_mdr_baseline_diagnostic.json](../data/evaluation/broad_mdr_baseline_diagnostic.json). It records dense, lexical, fused and selected rankings, full passage text and locators, selected sizes, exact repeated text, request sizes in characters and UTF-8 bytes, and targeted corpus probes. These sizes are not model token counts. No provider calls were made. The index was copied after the known application servers were stopped, and the source fingerprint matched before and after. The original terminal report did not retain request bodies or selected chunk IDs; this run reconstructs the current pipeline and cannot prove the precise evidence used in the baseline.
+
+The tested source commit was `d3b7eb25f98ca808a9a904f47bed3d6430294095`, with prompt `mdr-grounding/v4`. Corpus identity was `corpus:sha256:7121229f6c645f3ffdee7a208ea9886b85171fcc90db2fd7148ab028d98a2eab`; ChunkSet identity was `chunk-set:sha256:48c56cb87716c5da233522ecacfb712f6ebbc8dea19b66102f9916eebe8a035b`. The detailed artifact records the non-secret configuration.
+
+| Baseline question | Offline reconstruction and interpretation |
+|---|---|
+| MDR overview | The main Article 1 scope chunk was not retrieved; an Article 2 definition chunk and two other Article 1 chunks were retrieved but not selected. Selected material was guidance on narrower topics. The baseline refused a comprehensive account. |
+| Classification | The Article 51 chunk was present in the corpus but not retrieved. The selected passages were narrower examples and guidance. The baseline answer gave examples without the overall framework. |
+| Notified body | All five Article 52 chunks were present but none was retrieved. The selected evidence included a Class I guidance passage and unrelated notified-body requirements. The baseline answer addressed only Class I. |
+| Quality management | The Article 10(9) chunk was selected, together with two large Annex IX chunks and guidance. Five selected texts were approximately 1,747–3,968 characters; the complete prepared request was 54,611 UTF-8 bytes. Two pairwise repeated spans were 247 and 135 characters. The baseline count was 19,191 / 16,384, and no answer was generated. |
+| Device problem reporting | One Article 87 chunk was retrieved but omitted by the five-chunk selection, while Article 88 was not retrieved. The baseline answer described trend reporting but not serious-incident reporting. Two selected-passage pairs shared 281 and 166 consecutive characters in the reconstruction. |
+
+The targeted article probes establish that these identified provisions are present. They are not an exhaustive relevance review and do not establish that other material is absent from the corpus. In particular, the earlier report does not identify every supplied passage, so selected-but-omitted findings cannot be established for the original model request merely from this reconstruction.
+
+For the QMS reconstruction, inspection of the model projection showed roughly 17.9 KB of source block-selection metadata across the five passages, in addition to passage text, locators and other structure. Those block selections are retained in the trusted local chunks and citation mappings; they are not substantive passage text. Their removal from the model projection reduces redundant request metadata without truncating the selected passages, tables, annotations or legal locators. The resulting request still requires the fresh provider count and can still exceed the input limit.
+
+Reconstructing a revised request with the same five QMS chunks and the revised prompt gave 36,734 UTF-8 bytes versus 54,611 in the baseline reconstruction. This is not a token count or proof that the request will pass the configured token limit.

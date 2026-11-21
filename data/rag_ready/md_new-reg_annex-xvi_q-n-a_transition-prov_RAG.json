@@ -1,0 +1,4879 @@
+{
+  "children": [
+    {
+      "id": "/page/0/Page/25",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/0/PageFooter/2'></content-ref><content-ref src='/page/0/Text/3'></content-ref><content-ref src='/page/0/PageFooter/4'></content-ref><content-ref src='/page/0/Picture/0'></content-ref><content-ref src='/page/0/SectionHeader/1'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/0/PageFooter/2",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              33.479630746529146,
+              757.0082673015917
+            ],
+            [
+              151.70660108282823,
+              757.0082673015917
+            ],
+            [
+              151.70660108282823,
+              777.4400024414062
+            ],
+            [
+              33.479630746529146,
+              777.4400024414062
+            ]
+          ],
+          "bbox": [
+            33.479630746529146,
+            757.0082673015917,
+            151.70660108282823,
+            777.4400024414062
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/3",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"></p>",
+          "polygon": [
+            [
+              33.479630746529146,
+              757.0082673015917
+            ],
+            [
+              151.70660108282823,
+              757.0082673015917
+            ],
+            [
+              151.70660108282823,
+              774.7887546610641
+            ],
+            [
+              33.479630746529146,
+              774.7887546610641
+            ]
+          ],
+          "bbox": [
+            33.479630746529146,
+            757.0082673015917,
+            151.70660108282823,
+            774.7887546610641
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageFooter/4",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              251.46031577160736,
+              796.5644242107496
+            ],
+            [
+              319.71937757054866,
+              796.5644242107496
+            ],
+            [
+              319.71937757054866,
+              821.6619224106745
+            ],
+            [
+              251.46031577160736,
+              821.6619224106745
+            ]
+          ],
+          "bbox": [
+            251.46031577160736,
+            796.5644242107496,
+            319.71937757054866,
+            821.6619224106745
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/Picture/0",
+          "block_type": "Picture",
+          "html": "",
+          "polygon": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              596.0,
+              0.0
+            ],
+            [
+              596.0,
+              536.0606053981628
+            ],
+            [
+              0.0,
+              536.0606053981628
+            ]
+          ],
+          "bbox": [
+            0.0,
+            0.0,
+            596.0,
+            536.0606053981628
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/SectionHeader/1",
+          "block_type": "SectionHeader",
+          "html": "<h1>Q&amp;A ON TRANSITIONAL PROVISIONS  FOR PRODUCTS WITHOUT AN  INTENDED MEDICAL PURPOSE  COVERED BY ANNEX XVI OF THE MDR</h1>",
+          "polygon": [
+            [
+              33.99293120261704,
+              556.506107537532
+            ],
+            [
+              533.3502735358942,
+              556.506107537532
+            ],
+            [
+              533.3502735358942,
+              691.4351196289062
+            ],
+            [
+              33.99293120261704,
+              691.4351196289062
+            ]
+          ],
+          "bbox": [
+            33.99293120261704,
+            556.506107537532,
+            533.3502735358942,
+            691.4351196289062
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/1/Page/205",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/1/SectionHeader/0'></content-ref><content-ref src='/page/1/PageFooter/11'></content-ref><content-ref src='/page/1/Text/1'></content-ref><content-ref src='/page/1/SectionHeader/2'></content-ref><content-ref src='/page/1/Text/3'></content-ref><content-ref src='/page/1/Text/4'></content-ref><content-ref src='/page/1/Text/5'></content-ref><content-ref src='/page/1/Footnote/6'></content-ref><content-ref src='/page/1/Footnote/7'></content-ref><content-ref src='/page/1/Footnote/8'></content-ref><content-ref src='/page/1/Footnote/9'></content-ref><content-ref src='/page/1/Footnote/10'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/1/SectionHeader/0",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              143.86687517526468,
+              34.45081544707953
+            ],
+            [
+              449.7359225563799,
+              34.45081544707953
+            ],
+            [
+              449.7359225563799,
+              64.780029296875
+            ],
+            [
+              143.86687517526468,
+              64.780029296875
+            ]
+          ],
+          "bbox": [
+            143.86687517526468,
+            34.45081544707953,
+            449.7359225563799,
+            64.780029296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1",
+            "2": "/page/1/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageFooter/11",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              274.0709286937185,
+              792.511855494838
+            ],
+            [
+              319.06221004457257,
+              792.511855494838
+            ],
+            [
+              319.06221004457257,
+              806.4749984741211
+            ],
+            [
+              274.0709286937185,
+              806.4749984741211
+            ]
+          ],
+          "bbox": [
+            274.0709286937185,
+            792.511855494838,
+            319.06221004457257,
+            806.4749984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1",
+            "2": "/page/1/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/1",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><i>Disclaimer: this Q&amp;A document intends to facilitate the application of the transitional provisions set </i> <i>out in Commission Implementing Regulation (EU) 2022/2346</i><i><sup>1</sup></i> <i>, as amended by Commission </i> <i>Implementing Regulation (EU) 2023/1194</i><i><sup>2</sup></i> <i>. This document has not been formally endorsed by the </i> <i>European Commission and is without prejudice to any interpretation of the relevant provisions by the </i> <i>Court of Justice of the European Union or national courts. The information in this Q&amp;A document is of </i> <i>a</i> <i>general nature and not intended to address specific circumstances of any particular case; the </i> <i>document does not intend to provide professional or legal advice. The information is not necessarily </i> <i>comprehensive nor complete. If needed, this document will be</i> <i>updated in order to address additional </i> <i>questions that may arise.</i></p>",
+          "polygon": [
+            [
+              68.85365203165587,
+              95.4455589912666
+            ],
+            [
+              527.1380612159555,
+              95.4455589912666
+            ],
+            [
+              527.1380612159555,
+              225.83001708984375
+            ],
+            [
+              68.85365203165587,
+              225.83001708984375
+            ]
+          ],
+          "bbox": [
+            68.85365203165587,
+            95.4455589912666,
+            527.1380612159555,
+            225.83001708984375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1",
+            "2": "/page/1/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/2",
+          "block_type": "SectionHeader",
+          "html": "<h4>Introduction</h4>",
+          "polygon": [
+            [
+              68.96877317644787,
+              256.3296390849357
+            ],
+            [
+              128.5855769006071,
+              256.3296390849357
+            ],
+            [
+              128.5855769006071,
+              270.83001708984375
+            ],
+            [
+              68.96877317644787,
+              270.83001708984375
+            ]
+          ],
+          "bbox": [
+            68.96877317644787,
+            256.3296390849357,
+            128.5855769006071,
+            270.83001708984375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1",
+            "2": "/page/1/SectionHeader/0",
+            "4": "/page/1/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/3",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Regulation (EU) 2017/745 on medical devices (MDR)<sup>3</sup> , fully applicable from 26 May 2021, covers also  products without an intended medical purpose that are listed in its Annex XVI. Common specifications  addressing the application of risk management to Annex XVI products have been set out in Commission Implementing Regulation (EU) 2022/2346 (CS), which applies from 22 June 2023.</p>",
+          "polygon": [
+            [
+              68.85223177278071,
+              278.16290109282824
+            ],
+            [
+              526.9860018867089,
+              278.16290109282824
+            ],
+            [
+              526.9860018867089,
+              336.6000061035156
+            ],
+            [
+              68.85223177278071,
+              336.6000061035156
+            ]
+          ],
+          "bbox": [
+            68.85223177278071,
+            278.16290109282824,
+            526.9860018867089,
+            336.6000061035156
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1",
+            "2": "/page/1/SectionHeader/0",
+            "4": "/page/1/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Transitional provisions set out in the MDR have been extended by Regulation (EU) 2023/607<sup>4</sup> that also  sets out conditions for benefitting from those extended transitional periods. The amended transitional  provisions apply from 20 March 2023.</p>",
+          "polygon": [
+            [
+              69.24704655952357,
+              343.50604112171635
+            ],
+            [
+              527.1423219925811,
+              343.50604112171635
+            ],
+            [
+              527.1423219925811,
+              388.1199951171875
+            ],
+            [
+              69.24704655952357,
+              388.1199951171875
+            ]
+          ],
+          "bbox": [
+            69.24704655952357,
+            343.50604112171635,
+            527.1423219925811,
+            388.1199951171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1",
+            "2": "/page/1/SectionHeader/0",
+            "4": "/page/1/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Considering that transitional provisions for products covered by a certificate issued by a notified body  in accordance with Council Directive 93/42/EEC (MDD)<sup>5</sup> are set out both in the amended MDR and in  the CS, Commission Implementing Regulation (EU) 2023/1194 has been adopted to align the  transitional provisions set out in the CS to those set out in the amended MDR. The content of this  document has been drafted considering the requirements applicable from the amended MDR and the  amended CS.</p>",
+          "polygon": [
+            [
+              68.89904877400818,
+              395.3482230127866
+            ],
+            [
+              526.7514759130983,
+              395.3482230127866
+            ],
+            [
+              526.7514759130983,
+              483.1499938964844
+            ],
+            [
+              68.89904877400818,
+              483.1499938964844
+            ]
+          ],
+          "bbox": [
+            68.89904877400818,
+            395.3482230127866,
+            526.7514759130983,
+            483.1499938964844
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1",
+            "2": "/page/1/SectionHeader/0",
+            "4": "/page/1/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/6",
+          "block_type": "Footnote",
+          "html": "<p><sup>1</sup> Commission Implementing Regulation (EU) 2022/2346 of 1 December 2022 laying down common specifications  for the groups of products without an intended medical purpose listed in Annex XVI to Regulation (EU) 2017/745  of the European Parliament and of the Council on medical devices  <a href=\"http://data.europa.eu/eli/reg_impl/2022/2346/oj\">http://data.europa.eu/eli/reg_impl/2022/2346/oj.</a></p>",
+          "polygon": [
+            [
+              68.98057621492246,
+              559.5445730560928
+            ],
+            [
+              525.9487089450173,
+              559.5445730560928
+            ],
+            [
+              525.9487089450173,
+              611.1699981689453
+            ],
+            [
+              68.98057621492246,
+              611.1699981689453
+            ]
+          ],
+          "bbox": [
+            68.98057621492246,
+            559.5445730560928,
+            525.9487089450173,
+            611.1699981689453
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1",
+            "2": "/page/1/SectionHeader/0",
+            "4": "/page/1/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/7",
+          "block_type": "Footnote",
+          "html": "<p><sup>2</sup> Commission Implementing Regulation (EU) 2023/1194 of 20 June 2023 amending Implementing Regulation  (EU) 2022/2346 as regards the transitional provisions for certain products without an intended medical purpose  listed in Annex XVI to Regulation (EU) 2017/745 of the European Parliament and of the Council  <a href=\"http://data.europa.eu/eli/reg_impl/2023/1194/oj\">http://data.europa.eu/eli/reg_impl/2023/1194/oj.</a></p>",
+          "polygon": [
+            [
+              68.87590657193354,
+              608.7340696611684
+            ],
+            [
+              526.3045067006454,
+              608.7340696611684
+            ],
+            [
+              526.3045067006454,
+              659.9499969482422
+            ],
+            [
+              68.87590657193354,
+              659.9499969482422
+            ]
+          ],
+          "bbox": [
+            68.87590657193354,
+            608.7340696611684,
+            526.3045067006454,
+            659.9499969482422
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1",
+            "2": "/page/1/SectionHeader/0",
+            "4": "/page/1/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/8",
+          "block_type": "Footnote",
+          "html": "<p><sup>3</sup> Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices,  amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing  Council Directives 90/385/EEC and 93/42/EEC - <a href=\"http://data.europa.eu/eli/reg/2017/745/2020-04-24\">http://data.europa.eu/eli/reg/2017/745/2020-04-24.</a></p>",
+          "polygon": [
+            [
+              68.68743020160973,
+              656.9791597823213
+            ],
+            [
+              526.3702509421245,
+              656.9791597823213
+            ],
+            [
+              526.3702509421245,
+              696.6999969482422
+            ],
+            [
+              68.68743020160973,
+              696.6999969482422
+            ]
+          ],
+          "bbox": [
+            68.68743020160973,
+            656.9791597823213,
+            526.3702509421245,
+            696.6999969482422
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1",
+            "2": "/page/1/SectionHeader/0",
+            "4": "/page/1/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/9",
+          "block_type": "Footnote",
+          "html": "<p><sup>4</sup> Regulation (EU) 2023/607 of the European Parliament and of the Council of 15 March 2023 amending  Regulations (EU) 2017/745 and (EU) 2017/746 as regards the transitional provisions for certain medical devices  and in vitro diagnostic medical devices - <a href=\"http://data.europa.eu/eli/reg/2023/607/oj\">http://data.europa.eu/eli/reg/2023/607/oj.</a></p>",
+          "polygon": [
+            [
+              68.89965582014031,
+              691.9011945715995
+            ],
+            [
+              526.2874635941436,
+              691.9011945715995
+            ],
+            [
+              526.2874635941436,
+              733.2200012207031
+            ],
+            [
+              68.89965582014031,
+              733.2200012207031
+            ]
+          ],
+          "bbox": [
+            68.89965582014031,
+            691.9011945715995,
+            526.2874635941436,
+            733.2200012207031
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1",
+            "2": "/page/1/SectionHeader/0",
+            "4": "/page/1/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/10",
+          "block_type": "Footnote",
+          "html": "<p><sup>5</sup> Council Directive 93/42/EEC of 14 June 1993 concerning medical devices  <a href=\"http://data.europa.eu/eli/dir/1993/42/2007-10-11\">http://data.europa.eu/eli/dir/1993/42/2007-10-11</a> (no longer in force).</p>",
+          "polygon": [
+            [
+              69.18582080293362,
+              728.3037925713421
+            ],
+            [
+              525.0826259199858,
+              728.3037925713421
+            ],
+            [
+              525.0826259199858,
+              757.7249984741211
+            ],
+            [
+              69.18582080293362,
+              757.7249984741211
+            ]
+          ],
+          "bbox": [
+            69.18582080293362,
+            728.3037925713421,
+            525.0826259199858,
+            757.7249984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1",
+            "2": "/page/1/SectionHeader/0",
+            "4": "/page/1/SectionHeader/2"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/0",
+        "4": "/page/1/SectionHeader/2"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/2/Page/218",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/2/SectionHeader/0'></content-ref><content-ref src='/page/2/PageFooter/16'></content-ref><content-ref src='/page/2/SectionHeader/1'></content-ref><content-ref src='/page/2/Text/2'></content-ref><content-ref src='/page/2/Text/3'></content-ref><content-ref src='/page/2/SectionHeader/4'></content-ref><content-ref src='/page/2/Text/5'></content-ref><content-ref src='/page/2/SectionHeader/6'></content-ref><content-ref src='/page/2/Text/7'></content-ref><content-ref src='/page/2/Text/8'></content-ref><content-ref src='/page/2/Text/9'></content-ref><content-ref src='/page/2/SectionHeader/10'></content-ref><content-ref src='/page/2/Text/11'></content-ref><content-ref src='/page/2/Text/12'></content-ref><content-ref src='/page/2/Footnote/13'></content-ref><content-ref src='/page/2/Footnote/14'></content-ref><content-ref src='/page/2/Footnote/15'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/2/SectionHeader/0",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              143.80863310768262,
+              34.69335817929792
+            ],
+            [
+              449.7971769472213,
+              34.69335817929792
+            ],
+            [
+              449.7971769472213,
+              64.780029296875
+            ],
+            [
+              143.80863310768262,
+              64.780029296875
+            ]
+          ],
+          "bbox": [
+            143.80863310768262,
+            34.69335817929792,
+            449.7971769472213,
+            64.780029296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1",
+            "2": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/PageFooter/16",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              274.15403674531643,
+              792.2123838647178
+            ],
+            [
+              319.03201808977485,
+              792.2123838647178
+            ],
+            [
+              319.03201808977485,
+              806.4749984741211
+            ],
+            [
+              274.15403674531643,
+              806.4749984741211
+            ]
+          ],
+          "bbox": [
+            274.15403674531643,
+            792.2123838647178,
+            319.03201808977485,
+            806.4749984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1",
+            "2": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/1",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>1</b> <b>When are</b> <b>the CS</b> <b>applicable to Annex XVI products?</b></h2>",
+          "polygon": [
+            [
+              70.11325557526173,
+              95.21243195096403
+            ],
+            [
+              390.2893380037783,
+              95.21243195096403
+            ],
+            [
+              390.2893380037783,
+              110.550048828125
+            ],
+            [
+              70.11325557526173,
+              110.550048828125
+            ]
+          ],
+          "bbox": [
+            70.11325557526173,
+            95.21243195096403,
+            390.2893380037783,
+            110.550048828125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1",
+            "2": "/page/2/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/2",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The CS are applicable to Annex XVI products from 22 June 2023<sup>6</sup> .</p>",
+          "polygon": [
+            [
+              69.09702598898477,
+              115.54715169633167
+            ],
+            [
+              361.8241202020525,
+              115.54715169633167
+            ],
+            [
+              361.8241202020525,
+              130.79998779296875
+            ],
+            [
+              69.09702598898477,
+              130.79998779296875
+            ]
+          ],
+          "bbox": [
+            69.09702598898477,
+            115.54715169633167,
+            361.8241202020525,
+            130.79998779296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1",
+            "2": "/page/2/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/3",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Certain provisions for products that are covered by a certificate issued by a notified body in  accordance with the MDD are applicable from 22 December 2022 (see question 7).</p>",
+          "polygon": [
+            [
+              69.0847189876835,
+              137.74091000102612
+            ],
+            [
+              526.2907622599181,
+              137.74091000102612
+            ],
+            [
+              526.2907622599181,
+              167.54998779296875
+            ],
+            [
+              69.0847189876835,
+              167.54998779296875
+            ]
+          ],
+          "bbox": [
+            69.0847189876835,
+            137.74091000102612,
+            526.2907622599181,
+            167.54998779296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1",
+            "2": "/page/2/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/4",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>2</b> <b>When is the MDR applicable to Annex XVI products?</b></h2>",
+          "polygon": [
+            [
+              69.13134700285097,
+              202.03477813639176
+            ],
+            [
+              393.2370165769639,
+              202.03477813639176
+            ],
+            [
+              393.2370165769639,
+              217.35003662109375
+            ],
+            [
+              69.13134700285097,
+              217.35003662109375
+            ]
+          ],
+          "bbox": [
+            69.13134700285097,
+            202.03477813639176,
+            393.2370165769639,
+            217.35003662109375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1",
+            "2": "/page/2/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The MDR is applicable to Annex XVI products from 22 June 2023<sup>7</sup> , which is the date of application of  the CS.</p>",
+          "polygon": [
+            [
+              69.19520138373002,
+              222.35766248286885
+            ],
+            [
+              525.9311160608863,
+              222.35766248286885
+            ],
+            [
+              525.9311160608863,
+              252.08001708984375
+            ],
+            [
+              69.19520138373002,
+              252.08001708984375
+            ]
+          ],
+          "bbox": [
+            69.19520138373002,
+            222.35766248286885,
+            525.9311160608863,
+            252.08001708984375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/1",
+            "2": "/page/2/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/6",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>3</b> <b>What are</b> <b>transitional</b> <b>provisions foreseen for Annex XVI products?</b></h1>",
+          "polygon": [
+            [
+              69.2227131725859,
+              285.31441084062635
+            ],
+            [
+              474.00869651044945,
+              285.31441084062635
+            ],
+            [
+              474.00869651044945,
+              301.8699951171875
+            ],
+            [
+              69.2227131725859,
+              301.8699951171875
+            ]
+          ],
+          "bbox": [
+            69.2227131725859,
+            285.31441084062635,
+            474.00869651044945,
+            301.8699951171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The MDR establishes a fixed period of 6 months<sup>8</sup> to allow the implementation of the new applicable  requirements laid down in the CS. This period started on 22 December 2022 and has ended on 22 June  2023.</p>",
+          "polygon": [
+            [
+              69.10299336700055,
+              306.6453805789285
+            ],
+            [
+              527.0101921023889,
+              306.6453805789285
+            ],
+            [
+              527.0101921023889,
+              350.8500061035156
+            ],
+            [
+              69.10299336700055,
+              350.8500061035156
+            ]
+          ],
+          "bbox": [
+            69.10299336700055,
+            306.6453805789285,
+            527.0101921023889,
+            350.8500061035156
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In addition, the CS establish dedicated transitional provisions to cover specific cases for which the 6  fixed months granted by the MDR would not be sufficient to fully implement the new applicable  requirements from the CS and to complete the applicable procedures under the MDR. In detail, such  cases include when a notified body needs to be involved in the conformity assessment procedure,  when the manufacturer considers carrying out a clinical investigation followed by a conformity  assessment procedure that involves a notified body and when the Annex XVI product is covered by an  MDD certificate that is no longer valid pursuant to Article 120(2) of the MDR.</p>",
+          "polygon": [
+            [
+              68.78233556483194,
+              357.26297336758404
+            ],
+            [
+              527.2312027092845,
+              357.26297336758404
+            ],
+            [
+              527.2312027092845,
+              460.3699951171875
+            ],
+            [
+              68.78233556483194,
+              460.3699951171875
+            ]
+          ],
+          "bbox": [
+            68.78233556483194,
+            357.26297336758404,
+            527.2312027092845,
+            460.3699951171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">For Annex XVI products covered by a valid MDD certificate pursuant to Article 120(2) of the MDR, the  transitional provisions established in paragraphs 3, 3a, 3b, 3c, 3d and 3e of Article 120 of the MDR apply.</p>",
+          "polygon": [
+            [
+              69.17786620786268,
+              466.73010503916686
+            ],
+            [
+              526.7980237523615,
+              466.73010503916686
+            ],
+            [
+              526.7980237523615,
+              511.8999938964844
+            ],
+            [
+              69.17786620786268,
+              511.8999938964844
+            ]
+          ],
+          "bbox": [
+            69.17786620786268,
+            466.73010503916686,
+            526.7980237523615,
+            511.8999938964844
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/10",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>4</b> <b>What is the transitional period set out in the CS</b> <b>for products for which a </b> <b>notified body is involved in the conformity assessment</b> <b>and the </b> <b>manufacturer decides to carry out a clinical investigation? Are there </b> <b>conditions to be satisfied?</b></h2>",
+          "polygon": [
+            [
+              69.26821872509396,
+              545.2995350023305
+            ],
+            [
+              526.7460327148438,
+              545.2995350023305
+            ],
+            [
+              526.7460327148438,
+              606.4400024414062
+            ],
+            [
+              69.26821872509396,
+              606.4400024414062
+            ]
+          ],
+          "bbox": [
+            69.26821872509396,
+            545.2995350023305,
+            526.7460327148438,
+            606.4400024414062
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/2/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/11",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The period is about 6,5 years. It starts from 22 June 2023 and ends on 31 December 2029.</p>",
+          "polygon": [
+            [
+              68.97782732677699,
+              610.9555322743905
+            ],
+            [
+              474.3170301307659,
+              610.9555322743905
+            ],
+            [
+              474.3170301307659,
+              626.4299926757812
+            ],
+            [
+              68.97782732677699,
+              626.4299926757812
+            ]
+          ],
+          "bbox": [
+            68.97782732677699,
+            610.9555322743905,
+            474.3170301307659,
+            626.4299926757812
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/2/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/12",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">During the transitional period, various conditions need to be satisfied. Some for the entire period,  while others within certain dates. The following table shows each condition that needs to be fulfilled  to continue to place on the market or to put into service the product during the transitional period.</p>",
+          "polygon": [
+            [
+              68.5853891829099,
+              633.9845528335095
+            ],
+            [
+              526.7298055115515,
+              633.9845528335095
+            ],
+            [
+              526.7298055115515,
+              677.9499969482422
+            ],
+            [
+              68.5853891829099,
+              677.9499969482422
+            ]
+          ],
+          "bbox": [
+            68.5853891829099,
+            633.9845528335095,
+            526.7298055115515,
+            677.9499969482422
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/2/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Footnote/13",
+          "block_type": "Footnote",
+          "html": "<p><sup>6</sup> CS, Article 3(2).</p>",
+          "polygon": [
+            [
+              69.08805774141018,
+              729.8660881062862
+            ],
+            [
+              139.31500244140625,
+              729.8660881062862
+            ],
+            [
+              139.31500244140625,
+              745.4749984741211
+            ],
+            [
+              69.08805774141018,
+              745.4749984741211
+            ]
+          ],
+          "bbox": [
+            69.08805774141018,
+            729.8660881062862,
+            139.31500244140625,
+            745.4749984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/2/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Footnote/14",
+          "block_type": "Footnote",
+          "html": "<p><sup>7</sup> MDR, Article 1(2).</p>",
+          "polygon": [
+            [
+              69.13433069185886,
+              743.8534359477612
+            ],
+            [
+              149.5550079345703,
+              743.8534359477612
+            ],
+            [
+              149.5550079345703,
+              757.7249984741211
+            ],
+            [
+              69.13433069185886,
+              757.7249984741211
+            ]
+          ],
+          "bbox": [
+            69.13433069185886,
+            743.8534359477612,
+            149.5550079345703,
+            757.7249984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/2/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Footnote/15",
+          "block_type": "Footnote",
+          "html": "<p><sup>8</sup> MDR, Article 1(2).</p>",
+          "polygon": [
+            [
+              69.05131426986578,
+              755.5894380808937
+            ],
+            [
+              149.8760362908582,
+              755.5894380808937
+            ],
+            [
+              149.8760362908582,
+              769.9749984741211
+            ],
+            [
+              69.05131426986578,
+              769.9749984741211
+            ]
+          ],
+          "bbox": [
+            69.05131426986578,
+            755.5894380808937,
+            149.8760362908582,
+            769.9749984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/2/SectionHeader/10"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/6",
+        "2": "/page/2/SectionHeader/10"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/3/Page/238",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/3/SectionHeader/0'></content-ref><content-ref src='/page/3/PageFooter/15'></content-ref><content-ref src='/page/3/TableGroup/238'></content-ref><content-ref src='/page/3/Text/3'></content-ref><content-ref src='/page/3/SectionHeader/4'></content-ref><content-ref src='/page/3/Text/5'></content-ref><content-ref src='/page/3/Text/6'></content-ref><content-ref src='/page/3/Table/7'></content-ref><content-ref src='/page/3/Text/16'></content-ref><content-ref src='/page/3/Text/8'></content-ref><content-ref src='/page/3/Footnote/9'></content-ref><content-ref src='/page/3/Footnote/10'></content-ref><content-ref src='/page/3/Footnote/11'></content-ref><content-ref src='/page/3/Footnote/12'></content-ref><content-ref src='/page/3/Footnote/13'></content-ref><content-ref src='/page/3/Footnote/14'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/3/SectionHeader/0",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              143.91667586550003,
+              34.350569218052144
+            ],
+            [
+              449.8224667181596,
+              34.350569218052144
+            ],
+            [
+              449.8224667181596,
+              64.780029296875
+            ],
+            [
+              143.91667586550003,
+              64.780029296875
+            ]
+          ],
+          "bbox": [
+            143.91667586550003,
+            34.350569218052144,
+            449.8224667181596,
+            64.780029296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/3/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/PageFooter/15",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              274.25574560669867,
+              792.6226929471839
+            ],
+            [
+              318.9271480070253,
+              792.6226929471839
+            ],
+            [
+              318.9271480070253,
+              806.4749984741211
+            ],
+            [
+              274.25574560669867,
+              806.4749984741211
+            ]
+          ],
+          "bbox": [
+            274.25574560669867,
+            792.6226929471839,
+            318.9271480070253,
+            806.4749984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/3/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/TableGroup/238",
+          "block_type": "TableGroup",
+          "html": "<content-ref src='/page/3/Table/1'></content-ref><content-ref src='/page/3/Caption/2'></content-ref>",
+          "polygon": [
+            [
+              69.64678643752706,
+              137.53257494660647
+            ],
+            [
+              520.5262063744686,
+              137.53257494660647
+            ],
+            [
+              520.5262063744686,
+              277.08001708984375
+            ],
+            [
+              69.64678643752706,
+              277.08001708984375
+            ]
+          ],
+          "bbox": [
+            69.64678643752706,
+            137.53257494660647,
+            520.5262063744686,
+            277.08001708984375
+          ],
+          "children": [
+            {
+              "id": "/page/3/Table/1",
+              "block_type": "Table",
+              "html": "<table border=\"1\" class=\"dataframe pdfplumber-table\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>From 22/06/2023 to 31/12/2029</th>\n      <th></th>\n      <th></th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>• the product was lawfully marketed in the Union before 22 June 2023 and continues to comply with the requirements of Union and national law that were applicable to it before 22 June 2023; • the manufacturer does not make significant changes in the design and intended purpose of the product. 9</td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>From 22/06/2024</td>\n      <td>From 23/12/2024</td>\n      <td>From 01/01/2028</td>\n    </tr>\n    <tr>\n      <td>• the sponsor has received confirmation that the application for the clinical investigation of the product is complete and that the clinical investigation falls within the scope of the MDR10.</td>\n      <td>• the sponsor has started the clinical investigation11.</td>\n      <td>• the manufacturer signed a written agreement with a notified body for the conformity assessment procedure.12</td>\n    </tr>\n  </tbody>\n</table>",
+              "polygon": [
+                [
+                  69.64678643752706,
+                  137.53257494660647
+                ],
+                [
+                  520.5262063744686,
+                  137.53257494660647
+                ],
+                [
+                  520.5262063744686,
+                  265.58001708984375
+                ],
+                [
+                  69.64678643752706,
+                  265.58001708984375
+                ]
+              ],
+              "bbox": [
+                69.64678643752706,
+                137.53257494660647,
+                520.5262063744686,
+                265.58001708984375
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/2/SectionHeader/6",
+                "2": "/page/3/SectionHeader/0"
+              },
+              "images": null,
+              "source_page": 4,
+              "table_number": 1,
+              "extraction_method": "pdfplumber",
+              "table_data": {
+                "headers": [
+                  "From 22/06/2023 to 31/12/2029",
+                  "",
+                  ""
+                ],
+                "rows": [
+                  [
+                    "• the product was lawfully marketed in the Union before 22 June 2023 and continues to comply with the requirements of Union and national law that were applicable to it before 22 June 2023; • the manufacturer does not make significant changes in the design and intended purpose of the product. 9",
+                    "",
+                    ""
+                  ],
+                  [
+                    "From 22/06/2024",
+                    "From 23/12/2024",
+                    "From 01/01/2028"
+                  ],
+                  [
+                    "• the sponsor has received confirmation that the application for the clinical investigation of the product is complete and that the clinical investigation falls within the scope of the MDR10.",
+                    "• the sponsor has started the clinical investigation11.",
+                    "• the manufacturer signed a written agreement with a notified body for the conformity assessment procedure.12"
+                  ]
+                ],
+                "pdfplumber_bbox": [
+                  72.275,
+                  141.79999999999995,
+                  523.23,
+                  266.08000000000004
+                ]
+              }
+            },
+            {
+              "id": "/page/3/Caption/2",
+              "block_type": "Caption",
+              "html": "<p><b>Table 1</b>: applicable conditions for transitional provisions according to Article 2(1) of the CS.</p>",
+              "polygon": [
+                [
+                  129.7288623877076,
+                  263.67795166667827
+                ],
+                [
+                  464.56873973010465,
+                  263.67795166667827
+                ],
+                [
+                  464.56873973010465,
+                  277.08001708984375
+                ],
+                [
+                  129.7288623877076,
+                  277.08001708984375
+                ]
+              ],
+              "bbox": [
+                129.7288623877076,
+                263.67795166667827,
+                464.56873973010465,
+                277.08001708984375
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/2/SectionHeader/6",
+                "2": "/page/3/SectionHeader/0"
+              },
+              "images": {}
+            }
+          ],
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/3/SectionHeader/0"
+          },
+          "images": null
+        },
+        {
+          "id": "/page/3/Text/3",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Products covered by an MDD certificate can benefit from the transitional period described in question  nr<a href=\"#page-4-0\"> 6</a> or<a href=\"#page-4-1\"> 7.</a></p>",
+          "polygon": [
+            [
+              68.99029467988674,
+              284.9599094679604
+            ],
+            [
+              525.9010620117188,
+              284.9599094679604
+            ],
+            [
+              525.9010620117188,
+              315.0999755859375
+            ],
+            [
+              68.99029467988674,
+              315.0999755859375
+            ]
+          ],
+          "bbox": [
+            68.99029467988674,
+            284.9599094679604,
+            525.9010620117188,
+            315.0999755859375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/3/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/SectionHeader/4",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>5</b> <b>What is the transitional period set out in the CS</b> <b>for products for which a </b> <b>notified body is involved in the conformity assessment</b> <b>and the </b> <b>manufacturer does not intend to perform a clinical investigation? Are there </b> <b>conditions to be satisfied?</b></h2>",
+          "polygon": [
+            [
+              69.53577144440236,
+              347.9950265858923
+            ],
+            [
+              526.7460327148438,
+              347.9950265858923
+            ],
+            [
+              526.7460327148438,
+              409.6399841308594
+            ],
+            [
+              69.53577144440236,
+              409.6399841308594
+            ]
+          ],
+          "bbox": [
+            69.53577144440236,
+            347.9950265858923,
+            526.7460327148438,
+            409.6399841308594
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/3/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The period is about 5,5 years. It starts from 22 June 2023 and ends on 31 December 2028.</p>",
+          "polygon": [
+            [
+              69.25837999627332,
+              414.3311731707062
+            ],
+            [
+              474.30667598541794,
+              414.3311731707062
+            ],
+            [
+              474.30667598541794,
+              429.6199951171875
+            ],
+            [
+              69.25837999627332,
+              429.6199951171875
+            ]
+          ],
+          "bbox": [
+            69.25837999627332,
+            414.3311731707062,
+            474.30667598541794,
+            429.6199951171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/3/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">During the transitional period, various conditions need to be satisfied. Some for the entire period,  while others within certain dates. The following table shows each condition that need to be fulfilled  to continue to place on the market or to put into service the product during the transitional period.</p>",
+          "polygon": [
+            [
+              69.11540917845757,
+              435.99371712906276
+            ],
+            [
+              525.5919948933407,
+              435.99371712906276
+            ],
+            [
+              525.5919948933407,
+              481.1499938964844
+            ],
+            [
+              69.11540917845757,
+              481.1499938964844
+            ]
+          ],
+          "bbox": [
+            69.11540917845757,
+            435.99371712906276,
+            525.5919948933407,
+            481.1499938964844
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/3/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Table/7",
+          "block_type": "Table",
+          "html": "<table border=\"1\" class=\"dataframe pdfplumber-table\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>From 22/06/2023 to 31/12/2028</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>• the product was lawfully marketed in the Union before 22 June 2023 and continues to comply with the requirements of Union and national law that were applicable to it before 22 June 2023; • the manufacturer does not make significant changes in the design and intended purpose of the product. 13</td>\n    </tr>\n    <tr>\n      <td>From 01/01/2027</td>\n    </tr>\n    <tr>\n      <td>• The manufacturer signed a written agreement with a notified body for the conformity assessment procedure14.</td>\n    </tr>\n  </tbody>\n</table>",
+          "polygon": [
+            [
+              70.98026062319201,
+              509.91982665363423
+            ],
+            [
+              520.9341871900582,
+              509.91982665363423
+            ],
+            [
+              520.9341871900582,
+              583.2363759530832
+            ],
+            [
+              70.98026062319201,
+              583.2363759530832
+            ]
+          ],
+          "bbox": [
+            70.98026062319201,
+            509.91982665363423,
+            520.9341871900582,
+            583.2363759530832
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/3/SectionHeader/4"
+          },
+          "images": null,
+          "source_page": 4,
+          "table_number": 2,
+          "extraction_method": "pdfplumber",
+          "table_data": {
+            "headers": [
+              "From 22/06/2023 to 31/12/2028"
+            ],
+            "rows": [
+              [
+                "• the product was lawfully marketed in the Union before 22 June 2023 and continues to comply with the requirements of Union and national law that were applicable to it before 22 June 2023; • the manufacturer does not make significant changes in the design and intended purpose of the product. 13"
+              ],
+              [
+                "From 01/01/2027"
+              ],
+              [
+                "• The manufacturer signed a written agreement with a notified body for the conformity assessment procedure14."
+              ]
+            ],
+            "pdfplumber_bbox": [
+              72.275,
+              513.15,
+              523.23,
+              582.4200000000001
+            ]
+          }
+        },
+        {
+          "id": "/page/3/Text/16",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>Table 2</b>: applicable conditions for transitional provisions according to Article 2(2) of the CS.</p>",
+          "polygon": [
+            [
+              131.8000030517578,
+              584.4199829101562
+            ],
+            [
+              463.4590148925781,
+              584.4199829101562
+            ],
+            [
+              463.4590148925781,
+              593.4199981689453
+            ],
+            [
+              131.8000030517578,
+              593.4199981689453
+            ]
+          ],
+          "bbox": [
+            131.8000030517578,
+            584.4199829101562,
+            463.4590148925781,
+            593.4199981689453
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/3/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Products covered by an MDD certificate can benefit from the transitional period described in question  nr<a href=\"#page-4-0\"> 6</a> or<a href=\"#page-4-1\"> 7.</a></p>",
+          "polygon": [
+            [
+              68.95127192192173,
+              601.7510813494824
+            ],
+            [
+              525.9010620117188,
+              601.7510813494824
+            ],
+            [
+              525.9010620117188,
+              631.4199981689453
+            ],
+            [
+              68.95127192192173,
+              631.4199981689453
+            ]
+          ],
+          "bbox": [
+            68.95127192192173,
+            601.7510813494824,
+            525.9010620117188,
+            631.4199981689453
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/3/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Footnote/9",
+          "block_type": "Footnote",
+          "html": "<p><sup>9</sup> CS, Article 2(1)(a) and (b).</p>",
+          "polygon": [
+            [
+              68.96820049141756,
+              693.6102971037052
+            ],
+            [
+              182.67957227115966,
+              693.6102971037052
+            ],
+            [
+              182.67957227115966,
+              708.6999969482422
+            ],
+            [
+              68.96820049141756,
+              708.6999969482422
+            ]
+          ],
+          "bbox": [
+            68.96820049141756,
+            693.6102971037052,
+            182.67957227115966,
+            708.6999969482422
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/3/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Footnote/10",
+          "block_type": "Footnote",
+          "html": "<p><sup>10</sup> CS, Article 2(1), second subparagraph.</p>",
+          "polygon": [
+            [
+              68.66794745687874,
+              705.6731827719765
+            ],
+            [
+              235.5719026426224,
+              705.6731827719765
+            ],
+            [
+              235.5719026426224,
+              720.9499969482422
+            ],
+            [
+              68.66794745687874,
+              720.9499969482422
+            ]
+          ],
+          "bbox": [
+            68.66794745687874,
+            705.6731827719765,
+            235.5719026426224,
+            720.9499969482422
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/3/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Footnote/11",
+          "block_type": "Footnote",
+          "html": "<p><sup>11</sup> CS, Article 2(1), third subparagraph.</p>",
+          "polygon": [
+            [
+              69.32083129882812,
+              718.733788562479
+            ],
+            [
+              226.9969064246497,
+              718.733788562479
+            ],
+            [
+              226.9969064246497,
+              733.2200012207031
+            ],
+            [
+              69.32083129882812,
+              733.2200012207031
+            ]
+          ],
+          "bbox": [
+            69.32083129882812,
+            718.733788562479,
+            226.9969064246497,
+            733.2200012207031
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/3/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Footnote/12",
+          "block_type": "Footnote",
+          "html": "<p><sup>12</sup> CS, Article 2(1), fourth subparagraph.</p>",
+          "polygon": [
+            [
+              68.7518973554712,
+              730.3254548885518
+            ],
+            [
+              232.01846075178094,
+              730.3254548885518
+            ],
+            [
+              232.01846075178094,
+              745.4749984741211
+            ],
+            [
+              68.7518973554712,
+              745.4749984741211
+            ]
+          ],
+          "bbox": [
+            68.7518973554712,
+            730.3254548885518,
+            232.01846075178094,
+            745.4749984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/3/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Footnote/13",
+          "block_type": "Footnote",
+          "html": "<p><sup>13</sup> CS, Article 2(2)(a) and (b).</p>",
+          "polygon": [
+            [
+              69.21737574810345,
+              742.8136140682393
+            ],
+            [
+              186.41834649150857,
+              742.8136140682393
+            ],
+            [
+              186.41834649150857,
+              757.7249984741211
+            ],
+            [
+              69.21737574810345,
+              757.7249984741211
+            ]
+          ],
+          "bbox": [
+            69.21737574810345,
+            742.8136140682393,
+            186.41834649150857,
+            757.7249984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/3/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Footnote/14",
+          "block_type": "Footnote",
+          "html": "<p><sup>14</sup> CS, Article 2(2), second subparagraph.</p>",
+          "polygon": [
+            [
+              68.71612744847833,
+              755.2524867342289
+            ],
+            [
+              235.5115416404282,
+              755.2524867342289
+            ],
+            [
+              235.5115416404282,
+              769.9749984741211
+            ],
+            [
+              68.71612744847833,
+              769.9749984741211
+            ]
+          ],
+          "bbox": [
+            68.71612744847833,
+            755.2524867342289,
+            235.5115416404282,
+            769.9749984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/3/SectionHeader/4"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/6",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/4/Page/186",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/4/SectionHeader/0'></content-ref><content-ref src='/page/4/PageFooter/11'></content-ref><content-ref src='/page/4/SectionHeader/1'></content-ref><content-ref src='/page/4/Text/2'></content-ref><content-ref src='/page/4/Text/3'></content-ref><content-ref src='/page/4/ListGroup/4'></content-ref><content-ref src='/page/4/Text/5'></content-ref><content-ref src='/page/4/SectionHeader/6'></content-ref><content-ref src='/page/4/Text/7'></content-ref><content-ref src='/page/4/Text/8'></content-ref><content-ref src='/page/4/Footnote/9'></content-ref><content-ref src='/page/4/Footnote/10'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/4/SectionHeader/0",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              143.8392030346003,
+              34.67314533155514
+            ],
+            [
+              449.67801264611535,
+              34.67314533155514
+            ],
+            [
+              449.67801264611535,
+              64.780029296875
+            ],
+            [
+              143.8392030346003,
+              64.780029296875
+            ]
+          ],
+          "bbox": [
+            143.8392030346003,
+            34.67314533155514,
+            449.67801264611535,
+            64.780029296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/4/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/PageFooter/11",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              274.2777138044612,
+              792.0728073867431
+            ],
+            [
+              319.1580546112445,
+              792.0728073867431
+            ],
+            [
+              319.1580546112445,
+              806.4749984741211
+            ],
+            [
+              274.2777138044612,
+              806.4749984741211
+            ]
+          ],
+          "bbox": [
+            274.2777138044612,
+            792.0728073867431,
+            319.1580546112445,
+            806.4749984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/4/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/SectionHeader/1",
+          "block_type": "SectionHeader",
+          "html": "<h2><span id=\"page-4-0\"></span><b>6</b> <b>What is the transitional period set out in the MDR</b> <b>for Annex XVI products </b> <b>covered by an MDD certificate? Are there conditions to be satisfied?</b></h2>",
+          "polygon": [
+            [
+              68.91589144074946,
+              95.02971833280867
+            ],
+            [
+              526.7520141601562,
+              95.02971833280867
+            ],
+            [
+              526.7520141601562,
+              125.5860595703125
+            ],
+            [
+              68.91589144074946,
+              125.5860595703125
+            ]
+          ],
+          "bbox": [
+            68.91589144074946,
+            95.02971833280867,
+            526.7520141601562,
+            125.5860595703125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/4/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/2",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The period ends on 31 December 2027 for higher risk products (all class III devices and class IIb  implantable devices except sutures, staples, dental fillings, dental braces, tooth crowns, screws,  wedges, plates, wires, pins, clips and connectors) and on 31 December 2028 for lower risk products  (all other classes and devices excluded from the higher risk group).</p>",
+          "polygon": [
+            [
+              69.23635453000777,
+              130.31974307405875
+            ],
+            [
+              526.9456848605754,
+              130.31974307405875
+            ],
+            [
+              526.9456848605754,
+              189.04998779296875
+            ],
+            [
+              69.23635453000777,
+              189.04998779296875
+            ]
+          ],
+          "bbox": [
+            69.23635453000777,
+            130.31974307405875,
+            526.9456848605754,
+            189.04998779296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/4/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/3",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Not all products covered by an MDD certificate are eligible to benefit from the transitional provisions  established by the MDR. The following conditions apply:</p>",
+          "polygon": [
+            [
+              69.22709993991803,
+              196.21501103959122
+            ],
+            [
+              526.5180953095481,
+              196.21501103959122
+            ],
+            [
+              526.5180953095481,
+              226.08001708984375
+            ],
+            [
+              69.22709993991803,
+              226.08001708984375
+            ]
+          ],
+          "bbox": [
+            69.22709993991803,
+            196.21501103959122,
+            526.5180953095481,
+            226.08001708984375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/4/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/ListGroup/4",
+          "block_type": "ListGroup",
+          "html": "<p block-type='ListGroup'><ul><content-ref src='/page/4/ListItem/183'></content-ref><content-ref src='/page/4/ListItem/184'></content-ref></ul></p>",
+          "polygon": [
+            [
+              87.727340506066,
+              233.27714221984917
+            ],
+            [
+              527.0285638381612,
+              233.27714221984917
+            ],
+            [
+              527.0285638381612,
+              335.6000061035156
+            ],
+            [
+              87.727340506066,
+              335.6000061035156
+            ]
+          ],
+          "bbox": [
+            87.727340506066,
+            233.27714221984917,
+            527.0285638381612,
+            335.6000061035156
+          ],
+          "children": [
+            {
+              "id": "/page/4/ListItem/183",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\">a) if the MDD certificate was issued from 25 May 2017, was still valid on 26 May 2021, have not been withdrawn afterwards and expired before 20 March 2023, the covered products can benefit from the MDR transitional provisions only if one of the conditions established in Article 120(2), second subparagraph, points a) or b) is met;</li>",
+              "polygon": [
+                [
+                  90.05000305175781,
+                  237.58001708984375
+                ],
+                [
+                  523.7550048828125,
+                  237.58001708984375
+                ],
+                [
+                  523.7550048828125,
+                  292.07000732421875
+                ],
+                [
+                  90.05000305175781,
+                  292.07000732421875
+                ]
+              ],
+              "bbox": [
+                90.05000305175781,
+                237.58001708984375,
+                523.7550048828125,
+                292.07000732421875
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/2/SectionHeader/6",
+                "2": "/page/4/SectionHeader/1"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/4/ListItem/184",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\">b) if the MDD certificate was issued from 25 May 2017, was still valid on 26 May 2021, have not been withdrawn afterwards and has not expired before 20 March 2023 the covered products can benefit from the MDR transitional provisions.</li>",
+              "polygon": [
+                [
+                  90.05000305175781,
+                  295.5999755859375
+                ],
+                [
+                  523.52099609375,
+                  295.5999755859375
+                ],
+                [
+                  523.52099609375,
+                  335.6000061035156
+                ],
+                [
+                  90.05000305175781,
+                  335.6000061035156
+                ]
+              ],
+              "bbox": [
+                90.05000305175781,
+                295.5999755859375,
+                523.52099609375,
+                335.6000061035156
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/2/SectionHeader/6",
+                "2": "/page/4/SectionHeader/1"
+              },
+              "images": {}
+            }
+          ],
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/4/SectionHeader/1"
+          },
+          "images": null
+        },
+        {
+          "id": "/page/4/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The paragraphs (3c), (3d) and (3e) of Article 120 of the MDR establish additional conditions and  requirements that must be fulfilled to benefit and continue to benefit from the transitional provisions.  Additional information on those specific conditions is provided in the questions and answers  document on the implementation of Regulation (EU) 2023/607<sup>15</sup> .</p>",
+          "polygon": [
+            [
+              68.52597311101572,
+              364.9658102033824
+            ],
+            [
+              527.4862995291837,
+              364.9658102033824
+            ],
+            [
+              527.4862995291837,
+              423.8699951171875
+            ],
+            [
+              68.52597311101572,
+              423.8699951171875
+            ]
+          ],
+          "bbox": [
+            68.52597311101572,
+            364.9658102033824,
+            527.4862995291837,
+            423.8699951171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/2/SectionHeader/6",
+            "2": "/page/4/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/SectionHeader/6",
+          "block_type": "SectionHeader",
+          "html": "<h1><span id=\"page-4-1\"></span><b>7</b> <b>What is the transitional period set out in the CS</b> <b>for Annex XVI products </b> <b>covered by an MDD certificate? Are there conditions to be satisfied?</b></h1>",
+          "polygon": [
+            [
+              69.44015595174255,
+              456.655291807832
+            ],
+            [
+              526.7420043945312,
+              456.655291807832
+            ],
+            [
+              526.7420043945312,
+              488.70599365234375
+            ],
+            [
+              69.44015595174255,
+              488.70599365234375
+            ]
+          ],
+          "bbox": [
+            69.44015595174255,
+            456.655291807832,
+            526.7420043945312,
+            488.70599365234375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The period is about 4,5 years for higher risk products (all class III devices and class IIb implantable  devices except sutures, staples, dental fillings, dental braces, tooth crowns, screws, wedges, plates,  wires, pins, clips and connectors) or about 5,5 years for lower risk products (all other classes and  devices excluded from the higher risk group). It starts from 22 June 2023 and ends on 31 December  2027 or 31 December 2028.</p>",
+          "polygon": [
+            [
+              68.71153451453529,
+              493.0799932301522
+            ],
+            [
+              526.8946471706746,
+              493.0799932301522
+            ],
+            [
+              526.8946471706746,
+              566.6700134277344
+            ],
+            [
+              68.71153451453529,
+              566.6700134277344
+            ]
+          ],
+          "bbox": [
+            68.71153451453529,
+            493.0799932301522,
+            526.8946471706746,
+            566.6700134277344
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Not all products covered by an MDD certificate are eligible to benefit from the transitional provisions  established by the CS. In fact, those provisions are applicable only when an MDD certificate was issued  from 25 May 2017, was still valid on 26 May 2021, has not been withdrawn afterwards, expired before  20 March 2023<sup>16</sup> and the conditions established in Article 120(2), second subparagraph, points a) or  b) are not met.</p>",
+          "polygon": [
+            [
+              68.8004553191908,
+              573.3198561766056
+            ],
+            [
+              527.0703469379723,
+              573.3198561766056
+            ],
+            [
+              527.0703469379723,
+              647.1999969482422
+            ],
+            [
+              68.8004553191908,
+              647.1999969482422
+            ]
+          ],
+          "bbox": [
+            68.8004553191908,
+            573.3198561766056,
+            527.0703469379723,
+            647.1999969482422
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Footnote/9",
+          "block_type": "Footnote",
+          "html": "<p><sup>15</sup> Q&amp;A on practical aspects related to the implementation of Regulation (EU) 2023/607 - Extension of the MDR  transitional period and removal of the \"sell off\" periods - <a href=\"https://health.ec.europa.eu/system/files/2023-03/mdr_proposal_extension-q-n-a_0.pdf\">https://health.ec.europa.eu/system/files/2023-</a> <a href=\"https://health.ec.europa.eu/system/files/2023-03/mdr_proposal_extension-q-n-a_0.pdf\">03/mdr_proposal_extension-q-n-a_0.pdf.</a></p>",
+          "polygon": [
+            [
+              69.33647705385607,
+              704.6668134843889
+            ],
+            [
+              526.9783049999015,
+              704.6668134843889
+            ],
+            [
+              526.9783049999015,
+              745.4749984741211
+            ],
+            [
+              69.33647705385607,
+              745.4749984741211
+            ]
+          ],
+          "bbox": [
+            69.33647705385607,
+            704.6668134843889,
+            526.9783049999015,
+            745.4749984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Footnote/10",
+          "block_type": "Footnote",
+          "html": "<p><sup>16</sup> If the MDD certificate was still valid on or after 20 March 2023 and has not been withdrawn afterwards, the  transitional provisions established in Article 120 of the MDR apply.</p>",
+          "polygon": [
+            [
+              69.4886108321567,
+              741.4215103108651
+            ],
+            [
+              526.8190985614767,
+              741.4215103108651
+            ],
+            [
+              526.8190985614767,
+              769.9749984741211
+            ],
+            [
+              69.4886108321567,
+              769.9749984741211
+            ]
+          ],
+          "bbox": [
+            69.4886108321567,
+            741.4215103108651,
+            526.8190985614767,
+            769.9749984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/6"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/6"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/5/Page/292",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/5/SectionHeader/0'></content-ref><content-ref src='/page/5/PageFooter/17'></content-ref><content-ref src='/page/5/Text/1'></content-ref><content-ref src='/page/5/TableGroup/292'></content-ref><content-ref src='/page/5/Text/4'></content-ref><content-ref src='/page/5/Text/5'></content-ref><content-ref src='/page/5/SectionHeader/6'></content-ref><content-ref src='/page/5/Text/7'></content-ref><content-ref src='/page/5/Footnote/8'></content-ref><content-ref src='/page/5/Footnote/9'></content-ref><content-ref src='/page/5/Footnote/10'></content-ref><content-ref src='/page/5/Footnote/11'></content-ref><content-ref src='/page/5/Footnote/12'></content-ref><content-ref src='/page/5/Footnote/13'></content-ref><content-ref src='/page/5/Footnote/14'></content-ref><content-ref src='/page/5/Footnote/15'></content-ref><content-ref src='/page/5/Footnote/16'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/5/SectionHeader/0",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              143.95209070777412,
+              34.00358724211967
+            ],
+            [
+              449.633068324937,
+              34.00358724211967
+            ],
+            [
+              449.633068324937,
+              64.780029296875
+            ],
+            [
+              143.95209070777412,
+              64.780029296875
+            ]
+          ],
+          "bbox": [
+            143.95209070777412,
+            34.00358724211967,
+            449.633068324937,
+            64.780029296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/6",
+            "2": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/PageFooter/17",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              274.17621110968986,
+              792.4711266209372
+            ],
+            [
+              318.843994140625,
+              792.4711266209372
+            ],
+            [
+              318.843994140625,
+              806.4749984741211
+            ],
+            [
+              274.17621110968986,
+              806.4749984741211
+            ]
+          ],
+          "bbox": [
+            274.17621110968986,
+            792.4711266209372,
+            318.843994140625,
+            806.4749984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/6",
+            "2": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/1",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">During the transitional period, additional conditions and requirements need to be satisfied. Some for  the entire period, while others within certain dates.<sup>17</sup> The following table shows each condition that  needs to be fulfilled to continue to place on the market or to put into service the product during the  transitional period.</p>",
+          "polygon": [
+            [
+              68.92349097110161,
+              94.6015388848839
+            ],
+            [
+              525.8450317382812,
+              94.6015388848839
+            ],
+            [
+              525.8450317382812,
+              153.29998779296875
+            ],
+            [
+              68.92349097110161,
+              153.29998779296875
+            ]
+          ],
+          "bbox": [
+            68.92349097110161,
+            94.6015388848839,
+            525.8450317382812,
+            153.29998779296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/6",
+            "2": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/TableGroup/292",
+          "block_type": "TableGroup",
+          "html": "<content-ref src='/page/5/Table/2'></content-ref><content-ref src='/page/5/Caption/3'></content-ref>",
+          "polygon": [
+            [
+              69.83599011783936,
+              182.0729163586828
+            ],
+            [
+              521.0052917634209,
+              182.0729163586828
+            ],
+            [
+              521.0052917634209,
+              365.8500061035156
+            ],
+            [
+              69.83599011783936,
+              365.8500061035156
+            ]
+          ],
+          "bbox": [
+            69.83599011783936,
+            182.0729163586828,
+            521.0052917634209,
+            365.8500061035156
+          ],
+          "children": [
+            {
+              "id": "/page/5/Table/2",
+              "block_type": "Table",
+              "html": "<table border=\"1\" class=\"dataframe pdfplumber-table\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>From 22/06/2023 to 31/12/2027 for higher risk products or 31/12/2028 for lower risk products</th>\n      <th></th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>• the product continues to comply with the requirements of Directive 93/42/EEC18; • there are no significant changes in the design and intended purpose of the product 19; • the product does not present an unacceptable risk to the health or safety of patients, users or other persons, or to other aspects of the protection of public health20; • requirements from MDR relating to post-market surveillance, market surveillance, vigilance, registration of economic operators and of devices apply in place of the corresponding requirements in Directive 93/42/EEC21.</td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>From 26/05/2024</td>\n      <td>From 26/09/2024</td>\n    </tr>\n    <tr>\n      <td>• the manufacturer has put in place a quality management system in accordance with Article 10(9) of the MDR22; • the manufacturer has lodged a formal application with a notified body for the conformity assessment procedure 23.</td>\n      <td>• the manufacturer has signed a written agreement with a notified body for the conformity assessment procedure 24; • the notified body that has signed the written agreement mentioned in the above bullet point is responsible for the surveillance of the product covered by that agreement25.</td>\n    </tr>\n  </tbody>\n</table>",
+              "polygon": [
+                [
+                  69.83599011783936,
+                  182.0729163586828
+                ],
+                [
+                  521.0052917634209,
+                  182.0729163586828
+                ],
+                [
+                  521.0052917634209,
+                  354.3500061035156
+                ],
+                [
+                  69.83599011783936,
+                  354.3500061035156
+                ]
+              ],
+              "bbox": [
+                69.83599011783936,
+                182.0729163586828,
+                521.0052917634209,
+                354.3500061035156
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/4/SectionHeader/6",
+                "2": "/page/5/SectionHeader/0"
+              },
+              "images": null,
+              "source_page": 6,
+              "table_number": 1,
+              "extraction_method": "pdfplumber",
+              "table_data": {
+                "headers": [
+                  "From 22/06/2023 to 31/12/2027 for higher risk products or 31/12/2028 for lower risk products",
+                  ""
+                ],
+                "rows": [
+                  [
+                    "• the product continues to comply with the requirements of Directive 93/42/EEC18; • there are no significant changes in the design and intended purpose of the product 19; • the product does not present an unacceptable risk to the health or safety of patients, users or other persons, or to other aspects of the protection of public health20; • requirements from MDR relating to post-market surveillance, market surveillance, vigilance, registration of economic operators and of devices apply in place of the corresponding requirements in Directive 93/42/EEC21.",
+                    ""
+                  ],
+                  [
+                    "From 26/05/2024",
+                    "From 26/09/2024"
+                  ],
+                  [
+                    "• the manufacturer has put in place a quality management system in accordance with Article 10(9) of the MDR22; • the manufacturer has lodged a formal application with a notified body for the conformity assessment procedure 23.",
+                    "• the manufacturer has signed a written agreement with a notified body for the conformity assessment procedure 24; • the notified body that has signed the written agreement mentioned in the above bullet point is responsible for the surveillance of the product covered by that agreement25."
+                  ]
+                ],
+                "pdfplumber_bbox": [
+                  72.275,
+                  185.29999999999995,
+                  523.23,
+                  354.85
+                ]
+              }
+            },
+            {
+              "id": "/page/5/Caption/3",
+              "block_type": "Caption",
+              "html": "<p><b>Table 3</b>: applicable conditions for transitional provisions according to Article 2(3) of the CS.</p>",
+              "polygon": [
+                [
+                  129.46925280976956,
+                  351.9142883246431
+                ],
+                [
+                  463.9852882212295,
+                  351.9142883246431
+                ],
+                [
+                  463.9852882212295,
+                  365.8500061035156
+                ],
+                [
+                  129.46925280976956,
+                  365.8500061035156
+                ]
+              ],
+              "bbox": [
+                129.46925280976956,
+                351.9142883246431,
+                463.9852882212295,
+                365.8500061035156
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/4/SectionHeader/6",
+                "2": "/page/5/SectionHeader/0"
+              },
+              "images": {}
+            }
+          ],
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/6",
+            "2": "/page/5/SectionHeader/0"
+          },
+          "images": null
+        },
+        {
+          "id": "/page/5/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">To establish the conditions and the requirements, the CS refers to paragraphs (3c), (3d) and (3e) of  Article 120 of the MDR. The questions and answers document on the MDR transitional provisions<sup>15</sup> ,  as amended by Regulation (EU) 2023/607, provides additional useful information.</p>",
+          "polygon": [
+            [
+              69.14404342997284,
+              395.8192593038666
+            ],
+            [
+              525.9559936523438,
+              395.8192593038666
+            ],
+            [
+              525.9559936523438,
+              440.8699951171875
+            ],
+            [
+              69.14404342997284,
+              440.8699951171875
+            ]
+          ],
+          "bbox": [
+            69.14404342997284,
+            395.8192593038666,
+            525.9559936523438,
+            440.8699951171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/6",
+            "2": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">It has to be noted that the validity of an MDD certificate that covers products that benefit from the  transitional provisions established by the CS is not extended. Nevertheless, those products can be  placed on the market or put into service also after the expiry date of the MDD certificate until the end  of the transitional period.</p>",
+          "polygon": [
+            [
+              68.9913255129413,
+              447.080116604867
+            ],
+            [
+              526.1563416296049,
+              447.080116604867
+            ],
+            [
+              526.1563416296049,
+              506.8999938964844
+            ],
+            [
+              68.9913255129413,
+              506.8999938964844
+            ]
+          ],
+          "bbox": [
+            68.9913255129413,
+            447.080116604867,
+            526.1563416296049,
+            506.8999938964844
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/4/SectionHeader/6",
+            "2": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/SectionHeader/6",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>8</b> <b>What transitional periods</b> <b>set out in the CS for Annex XVI products covered </b> <b>by an MDD certificate were applicable before 22 June</b> <b>2023? Were</b> <b>there </b> <b>conditions to be satisfied?</b></h1>",
+          "polygon": [
+            [
+              69.68500743644964,
+              539.5926875643505
+            ],
+            [
+              526.7680053710938,
+              539.5926875643505
+            ],
+            [
+              526.7680053710938,
+              586.4400177001953
+            ],
+            [
+              69.68500743644964,
+              586.4400177001953
+            ]
+          ],
+          "bbox": [
+            69.68500743644964,
+            539.5926875643505,
+            526.7680053710938,
+            586.4400177001953
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Transitional periods for Annex XVI products covered by an MDD certificate were set out in the CS  before it has been amended by Implementing Regulation (EU) 2023/1194. Those transitional  provisions remained applicable from 22 December 2022 to 21 June 2023.</p>",
+          "polygon": [
+            [
+              68.86453877408198,
+              590.3871763777967
+            ],
+            [
+              526.6124738025425,
+              590.3871763777967
+            ],
+            [
+              526.6124738025425,
+              635.6699981689453
+            ],
+            [
+              68.86453877408198,
+              635.6699981689453
+            ]
+          ],
+          "bbox": [
+            68.86453877408198,
+            590.3871763777967,
+            526.6124738025425,
+            635.6699981689453
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Footnote/8",
+          "block_type": "Footnote",
+          "html": "<p><sup>17</sup> MDR, Article 120 paragraphs (3c), (3d) and (3e).</p>",
+          "polygon": [
+            [
+              69.11786027038728,
+              656.9386139595391
+            ],
+            [
+              274.4949951171875,
+              656.9386139595391
+            ],
+            [
+              274.4949951171875,
+              672.1999969482422
+            ],
+            [
+              69.11786027038728,
+              672.1999969482422
+            ]
+          ],
+          "bbox": [
+            69.11786027038728,
+            656.9386139595391,
+            274.4949951171875,
+            672.1999969482422
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Footnote/9",
+          "block_type": "Footnote",
+          "html": "<p><sup>18</sup> MDR, Article 120(3c)(a).</p>",
+          "polygon": [
+            [
+              69.0807903683756,
+              668.5077649980173
+            ],
+            [
+              178.51437677724536,
+              668.5077649980173
+            ],
+            [
+              178.51437677724536,
+              684.4499969482422
+            ],
+            [
+              69.0807903683756,
+              684.4499969482422
+            ]
+          ],
+          "bbox": [
+            69.0807903683756,
+            668.5077649980173,
+            178.51437677724536,
+            684.4499969482422
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Footnote/10",
+          "block_type": "Footnote",
+          "html": "<p><sup>19</sup> MDR, Article 120(3c)(b).</p>",
+          "polygon": [
+            [
+              69.31951412325841,
+              681.8456474705031
+            ],
+            [
+              178.60000610351562,
+              681.8456474705031
+            ],
+            [
+              178.60000610351562,
+              696.6999969482422
+            ],
+            [
+              69.31951412325841,
+              696.6999969482422
+            ]
+          ],
+          "bbox": [
+            69.31951412325841,
+            681.8456474705031,
+            178.60000610351562,
+            696.6999969482422
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Footnote/11",
+          "block_type": "Footnote",
+          "html": "<p><sup>20</sup> MDR, Article 120(3c)(c).</p>",
+          "polygon": [
+            [
+              69.48634299943669,
+              693.2927491756177
+            ],
+            [
+              177.9108469312077,
+              693.2927491756177
+            ],
+            [
+              177.9108469312077,
+              708.6999969482422
+            ],
+            [
+              69.48634299943669,
+              708.6999969482422
+            ]
+          ],
+          "bbox": [
+            69.48634299943669,
+            693.2927491756177,
+            177.9108469312077,
+            708.6999969482422
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Footnote/12",
+          "block_type": "Footnote",
+          "html": "<p><sup>21</sup> MDR, Article 120(3d).</p>",
+          "polygon": [
+            [
+              69.6890620464642,
+              705.7833795454071
+            ],
+            [
+              172.13975098271212,
+              705.7833795454071
+            ],
+            [
+              172.13975098271212,
+              720.9499969482422
+            ],
+            [
+              69.6890620464642,
+              720.9499969482422
+            ]
+          ],
+          "bbox": [
+            69.6890620464642,
+            705.7833795454071,
+            172.13975098271212,
+            720.9499969482422
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Footnote/13",
+          "block_type": "Footnote",
+          "html": "<p><sup>22</sup> MDR, Article 120(3c)(d).</p>",
+          "polygon": [
+            [
+              69.32534978371723,
+              718.8555633191646
+            ],
+            [
+              178.9346817746871,
+              718.8555633191646
+            ],
+            [
+              178.9346817746871,
+              733.2200012207031
+            ],
+            [
+              69.32534978371723,
+              733.2200012207031
+            ]
+          ],
+          "bbox": [
+            69.32534978371723,
+            718.8555633191646,
+            178.9346817746871,
+            733.2200012207031
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Footnote/14",
+          "block_type": "Footnote",
+          "html": "<p><sup>23</sup> MDR, Article 120(3c)(e).</p>",
+          "polygon": [
+            [
+              69.4387185123165,
+              728.9826834076553
+            ],
+            [
+              178.67972239919513,
+              728.9826834076553
+            ],
+            [
+              178.67972239919513,
+              745.4749984741211
+            ],
+            [
+              69.4387185123165,
+              745.4749984741211
+            ]
+          ],
+          "bbox": [
+            69.4387185123165,
+            728.9826834076553,
+            178.67972239919513,
+            745.4749984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Footnote/15",
+          "block_type": "Footnote",
+          "html": "<p><sup>24</sup> MDR, Article 120(3c)(e).</p>",
+          "polygon": [
+            [
+              69.5587361141176,
+              739.3766005015862
+            ],
+            [
+              178.85596049042132,
+              739.3766005015862
+            ],
+            [
+              178.85596049042132,
+              757.7249984741211
+            ],
+            [
+              69.5587361141176,
+              757.7249984741211
+            ]
+          ],
+          "bbox": [
+            69.5587361141176,
+            739.3766005015862,
+            178.85596049042132,
+            757.7249984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Footnote/16",
+          "block_type": "Footnote",
+          "html": "<p><sup>25</sup> MDR, Article120(3e).</p>",
+          "polygon": [
+            [
+              69.33548058190334,
+              755.1034831236434
+            ],
+            [
+              165.90022158682797,
+              755.1034831236434
+            ],
+            [
+              165.90022158682797,
+              769.9749984741211
+            ],
+            [
+              69.33548058190334,
+              769.9749984741211
+            ]
+          ],
+          "bbox": [
+            69.33548058190334,
+            755.1034831236434,
+            165.90022158682797,
+            769.9749984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/6"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/6"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/6/Page/181",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/6/SectionHeader/0'></content-ref><content-ref src='/page/6/PageFooter/11'></content-ref><content-ref src='/page/6/Text/1'></content-ref><content-ref src='/page/6/SectionHeader/2'></content-ref><content-ref src='/page/6/Text/3'></content-ref><content-ref src='/page/6/SectionHeader/4'></content-ref><content-ref src='/page/6/Text/5'></content-ref><content-ref src='/page/6/SectionHeader/6'></content-ref><content-ref src='/page/6/Text/7'></content-ref><content-ref src='/page/6/Text/8'></content-ref><content-ref src='/page/6/Text/9'></content-ref><content-ref src='/page/6/Footnote/10'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/6/SectionHeader/0",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              143.6353386175122,
+              34.86225715834226
+            ],
+            [
+              449.5644377509052,
+              34.86225715834226
+            ],
+            [
+              449.5644377509052,
+              64.780029296875
+            ],
+            [
+              143.6353386175122,
+              64.780029296875
+            ]
+          ],
+          "bbox": [
+            143.6353386175122,
+            34.86225715834226,
+            449.5644377509052,
+            64.780029296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/6",
+            "2": "/page/6/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/PageFooter/11",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              274.0749145815294,
+              791.890122370325
+            ],
+            [
+              319.13514721003224,
+              791.890122370325
+            ],
+            [
+              319.13514721003224,
+              806.4749984741211
+            ],
+            [
+              274.0749145815294,
+              806.4749984741211
+            ]
+          ],
+          "bbox": [
+            274.0749145815294,
+            791.890122370325,
+            319.13514721003224,
+            806.4749984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/6",
+            "2": "/page/6/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/1",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Before being amended, the CS set out conditions to be fulfilled in order to benefit and to continue to  benefit from the transitional provisions. Those conditions included the need for the product to  continue to comply with the requirements of the MDD, except for the requirement to be covered by  a valid MDD certificate where the certificate expires after 26 May 2021; the need to avoid significant  changes in the design and intended purpose of the product; the need for the manufacturer to sign a  written agreement with a notified body for the appropriate surveillance. Those conditions have been  retained in the CS as amended by Implementing Regulation (EU) 2023/1194. The compatibility of  those conditions ensures a smooth transition to the new regime applicable from 22 June 2023.</p>",
+          "polygon": [
+            [
+              68.56105579597222,
+              95.48035014450603
+            ],
+            [
+              527.062329347548,
+              95.48035014450603
+            ],
+            [
+              527.062329347548,
+              211.29998779296875
+            ],
+            [
+              68.56105579597222,
+              211.29998779296875
+            ]
+          ],
+          "bbox": [
+            68.56105579597222,
+            95.48035014450603,
+            527.062329347548,
+            211.29998779296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/6",
+            "2": "/page/6/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/SectionHeader/2",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>9</b> <b>What is the transitional period for products incorporating a medicinal </b> <b>product?</b></h2>",
+          "polygon": [
+            [
+              68.75437708165244,
+              245.38199235707228
+            ],
+            [
+              526.2218017578125,
+              245.38199235707228
+            ],
+            [
+              526.2218017578125,
+              275.84002685546875
+            ],
+            [
+              68.75437708165244,
+              275.84002685546875
+            ]
+          ],
+          "bbox": [
+            68.75437708165244,
+            245.38199235707228,
+            526.2218017578125,
+            275.84002685546875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/6",
+            "2": "/page/6/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/3",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">There are no specific transitional provisions for Annex XVI products that incorporate, as an integral  part, a substance which, if used separately, would be considered to be a medicinal product as defined  in point 2 of Article 1 of Directive 2001/83/EC. In such cases, the timeframe of 210 days<sup>26</sup> for the  consultation of the Competent Authority designated by the Member States in accordance with  Directive 2001/83/EC or EMA has to be considered as part of the transitional period granted by the CS  in case a notified body is involved in the conformity assessment procedure of the product.</p>",
+          "polygon": [
+            [
+              68.5559188112504,
+              280.47474519588644
+            ],
+            [
+              527.4778237907352,
+              280.47474519588644
+            ],
+            [
+              527.4778237907352,
+              368.6000061035156
+            ],
+            [
+              68.5559188112504,
+              368.6000061035156
+            ]
+          ],
+          "bbox": [
+            68.5559188112504,
+            280.47474519588644,
+            527.4778237907352,
+            368.6000061035156
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/5/SectionHeader/6",
+            "2": "/page/6/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/SectionHeader/4",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>10</b> <b>What are the transitional provisions for a dual-purpose device?</b></h1>",
+          "polygon": [
+            [
+              69.43623305928497,
+              401.62692214544603
+            ],
+            [
+              455.1447265010036,
+              401.62692214544603
+            ],
+            [
+              455.1447265010036,
+              418.1399841308594
+            ],
+            [
+              69.43623305928497,
+              418.1399841308594
+            ]
+          ],
+          "bbox": [
+            69.43623305928497,
+            401.62692214544603,
+            455.1447265010036,
+            418.1399841308594
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/6/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">For a dual-purpose device, which has both a medical and a non-medical intended purpose, the  applicable requirements from MDR and CS must be cumulatively fulfilled. With regard to transitional  provisions, in relation to the medical purpose, Article 120 of the MDR is applicable, while in relation  to the non-medical purpose the CS is applicable. Considering that the device must fulfil both the  applicable requirements from the MDR and the CS, in case such requirements differ, for example in  setting the end of the transitional period, the stricter requirement should be taken into consideration  and fulfilled.</p>",
+          "polygon": [
+            [
+              68.87464666486687,
+              422.7762365298725
+            ],
+            [
+              527.1131837782391,
+              422.7762365298725
+            ],
+            [
+              527.1131837782391,
+              525.3999938964844
+            ],
+            [
+              68.87464666486687,
+              525.3999938964844
+            ]
+          ],
+          "bbox": [
+            68.87464666486687,
+            422.7762365298725,
+            527.1131837782391,
+            525.3999938964844
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/6/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/SectionHeader/6",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>11</b> <b>How can the manufacturers</b> <b>demonstrate that their</b> <b>product benefits from the </b> <b>transitional period?</b></h1>",
+          "polygon": [
+            [
+              69.66419033559804,
+              558.6149021872217
+            ],
+            [
+              526.6240234375,
+              558.6149021872217
+            ],
+            [
+              526.6240234375,
+              589.9499969482422
+            ],
+            [
+              69.66419033559804,
+              589.9499969482422
+            ]
+          ],
+          "bbox": [
+            69.66419033559804,
+            558.6149021872217,
+            526.6240234375,
+            589.9499969482422
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/6/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The manufacturers should be able to provide a self-declaration confirming that the conditions for  benefiting from the transitional provisions are fulfilled, stating the end date of the transition period.  The self-declaration should be updated as soon as a new condition becomes applicable and is fulfilled.</p>",
+          "polygon": [
+            [
+              69.09301146692232,
+              593.5808692449772
+            ],
+            [
+              526.7006214824071,
+              593.5808692449772
+            ],
+            [
+              526.7006214824071,
+              639.1699981689453
+            ],
+            [
+              69.09301146692232,
+              639.1699981689453
+            ]
+          ],
+          "bbox": [
+            69.09301146692232,
+            593.5808692449772,
+            526.7006214824071,
+            639.1699981689453
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/6/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The self-declaration should clearly identify the products covered and could be based on a harmonised  template.</p>",
+          "polygon": [
+            [
+              69.31875245216811,
+              645.4579223741513
+            ],
+            [
+              526.9401870842845,
+              645.4579223741513
+            ],
+            [
+              526.9401870842845,
+              676.1999969482422
+            ],
+            [
+              69.31875245216811,
+              676.1999969482422
+            ]
+          ],
+          "bbox": [
+            69.31875245216811,
+            645.4579223741513,
+            526.9401870842845,
+            676.1999969482422
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/6/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">As soon as the condition to have signed a written agreement for the conformity assessment with a  notified body applies, additional evidence could be provided by a 'confirmation letter' issued by the  notified body stating the receipt of the manufacturer's application for conformity assessment and the</p>",
+          "polygon": [
+            [
+              68.60448250182029,
+              682.376861816841
+            ],
+            [
+              527.1351290686005,
+              682.376861816841
+            ],
+            [
+              527.1351290686005,
+              727.6999969482422
+            ],
+            [
+              68.60448250182029,
+              727.6999969482422
+            ]
+          ],
+          "bbox": [
+            68.60448250182029,
+            682.376861816841,
+            527.1351290686005,
+            727.6999969482422
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/6/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Footnote/10",
+          "block_type": "Footnote",
+          "html": "<p><sup>26</sup> MDR, Annex IX, Section 5.2(d).</p>",
+          "polygon": [
+            [
+              68.78337212473679,
+              753.8886643746869
+            ],
+            [
+              205.6306693511886,
+              753.8886643746869
+            ],
+            [
+              205.6306693511886,
+              769.9749984741211
+            ],
+            [
+              68.78337212473679,
+              769.9749984741211
+            ]
+          ],
+          "bbox": [
+            68.78337212473679,
+            753.8886643746869,
+            205.6306693511886,
+            769.9749984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/6/SectionHeader/6"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/6"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/7/Page/87",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/7/SectionHeader/0'></content-ref><content-ref src='/page/7/PageFooter/7'></content-ref><content-ref src='/page/7/Text/1'></content-ref><content-ref src='/page/7/Text/2'></content-ref><content-ref src='/page/7/SectionHeader/3'></content-ref><content-ref src='/page/7/Text/4'></content-ref><content-ref src='/page/7/SectionHeader/5'></content-ref><content-ref src='/page/7/Text/6'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/7/SectionHeader/0",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              143.51207389158927,
+              34.73080643393159
+            ],
+            [
+              449.66573427906565,
+              34.73080643393159
+            ],
+            [
+              449.66573427906565,
+              64.780029296875
+            ],
+            [
+              143.51207389158927,
+              64.780029296875
+            ]
+          ],
+          "bbox": [
+            143.51207389158927,
+            34.73080643393159,
+            449.66573427906565,
+            64.780029296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/6/SectionHeader/6",
+            "2": "/page/7/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/PageFooter/7",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              274.27975256316904,
+              792.2457906938724
+            ],
+            [
+              319.04773256700645,
+              792.2457906938724
+            ],
+            [
+              319.04773256700645,
+              806.4749984741211
+            ],
+            [
+              274.27975256316904,
+              806.4749984741211
+            ]
+          ],
+          "bbox": [
+            274.27975256316904,
+            792.2457906938724,
+            319.04773256700645,
+            806.4749984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/6/SectionHeader/6",
+            "2": "/page/7/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/1",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">conclusion of a written agreement. Such a confirmation should clearly identify the products covered,  could be based on a harmonised template and be issued, in principle, without extra costs.</p>",
+          "polygon": [
+            [
+              68.61377145301185,
+              95.39259429415314
+            ],
+            [
+              526.5244177522827,
+              95.39259429415314
+            ],
+            [
+              526.5244177522827,
+              124.280029296875
+            ],
+            [
+              68.61377145301185,
+              124.280029296875
+            ]
+          ],
+          "bbox": [
+            68.61377145301185,
+            95.39259429415314,
+            526.5244177522827,
+            124.280029296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/6/SectionHeader/6",
+            "2": "/page/7/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/2",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">If products are covered by MDD certificates, the self-declaration and the confirmation letter should  list the products concerned and the reference to their certificates. Additional information on products  covered by an MDD certificate is provided in the questions and answers document on the  implementation of Regulation (EU) 2023/607 (see question number 7).</p>",
+          "polygon": [
+            [
+              68.61794632688277,
+              131.6356746846825
+            ],
+            [
+              527.0930252651724,
+              131.6356746846825
+            ],
+            [
+              527.0930252651724,
+              190.29998779296875
+            ],
+            [
+              68.61794632688277,
+              190.29998779296875
+            ]
+          ],
+          "bbox": [
+            68.61794632688277,
+            131.6356746846825,
+            527.0930252651724,
+            190.29998779296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/6/SectionHeader/6",
+            "2": "/page/7/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/SectionHeader/3",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>12</b> <b>Is there a deadline to make available products placed on market during the </b> <b>transitional period?</b></h2>",
+          "polygon": [
+            [
+              69.61739051492148,
+              202.15611814667045
+            ],
+            [
+              526.7980346679688,
+              202.15611814667045
+            ],
+            [
+              526.7980346679688,
+              232.35003662109375
+            ],
+            [
+              69.61739051492148,
+              232.35003662109375
+            ]
+          ],
+          "bbox": [
+            69.61739051492148,
+            202.15611814667045,
+            526.7980346679688,
+            232.35003662109375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/6/SectionHeader/6",
+            "2": "/page/7/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">No, there is not. Products placed on the marked during the transitional period can be further made  available also after the end of the applicable transitional period.</p>",
+          "polygon": [
+            [
+              68.78904743338713,
+              237.02504523014872
+            ],
+            [
+              526.1965212113311,
+              237.02504523014872
+            ],
+            [
+              526.1965212113311,
+              267.07000732421875
+            ],
+            [
+              68.78904743338713,
+              267.07000732421875
+            ]
+          ],
+          "bbox": [
+            68.78904743338713,
+            237.02504523014872,
+            526.1965212113311,
+            267.07000732421875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/6/SectionHeader/6",
+            "2": "/page/7/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/SectionHeader/5",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>13</b> <b>Can notified bodies issue certificates for Annex XVI products under the MDR </b> <b>during the transitional periods?</b></h1>",
+          "polygon": [
+            [
+              69.74994991888627,
+              299.98012324644856
+            ],
+            [
+              526.718017578125,
+              299.98012324644856
+            ],
+            [
+              526.718017578125,
+              331.6919860839844
+            ],
+            [
+              69.74994991888627,
+              331.6919860839844
+            ]
+          ],
+          "bbox": [
+            69.74994991888627,
+            299.98012324644856,
+            526.718017578125,
+            331.6919860839844
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Yes, they can. Notified bodies can issue certificates for Annex XVI products under the MDR during the  transitional periods starting from 22 June 2023 (the date of application of the CS). Before that date,  the MDR was not applicable to Annex XVI products, consequently notified bodies could not issue any  certificate.</p>",
+          "polygon": [
+            [
+              68.79528397336715,
+              336.3866568452422
+            ],
+            [
+              527.6142602723552,
+              336.3866568452422
+            ],
+            [
+              527.6142602723552,
+              395.3699951171875
+            ],
+            [
+              68.79528397336715,
+              395.3699951171875
+            ]
+          ],
+          "bbox": [
+            68.79528397336715,
+            336.3866568452422,
+            527.6142602723552,
+            395.3699951171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/7/SectionHeader/5"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/5"
+      },
+      "images": null
+    }
+  ],
+  "block_type": "Document",
+  "metadata": {
+    "table_of_contents": [
+      {
+        "title": "Q&A ON TRANSITIONAL PROVISIONS \nFOR PRODUCTS WITHOUT AN \nINTENDED MEDICAL PURPOSE \nCOVERED BY ANNEX XVI OF THE MDR",
+        "heading_level": null,
+        "page_id": 0,
+        "polygon": [
+          [
+            33.99293120261704,
+            556.506107537532
+          ],
+          [
+            533.3502735358942,
+            556.506107537532
+          ],
+          [
+            533.3502735358942,
+            691.4351196289062
+          ],
+          [
+            33.99293120261704,
+            691.4351196289062
+          ]
+        ]
+      },
+      {
+        "title": "Q&A on transitional provisions for products without an \nintended medical purpose covered by Annex XVI of the MDR",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            143.86687517526468,
+            34.45081544707953
+          ],
+          [
+            449.7359225563799,
+            34.45081544707953
+          ],
+          [
+            449.7359225563799,
+            64.780029296875
+          ],
+          [
+            143.86687517526468,
+            64.780029296875
+          ]
+        ]
+      },
+      {
+        "title": "Introduction",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            68.96877317644787,
+            256.3296390849357
+          ],
+          [
+            128.5855769006071,
+            256.3296390849357
+          ],
+          [
+            128.5855769006071,
+            270.83001708984375
+          ],
+          [
+            68.96877317644787,
+            270.83001708984375
+          ]
+        ]
+      },
+      {
+        "title": "Q&A on transitional provisions for products without an \nintended medical purpose covered by Annex XVI of the MDR",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            143.80863310768262,
+            34.69335817929792
+          ],
+          [
+            449.7971769472213,
+            34.69335817929792
+          ],
+          [
+            449.7971769472213,
+            64.780029296875
+          ],
+          [
+            143.80863310768262,
+            64.780029296875
+          ]
+        ]
+      },
+      {
+        "title": "1 When are the CS applicable to Annex XVI products?",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            70.11325557526173,
+            95.21243195096403
+          ],
+          [
+            390.2893380037783,
+            95.21243195096403
+          ],
+          [
+            390.2893380037783,
+            110.550048828125
+          ],
+          [
+            70.11325557526173,
+            110.550048828125
+          ]
+        ]
+      },
+      {
+        "title": "2 When is the MDR applicable to Annex XVI products?",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            69.13134700285097,
+            202.03477813639176
+          ],
+          [
+            393.2370165769639,
+            202.03477813639176
+          ],
+          [
+            393.2370165769639,
+            217.35003662109375
+          ],
+          [
+            69.13134700285097,
+            217.35003662109375
+          ]
+        ]
+      },
+      {
+        "title": "3 What are transitional provisions foreseen for Annex XVI products?",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            69.2227131725859,
+            285.31441084062635
+          ],
+          [
+            474.00869651044945,
+            285.31441084062635
+          ],
+          [
+            474.00869651044945,
+            301.8699951171875
+          ],
+          [
+            69.2227131725859,
+            301.8699951171875
+          ]
+        ]
+      },
+      {
+        "title": "4 What is the transitional period set out in the CS for products for which a \nnotified body is involved in the conformity assessment and the \nmanufacturer decides to carry out a clinical investigation? Are there \nconditions to be satisfied?",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            69.26821872509396,
+            545.2995350023305
+          ],
+          [
+            526.7460327148438,
+            545.2995350023305
+          ],
+          [
+            526.7460327148438,
+            606.4400024414062
+          ],
+          [
+            69.26821872509396,
+            606.4400024414062
+          ]
+        ]
+      },
+      {
+        "title": "Q&A on transitional provisions for products without an \nintended medical purpose covered by Annex XVI of the MDR",
+        "heading_level": null,
+        "page_id": 3,
+        "polygon": [
+          [
+            143.91667586550003,
+            34.350569218052144
+          ],
+          [
+            449.8224667181596,
+            34.350569218052144
+          ],
+          [
+            449.8224667181596,
+            64.780029296875
+          ],
+          [
+            143.91667586550003,
+            64.780029296875
+          ]
+        ]
+      },
+      {
+        "title": "5 What is the transitional period set out in the CS for products for which a \nnotified body is involved in the conformity assessment and the \nmanufacturer does not intend to perform a clinical investigation? Are there \nconditions to be satisfied?",
+        "heading_level": null,
+        "page_id": 3,
+        "polygon": [
+          [
+            69.53577144440236,
+            347.9950265858923
+          ],
+          [
+            526.7460327148438,
+            347.9950265858923
+          ],
+          [
+            526.7460327148438,
+            409.6399841308594
+          ],
+          [
+            69.53577144440236,
+            409.6399841308594
+          ]
+        ]
+      },
+      {
+        "title": "Q&A on transitional provisions for products without an \nintended medical purpose covered by Annex XVI of the MDR",
+        "heading_level": null,
+        "page_id": 4,
+        "polygon": [
+          [
+            143.8392030346003,
+            34.67314533155514
+          ],
+          [
+            449.67801264611535,
+            34.67314533155514
+          ],
+          [
+            449.67801264611535,
+            64.780029296875
+          ],
+          [
+            143.8392030346003,
+            64.780029296875
+          ]
+        ]
+      },
+      {
+        "title": "6 What is the transitional period set out in the MDR for Annex XVI products \ncovered by an MDD certificate? Are there conditions to be satisfied?",
+        "heading_level": null,
+        "page_id": 4,
+        "polygon": [
+          [
+            68.91589144074946,
+            95.02971833280867
+          ],
+          [
+            526.7520141601562,
+            95.02971833280867
+          ],
+          [
+            526.7520141601562,
+            125.5860595703125
+          ],
+          [
+            68.91589144074946,
+            125.5860595703125
+          ]
+        ]
+      },
+      {
+        "title": "7 What is the transitional period set out in the CS for Annex XVI products \ncovered by an MDD certificate? Are there conditions to be satisfied?",
+        "heading_level": null,
+        "page_id": 4,
+        "polygon": [
+          [
+            69.44015595174255,
+            456.655291807832
+          ],
+          [
+            526.7420043945312,
+            456.655291807832
+          ],
+          [
+            526.7420043945312,
+            488.70599365234375
+          ],
+          [
+            69.44015595174255,
+            488.70599365234375
+          ]
+        ]
+      },
+      {
+        "title": "Q&A on transitional provisions for products without an \nintended medical purpose covered by Annex XVI of the MDR",
+        "heading_level": null,
+        "page_id": 5,
+        "polygon": [
+          [
+            143.95209070777412,
+            34.00358724211967
+          ],
+          [
+            449.633068324937,
+            34.00358724211967
+          ],
+          [
+            449.633068324937,
+            64.780029296875
+          ],
+          [
+            143.95209070777412,
+            64.780029296875
+          ]
+        ]
+      },
+      {
+        "title": "8 What transitional periods set out in the CS for Annex XVI products covered \nby an MDD certificate were applicable before 22 June 2023? Were there \nconditions to be satisfied?",
+        "heading_level": null,
+        "page_id": 5,
+        "polygon": [
+          [
+            69.68500743644964,
+            539.5926875643505
+          ],
+          [
+            526.7680053710938,
+            539.5926875643505
+          ],
+          [
+            526.7680053710938,
+            586.4400177001953
+          ],
+          [
+            69.68500743644964,
+            586.4400177001953
+          ]
+        ]
+      },
+      {
+        "title": "Q&A on transitional provisions for products without an \nintended medical purpose covered by Annex XVI of the MDR",
+        "heading_level": null,
+        "page_id": 6,
+        "polygon": [
+          [
+            143.6353386175122,
+            34.86225715834226
+          ],
+          [
+            449.5644377509052,
+            34.86225715834226
+          ],
+          [
+            449.5644377509052,
+            64.780029296875
+          ],
+          [
+            143.6353386175122,
+            64.780029296875
+          ]
+        ]
+      },
+      {
+        "title": "9 What is the transitional period for products incorporating a medicinal \nproduct?",
+        "heading_level": null,
+        "page_id": 6,
+        "polygon": [
+          [
+            68.75437708165244,
+            245.38199235707228
+          ],
+          [
+            526.2218017578125,
+            245.38199235707228
+          ],
+          [
+            526.2218017578125,
+            275.84002685546875
+          ],
+          [
+            68.75437708165244,
+            275.84002685546875
+          ]
+        ]
+      },
+      {
+        "title": "10 What are the transitional provisions for a dual-purpose device?",
+        "heading_level": null,
+        "page_id": 6,
+        "polygon": [
+          [
+            69.43623305928497,
+            401.62692214544603
+          ],
+          [
+            455.1447265010036,
+            401.62692214544603
+          ],
+          [
+            455.1447265010036,
+            418.1399841308594
+          ],
+          [
+            69.43623305928497,
+            418.1399841308594
+          ]
+        ]
+      },
+      {
+        "title": "11 How can the manufacturers demonstrate that their product benefits from the \ntransitional period?",
+        "heading_level": null,
+        "page_id": 6,
+        "polygon": [
+          [
+            69.66419033559804,
+            558.6149021872217
+          ],
+          [
+            526.6240234375,
+            558.6149021872217
+          ],
+          [
+            526.6240234375,
+            589.9499969482422
+          ],
+          [
+            69.66419033559804,
+            589.9499969482422
+          ]
+        ]
+      },
+      {
+        "title": "Q&A on transitional provisions for products without an \nintended medical purpose covered by Annex XVI of the MDR",
+        "heading_level": null,
+        "page_id": 7,
+        "polygon": [
+          [
+            143.51207389158927,
+            34.73080643393159
+          ],
+          [
+            449.66573427906565,
+            34.73080643393159
+          ],
+          [
+            449.66573427906565,
+            64.780029296875
+          ],
+          [
+            143.51207389158927,
+            64.780029296875
+          ]
+        ]
+      },
+      {
+        "title": "12 Is there a deadline to make available products placed on market during the \ntransitional period?",
+        "heading_level": null,
+        "page_id": 7,
+        "polygon": [
+          [
+            69.61739051492148,
+            202.15611814667045
+          ],
+          [
+            526.7980346679688,
+            202.15611814667045
+          ],
+          [
+            526.7980346679688,
+            232.35003662109375
+          ],
+          [
+            69.61739051492148,
+            232.35003662109375
+          ]
+        ]
+      },
+      {
+        "title": "13 Can notified bodies issue certificates for Annex XVI products under the MDR \nduring the transitional periods?",
+        "heading_level": null,
+        "page_id": 7,
+        "polygon": [
+          [
+            69.74994991888627,
+            299.98012324644856
+          ],
+          [
+            526.718017578125,
+            299.98012324644856
+          ],
+          [
+            526.718017578125,
+            331.6919860839844
+          ],
+          [
+            69.74994991888627,
+            331.6919860839844
+          ]
+        ]
+      }
+    ],
+    "page_stats": [
+      {
+        "page_id": 0,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            14
+          ],
+          [
+            "Line",
+            7
+          ],
+          [
+            "PageFooter",
+            2
+          ],
+          [
+            "Picture",
+            1
+          ],
+          [
+            "SectionHeader",
+            1
+          ],
+          [
+            "Text",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 1,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            148
+          ],
+          [
+            "Line",
+            46
+          ],
+          [
+            "Footnote",
+            5
+          ],
+          [
+            "Text",
+            4
+          ],
+          [
+            "SectionHeader",
+            2
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 2,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            164
+          ],
+          [
+            "Line",
+            38
+          ],
+          [
+            "Text",
+            8
+          ],
+          [
+            "SectionHeader",
+            5
+          ],
+          [
+            "Footnote",
+            3
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 3,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            173
+          ],
+          [
+            "Line",
+            48
+          ],
+          [
+            "Footnote",
+            6
+          ],
+          [
+            "Text",
+            5
+          ],
+          [
+            "SectionHeader",
+            2
+          ],
+          [
+            "Table",
+            2
+          ],
+          [
+            "Caption",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ],
+          [
+            "TableGroup",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 4,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            131
+          ],
+          [
+            "Line",
+            40
+          ],
+          [
+            "Text",
+            5
+          ],
+          [
+            "SectionHeader",
+            3
+          ],
+          [
+            "Footnote",
+            2
+          ],
+          [
+            "ListItem",
+            2
+          ],
+          [
+            "Reference",
+            2
+          ],
+          [
+            "ListGroup",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 5,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            219
+          ],
+          [
+            "Line",
+            55
+          ],
+          [
+            "Footnote",
+            9
+          ],
+          [
+            "Text",
+            4
+          ],
+          [
+            "SectionHeader",
+            2
+          ],
+          [
+            "Table",
+            1
+          ],
+          [
+            "Caption",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ],
+          [
+            "TableGroup",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 6,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            132
+          ],
+          [
+            "Line",
+            38
+          ],
+          [
+            "Text",
+            6
+          ],
+          [
+            "SectionHeader",
+            4
+          ],
+          [
+            "Footnote",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 7,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            61
+          ],
+          [
+            "Line",
+            19
+          ],
+          [
+            "Text",
+            4
+          ],
+          [
+            "SectionHeader",
+            3
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      }
+    ],
+    "debug_data_path": "debug_data/md_new-reg_annex-xvi_q-n-a_transition-prov",
+    "table_resolution_log": [
+      {
+        "page": 1,
+        "table_number": 1,
+        "action": "ignored_pdfplumber",
+        "reason": "False positive caused by the European Commission logo."
+      }
+    ],
+    "table_validation_status": "passed"
+  }
+}

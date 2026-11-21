@@ -1,0 +1,6180 @@
+{
+  "children": [
+    {
+      "id": "/page/0/Page/66",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/0/PageHeader/0'></content-ref><content-ref src='/page/0/PageHeader/1'></content-ref><content-ref src='/page/0/PageFooter/8'></content-ref><content-ref src='/page/0/SectionHeader/2'></content-ref><content-ref src='/page/0/Text/3'></content-ref><content-ref src='/page/0/Text/4'></content-ref><content-ref src='/page/0/SectionHeader/5'></content-ref><content-ref src='/page/0/Text/6'></content-ref><content-ref src='/page/0/Text/7'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/0/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.14068238380874,
+              34.74224712884755
+            ],
+            [
+              524.62646484375,
+              34.74224712884755
+            ],
+            [
+              524.62646484375,
+              74.54840087890625
+            ],
+            [
+              67.14068238380874,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            67.14068238380874,
+            34.74224712884755,
+            524.62646484375,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              417.44230532706234,
+              56.498985188620914
+            ],
+            [
+              528.051196043077,
+              56.498985188620914
+            ],
+            [
+              528.051196043077,
+              72.54162527001127
+            ],
+            [
+              417.44230532706234,
+              72.54162527001127
+            ]
+          ],
+          "bbox": [
+            417.44230532706234,
+            56.498985188620914,
+            528.051196043077,
+            72.54162527001127
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageFooter/8",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.89324413078555,
+              777.013924059439
+            ],
+            [
+              527.9804121733312,
+              777.013924059439
+            ],
+            [
+              527.9804121733312,
+              793.0399971008301
+            ],
+            [
+              470.89324413078555,
+              793.0399971008301
+            ]
+          ],
+          "bbox": [
+            470.89324413078555,
+            777.013924059439,
+            527.9804121733312,
+            793.0399971008301
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/SectionHeader/2",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>MDCG 2021-26</b></h1>",
+          "polygon": [
+            [
+              67.77331035623622,
+              210.99995836782753
+            ],
+            [
+              239.7807710969478,
+              210.99995836782753
+            ],
+            [
+              239.7807710969478,
+              238.41998291015625
+            ],
+            [
+              67.77331035623622,
+              238.41998291015625
+            ]
+          ],
+          "bbox": [
+            67.77331035623622,
+            210.99995836782753,
+            239.7807710969478,
+            238.41998291015625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/3",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>Questions and Answers on repackaging &amp; relabelling </b> <b>activities under Article 16 of Regulation (EU) 2017/745 and </b> <b>Regulation (EU) 2017/746</b></p>",
+          "polygon": [
+            [
+              68.08037261578538,
+              250.37834975938125
+            ],
+            [
+              528.62060546875,
+              250.37834975938125
+            ],
+            [
+              528.62060546875,
+              313.29736328125
+            ],
+            [
+              68.08037261578538,
+              313.29736328125
+            ]
+          ],
+          "bbox": [
+            68.08037261578538,
+            250.37834975938125,
+            528.62060546875,
+            313.29736328125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>October</b> <b>2021</b></p>",
+          "polygon": [
+            [
+              67.94545374949573,
+              375.4290807898938
+            ],
+            [
+              171.01376342773438,
+              375.4290807898938
+            ],
+            [
+              171.01376342773438,
+              396.12158203125
+            ],
+            [
+              67.94545374949573,
+              396.12158203125
+            ]
+          ],
+          "bbox": [
+            67.94545374949573,
+            375.4290807898938,
+            171.01376342773438,
+            396.12158203125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/SectionHeader/5",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.94545374949573,
+              375.4290807898938
+            ],
+            [
+              169.90446967982524,
+              375.4290807898938
+            ],
+            [
+              169.90446967982524,
+              394.07665841704693
+            ],
+            [
+              67.94545374949573,
+              394.07665841704693
+            ]
+          ],
+          "bbox": [
+            67.94545374949573,
+            375.4290807898938,
+            169.90446967982524,
+            394.07665841704693
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">This document has been endorsed by the Medical Device Coordination Group  (MDCG) established by Article 103 of Regulation (EU) 2017/745. The MDCG is  composed of representatives of all Member States and it is chaired by a  representative of the European Commission.</p>",
+          "polygon": [
+            [
+              67.53374475435886,
+              569.5298285276255
+            ],
+            [
+              528.0426286750236,
+              569.5298285276255
+            ],
+            [
+              528.0426286750236,
+              634.0200042724609
+            ],
+            [
+              67.53374475435886,
+              634.0200042724609
+            ]
+          ],
+          "bbox": [
+            67.53374475435886,
+            569.5298285276255,
+            528.0426286750236,
+            634.0200042724609
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The document is not a European Commission document and it cannot be regarded  as reflecting the official position of the European Commission. Any views expressed  in this document are not legally binding and only the Court of Justice of the European  Union can give binding interpretations of Union law.</p>",
+          "polygon": [
+            [
+              67.55621118809775,
+              642.1726581848634
+            ],
+            [
+              528.55259324081,
+              642.1726581848634
+            ],
+            [
+              528.55259324081,
+              707.5680084228516
+            ],
+            [
+              67.55621118809775,
+              707.5680084228516
+            ]
+          ],
+          "bbox": [
+            67.55621118809775,
+            642.1726581848634,
+            528.55259324081,
+            707.5680084228516
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/1/Page/192",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/1/PageHeader/0'></content-ref><content-ref src='/page/1/PageHeader/1'></content-ref><content-ref src='/page/1/PageHeader/2'></content-ref><content-ref src='/page/1/PageFooter/17'></content-ref><content-ref src='/page/1/SectionHeader/3'></content-ref><content-ref src='/page/1/Text/4'></content-ref><content-ref src='/page/1/Text/5'></content-ref><content-ref src='/page/1/Text/6'></content-ref><content-ref src='/page/1/Text/7'></content-ref><content-ref src='/page/1/ListGroup/8'></content-ref><content-ref src='/page/1/Text/9'></content-ref><content-ref src='/page/1/Text/10'></content-ref><content-ref src='/page/1/SectionHeader/11'></content-ref><content-ref src='/page/1/Text/12'></content-ref><content-ref src='/page/1/Text/13'></content-ref><content-ref src='/page/1/Text/14'></content-ref><content-ref src='/page/1/Footnote/15'></content-ref><content-ref src='/page/1/Footnote/16'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/1/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.25150266402314,
+              34.973809654120345
+            ],
+            [
+              303.2411193847656,
+              34.973809654120345
+            ],
+            [
+              303.2411193847656,
+              58.40838623046875
+            ],
+            [
+              67.25150266402314,
+              58.40838623046875
+            ]
+          ],
+          "bbox": [
+            67.25150266402314,
+            34.973809654120345,
+            303.2411193847656,
+            58.40838623046875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              417.424025220895,
+              56.92872057105427
+            ],
+            [
+              529.2432972021608,
+              56.92872057105427
+            ],
+            [
+              529.2432972021608,
+              72.7163532831153
+            ],
+            [
+              417.424025220895,
+              72.7163532831153
+            ]
+          ],
+          "bbox": [
+            417.424025220895,
+            56.92872057105427,
+            529.2432972021608,
+            72.7163532831153
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.18058707672041,
+              58.20559936958238
+            ],
+            [
+              524.62646484375,
+              58.20559936958238
+            ],
+            [
+              524.62646484375,
+              74.54840087890625
+            ],
+            [
+              67.18058707672041,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            67.18058707672041,
+            58.20559936958238,
+            524.62646484375,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageFooter/17",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.4972209786288,
+              776.4855470054401
+            ],
+            [
+              528.3862396932068,
+              776.4855470054401
+            ],
+            [
+              528.3862396932068,
+              793.0399971008301
+            ],
+            [
+              470.4972209786288,
+              793.0399971008301
+            ]
+          ],
+          "bbox": [
+            470.4972209786288,
+            776.4855470054401,
+            528.3862396932068,
+            793.0399971008301
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/3",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>1.</b> <b>Introduction</b></h3>",
+          "polygon": [
+            [
+              85.9150443665627,
+              87.19203002603587
+            ],
+            [
+              177.86473433256748,
+              87.19203002603587
+            ],
+            [
+              177.86473433256748,
+              103.300048828125
+            ],
+            [
+              85.9150443665627,
+              103.300048828125
+            ]
+          ],
+          "bbox": [
+            85.9150443665627,
+            87.19203002603587,
+            177.86473433256748,
+            103.300048828125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5",
+            "3": "/page/1/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">This document presents questions and answers about obligations introduced by Article 16(2)  to (4) under Regulation (EU) 2017/745 on medical devices (MDR) and Regulation (EU)  2017/746 on in vitro diagnostic medical devices (IVDR). Reference to 'the Regulations'  should be understood to cover both the MDR &amp; IVDR.</p>",
+          "polygon": [
+            [
+              67.95379777038728,
+              112.88007401613284
+            ],
+            [
+              528.2992831982052,
+              112.88007401613284
+            ],
+            [
+              528.2992831982052,
+              171.618408203125
+            ],
+            [
+              67.95379777038728,
+              171.618408203125
+            ]
+          ],
+          "bbox": [
+            67.95379777038728,
+            112.88007401613284,
+            528.2992831982052,
+            171.618408203125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5",
+            "3": "/page/1/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Article 16(1) of the Regulations outlines cases where the obligations of manufacturers also  apply to importers, distributors or other natural or legal persons, and is not in the scope of  this questions and answers document.</p>",
+          "polygon": [
+            [
+              67.82136435712916,
+              180.85066115803093
+            ],
+            [
+              528.2258420699189,
+              180.85066115803093
+            ],
+            [
+              528.2258420699189,
+              225.2584228515625
+            ],
+            [
+              67.82136435712916,
+              225.2584228515625
+            ]
+          ],
+          "bbox": [
+            67.82136435712916,
+            180.85066115803093,
+            528.2258420699189,
+            225.2584228515625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5",
+            "3": "/page/1/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Article 16(2) of the Regulations specifies the cases in which certain activities of importers  and distributors are not considered modifications of a device, within the meaning of Article  16(1)(c), that could affect its compliance with the applicable requirements. In such cases,  importers and distributors do not assume the obligations of the manufacturer.</p>",
+          "polygon": [
+            [
+              67.78633894067568,
+              234.2369021163492
+            ],
+            [
+              528.4229373499488,
+              234.2369021163492
+            ],
+            [
+              528.4229373499488,
+              293.66778564453125
+            ],
+            [
+              67.78633894067568,
+              293.66778564453125
+            ]
+          ],
+          "bbox": [
+            67.78633894067568,
+            234.2369021163492,
+            528.4229373499488,
+            293.66778564453125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5",
+            "3": "/page/1/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">These cases include:</p>",
+          "polygon": [
+            [
+              68.1616251678851,
+              302.8009181035382
+            ],
+            [
+              177.28271484375,
+              302.8009181035382
+            ],
+            [
+              177.28271484375,
+              318.04840087890625
+            ],
+            [
+              68.1616251678851,
+              318.04840087890625
+            ]
+          ],
+          "bbox": [
+            68.1616251678851,
+            302.8009181035382,
+            177.28271484375,
+            318.04840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5",
+            "3": "/page/1/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/ListGroup/8",
+          "block_type": "ListGroup",
+          "html": "<p block-type='ListGroup'><ul><content-ref src='/page/1/ListItem/191'></content-ref><content-ref src='/page/1/ListItem/192'></content-ref></ul></p>",
+          "polygon": [
+            [
+              86.26465712386354,
+              326.88078937207814
+            ],
+            [
+              528.7189926032155,
+              326.88078937207814
+            ],
+            [
+              528.7189926032155,
+              397.2277526855469
+            ],
+            [
+              86.26465712386354,
+              397.2277526855469
+            ]
+          ],
+          "bbox": [
+            86.26465712386354,
+            326.88078937207814,
+            528.7189926032155,
+            397.2277526855469
+          ],
+          "children": [
+            {
+              "id": "/page/1/ListItem/191",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\">a) supplying of information, translation of information supplied by the manufacturer  including the Instructions for Use (IFU), necessary to market the device in the  Member State in question (relabelling)</li>",
+              "polygon": [
+                [
+                  88.8239974975586,
+                  332.2376708984375
+                ],
+                [
+                  527.3353881835938,
+                  332.2376708984375
+                ],
+                [
+                  527.3353881835938,
+                  369.9877624511719
+                ],
+                [
+                  88.8239974975586,
+                  369.9877624511719
+                ]
+              ],
+              "bbox": [
+                88.8239974975586,
+                332.2376708984375,
+                527.3353881835938,
+                369.9877624511719
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/0/SectionHeader/2",
+                "2": "/page/0/SectionHeader/5",
+                "3": "/page/1/SectionHeader/3"
+              },
+              "images": {}
+            },
+            {
+              "id": "/page/1/ListItem/192",
+              "block_type": "ListItem",
+              "html": "<li block-type=\"ListItem\">b) changes to the outer packaging of a device already placed on the market, necessary  to market the device in the Member State in question (repackaging).</li>",
+              "polygon": [
+                [
+                  88.8239974975586,
+                  373.1576843261719
+                ],
+                [
+                  527.5643310546875,
+                  373.1576843261719
+                ],
+                [
+                  527.5643310546875,
+                  397.2277526855469
+                ],
+                [
+                  88.8239974975586,
+                  397.2277526855469
+                ]
+              ],
+              "bbox": [
+                88.8239974975586,
+                373.1576843261719,
+                527.5643310546875,
+                397.2277526855469
+              ],
+              "children": null,
+              "section_hierarchy": {
+                "1": "/page/0/SectionHeader/2",
+                "2": "/page/0/SectionHeader/5",
+                "3": "/page/1/SectionHeader/3"
+              },
+              "images": {}
+            }
+          ],
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5",
+            "3": "/page/1/SectionHeader/3"
+          },
+          "images": null
+        },
+        {
+          "id": "/page/1/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">For the importers and distributors identified in Article 16(2) (often referred to as 'parallel  traders'<sup>1</sup> ) there are certain obligations, other than those of the manufacturer, which are  described in Articles 16(3) and (4) of the Regulations.</p>",
+          "polygon": [
+            [
+              67.32517859317193,
+              402.87729857420135
+            ],
+            [
+              528.3697005495317,
+              402.87729857420135
+            ],
+            [
+              528.3697005495317,
+              448.12774658203125
+            ],
+            [
+              67.32517859317193,
+              448.12774658203125
+            ]
+          ],
+          "bbox": [
+            67.32517859317193,
+            402.87729857420135,
+            528.3697005495317,
+            448.12774658203125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5",
+            "3": "/page/1/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Further guidance on the quality management system referred to in Article 16(3) of the  Regulations and related certification activities carried out by the notified bodies, is provided in  MDCG 2021-23 '<i>Guidance for notified bodies on certification activities according to Article </i> <i>16(4) of Regulation (EU) 2017/745 and Regulation (EU) 2017/746</i>'.</p>",
+          "polygon": [
+            [
+              67.52967296379339,
+              456.1907080686846
+            ],
+            [
+              529.0954528347371,
+              456.1907080686846
+            ],
+            [
+              529.0954528347371,
+              516.2877502441406
+            ],
+            [
+              67.52967296379339,
+              516.2877502441406
+            ]
+          ],
+          "bbox": [
+            67.52967296379339,
+            456.1907080686846,
+            529.0954528347371,
+            516.2877502441406
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/0/SectionHeader/5",
+            "3": "/page/1/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/11",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>2.</b> <b>Scope</b></h2>",
+          "polygon": [
+            [
+              85.48234073821483,
+              525.4043495945917
+            ],
+            [
+              144.35355436771883,
+              525.4043495945917
+            ],
+            [
+              144.35355436771883,
+              541.7099914550781
+            ],
+            [
+              85.48234073821483,
+              541.7099914550781
+            ]
+          ],
+          "bbox": [
+            85.48234073821483,
+            525.4043495945917,
+            144.35355436771883,
+            541.7099914550781
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/12",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The questions covered by this document aim to guide economic operators carrying out any  of the activities mentioned in points (a) and (b) of Article 16(2) of the Regulations concerning  relabelling and repackaging of devices.</p>",
+          "polygon": [
+            [
+              67.68603315761767,
+              547.510746752908
+            ],
+            [
+              528.4049779473984,
+              547.510746752908
+            ],
+            [
+              528.4049779473984,
+              592.8777618408203
+            ],
+            [
+              67.68603315761767,
+              592.8777618408203
+            ]
+          ],
+          "bbox": [
+            67.68603315761767,
+            547.510746752908,
+            528.4049779473984,
+            592.8777618408203
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/13",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">It is not intended to address the quality management system and related certification  activities, which is provided in MDCG 2021-23<sup>2</sup> , nor elaborate on Article 16(1) of the  Regulations.</p>",
+          "polygon": [
+            [
+              67.69825425616439,
+              600.599277948123
+            ],
+            [
+              528.3781304731777,
+              600.599277948123
+            ],
+            [
+              528.3781304731777,
+              646.5177612304688
+            ],
+            [
+              67.69825425616439,
+              646.5177612304688
+            ]
+          ],
+          "bbox": [
+            67.69825425616439,
+            600.599277948123,
+            528.3781304731777,
+            646.5177612304688
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/14",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">It is also noted that Article 16(2), (3) and (4) of the Regulations do not apply to operators  subcontracted by the manufacturer (that may also qualify as importers or distributors), who  also carry out relabelling and/or repackaging activities on behalf and under the control of the  manufacturer.</p>",
+          "polygon": [
+            [
+              67.75536240738646,
+              654.9411601527715
+            ],
+            [
+              528.7044234960446,
+              654.9411601527715
+            ],
+            [
+              528.7044234960446,
+              714.5783920288086
+            ],
+            [
+              67.75536240738646,
+              714.5783920288086
+            ]
+          ],
+          "bbox": [
+            67.75536240738646,
+            654.9411601527715,
+            528.7044234960446,
+            714.5783920288086
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/15",
+          "block_type": "Footnote",
+          "html": "<p><sup> </sup> <sup>1</sup> Please see Recital 37 of Regulation (EU) 2017/745/ Recital 36 of Regulation (EU) 2017/746</p>",
+          "polygon": [
+            [
+              66.99709306616026,
+              728.9599990844727
+            ],
+            [
+              443.51001161051636,
+              728.9599990844727
+            ],
+            [
+              443.51001161051636,
+              750.6110000610352
+            ],
+            [
+              66.99709306616026,
+              750.6110000610352
+            ]
+          ],
+          "bbox": [
+            66.99709306616026,
+            728.9599990844727,
+            443.51001161051636,
+            750.6110000610352
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/16",
+          "block_type": "Footnote",
+          "html": "<p><sup>2</sup> <a href=\"https://ec.europa.eu/health/sites/default/files/md_sector/docs/mdcg_2021-23_en.pdf\">MDCG 2021-23</a> '<i>Guidance for notified bodies on certification activities according to Article 16(4) of Regulation </i> <i>(EU) 2017/745 and Regulation (EU) 2017/746</i>'</p>",
+          "polygon": [
+            [
+              67.89676406821916,
+              744.4435012287469
+            ],
+            [
+              529.3199453666168,
+              744.4435012287469
+            ],
+            [
+              529.3199453666168,
+              771.1310043334961
+            ],
+            [
+              67.89676406821916,
+              771.1310043334961
+            ]
+          ],
+          "bbox": [
+            67.89676406821916,
+            744.4435012287469,
+            529.3199453666168,
+            771.1310043334961
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/11"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/11"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/2/Page/167",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/2/PageHeader/0'></content-ref><content-ref src='/page/2/PageHeader/1'></content-ref><content-ref src='/page/2/PageHeader/2'></content-ref><content-ref src='/page/2/PageFooter/17'></content-ref><content-ref src='/page/2/SectionHeader/3'></content-ref><content-ref src='/page/2/SectionHeader/4'></content-ref><content-ref src='/page/2/Text/5'></content-ref><content-ref src='/page/2/Text/6'></content-ref><content-ref src='/page/2/Text/7'></content-ref><content-ref src='/page/2/SectionHeader/8'></content-ref><content-ref src='/page/2/SectionHeader/9'></content-ref><content-ref src='/page/2/Text/10'></content-ref><content-ref src='/page/2/SectionHeader/11'></content-ref><content-ref src='/page/2/Text/12'></content-ref><content-ref src='/page/2/Text/13'></content-ref><content-ref src='/page/2/Text/14'></content-ref><content-ref src='/page/2/Text/167'></content-ref><content-ref src='/page/2/Footnote/16'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/2/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.3806145041055,
+              34.789028130358915
+            ],
+            [
+              303.2411193847656,
+              34.789028130358915
+            ],
+            [
+              303.2411193847656,
+              58.40838623046875
+            ],
+            [
+              67.3806145041055,
+              58.40838623046875
+            ]
+          ],
+          "bbox": [
+            67.3806145041055,
+            34.789028130358915,
+            303.2411193847656,
+            58.40838623046875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              417.3483849820922,
+              56.77901907807891
+            ],
+            [
+              528.9557635021449,
+              56.77901907807891
+            ],
+            [
+              528.9557635021449,
+              72.44655881560708
+            ],
+            [
+              417.3483849820922,
+              72.44655881560708
+            ]
+          ],
+          "bbox": [
+            417.3483849820922,
+            56.77901907807891,
+            528.9557635021449,
+            72.44655881560708
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.29739764235181,
+              57.788271420785385
+            ],
+            [
+              524.62646484375,
+              57.788271420785385
+            ],
+            [
+              524.62646484375,
+              74.54840087890625
+            ],
+            [
+              67.29739764235181,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            67.29739764235181,
+            57.788271420785385,
+            524.62646484375,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/PageFooter/17",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.5282834146725,
+              776.6896490027409
+            ],
+            [
+              527.6479799669395,
+              776.6896490027409
+            ],
+            [
+              527.6479799669395,
+              793.0399971008301
+            ],
+            [
+              470.5282834146725,
+              793.0399971008301
+            ]
+          ],
+          "bbox": [
+            470.5282834146725,
+            776.6896490027409,
+            527.6479799669395,
+            793.0399971008301
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/3",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>3.</b> <b>Questions and Answers</b></h2>",
+          "polygon": [
+            [
+              83.49454527117443,
+              87.09340551551281
+            ],
+            [
+              244.27208780821985,
+              87.09340551551281
+            ],
+            [
+              244.27208780821985,
+              103.300048828125
+            ],
+            [
+              83.49454527117443,
+              103.300048828125
+            ]
+          ],
+          "bbox": [
+            83.49454527117443,
+            87.09340551551281,
+            244.27208780821985,
+            103.300048828125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/4",
+          "block_type": "SectionHeader",
+          "html": "<h4><b>Question 1</b></h4>",
+          "polygon": [
+            [
+              68.12358170132192,
+              113.0563751247878
+            ],
+            [
+              127.81248474121094,
+              113.0563751247878
+            ],
+            [
+              127.81248474121094,
+              127.93841552734375
+            ],
+            [
+              68.12358170132192,
+              127.93841552734375
+            ]
+          ],
+          "bbox": [
+            68.12358170132192,
+            113.0563751247878,
+            127.81248474121094,
+            127.93841552734375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "4": "/page/2/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>Do Article 16(2), (3) and (4)</b><b><sup>3</sup></b> <b>apply only to importers and distributors or also \"other </b> <b>natural or legal person\" as mentioned in Article 16(1)? </b></p>",
+          "polygon": [
+            [
+              67.59724407051912,
+              137.14738963017587
+            ],
+            [
+              528.4038783921402,
+              137.14738963017587
+            ],
+            [
+              528.4038783921402,
+              167.05841064453125
+            ],
+            [
+              67.59724407051912,
+              167.05841064453125
+            ]
+          ],
+          "bbox": [
+            67.59724407051912,
+            137.14738963017587,
+            528.4038783921402,
+            167.05841064453125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "4": "/page/2/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Given that Article 16(3) sets out requirements for importers and distributors and in doing so,  cross-references activities performed in points (a) and (b) of Article 16(2), it is considered  that Article 16(2), (3) and (4) apply only to importers and distributors.</p>",
+          "polygon": [
+            [
+              67.38100392992611,
+              176.6884219406549
+            ],
+            [
+              528.0537616720127,
+              176.6884219406549
+            ],
+            [
+              528.0537616720127,
+              220.85150146484375
+            ],
+            [
+              67.38100392992611,
+              220.85150146484375
+            ]
+          ],
+          "bbox": [
+            67.38100392992611,
+            176.6884219406549,
+            528.0537616720127,
+            220.85150146484375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "4": "/page/2/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">It is noted that Article 16 (2), (3) and (4) do not apply in cases where a health institution or  hospital splits up a large pack of devices, which they have received, into smaller pack sizes  or individual units for use or circulation within the health institution/hospital. In this example,  the activities are not performed in order to market the devices in the relevant Member state,  and are therefore not within the scope of Article 16 (2), (3) and (4).</p>",
+          "polygon": [
+            [
+              67.51401002821454,
+              229.93998303842247
+            ],
+            [
+              528.0724999262043,
+              229.93998303842247
+            ],
+            [
+              528.0724999262043,
+              303.52934714883753
+            ],
+            [
+              67.51401002821454,
+              303.52934714883753
+            ]
+          ],
+          "bbox": [
+            67.51401002821454,
+            229.93998303842247,
+            528.0724999262043,
+            303.52934714883753
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "4": "/page/2/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/8",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>Question 2</b></h3>",
+          "polygon": [
+            [
+              67.83110572949464,
+              312.6622479677412
+            ],
+            [
+              128.67913072715777,
+              312.6622479677412
+            ],
+            [
+              128.67913072715777,
+              328.0084228515625
+            ],
+            [
+              67.83110572949464,
+              328.0084228515625
+            ]
+          ],
+          "bbox": [
+            67.83110572949464,
+            312.6622479677412,
+            128.67913072715777,
+            328.0084228515625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/2/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/9",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>Do Article 16(3) and (4) of the MDR apply to 'legacy devices'? </b></h3>",
+          "polygon": [
+            [
+              67.82825948489402,
+              336.6833369458029
+            ],
+            [
+              393.3466491699219,
+              336.6833369458029
+            ],
+            [
+              393.3466491699219,
+              352.4884033203125
+            ],
+            [
+              67.82825948489402,
+              352.4884033203125
+            ]
+          ],
+          "bbox": [
+            67.82825948489402,
+            336.6833369458029,
+            393.3466491699219,
+            352.4884033203125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/2/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">No, Article 16(3) and (4) of the MDR do not apply to 'legacy devices'. However, this is without  prejudice to the possibility for economic operators to follow any MDR requirements also for  'legacy devices', especially if they deal with both 'legacy devices' and MDR devices and want  to apply the same procedures for all devices.</p>",
+          "polygon": [
+            [
+              67.66313721010607,
+              361.542571233408
+            ],
+            [
+              528.8269780925299,
+              361.542571233408
+            ],
+            [
+              528.8269780925299,
+              420.821533203125
+            ],
+            [
+              67.66313721010607,
+              420.821533203125
+            ]
+          ],
+          "bbox": [
+            67.66313721010607,
+            361.542571233408,
+            528.8269780925299,
+            420.821533203125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/2/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/11",
+          "block_type": "SectionHeader",
+          "html": "<h4><b>Question 3</b></h4>",
+          "polygon": [
+            [
+              67.75678266626161,
+              430.14788812924365
+            ],
+            [
+              128.52348638962138,
+              430.14788812924365
+            ],
+            [
+              128.52348638962138,
+              445.2684020996094
+            ],
+            [
+              67.75678266626161,
+              445.2684020996094
+            ]
+          ],
+          "bbox": [
+            67.75678266626161,
+            430.14788812924365,
+            128.52348638962138,
+            445.2684020996094
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/2/SectionHeader/9",
+            "4": "/page/2/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/12",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>For the activities mentioned in points (a) and (b) of Article 16(2), what is meant by </b> <b>'necessary in order to market' the device in the relevant Member State'?</b></p>",
+          "polygon": [
+            [
+              67.76198837318708,
+              453.24152573324795
+            ],
+            [
+              527.5389865519718,
+              453.24152573324795
+            ],
+            [
+              527.5389865519718,
+              484.3883972167969
+            ],
+            [
+              67.76198837318708,
+              484.3883972167969
+            ]
+          ],
+          "bbox": [
+            67.76198837318708,
+            453.24152573324795,
+            527.5389865519718,
+            484.3883972167969
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/2/SectionHeader/9",
+            "4": "/page/2/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/13",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>'</b>Necessary in order to market' refers to conditions that should be met in order to market the  device in that Member State. Whether a relabelling or repackaging activity is necessary,  should be analysed on a case-by-case basis.</p>",
+          "polygon": [
+            [
+              68.0179728548833,
+              492.2956649494935
+            ],
+            [
+              527.7145488748622,
+              492.2956649494935
+            ],
+            [
+              527.7145488748622,
+              538.1815185546875
+            ],
+            [
+              68.0179728548833,
+              538.1815185546875
+            ]
+          ],
+          "bbox": [
+            68.0179728548833,
+            492.2956649494935,
+            527.7145488748622,
+            538.1815185546875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/2/SectionHeader/9",
+            "4": "/page/2/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/14",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Examples of the abovementioned conditions may include (non-exhaustive list):</p>",
+          "polygon": [
+            [
+              69.7123073318443,
+              546.5439165069498
+            ],
+            [
+              459.2308044433594,
+              546.5439165069498
+            ],
+            [
+              459.2308044433594,
+              562.6615295410156
+            ],
+            [
+              69.7123073318443,
+              562.6615295410156
+            ]
+          ],
+          "bbox": [
+            69.7123073318443,
+            546.5439165069498,
+            459.2308044433594,
+            562.6615295410156
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/2/SectionHeader/9",
+            "4": "/page/2/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/167",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> national language requirements for device information supplied by the manufacturer;  the need to supply in a new package, a specific number of devices different from the  number of devices supplied in the original packaging by the manufacturer, for  reasons of:  providing the healthcare system with pack sizes that are suitable for the needs  of health institutions in that Member state;  national practices authorising only a certain packaging size;  health insurance rules making the reimbursement of medical expenses  dependent on the size of the packaging;  well-established medical prescription practices.</p>",
+          "polygon": [
+            [
+              86.43180097680847,
+              572.0852221440547
+            ],
+            [
+              528.9616277968553,
+              572.0852221440547
+            ],
+            [
+              528.9616277968553,
+              709.4846496582031
+            ],
+            [
+              86.43180097680847,
+              709.4846496582031
+            ]
+          ],
+          "bbox": [
+            86.43180097680847,
+            572.0852221440547,
+            528.9616277968553,
+            709.4846496582031
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/2/SectionHeader/9",
+            "4": "/page/2/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Footnote/16",
+          "block_type": "Footnote",
+          "html": "<p><sup> </sup> <sup>3</sup> Henceforth references to Article 16 and its subparagraphs in this document, should be understood as Article 16  of the Regulations (MDR/IVDR).</p>",
+          "polygon": [
+            [
+              67.35001021608598,
+              739.2799987792969
+            ],
+            [
+              528.6748729484808,
+              739.2799987792969
+            ],
+            [
+              528.6748729484808,
+              771.2509994506836
+            ],
+            [
+              67.35001021608598,
+              771.2509994506836
+            ]
+          ],
+          "bbox": [
+            67.35001021608598,
+            739.2799987792969,
+            528.6748729484808,
+            771.2509994506836
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/2/SectionHeader/9",
+            "4": "/page/2/SectionHeader/11"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/3",
+        "3": "/page/2/SectionHeader/9",
+        "4": "/page/2/SectionHeader/11"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/3/Page/184",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/3/PageHeader/0'></content-ref><content-ref src='/page/3/PageHeader/1'></content-ref><content-ref src='/page/3/PageHeader/2'></content-ref><content-ref src='/page/3/PageFooter/17'></content-ref><content-ref src='/page/3/SectionHeader/3'></content-ref><content-ref src='/page/3/SectionHeader/4'></content-ref><content-ref src='/page/3/Text/5'></content-ref><content-ref src='/page/3/Text/6'></content-ref><content-ref src='/page/3/Text/7'></content-ref><content-ref src='/page/3/Text/8'></content-ref><content-ref src='/page/3/SectionHeader/9'></content-ref><content-ref src='/page/3/SectionHeader/10'></content-ref><content-ref src='/page/3/Text/11'></content-ref><content-ref src='/page/3/Text/183'></content-ref><content-ref src='/page/3/Text/13'></content-ref><content-ref src='/page/3/Text/184'></content-ref><content-ref src='/page/3/Footnote/15'></content-ref><content-ref src='/page/3/Footnote/16'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/3/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.29265581030089,
+              34.756673845136575
+            ],
+            [
+              303.2411193847656,
+              34.756673845136575
+            ],
+            [
+              303.2411193847656,
+              58.40838623046875
+            ],
+            [
+              67.29265581030089,
+              58.40838623046875
+            ]
+          ],
+          "bbox": [
+            67.29265581030089,
+            34.756673845136575,
+            303.2411193847656,
+            58.40838623046875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/2/SectionHeader/9",
+            "4": "/page/2/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              417.17273102959695,
+              56.577885941108846
+            ],
+            [
+              528.9311609532431,
+              56.577885941108846
+            ],
+            [
+              528.9311609532431,
+              72.64992288808575
+            ],
+            [
+              417.17273102959695,
+              72.64992288808575
+            ]
+          ],
+          "bbox": [
+            417.17273102959695,
+            56.577885941108846,
+            528.9311609532431,
+            72.64992288808575
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/2/SectionHeader/9",
+            "4": "/page/2/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              66.98625213853659,
+              57.6194868486902
+            ],
+            [
+              524.62646484375,
+              57.6194868486902
+            ],
+            [
+              524.62646484375,
+              74.54840087890625
+            ],
+            [
+              66.98625213853659,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            66.98625213853659,
+            57.6194868486902,
+            524.62646484375,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/2/SectionHeader/9",
+            "4": "/page/2/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/PageFooter/17",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.6147359468474,
+              776.4927775246271
+            ],
+            [
+              527.6028523865515,
+              776.4927775246271
+            ],
+            [
+              527.6028523865515,
+              793.0399971008301
+            ],
+            [
+              470.6147359468474,
+              793.0399971008301
+            ]
+          ],
+          "bbox": [
+            470.6147359468474,
+            776.4927775246271,
+            527.6028523865515,
+            793.0399971008301
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/2/SectionHeader/9",
+            "4": "/page/2/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/SectionHeader/3",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.89277818040823,
+              86.81979557625013
+            ],
+            [
+              128.3300333863842,
+              86.81979557625013
+            ],
+            [
+              128.3300333863842,
+              102.0184326171875
+            ],
+            [
+              67.89277818040823,
+              102.0184326171875
+            ]
+          ],
+          "bbox": [
+            67.89277818040823,
+            86.81979557625013,
+            128.3300333863842,
+            102.0184326171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/3/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/SectionHeader/4",
+          "block_type": "SectionHeader",
+          "html": "<h4><b>Is the splitting-up of large quantities of devices in shipping containers</b><b><sup>4</sup></b> <b>into smaller </b> <b>quantities of devices in packages or individual units covered by Article 16(2)? </b></h4>",
+          "polygon": [
+            [
+              68.15217013803476,
+              111.2109338313686
+            ],
+            [
+              527.7630209358273,
+              111.2109338313686
+            ],
+            [
+              527.7630209358273,
+              141.27377370968526
+            ],
+            [
+              68.15217013803476,
+              141.27377370968526
+            ]
+          ],
+          "bbox": [
+            68.15217013803476,
+            111.2109338313686,
+            527.7630209358273,
+            141.27377370968526
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/3/SectionHeader/3",
+            "4": "/page/3/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"></p>",
+          "polygon": [
+            [
+              68.15217013803476,
+              111.2109338313686
+            ],
+            [
+              527.7630209358273,
+              111.2109338313686
+            ],
+            [
+              527.7630209358273,
+              141.27377370968526
+            ],
+            [
+              68.15217013803476,
+              141.27377370968526
+            ]
+          ],
+          "bbox": [
+            68.15217013803476,
+            111.2109338313686,
+            527.7630209358273,
+            141.27377370968526
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/3/SectionHeader/3",
+            "4": "/page/3/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">It is not a \"relabelling\" or \"repackaging\" activity within the meaning of Article 16(2), if the  importer or distributor is simply splitting-up larger quantities of devices (for example in a  shipping container) into smaller quantities (for example packages, lots or individual units) for  further supply in the distribution chain, including to the final user, provided that the outer  packaging<sup>5</sup> of the device in question is not affected (e.g. maintaining in particular, a device's  sterile condition). Such splitting-up of packages is a common wholesale or retail practice and  is not considered to fall within the scope of Article 16(2) of the Regulations.</p>",
+          "polygon": [
+            [
+              67.49530613512476,
+              150.5736857929722
+            ],
+            [
+              528.3486715552189,
+              150.5736857929722
+            ],
+            [
+              528.3486715552189,
+              253.227783203125
+            ],
+            [
+              67.49530613512476,
+              253.227783203125
+            ]
+          ],
+          "bbox": [
+            67.49530613512476,
+            150.5736857929722,
+            528.3486715552189,
+            253.227783203125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/3/SectionHeader/3",
+            "4": "/page/3/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">An example of this is a distributor that buys syringes in large quantities, which are received in  large pack sizes in a shipping container. The distributor then splits up the large packs into  smaller quantities (e.g. sales packages consisting of individual units) in order to provide them  to vaccination centres and general practitioners.</p>",
+          "polygon": [
+            [
+              67.62937170071926,
+              261.7932802303922
+            ],
+            [
+              528.3957233573087,
+              261.7932802303922
+            ],
+            [
+              528.3957233573087,
+              321.38775634765625
+            ],
+            [
+              67.62937170071926,
+              321.38775634765625
+            ]
+          ],
+          "bbox": [
+            67.62937170071926,
+            261.7932802303922,
+            528.3957233573087,
+            321.38775634765625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/3/SectionHeader/3",
+            "4": "/page/3/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The general obligations of distributors laid down in Article 14 of the Regulations also apply,  which include verification that the devices they make available are CE marked and are  accompanied by the information to be supplied by the manufacturer (such as the label and  IFU).</p>",
+          "polygon": [
+            [
+              67.72761581766815,
+              329.6440146523507
+            ],
+            [
+              528.8486484940767,
+              329.6440146523507
+            ],
+            [
+              528.8486484940767,
+              389.4483947753906
+            ],
+            [
+              67.72761581766815,
+              389.4483947753906
+            ]
+          ],
+          "bbox": [
+            67.72761581766815,
+            329.6440146523507,
+            528.8486484940767,
+            389.4483947753906
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/3/SectionHeader/3",
+            "4": "/page/3/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/SectionHeader/9",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>Question 5</b></h3>",
+          "polygon": [
+            [
+              67.55147508289711,
+              398.5251667026102
+            ],
+            [
+              128.55993206495,
+              398.5251667026102
+            ],
+            [
+              128.55993206495,
+              413.9483947753906
+            ],
+            [
+              67.55147508289711,
+              413.9483947753906
+            ]
+          ],
+          "bbox": [
+            67.55147508289711,
+            398.5251667026102,
+            128.55993206495,
+            413.9483947753906
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/SectionHeader/10",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>What information should be notified to the manufacturer</b> <b>according to the Article </b> <b>16(4)?</b></h3>",
+          "polygon": [
+            [
+              67.57260716051539,
+              422.2431459095684
+            ],
+            [
+              527.5566710657076,
+              422.2431459095684
+            ],
+            [
+              527.5566710657076,
+              453.0683898925781
+            ],
+            [
+              67.57260716051539,
+              453.0683898925781
+            ]
+          ],
+          "bbox": [
+            67.57260716051539,
+            422.2431459095684,
+            527.5566710657076,
+            453.0683898925781
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/3/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/11",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In accordance with Article 16(4), importers and distributors performing relabelling and/or  repackaging activities should:</p>",
+          "polygon": [
+            [
+              67.35956832924177,
+              461.4342531253478
+            ],
+            [
+              527.8201978092529,
+              461.4342531253478
+            ],
+            [
+              527.8201978092529,
+              492.2877502441406
+            ],
+            [
+              67.35956832924177,
+              492.2877502441406
+            ]
+          ],
+          "bbox": [
+            67.35956832924177,
+            461.4342531253478,
+            527.8201978092529,
+            492.2877502441406
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/3/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/183",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> inform the manufacturers of the intention to make the relabelled or repackaged device  available on the market, at least 28 days prior to making the device available on the  market and;   upon request, provide the manufacturer with a sample or mock-up of the relabelled or  repackaged device, including any translated label and IFU;</p>",
+          "polygon": [
+            [
+              86.52153499420703,
+              501.1799594678734
+            ],
+            [
+              528.1111676194505,
+              501.1799594678734
+            ],
+            [
+              528.1111676194505,
+              572.8377685546875
+            ],
+            [
+              86.52153499420703,
+              572.8377685546875
+            ]
+          ],
+          "bbox": [
+            86.52153499420703,
+            501.1799594678734,
+            528.1111676194505,
+            572.8377685546875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/3/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/13",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">While this is not a requirement for importers and distributors under the Regulations, they may  provide information in order to allow for effective field safety corrective actions (FSCA) and  post-market surveillance (PMS) by the manufacturer. This may include (non-exhaustive list):</p>",
+          "polygon": [
+            [
+              66.86062795028879,
+              578.7570235540265
+            ],
+            [
+              527.9055966009721,
+              578.7570235540265
+            ],
+            [
+              527.9055966009721,
+              623.6515197753906
+            ],
+            [
+              66.86062795028879,
+              623.6515197753906
+            ]
+          ],
+          "bbox": [
+            66.86062795028879,
+            578.7570235540265,
+            527.9055966009721,
+            623.6515197753906
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/3/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/184",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> name of the concerned device and information allowing for the unambiguous  identification of the device: model, product number, reference or UDI-DI etc.;  activities performed (repackaging, relabelling and/or translation); the reason why the activity performed is needed;</p>",
+          "polygon": [
+            [
+              86.52369974362159,
+              632.104983947156
+            ],
+            [
+              527.4166610294985,
+              632.104983947156
+            ],
+            [
+              527.4166610294985,
+              691.3646392822266
+            ],
+            [
+              86.52369974362159,
+              691.3646392822266
+            ]
+          ],
+          "bbox": [
+            86.52369974362159,
+            632.104983947156,
+            527.4166610294985,
+            691.3646392822266
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/3/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Footnote/15",
+          "block_type": "Footnote",
+          "html": "<p><sup> </sup> <sup>4</sup> Annex VI Part C MDR/IVDR defines 'A shipping container' as 'a container in relation to which traceability is  controlled by a process specific to logistics systems.' Please see further Article 27(4) MDR/Article 24(4) IVDR and  sections 3.2, and 4.1 of Annex VI Part C MDR/IVDR, which clarify that shipping containers are 'logistics units',  and are not considered higher levels of device packaging.</p>",
+          "polygon": [
+            [
+              66.467817561152,
+              697.8600006103516
+            ],
+            [
+              527.658059223473,
+              697.8600006103516
+            ],
+            [
+              527.658059223473,
+              750.6110000610352
+            ],
+            [
+              66.467817561152,
+              750.6110000610352
+            ]
+          ],
+          "bbox": [
+            66.467817561152,
+            697.8600006103516,
+            527.658059223473,
+            750.6110000610352
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/3/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Footnote/16",
+          "block_type": "Footnote",
+          "html": "<p><sup>5</sup> The 'outer packaging' is the packaging in which the device is made available to the end user as intended by the  manufacturer.</p>",
+          "polygon": [
+            [
+              67.799516423223,
+              746.0970477463406
+            ],
+            [
+              528.2214438488861,
+              746.0970477463406
+            ],
+            [
+              528.2214438488861,
+              771.1699981689453
+            ],
+            [
+              67.799516423223,
+              771.1699981689453
+            ]
+          ],
+          "bbox": [
+            67.799516423223,
+            746.0970477463406,
+            528.2214438488861,
+            771.1699981689453
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/3/SectionHeader/10"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/3",
+        "3": "/page/3/SectionHeader/10"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/4/Page/189",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/4/PageHeader/0'></content-ref><content-ref src='/page/4/PageHeader/2'></content-ref><content-ref src='/page/4/PageHeader/3'></content-ref><content-ref src='/page/4/SectionHeader/1'></content-ref><content-ref src='/page/4/PageFooter/15'></content-ref><content-ref src='/page/4/Text/187'></content-ref><content-ref src='/page/4/SectionHeader/5'></content-ref><content-ref src='/page/4/SectionHeader/6'></content-ref><content-ref src='/page/4/Text/7'></content-ref><content-ref src='/page/4/Text/188'></content-ref><content-ref src='/page/4/Text/9'></content-ref><content-ref src='/page/4/Text/10'></content-ref><content-ref src='/page/4/Text/189'></content-ref><content-ref src='/page/4/Footnote/12'></content-ref><content-ref src='/page/4/Footnote/13'></content-ref><content-ref src='/page/4/Footnote/14'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/4/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.47121900275012,
+              34.42025163061154
+            ],
+            [
+              303.2411193847656,
+              34.42025163061154
+            ],
+            [
+              303.2411193847656,
+              58.40838623046875
+            ],
+            [
+              67.47121900275012,
+              58.40838623046875
+            ]
+          ],
+          "bbox": [
+            67.47121900275012,
+            34.42025163061154,
+            303.2411193847656,
+            58.40838623046875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/3/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              417.4714893562067,
+              56.370540506799415
+            ],
+            [
+              528.6987424605439,
+              56.370540506799415
+            ],
+            [
+              528.6987424605439,
+              72.52670088349339
+            ],
+            [
+              417.4714893562067,
+              72.52670088349339
+            ]
+          ],
+          "bbox": [
+            417.4714893562067,
+            56.370540506799415,
+            528.6987424605439,
+            72.52670088349339
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/3/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/PageHeader/3",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.09267419771824,
+              57.57892958521312
+            ],
+            [
+              524.62646484375,
+              57.57892958521312
+            ],
+            [
+              524.62646484375,
+              74.54840087890625
+            ],
+            [
+              67.09267419771824,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            67.09267419771824,
+            57.57892958521312,
+            524.62646484375,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/2/SectionHeader/3",
+            "3": "/page/3/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/SectionHeader/1",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.47121900275012,
+              34.42025163061154
+            ],
+            [
+              225.90321546117363,
+              34.42025163061154
+            ],
+            [
+              225.90321546117363,
+              56.09186806003642
+            ],
+            [
+              67.47121900275012,
+              56.09186806003642
+            ]
+          ],
+          "bbox": [
+            67.47121900275012,
+            34.42025163061154,
+            225.90321546117363,
+            56.09186806003642
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/PageFooter/15",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.5387750044277,
+              776.738249074744
+            ],
+            [
+              527.2146177508068,
+              776.738249074744
+            ],
+            [
+              527.2146177508068,
+              793.0399971008301
+            ],
+            [
+              470.5387750044277,
+              793.0399971008301
+            ]
+          ],
+          "bbox": [
+            470.5387750044277,
+            776.738249074744,
+            527.2146177508068,
+            793.0399971008301
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/187",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> Member States where the repackaged/relabelled and/or translated IFU devices will  be made available;  in case of translation, languages in which the label and IFU<sup>6</sup> are translated;  the changes to the package and number of devices included in the new packaging;  when the device is planned to be made available;  information on the notified body issuing the certificate in accordance with Article 16(4)  and a copy of the certificate.</p>",
+          "polygon": [
+            [
+              87.12699478879684,
+              88.0319886857234
+            ],
+            [
+              528.9540683544552,
+              88.0319886857234
+            ],
+            [
+              528.9540683544552,
+              187.85150146484375
+            ],
+            [
+              87.12699478879684,
+              187.85150146484375
+            ]
+          ],
+          "bbox": [
+            87.12699478879684,
+            88.0319886857234,
+            528.9540683544552,
+            187.85150146484375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/SectionHeader/5",
+          "block_type": "SectionHeader",
+          "html": "<h4><b>Question 6</b></h4>",
+          "polygon": [
+            [
+              67.95050483146302,
+              207.94121993787567
+            ],
+            [
+              128.54165195878267,
+              207.94121993787567
+            ],
+            [
+              128.54165195878267,
+              222.9783935546875
+            ],
+            [
+              67.95050483146302,
+              222.9783935546875
+            ]
+          ],
+          "bbox": [
+            67.95050483146302,
+            207.94121993787567,
+            128.54165195878267,
+            222.9783935546875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/1",
+            "4": "/page/4/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/SectionHeader/6",
+          "block_type": "SectionHeader",
+          "html": "<h4><b>What information should be notified</b> <b>to the competent authority according to the </b> <b>Article 16(4)?</b></h4>",
+          "polygon": [
+            [
+              68.45840773114028,
+              231.94974703291962
+            ],
+            [
+              528.0316789372441,
+              231.94974703291962
+            ],
+            [
+              528.0316789372441,
+              262.12841796875
+            ],
+            [
+              68.45840773114028,
+              262.12841796875
+            ]
+          ],
+          "bbox": [
+            68.45840773114028,
+            231.94974703291962,
+            528.0316789372441,
+            262.12841796875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/1",
+            "4": "/page/4/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In accordance with Article 16(4) of the Regulations, importers and distributors performing  relabelling and/or repackaging activities, at least 28 days prior making the device available  on the market, should:</p>",
+          "polygon": [
+            [
+              67.69223533649588,
+              270.53614487822097
+            ],
+            [
+              528.5586866095324,
+              270.53614487822097
+            ],
+            [
+              528.5586866095324,
+              315.888427734375
+            ],
+            [
+              67.69223533649588,
+              315.888427734375
+            ]
+          ],
+          "bbox": [
+            67.69223533649588,
+            270.53614487822097,
+            528.5586866095324,
+            315.888427734375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/1",
+            "4": "/page/4/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/188",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> inform the competent authority (of the Member State where they plan to make the  device available) of the intention to make the relabelled or repackaged device  available on the market, and;  submit to the competent authority the necessary certificate as per Article 16(4) of the  Regulations as described in MDCG 2021–23<sup>7</sup> .</p>",
+          "polygon": [
+            [
+              86.32554499628561,
+              325.3811888452735
+            ],
+            [
+              528.6231938513461,
+              325.3811888452735
+            ],
+            [
+              528.6231938513461,
+              396.38775634765625
+            ],
+            [
+              86.32554499628561,
+              396.38775634765625
+            ]
+          ],
+          "bbox": [
+            86.32554499628561,
+            325.3811888452735,
+            528.6231938513461,
+            396.38775634765625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/1",
+            "4": "/page/4/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Moreover, upon request, importers and distributors performing relabelling and/or repackaging  activities should provide the competent authority with a sample or mock-up of the relabelled  or repackaged device, including any translated label and instructions for use.</p>",
+          "polygon": [
+            [
+              67.37633654692911,
+              402.29185533396173
+            ],
+            [
+              528.1964289667624,
+              402.29185533396173
+            ],
+            [
+              528.1964289667624,
+              447.2877502441406
+            ],
+            [
+              67.37633654692911,
+              447.2877502441406
+            ]
+          ],
+          "bbox": [
+            67.37633654692911,
+            402.29185533396173,
+            528.1964289667624,
+            447.2877502441406
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/1",
+            "4": "/page/4/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">While it is not a requirement for importers and distributors under the Regulations, they may  wish to further inform competent authorities about: (non-exhaustive list):</p>",
+          "polygon": [
+            [
+              67.72317750868329,
+              455.6664039020759
+            ],
+            [
+              527.6269509726267,
+              455.6664039020759
+            ],
+            [
+              527.6269509726267,
+              486.3083801269531
+            ],
+            [
+              67.72317750868329,
+              486.3083801269531
+            ]
+          ],
+          "bbox": [
+            67.72317750868329,
+            455.6664039020759,
+            527.6269509726267,
+            486.3083801269531
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/1",
+            "4": "/page/4/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/189",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> manufacturer and authorised representative (if applicable) details;  name of the concerned device and information allowing for the unambiguous  identification of the device: model, product number, reference or UDI-DI etc.;  activities performed (repackaging relabelling and/or translation);  the reason why the activity carried out/performed is needed;  in case of translation, languages in which the label and IFU<sup>8</sup> are translated;  the changes to the package and number of devices included in the new packaging; when the device is planned to be made available.</p>",
+          "polygon": [
+            [
+              86.38064302305129,
+              495.9437822187361
+            ],
+            [
+              511.7026419459422,
+              495.9437822187361
+            ],
+            [
+              511.7026419459422,
+              611.6846466064453
+            ],
+            [
+              86.38064302305129,
+              611.6846466064453
+            ]
+          ],
+          "bbox": [
+            86.38064302305129,
+            495.9437822187361,
+            511.7026419459422,
+            611.6846466064453
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/1",
+            "4": "/page/4/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Footnote/12",
+          "block_type": "Footnote",
+          "html": "<p><sup> </sup> <sup>6</sup> Please see (where applicable), exemptions regarding provisions of the IFU outlined in Annex I, Chp III, 23.1(d)  MDR and Annex, Chp III, 20.1.(d).</p>",
+          "polygon": [
+            [
+              66.2508672911214,
+              697.8600006103516
+            ],
+            [
+              518.9003306660304,
+              697.8600006103516
+            ],
+            [
+              518.9003306660304,
+              729.75
+            ],
+            [
+              66.2508672911214,
+              729.75
+            ]
+          ],
+          "bbox": [
+            66.2508672911214,
+            697.8600006103516,
+            518.9003306660304,
+            729.75
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/1",
+            "4": "/page/4/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Footnote/13",
+          "block_type": "Footnote",
+          "html": "<p><sup>7</sup> MDCG 2021-23 '<i>Guidance for notified bodies on certification activities according to Article 16(4) of Regulation </i> <i>(EU) 2017/745 and Regulation (EU) 2017/746</i>'.</p>",
+          "polygon": [
+            [
+              67.01903262967126,
+              724.3698409803192
+            ],
+            [
+              516.5298269737877,
+              724.3698409803192
+            ],
+            [
+              516.5298269737877,
+              750.4909973144531
+            ],
+            [
+              67.01903262967126,
+              750.4909973144531
+            ]
+          ],
+          "bbox": [
+            67.01903262967126,
+            724.3698409803192,
+            516.5298269737877,
+            750.4909973144531
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/1",
+            "4": "/page/4/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Footnote/14",
+          "block_type": "Footnote",
+          "html": "<p><sup>8</sup> Please see (where applicable), exemptions regarding provisions of the IFU outlined in Annex I, Chp III, 23.1(d)  MDR and Annex, Chp II, 20.1.(d).</p>",
+          "polygon": [
+            [
+              67.58356262514513,
+              746.1437715443775
+            ],
+            [
+              520.603862464578,
+              746.1437715443775
+            ],
+            [
+              520.603862464578,
+              771.1699981689453
+            ],
+            [
+              67.58356262514513,
+              771.1699981689453
+            ]
+          ],
+          "bbox": [
+            67.58356262514513,
+            746.1437715443775,
+            520.603862464578,
+            771.1699981689453
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/1",
+            "4": "/page/4/SectionHeader/6"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/4/SectionHeader/1",
+        "4": "/page/4/SectionHeader/6"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/5/Page/153",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/5/PageHeader/0'></content-ref><content-ref src='/page/5/PageHeader/2'></content-ref><content-ref src='/page/5/PageHeader/3'></content-ref><content-ref src='/page/5/SectionHeader/1'></content-ref><content-ref src='/page/5/PageFooter/16'></content-ref><content-ref src='/page/5/SectionHeader/4'></content-ref><content-ref src='/page/5/Text/5'></content-ref><content-ref src='/page/5/Text/6'></content-ref><content-ref src='/page/5/Text/7'></content-ref><content-ref src='/page/5/SectionHeader/8'></content-ref><content-ref src='/page/5/Text/9'></content-ref><content-ref src='/page/5/SectionHeader/10'></content-ref><content-ref src='/page/5/Text/11'></content-ref><content-ref src='/page/5/Text/12'></content-ref><content-ref src='/page/5/Text/152'></content-ref><content-ref src='/page/5/Text/14'></content-ref><content-ref src='/page/5/Text/153'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/5/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.46393444916463,
+              34.8260530792807
+            ],
+            [
+              303.2411193847656,
+              34.8260530792807
+            ],
+            [
+              303.2411193847656,
+              58.40838623046875
+            ],
+            [
+              67.46393444916463,
+              58.40838623046875
+            ]
+          ],
+          "bbox": [
+            67.46393444916463,
+            34.8260530792807,
+            303.2411193847656,
+            58.40838623046875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/1",
+            "4": "/page/4/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              417.444321178369,
+              56.87341053148305
+            ],
+            [
+              529.4111168234414,
+              56.87341053148305
+            ],
+            [
+              529.4111168234414,
+              72.70459224874169
+            ],
+            [
+              417.444321178369,
+              72.70459224874169
+            ]
+          ],
+          "bbox": [
+            417.444321178369,
+            56.87341053148305,
+            529.4111168234414,
+            72.70459224874169
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/1",
+            "4": "/page/4/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/PageHeader/3",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.28130519300024,
+              57.98751112274686
+            ],
+            [
+              524.62646484375,
+              57.98751112274686
+            ],
+            [
+              524.62646484375,
+              74.54840087890625
+            ],
+            [
+              67.28130519300024,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            67.28130519300024,
+            57.98751112274686,
+            524.62646484375,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/1",
+            "4": "/page/4/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/SectionHeader/1",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.46393444916463,
+              34.8260530792807
+            ],
+            [
+              225.91285947708397,
+              34.8260530792807
+            ],
+            [
+              225.91285947708397,
+              56.43001495932004
+            ],
+            [
+              67.46393444916463,
+              56.43001495932004
+            ]
+          ],
+          "bbox": [
+            67.46393444916463,
+            34.8260530792807,
+            225.91285947708397,
+            56.43001495932004
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/PageFooter/16",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.514951307167,
+              776.7431914549477
+            ],
+            [
+              528.2086157042073,
+              776.7431914549477
+            ],
+            [
+              528.2086157042073,
+              793.0399971008301
+            ],
+            [
+              470.514951307167,
+              793.0399971008301
+            ]
+          ],
+          "bbox": [
+            470.514951307167,
+            776.7431914549477,
+            528.2086157042073,
+            793.0399971008301
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/SectionHeader/4",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.92041595997077,
+              87.57757572435632
+            ],
+            [
+              127.89028000531329,
+              87.57757572435632
+            ],
+            [
+              127.89028000531329,
+              102.0184326171875
+            ],
+            [
+              67.92041595997077,
+              102.0184326171875
+            ]
+          ],
+          "bbox": [
+            67.92041595997077,
+            87.57757572435632,
+            127.89028000531329,
+            102.0184326171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/1",
+            "4": "/page/5/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>Do the manufacturer and competent authority have to be notified each time an </b> <b>individual device or batch of devices is being relabelled or repackaged?</b></p>",
+          "polygon": [
+            [
+              68.15381947092204,
+              111.8991602747332
+            ],
+            [
+              528.6541646577849,
+              111.8991602747332
+            ],
+            [
+              528.6541646577849,
+              141.20465087890625
+            ],
+            [
+              68.15381947092204,
+              141.20465087890625
+            ]
+          ],
+          "bbox": [
+            68.15381947092204,
+            111.8991602747332,
+            528.6541646577849,
+            141.20465087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/1",
+            "4": "/page/5/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">There are no specific requirements in the Regulations.</p>",
+          "polygon": [
+            [
+              67.94643876774785,
+              150.96955671845433
+            ],
+            [
+              338.17047119140625,
+              150.96955671845433
+            ],
+            [
+              338.17047119140625,
+              165.957763671875
+            ],
+            [
+              67.94643876774785,
+              165.957763671875
+            ]
+          ],
+          "bbox": [
+            67.94643876774785,
+            150.96955671845433,
+            338.17047119140625,
+            165.957763671875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/1",
+            "4": "/page/5/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">However, it is considered that a notification to the manufacturer and relevant competent  authority (of the Member state where the repackaged or relabelled device is intended to be  made available), is only due when a device is going to be relabelled and/or repackaged for  the first time. The notification does not have to be repeated on a unit-by-unit or batch-bybatch basis.</p>",
+          "polygon": [
+            [
+              67.73024444195725,
+              176.3450866862269
+            ],
+            [
+              529.0210954104022,
+              176.3450866862269
+            ],
+            [
+              529.0210954104022,
+              248.56842041015625
+            ],
+            [
+              67.73024444195725,
+              248.56842041015625
+            ]
+          ],
+          "bbox": [
+            67.73024444195725,
+            176.3450866862269,
+            529.0210954104022,
+            248.56842041015625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/1",
+            "4": "/page/5/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/SectionHeader/8",
+          "block_type": "SectionHeader",
+          "html": "<h4><b>Question 8</b></h4>",
+          "polygon": [
+            [
+              67.65661432761088,
+              258.02007040293853
+            ],
+            [
+              128.54324402316692,
+              258.02007040293853
+            ],
+            [
+              128.54324402316692,
+              273.04840087890625
+            ],
+            [
+              67.65661432761088,
+              273.04840087890625
+            ]
+          ],
+          "bbox": [
+            67.65661432761088,
+            258.02007040293853,
+            128.54324402316692,
+            273.04840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/1",
+            "4": "/page/5/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>Under which conditions should a notification to the manufacturer and the competent </b> <b>authority be performed?</b></p>",
+          "polygon": [
+            [
+              68.06030000547318,
+              282.2573885149119
+            ],
+            [
+              528.0295256415302,
+              282.2573885149119
+            ],
+            [
+              528.0295256415302,
+              312.08148193359375
+            ],
+            [
+              68.06030000547318,
+              312.08148193359375
+            ]
+          ],
+          "bbox": [
+            68.06030000547318,
+            282.2573885149119,
+            528.0295256415302,
+            312.08148193359375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/1",
+            "4": "/page/5/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/SectionHeader/10",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.06030000547318,
+              282.2573885149119
+            ],
+            [
+              528.0295256415302,
+              282.2573885149119
+            ],
+            [
+              528.0295256415302,
+              310.8504766394597
+            ],
+            [
+              68.06030000547318,
+              310.8504766394597
+            ]
+          ],
+          "bbox": [
+            68.06030000547318,
+            282.2573885149119,
+            528.0295256415302,
+            310.8504766394597
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/11",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In accordance with Article 16(4), importers and distributors performing relabelling and/or  repackaging activities should inform the manufacturer and competent authority (of the  Member State where they plan to make the device available), of the intention to make the  relabelled or repackaged device available on the market, at least 28 days prior.</p>",
+          "polygon": [
+            [
+              67.7561985275307,
+              321.0488722572768
+            ],
+            [
+              528.7237573426677,
+              321.0488722572768
+            ],
+            [
+              528.7237573426677,
+              380.5477600097656
+            ],
+            [
+              67.7561985275307,
+              380.5477600097656
+            ]
+          ],
+          "bbox": [
+            67.7561985275307,
+            321.0488722572768,
+            528.7237573426677,
+            380.5477600097656
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/12",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">A notification to the manufacturer should be performed when one or more of the following  conditions occur (non-exhaustive list):</p>",
+          "polygon": [
+            [
+              67.58827009609423,
+              389.35307006292436
+            ],
+            [
+              528.8797109301204,
+              389.35307006292436
+            ],
+            [
+              528.8797109301204,
+              419.4683837890625
+            ],
+            [
+              67.58827009609423,
+              419.4683837890625
+            ]
+          ],
+          "bbox": [
+            67.58827009609423,
+            389.35307006292436,
+            528.8797109301204,
+            419.4683837890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/152",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> when a device is planned to be made available in a Member State not previously  notified;  when relabelling and/or repackaging will be applied to a device not previously  notified;  when the information supplied with the device will be translated into a language not  previously notified.</p>",
+          "polygon": [
+            [
+              85.92021571238635,
+              429.44758031204776
+            ],
+            [
+              529.0482177734375,
+              429.44758031204776
+            ],
+            [
+              529.0482177734375,
+              514.5415344238281
+            ],
+            [
+              85.92021571238635,
+              514.5415344238281
+            ]
+          ],
+          "bbox": [
+            85.92021571238635,
+            429.44758031204776,
+            529.0482177734375,
+            514.5415344238281
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/14",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">A notification to the concerned competent authority should be performed when one or more  of the following conditions occur (non-exhaustive list):</p>",
+          "polygon": [
+            [
+              67.72617837824208,
+              533.9826741681392
+            ],
+            [
+              528.3710749936043,
+              533.9826741681392
+            ],
+            [
+              528.3710749936043,
+              564.5277404785156
+            ],
+            [
+              67.72617837824208,
+              564.5277404785156
+            ]
+          ],
+          "bbox": [
+            67.72617837824208,
+            533.9826741681392,
+            528.3710749936043,
+            564.5277404785156
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/153",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> when relabelling and/or repackaging will be applied to a device not previously  notified;  when the information supplied with the device will be translated into a language not  previously notified;  when the information supplied with the device or the outer packaging will be  modified;  when there are changes to the certificate issued by the notified body (including  certificate renewal); when changing notified body.</p>",
+          "polygon": [
+            [
+              86.040319216942,
+              573.4516987448171
+            ],
+            [
+              528.8305974619215,
+              573.4516987448171
+            ],
+            [
+              528.8305974619215,
+              701.9577484130859
+            ],
+            [
+              86.040319216942,
+              701.9577484130859
+            ]
+          ],
+          "bbox": [
+            86.040319216942,
+            573.4516987448171,
+            528.8305974619215,
+            701.9577484130859
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/10"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/5/SectionHeader/10"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/6/Page/181",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/6/PageHeader/0'></content-ref><content-ref src='/page/6/PageHeader/1'></content-ref><content-ref src='/page/6/PageHeader/2'></content-ref><content-ref src='/page/6/PageFooter/23'></content-ref><content-ref src='/page/6/SectionHeader/3'></content-ref><content-ref src='/page/6/Text/4'></content-ref><content-ref src='/page/6/SectionHeader/5'></content-ref><content-ref src='/page/6/Text/6'></content-ref><content-ref src='/page/6/SectionHeader/7'></content-ref><content-ref src='/page/6/SectionHeader/8'></content-ref><content-ref src='/page/6/Text/9'></content-ref><content-ref src='/page/6/Text/10'></content-ref><content-ref src='/page/6/Text/11'></content-ref><content-ref src='/page/6/SectionHeader/12'></content-ref><content-ref src='/page/6/Text/13'></content-ref><content-ref src='/page/6/SectionHeader/14'></content-ref><content-ref src='/page/6/Text/15'></content-ref><content-ref src='/page/6/SectionHeader/16'></content-ref><content-ref src='/page/6/Text/17'></content-ref><content-ref src='/page/6/SectionHeader/18'></content-ref><content-ref src='/page/6/Text/19'></content-ref><content-ref src='/page/6/Text/20'></content-ref><content-ref src='/page/6/Footnote/21'></content-ref><content-ref src='/page/6/Footnote/22'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/6/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.3225041540804,
+              34.7505788149201
+            ],
+            [
+              303.2411193847656,
+              34.7505788149201
+            ],
+            [
+              303.2411193847656,
+              58.40838623046875
+            ],
+            [
+              67.3225041540804,
+              58.40838623046875
+            ]
+          ],
+          "bbox": [
+            67.3225041540804,
+            34.7505788149201,
+            303.2411193847656,
+            58.40838623046875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              417.4554541753581,
+              56.584767519100794
+            ],
+            [
+              528.6649769511571,
+              56.584767519100794
+            ],
+            [
+              528.6649769511571,
+              72.4603048105486
+            ],
+            [
+              417.4554541753581,
+              72.4603048105486
+            ]
+          ],
+          "bbox": [
+            417.4554541753581,
+            56.584767519100794,
+            528.6649769511571,
+            72.4603048105486
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.22199793126181,
+              57.70168824166139
+            ],
+            [
+              524.62646484375,
+              57.70168824166139
+            ],
+            [
+              524.62646484375,
+              74.54840087890625
+            ],
+            [
+              67.22199793126181,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            67.22199793126181,
+            57.70168824166139,
+            524.62646484375,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/PageFooter/23",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.74480417093037,
+              776.9777714635045
+            ],
+            [
+              527.0912843026803,
+              776.9777714635045
+            ],
+            [
+              527.0912843026803,
+              793.0399971008301
+            ],
+            [
+              470.74480417093037,
+              793.0399971008301
+            ]
+          ],
+          "bbox": [
+            470.74480417093037,
+            776.9777714635045,
+            527.0912843026803,
+            793.0399971008301
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/10"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/SectionHeader/3",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.8377603295468,
+              86.7716474116963
+            ],
+            [
+              128.6975940925348,
+              86.7716474116963
+            ],
+            [
+              128.6975940925348,
+              102.0184326171875
+            ],
+            [
+              67.8377603295468,
+              102.0184326171875
+            ]
+          ],
+          "bbox": [
+            67.8377603295468,
+            86.7716474116963,
+            128.6975940925348,
+            102.0184326171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/10",
+            "3": "/page/6/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>Do the manufacturer and competent authority have to be notified when an importer or </b> <b>distributor ceases to perform relabelling and/or repackaging activities?</b></p>",
+          "polygon": [
+            [
+              68.21938045319142,
+              111.79569062991324
+            ],
+            [
+              527.4760370134406,
+              111.79569062991324
+            ],
+            [
+              527.4760370134406,
+              141.20465087890625
+            ],
+            [
+              68.21938045319142,
+              141.20465087890625
+            ]
+          ],
+          "bbox": [
+            68.21938045319142,
+            111.79569062991324,
+            527.4760370134406,
+            141.20465087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/5/SectionHeader/10",
+            "3": "/page/6/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/SectionHeader/5",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.21938045319142,
+              111.79569062991324
+            ],
+            [
+              527.4760370134406,
+              111.79569062991324
+            ],
+            [
+              527.4760370134406,
+              141.09666031169127
+            ],
+            [
+              68.21938045319142,
+              141.09666031169127
+            ]
+          ],
+          "bbox": [
+            68.21938045319142,
+            111.79569062991324,
+            527.4760370134406,
+            141.09666031169127
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Whilst this is not a requirement for importers and distributors under the Regulations, they  may wish to inform the manufacturer and competent authority of the Member State  concerned, of the cessation of their relabelling and/or repackaging activities. This information  could be useful in relation to FSCA processes.</p>",
+          "polygon": [
+            [
+              67.47695730675377,
+              150.61706890809356
+            ],
+            [
+              528.657188434745,
+              150.61706890809356
+            ],
+            [
+              528.657188434745,
+              209.41839599609375
+            ],
+            [
+              67.47695730675377,
+              209.41839599609375
+            ]
+          ],
+          "bbox": [
+            67.47695730675377,
+            150.61706890809356,
+            528.657188434745,
+            209.41839599609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/SectionHeader/7",
+          "block_type": "SectionHeader",
+          "html": "<h4><b>Question 10</b></h4>",
+          "polygon": [
+            [
+              67.63568841660353,
+              219.23725870731994
+            ],
+            [
+              134.7784668276232,
+              219.23725870731994
+            ],
+            [
+              134.7784668276232,
+              233.8984375
+            ],
+            [
+              67.63568841660353,
+              233.8984375
+            ]
+          ],
+          "bbox": [
+            67.63568841660353,
+            219.23725870731994,
+            134.7784668276232,
+            233.8984375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/5",
+            "4": "/page/6/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/SectionHeader/8",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>To which notified bodies may importers and distributors apply to obtain the </b> <b>certification referred to in Article 16(4)?</b></h3>",
+          "polygon": [
+            [
+              67.9966059764026,
+              242.4882287478086
+            ],
+            [
+              527.8358206568797,
+              242.4882287478086
+            ],
+            [
+              527.8358206568797,
+              273.04840087890625
+            ],
+            [
+              67.9966059764026,
+              273.04840087890625
+            ]
+          ],
+          "bbox": [
+            67.9966059764026,
+            242.4882287478086,
+            527.8358206568797,
+            273.04840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/5",
+            "3": "/page/6/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"></p>",
+          "polygon": [
+            [
+              67.9966059764026,
+              242.4882287478086
+            ],
+            [
+              527.8358206568797,
+              242.4882287478086
+            ],
+            [
+              527.8358206568797,
+              272.65896581987766
+            ],
+            [
+              67.9966059764026,
+              272.65896581987766
+            ]
+          ],
+          "bbox": [
+            67.9966059764026,
+            242.4882287478086,
+            527.8358206568797,
+            272.65896581987766
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/5",
+            "3": "/page/6/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Importers and distributors have to apply to a notified body designated for the type of devices  that are subject to activities mentioned in points (a) and (b) of Article 16(2)<sup>9</sup> .</p>",
+          "polygon": [
+            [
+              67.7620227342889,
+              281.8921786518046
+            ],
+            [
+              527.9543435507517,
+              281.8921786518046
+            ],
+            [
+              527.9543435507517,
+              312.16839599609375
+            ],
+            [
+              67.7620227342889,
+              312.16839599609375
+            ]
+          ],
+          "bbox": [
+            67.7620227342889,
+            281.8921786518046,
+            527.9543435507517,
+            312.16839599609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/5",
+            "3": "/page/6/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/11",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Importers and distributors can find the information regarding the type of devices for which  notified body is designated by consulting the Nando (New Approach Notified and Designated  Organisations) Information System.<sup>10</sup></p>",
+          "polygon": [
+            [
+              67.59208990524638,
+              320.6870488398646
+            ],
+            [
+              528.5475536125433,
+              320.6870488398646
+            ],
+            [
+              528.5475536125433,
+              365.9077453613281
+            ],
+            [
+              67.59208990524638,
+              365.9077453613281
+            ]
+          ],
+          "bbox": [
+            67.59208990524638,
+            320.6870488398646,
+            528.5475536125433,
+            365.9077453613281
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/5",
+            "3": "/page/6/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/SectionHeader/12",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>Question 11</b></h3>",
+          "polygon": [
+            [
+              67.94527049028603,
+              374.21799170747994
+            ],
+            [
+              133.95071411132812,
+              374.21799170747994
+            ],
+            [
+              133.95071411132812,
+              390.28839111328125
+            ],
+            [
+              67.94527049028603,
+              390.28839111328125
+            ]
+          ],
+          "bbox": [
+            67.94527049028603,
+            374.21799170747994,
+            133.95071411132812,
+            390.28839111328125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/5",
+            "3": "/page/6/SectionHeader/12"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/13",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>Do relabelling and/or repackaging activities performed on Class I devices and class A </b> <i>in vitro</i> <b>diagnostic devices also involve a notified body review within the meaning</b> <b>of </b> <b>Article 16(4)?</b></p>",
+          "polygon": [
+            [
+              67.97925361998435,
+              399.0557403700328
+            ],
+            [
+              528.0015786120513,
+              399.0557403700328
+            ],
+            [
+              528.0015786120513,
+              443.9483947753906
+            ],
+            [
+              67.97925361998435,
+              443.9483947753906
+            ]
+          ],
+          "bbox": [
+            67.97925361998435,
+            399.0557403700328,
+            528.0015786120513,
+            443.9483947753906
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/5",
+            "3": "/page/6/SectionHeader/12"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/SectionHeader/14",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.97925361998435,
+              399.0557403700328
+            ],
+            [
+              528.0015786120513,
+              399.0557403700328
+            ],
+            [
+              528.0015786120513,
+              441.8074206575579
+            ],
+            [
+              67.97925361998435,
+              441.8074206575579
+            ]
+          ],
+          "bbox": [
+            67.97925361998435,
+            399.0557403700328,
+            528.0015786120513,
+            441.8074206575579
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/14"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/15",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Since Class I devices and class A <i>in-vitro</i> diagnostic devices are not explicitly exempted,  Article 16(2) to (4) apply also in case of repackaging and/or relabelling of those devices.</p>",
+          "polygon": [
+            [
+              67.777954831832,
+              453.0454322223884
+            ],
+            [
+              527.582831317892,
+              453.0454322223884
+            ],
+            [
+              527.582831317892,
+              483.2877502441406
+            ],
+            [
+              67.777954831832,
+              483.2877502441406
+            ]
+          ],
+          "bbox": [
+            67.777954831832,
+            453.0454322223884,
+            527.582831317892,
+            483.2877502441406
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/14"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/SectionHeader/16",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>Question 12</b></h3>",
+          "polygon": [
+            [
+              67.91600055838713,
+              492.1867952966732
+            ],
+            [
+              134.9153843646686,
+              492.1867952966732
+            ],
+            [
+              134.9153843646686,
+              507.54840087890625
+            ],
+            [
+              67.91600055838713,
+              507.54840087890625
+            ]
+          ],
+          "bbox": [
+            67.91600055838713,
+            492.1867952966732,
+            134.9153843646686,
+            507.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/14",
+            "3": "/page/6/SectionHeader/16"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/17",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>Can the importer or distributor provide additional information concerning the batch </b> <b>number whilst performing relabelling and/or repackaging activities?</b></p>",
+          "polygon": [
+            [
+              67.71903699591418,
+              515.3311838233247
+            ],
+            [
+              527.9365215926086,
+              515.3311838233247
+            ],
+            [
+              527.9365215926086,
+              546.7346496582031
+            ],
+            [
+              67.71903699591418,
+              546.7346496582031
+            ]
+          ],
+          "bbox": [
+            67.71903699591418,
+            515.3311838233247,
+            527.9365215926086,
+            546.7346496582031
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/14",
+            "3": "/page/6/SectionHeader/16"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/SectionHeader/18",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.71903699591418,
+              515.3311838233247
+            ],
+            [
+              527.9365215926086,
+              515.3311838233247
+            ],
+            [
+              527.9365215926086,
+              545.5976337490608
+            ],
+            [
+              67.71903699591418,
+              545.5976337490608
+            ]
+          ],
+          "bbox": [
+            67.71903699591418,
+            515.3311838233247,
+            527.9365215926086,
+            545.5976337490608
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/18"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/19",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The manufacturer's batch number cannot be changed and should appear on the label.</p>",
+          "polygon": [
+            [
+              67.80831286528849,
+              555.0508053814419
+            ],
+            [
+              489.71378170753303,
+              555.0508053814419
+            ],
+            [
+              489.71378170753303,
+              571.2684020996094
+            ],
+            [
+              67.80831286528849,
+              571.2684020996094
+            ]
+          ],
+          "bbox": [
+            67.80831286528849,
+            555.0508053814419,
+            489.71378170753303,
+            571.2684020996094
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/18"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/20",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">However additional information can be provided by the importer or distributor for clarity e.g.  the sub-lot number of the relabelled or repackaged devices or other information which  ensures traceability of those devices.</p>",
+          "polygon": [
+            [
+              67.25279693219163,
+              579.9682728061692
+            ],
+            [
+              527.4717762368151,
+              579.9682728061692
+            ],
+            [
+              527.4717762368151,
+              624.9715118408203
+            ],
+            [
+              67.25279693219163,
+              624.9715118408203
+            ]
+          ],
+          "bbox": [
+            67.25279693219163,
+            579.9682728061692,
+            527.4717762368151,
+            624.9715118408203
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/18"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Footnote/21",
+          "block_type": "Footnote",
+          "html": "<p><sup> </sup> <sup>9</sup> Notified bodies providing such certifications are required to be designated for the type of devices that are subject  to activities mentioned in points (a) and (b) of Article 16(2) of the Regulations. Please see also<a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R2185&amp;from=EN\"> COMMISSION </a> <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R2185&amp;from=EN\">IMPLEMENTING REGULATION (EU) 2017/ 2185 -</a> of 23 November 2017 - on the list of codes and corresponding  <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R2185&amp;from=EN\">types of devices for the purpose of specifying the scope of the designation as notified bodies in the field of </a> <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R2185&amp;from=EN\">medical devices under Regulation (EU) 2017/ 745 of the European Parliament and of the Council and in vitro </a> <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R2185&amp;from=EN\">diagnostic medical devices under Regulation (EU) 2017/ 746 of the European Parliament and of the Council </a> <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R2185&amp;from=EN\">(europa.eu)</a></p>",
+          "polygon": [
+            [
+              68.07339158526595,
+              677.1000061035156
+            ],
+            [
+              527.7058440624015,
+              677.1000061035156
+            ],
+            [
+              527.7058440624015,
+              760.8499984741211
+            ],
+            [
+              68.07339158526595,
+              760.8499984741211
+            ]
+          ],
+          "bbox": [
+            68.07339158526595,
+            677.1000061035156,
+            527.7058440624015,
+            760.8499984741211
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/18"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Footnote/22",
+          "block_type": "Footnote",
+          "html": "<p><sup>10</sup> Please consult<a href=\"https://ec.europa.eu/growth/tools-databases/nando/\"> https://ec.europa.eu/growth/tools-databases/nando/</a></p>",
+          "polygon": [
+            [
+              69.38062534284231,
+              756.8722145576511
+            ],
+            [
+              347.8677860135095,
+              756.8722145576511
+            ],
+            [
+              347.8677860135095,
+              771.2509994506836
+            ],
+            [
+              69.38062534284231,
+              771.2509994506836
+            ]
+          ],
+          "bbox": [
+            69.38062534284231,
+            756.8722145576511,
+            347.8677860135095,
+            771.2509994506836
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/18"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/6/SectionHeader/18"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/7/Page/107",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/7/PageHeader/0'></content-ref><content-ref src='/page/7/PageHeader/1'></content-ref><content-ref src='/page/7/PageHeader/2'></content-ref><content-ref src='/page/7/PageFooter/12'></content-ref><content-ref src='/page/7/SectionHeader/3'></content-ref><content-ref src='/page/7/Text/4'></content-ref><content-ref src='/page/7/SectionHeader/5'></content-ref><content-ref src='/page/7/Text/6'></content-ref><content-ref src='/page/7/SectionHeader/7'></content-ref><content-ref src='/page/7/Text/8'></content-ref><content-ref src='/page/7/Text/9'></content-ref><content-ref src='/page/7/Text/10'></content-ref><content-ref src='/page/7/Footnote/11'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/7/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.27491975491233,
+              34.903555206815156
+            ],
+            [
+              303.2411193847656,
+              34.903555206815156
+            ],
+            [
+              303.2411193847656,
+              58.40838623046875
+            ],
+            [
+              67.27491975491233,
+              58.40838623046875
+            ]
+          ],
+          "bbox": [
+            67.27491975491233,
+            34.903555206815156,
+            303.2411193847656,
+            58.40838623046875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/18"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              417.09095160726935,
+              56.81925028175089
+            ],
+            [
+              528.9624066484965,
+              56.81925028175089
+            ],
+            [
+              528.9624066484965,
+              72.78355592505166
+            ],
+            [
+              417.09095160726935,
+              72.78355592505166
+            ]
+          ],
+          "bbox": [
+            417.09095160726935,
+            56.81925028175089,
+            528.9624066484965,
+            72.78355592505166
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/18"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              66.96410640841466,
+              58.05806016794614
+            ],
+            [
+              524.62646484375,
+              58.05806016794614
+            ],
+            [
+              524.62646484375,
+              74.54840087890625
+            ],
+            [
+              66.96410640841466,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            66.96410640841466,
+            58.05806016794614,
+            524.62646484375,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/18"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/PageFooter/12",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.8170082995513,
+              776.942717174282
+            ],
+            [
+              527.2328062273693,
+              776.942717174282
+            ],
+            [
+              527.2328062273693,
+              793.0399971008301
+            ],
+            [
+              470.8170082995513,
+              793.0399971008301
+            ]
+          ],
+          "bbox": [
+            470.8170082995513,
+            776.942717174282,
+            527.2328062273693,
+            793.0399971008301
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/18"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/SectionHeader/3",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.64949012583389,
+              87.12640047965046
+            ],
+            [
+              135.08912554916265,
+              87.12640047965046
+            ],
+            [
+              135.08912554916265,
+              102.0184326171875
+            ],
+            [
+              67.64949012583389,
+              102.0184326171875
+            ]
+          ],
+          "bbox": [
+            67.64949012583389,
+            87.12640047965046,
+            135.08912554916265,
+            102.0184326171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/18",
+            "4": "/page/7/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>In the case of translation of the IFU, is it necessary to keep the original version of </b> <b>these instructions in the packaging?</b></p>",
+          "polygon": [
+            [
+              68.17721365441002,
+              111.87583269779955
+            ],
+            [
+              528.7443281889562,
+              111.87583269779955
+            ],
+            [
+              528.7443281889562,
+              141.20465087890625
+            ],
+            [
+              68.17721365441002,
+              141.20465087890625
+            ]
+          ],
+          "bbox": [
+            68.17721365441002,
+            111.87583269779955,
+            528.7443281889562,
+            141.20465087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/6/SectionHeader/18",
+            "4": "/page/7/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/SectionHeader/5",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              68.17721365441002,
+              111.87583269779955
+            ],
+            [
+              528.7443281889562,
+              111.87583269779955
+            ],
+            [
+              528.7443281889562,
+              141.168164654916
+            ],
+            [
+              68.17721365441002,
+              141.168164654916
+            ]
+          ],
+          "bbox": [
+            68.17721365441002,
+            111.87583269779955,
+            528.7443281889562,
+            141.168164654916
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/7/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Whilst there is no a specific requirement in the Regulations, in case of translation of the IFU,  the original version of these instructions may be included in the packaging. The translated  IFU should always be an exact translation of the original version provided by the  manufacturer of the device.</p>",
+          "polygon": [
+            [
+              67.4850722536332,
+              150.49992763284902
+            ],
+            [
+              528.8477780128305,
+              150.49992763284902
+            ],
+            [
+              528.8477780128305,
+              209.41839599609375
+            ],
+            [
+              67.4850722536332,
+              209.41839599609375
+            ]
+          ],
+          "bbox": [
+            67.4850722536332,
+            150.49992763284902,
+            528.8477780128305,
+            209.41839599609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/7/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/SectionHeader/7",
+          "block_type": "SectionHeader",
+          "html": "<h4><b>Question 14</b></h4>",
+          "polygon": [
+            [
+              67.45008692513184,
+              219.36171058661577
+            ],
+            [
+              134.87825146730358,
+              219.36171058661577
+            ],
+            [
+              134.87825146730358,
+              233.8984375
+            ],
+            [
+              67.45008692513184,
+              233.8984375
+            ]
+          ],
+          "bbox": [
+            67.45008692513184,
+            219.36171058661577,
+            134.87825146730358,
+            233.8984375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/7/SectionHeader/5",
+            "4": "/page/7/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>Do entities carrying out relabelling and/or repackaging activities in accordance with </b> <b>Article 16(2) of the Regulations have any obligations related to traceability and Unique </b> <b>Device Identification (UDI</b><b><sup>11</sup></b><b>)? </b></p>",
+          "polygon": [
+            [
+              67.82351192599279,
+              242.65494255412398
+            ],
+            [
+              528.3856441007753,
+              242.65494255412398
+            ],
+            [
+              528.3856441007753,
+              287.56842041015625
+            ],
+            [
+              67.82351192599279,
+              287.56842041015625
+            ]
+          ],
+          "bbox": [
+            67.82351192599279,
+            242.65494255412398,
+            528.3856441007753,
+            287.56842041015625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/7/SectionHeader/5",
+            "4": "/page/7/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Importers and distributors performing relabelling and/or repackaging activities should  implement solutions to meet traceability obligations outlined in Article 25 MDR/Article 22  IVDR. They should also verify UDI assignment as set out in Article 13(2)(d) and Article  14(2)(d) of the Regulations respectively.</p>",
+          "polygon": [
+            [
+              67.71408327040204,
+              296.1104225980736
+            ],
+            [
+              528.8903399642829,
+              296.1104225980736
+            ],
+            [
+              528.8903399642829,
+              355.94775390625
+            ],
+            [
+              67.71408327040204,
+              355.94775390625
+            ]
+          ],
+          "bbox": [
+            67.71408327040204,
+            296.1104225980736,
+            528.8903399642829,
+            355.94775390625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/7/SectionHeader/5",
+            "4": "/page/7/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In addition, importers and distributors are subject to the Article 27(8) MDR/Article 24(8) IVDR  obligations for economic operators to store UDIs for devices which they have supplied or  which have been supplied to them. This requirement applies to the class III implantable  devices, and devices, categories or groups of devices as determined by measures  referenced in Article 27(8) MDR and in Article 24(8) IVDR.</p>",
+          "polygon": [
+            [
+              67.59768503799246,
+              364.38597290365163
+            ],
+            [
+              528.7149150857997,
+              364.38597290365163
+            ],
+            [
+              528.7149150857997,
+              438.54840087890625
+            ],
+            [
+              67.59768503799246,
+              438.54840087890625
+            ]
+          ],
+          "bbox": [
+            67.59768503799246,
+            364.38597290365163,
+            528.7149150857997,
+            438.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/7/SectionHeader/5",
+            "4": "/page/7/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/7/Footnote/11",
+          "block_type": "Footnote",
+          "html": "<p><sup> </sup> <sup>11</sup> Article 27 MDR/Article 24 IVDR introduce a Unique Device Identification (UDI) system, which among other  functions aims to improve the identification of devices, facilitate the traceability of devices and enhance the  effectiveness of post-market safety-related activities for devices.</p>",
+          "polygon": [
+            [
+              68.44046550914082,
+              728.9599990844727
+            ],
+            [
+              504.0271301269531,
+              728.9599990844727
+            ],
+            [
+              504.0271301269531,
+              771.1969985961914
+            ],
+            [
+              68.44046550914082,
+              771.1969985961914
+            ]
+          ],
+          "bbox": [
+            68.44046550914082,
+            728.9599990844727,
+            504.0271301269531,
+            771.1969985961914
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/7/SectionHeader/5",
+            "4": "/page/7/SectionHeader/7"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/7/SectionHeader/5",
+        "4": "/page/7/SectionHeader/7"
+      },
+      "images": null
+    }
+  ],
+  "block_type": "Document",
+  "metadata": {
+    "table_of_contents": [
+      {
+        "title": "MDCG 2021-26",
+        "heading_level": null,
+        "page_id": 0,
+        "polygon": [
+          [
+            67.77331035623622,
+            210.99995836782753
+          ],
+          [
+            239.7807710969478,
+            210.99995836782753
+          ],
+          [
+            239.7807710969478,
+            238.41998291015625
+          ],
+          [
+            67.77331035623622,
+            238.41998291015625
+          ]
+        ]
+      },
+      {
+        "title": "",
+        "heading_level": null,
+        "page_id": 0,
+        "polygon": [
+          [
+            67.94545374949573,
+            375.4290807898938
+          ],
+          [
+            169.90446967982524,
+            375.4290807898938
+          ],
+          [
+            169.90446967982524,
+            394.07665841704693
+          ],
+          [
+            67.94545374949573,
+            394.07665841704693
+          ]
+        ]
+      },
+      {
+        "title": "1. Introduction",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            85.9150443665627,
+            87.19203002603587
+          ],
+          [
+            177.86473433256748,
+            87.19203002603587
+          ],
+          [
+            177.86473433256748,
+            103.300048828125
+          ],
+          [
+            85.9150443665627,
+            103.300048828125
+          ]
+        ]
+      },
+      {
+        "title": "2. Scope",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            85.48234073821483,
+            525.4043495945917
+          ],
+          [
+            144.35355436771883,
+            525.4043495945917
+          ],
+          [
+            144.35355436771883,
+            541.7099914550781
+          ],
+          [
+            85.48234073821483,
+            541.7099914550781
+          ]
+        ]
+      },
+      {
+        "title": "3. Questions and Answers",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            83.49454527117443,
+            87.09340551551281
+          ],
+          [
+            244.27208780821985,
+            87.09340551551281
+          ],
+          [
+            244.27208780821985,
+            103.300048828125
+          ],
+          [
+            83.49454527117443,
+            103.300048828125
+          ]
+        ]
+      },
+      {
+        "title": "Question 1",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            68.12358170132192,
+            113.0563751247878
+          ],
+          [
+            127.81248474121094,
+            113.0563751247878
+          ],
+          [
+            127.81248474121094,
+            127.93841552734375
+          ],
+          [
+            68.12358170132192,
+            127.93841552734375
+          ]
+        ]
+      },
+      {
+        "title": "Question 2",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            67.83110572949464,
+            312.6622479677412
+          ],
+          [
+            128.67913072715777,
+            312.6622479677412
+          ],
+          [
+            128.67913072715777,
+            328.0084228515625
+          ],
+          [
+            67.83110572949464,
+            328.0084228515625
+          ]
+        ]
+      },
+      {
+        "title": "Do Article 16(3) and (4) of the MDR apply to 'legacy devices'?",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            67.82825948489402,
+            336.6833369458029
+          ],
+          [
+            393.3466491699219,
+            336.6833369458029
+          ],
+          [
+            393.3466491699219,
+            352.4884033203125
+          ],
+          [
+            67.82825948489402,
+            352.4884033203125
+          ]
+        ]
+      },
+      {
+        "title": "Question 3",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            67.75678266626161,
+            430.14788812924365
+          ],
+          [
+            128.52348638962138,
+            430.14788812924365
+          ],
+          [
+            128.52348638962138,
+            445.2684020996094
+          ],
+          [
+            67.75678266626161,
+            445.2684020996094
+          ]
+        ]
+      },
+      {
+        "title": "Question 4",
+        "heading_level": null,
+        "page_id": 3,
+        "polygon": [
+          [
+            67.89277818040823,
+            86.81979557625013
+          ],
+          [
+            128.3300333863842,
+            86.81979557625013
+          ],
+          [
+            128.3300333863842,
+            102.0184326171875
+          ],
+          [
+            67.89277818040823,
+            102.0184326171875
+          ]
+        ]
+      },
+      {
+        "title": "Is the splitting-up of large quantities of devices in shipping containers4\ninto smaller \nquantities of devices in packages or individual units covered by Article 16(2)?",
+        "heading_level": null,
+        "page_id": 3,
+        "polygon": [
+          [
+            68.15217013803476,
+            111.2109338313686
+          ],
+          [
+            527.7630209358273,
+            111.2109338313686
+          ],
+          [
+            527.7630209358273,
+            141.27377370968526
+          ],
+          [
+            68.15217013803476,
+            141.27377370968526
+          ]
+        ]
+      },
+      {
+        "title": "Question 5",
+        "heading_level": null,
+        "page_id": 3,
+        "polygon": [
+          [
+            67.55147508289711,
+            398.5251667026102
+          ],
+          [
+            128.55993206495,
+            398.5251667026102
+          ],
+          [
+            128.55993206495,
+            413.9483947753906
+          ],
+          [
+            67.55147508289711,
+            413.9483947753906
+          ]
+        ]
+      },
+      {
+        "title": "What information should be notified to the manufacturer according to the Article \n16(4)?",
+        "heading_level": null,
+        "page_id": 3,
+        "polygon": [
+          [
+            67.57260716051539,
+            422.2431459095684
+          ],
+          [
+            527.5566710657076,
+            422.2431459095684
+          ],
+          [
+            527.5566710657076,
+            453.0683898925781
+          ],
+          [
+            67.57260716051539,
+            453.0683898925781
+          ]
+        ]
+      },
+      {
+        "title": "",
+        "heading_level": null,
+        "page_id": 4,
+        "polygon": [
+          [
+            67.47121900275012,
+            34.42025163061154
+          ],
+          [
+            225.90321546117363,
+            34.42025163061154
+          ],
+          [
+            225.90321546117363,
+            56.09186806003642
+          ],
+          [
+            67.47121900275012,
+            56.09186806003642
+          ]
+        ]
+      },
+      {
+        "title": "Question 6",
+        "heading_level": null,
+        "page_id": 4,
+        "polygon": [
+          [
+            67.95050483146302,
+            207.94121993787567
+          ],
+          [
+            128.54165195878267,
+            207.94121993787567
+          ],
+          [
+            128.54165195878267,
+            222.9783935546875
+          ],
+          [
+            67.95050483146302,
+            222.9783935546875
+          ]
+        ]
+      },
+      {
+        "title": "What information should be notified to the competent authority according to the \nArticle 16(4)?",
+        "heading_level": null,
+        "page_id": 4,
+        "polygon": [
+          [
+            68.45840773114028,
+            231.94974703291962
+          ],
+          [
+            528.0316789372441,
+            231.94974703291962
+          ],
+          [
+            528.0316789372441,
+            262.12841796875
+          ],
+          [
+            68.45840773114028,
+            262.12841796875
+          ]
+        ]
+      },
+      {
+        "title": "",
+        "heading_level": null,
+        "page_id": 5,
+        "polygon": [
+          [
+            67.46393444916463,
+            34.8260530792807
+          ],
+          [
+            225.91285947708397,
+            34.8260530792807
+          ],
+          [
+            225.91285947708397,
+            56.43001495932004
+          ],
+          [
+            67.46393444916463,
+            56.43001495932004
+          ]
+        ]
+      },
+      {
+        "title": "Question 7",
+        "heading_level": null,
+        "page_id": 5,
+        "polygon": [
+          [
+            67.92041595997077,
+            87.57757572435632
+          ],
+          [
+            127.89028000531329,
+            87.57757572435632
+          ],
+          [
+            127.89028000531329,
+            102.0184326171875
+          ],
+          [
+            67.92041595997077,
+            102.0184326171875
+          ]
+        ]
+      },
+      {
+        "title": "Question 8",
+        "heading_level": null,
+        "page_id": 5,
+        "polygon": [
+          [
+            67.65661432761088,
+            258.02007040293853
+          ],
+          [
+            128.54324402316692,
+            258.02007040293853
+          ],
+          [
+            128.54324402316692,
+            273.04840087890625
+          ],
+          [
+            67.65661432761088,
+            273.04840087890625
+          ]
+        ]
+      },
+      {
+        "title": "",
+        "heading_level": null,
+        "page_id": 5,
+        "polygon": [
+          [
+            68.06030000547318,
+            282.2573885149119
+          ],
+          [
+            528.0295256415302,
+            282.2573885149119
+          ],
+          [
+            528.0295256415302,
+            310.8504766394597
+          ],
+          [
+            68.06030000547318,
+            310.8504766394597
+          ]
+        ]
+      },
+      {
+        "title": "Question 9",
+        "heading_level": null,
+        "page_id": 6,
+        "polygon": [
+          [
+            67.8377603295468,
+            86.7716474116963
+          ],
+          [
+            128.6975940925348,
+            86.7716474116963
+          ],
+          [
+            128.6975940925348,
+            102.0184326171875
+          ],
+          [
+            67.8377603295468,
+            102.0184326171875
+          ]
+        ]
+      },
+      {
+        "title": "",
+        "heading_level": null,
+        "page_id": 6,
+        "polygon": [
+          [
+            68.21938045319142,
+            111.79569062991324
+          ],
+          [
+            527.4760370134406,
+            111.79569062991324
+          ],
+          [
+            527.4760370134406,
+            141.09666031169127
+          ],
+          [
+            68.21938045319142,
+            141.09666031169127
+          ]
+        ]
+      },
+      {
+        "title": "Question 10",
+        "heading_level": null,
+        "page_id": 6,
+        "polygon": [
+          [
+            67.63568841660353,
+            219.23725870731994
+          ],
+          [
+            134.7784668276232,
+            219.23725870731994
+          ],
+          [
+            134.7784668276232,
+            233.8984375
+          ],
+          [
+            67.63568841660353,
+            233.8984375
+          ]
+        ]
+      },
+      {
+        "title": "To which notified bodies may importers and distributors apply to obtain the \ncertification referred to in Article 16(4)?",
+        "heading_level": null,
+        "page_id": 6,
+        "polygon": [
+          [
+            67.9966059764026,
+            242.4882287478086
+          ],
+          [
+            527.8358206568797,
+            242.4882287478086
+          ],
+          [
+            527.8358206568797,
+            273.04840087890625
+          ],
+          [
+            67.9966059764026,
+            273.04840087890625
+          ]
+        ]
+      },
+      {
+        "title": "Question 11",
+        "heading_level": null,
+        "page_id": 6,
+        "polygon": [
+          [
+            67.94527049028603,
+            374.21799170747994
+          ],
+          [
+            133.95071411132812,
+            374.21799170747994
+          ],
+          [
+            133.95071411132812,
+            390.28839111328125
+          ],
+          [
+            67.94527049028603,
+            390.28839111328125
+          ]
+        ]
+      },
+      {
+        "title": "",
+        "heading_level": null,
+        "page_id": 6,
+        "polygon": [
+          [
+            67.97925361998435,
+            399.0557403700328
+          ],
+          [
+            528.0015786120513,
+            399.0557403700328
+          ],
+          [
+            528.0015786120513,
+            441.8074206575579
+          ],
+          [
+            67.97925361998435,
+            441.8074206575579
+          ]
+        ]
+      },
+      {
+        "title": "Question 12",
+        "heading_level": null,
+        "page_id": 6,
+        "polygon": [
+          [
+            67.91600055838713,
+            492.1867952966732
+          ],
+          [
+            134.9153843646686,
+            492.1867952966732
+          ],
+          [
+            134.9153843646686,
+            507.54840087890625
+          ],
+          [
+            67.91600055838713,
+            507.54840087890625
+          ]
+        ]
+      },
+      {
+        "title": "",
+        "heading_level": null,
+        "page_id": 6,
+        "polygon": [
+          [
+            67.71903699591418,
+            515.3311838233247
+          ],
+          [
+            527.9365215926086,
+            515.3311838233247
+          ],
+          [
+            527.9365215926086,
+            545.5976337490608
+          ],
+          [
+            67.71903699591418,
+            545.5976337490608
+          ]
+        ]
+      },
+      {
+        "title": "Question 13",
+        "heading_level": null,
+        "page_id": 7,
+        "polygon": [
+          [
+            67.64949012583389,
+            87.12640047965046
+          ],
+          [
+            135.08912554916265,
+            87.12640047965046
+          ],
+          [
+            135.08912554916265,
+            102.0184326171875
+          ],
+          [
+            67.64949012583389,
+            102.0184326171875
+          ]
+        ]
+      },
+      {
+        "title": "",
+        "heading_level": null,
+        "page_id": 7,
+        "polygon": [
+          [
+            68.17721365441002,
+            111.87583269779955
+          ],
+          [
+            528.7443281889562,
+            111.87583269779955
+          ],
+          [
+            528.7443281889562,
+            141.168164654916
+          ],
+          [
+            68.17721365441002,
+            141.168164654916
+          ]
+        ]
+      },
+      {
+        "title": "Question 14",
+        "heading_level": null,
+        "page_id": 7,
+        "polygon": [
+          [
+            67.45008692513184,
+            219.36171058661577
+          ],
+          [
+            134.87825146730358,
+            219.36171058661577
+          ],
+          [
+            134.87825146730358,
+            233.8984375
+          ],
+          [
+            67.45008692513184,
+            233.8984375
+          ]
+        ]
+      }
+    ],
+    "page_stats": [
+      {
+        "page_id": 0,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            42
+          ],
+          [
+            "Line",
+            16
+          ],
+          [
+            "Text",
+            4
+          ],
+          [
+            "PageHeader",
+            2
+          ],
+          [
+            "SectionHeader",
+            2
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 1,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            128
+          ],
+          [
+            "Line",
+            45
+          ],
+          [
+            "Text",
+            9
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "SectionHeader",
+            2
+          ],
+          [
+            "Footnote",
+            2
+          ],
+          [
+            "ListItem",
+            2
+          ],
+          [
+            "ListGroup",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 2,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            108
+          ],
+          [
+            "Line",
+            41
+          ],
+          [
+            "Text",
+            8
+          ],
+          [
+            "SectionHeader",
+            5
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "ListGroup",
+            1
+          ],
+          [
+            "Footnote",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 3,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            119
+          ],
+          [
+            "Line",
+            46
+          ],
+          [
+            "Text",
+            8
+          ],
+          [
+            "SectionHeader",
+            4
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "ListGroup",
+            2
+          ],
+          [
+            "Footnote",
+            2
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 4,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            129
+          ],
+          [
+            "Line",
+            42
+          ],
+          [
+            "Text",
+            6
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "SectionHeader",
+            3
+          ],
+          [
+            "ListGroup",
+            3
+          ],
+          [
+            "Footnote",
+            3
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 5,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            97
+          ],
+          [
+            "Line",
+            38
+          ],
+          [
+            "Text",
+            9
+          ],
+          [
+            "SectionHeader",
+            4
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "ListGroup",
+            2
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 6,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            117
+          ],
+          [
+            "Line",
+            41
+          ],
+          [
+            "Text",
+            10
+          ],
+          [
+            "SectionHeader",
+            8
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "Footnote",
+            2
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 7,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            68
+          ],
+          [
+            "Line",
+            27
+          ],
+          [
+            "Text",
+            5
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "SectionHeader",
+            3
+          ],
+          [
+            "Footnote",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      }
+    ],
+    "debug_data_path": "debug_data/md_mdcg_2021_26_en"
+  }
+}

@@ -1,0 +1,4448 @@
+{
+  "children": [
+    {
+      "id": "/page/0/Page/93",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/0/PageHeader/0'></content-ref><content-ref src='/page/0/PageHeader/1'></content-ref><content-ref src='/page/0/PageFooter/6'></content-ref><content-ref src='/page/0/SectionHeader/2'></content-ref><content-ref src='/page/0/Text/7'></content-ref><content-ref src='/page/0/Text/8'></content-ref><content-ref src='/page/0/Text/9'></content-ref><content-ref src='/page/0/Text/10'></content-ref><content-ref src='/page/0/Text/11'></content-ref><content-ref src='/page/0/Text/12'></content-ref><content-ref src='/page/0/Text/13'></content-ref><content-ref src='/page/0/Text/3'></content-ref><content-ref src='/page/0/Text/4'></content-ref><content-ref src='/page/0/Text/5'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/0/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              66.53088736353953,
+              34.854837867689255
+            ],
+            [
+              524.3641357421875,
+              34.854837867689255
+            ],
+            [
+              524.3641357421875,
+              74.54840087890625
+            ],
+            [
+              66.53088736353953,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            66.53088736353953,
+            34.854837867689255,
+            524.3641357421875,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              382.6810799317636,
+              56.45644296457591
+            ],
+            [
+              526.1966586557384,
+              56.45644296457591
+            ],
+            [
+              526.1966586557384,
+              72.76434127794029
+            ],
+            [
+              382.6810799317636,
+              72.76434127794029
+            ]
+          ],
+          "bbox": [
+            382.6810799317636,
+            56.45644296457591,
+            526.1966586557384,
+            72.76434127794029
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageFooter/6",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.8455509214617,
+              776.7593914789486
+            ],
+            [
+              527.6215906407431,
+              776.7593914789486
+            ],
+            [
+              527.6215906407431,
+              793.015998840332
+            ],
+            [
+              470.8455509214617,
+              793.015998840332
+            ]
+          ],
+          "bbox": [
+            470.8455509214617,
+            776.7593914789486,
+            527.6215906407431,
+            793.015998840332
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/SectionHeader/2",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>MDCG 2021-13</b> <b>rev.1</b></h1>",
+          "polygon": [
+            [
+              103.60152813889817,
+              228.28410261906583
+            ],
+            [
+              344.33001708984375,
+              228.28410261906583
+            ],
+            [
+              344.33001708984375,
+              256.17999267578125
+            ],
+            [
+              103.60152813889817,
+              256.17999267578125
+            ]
+          ],
+          "bbox": [
+            103.60152813889817,
+            228.28410261906583,
+            344.33001708984375,
+            256.17999267578125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>Questions and answers on obligations</b></p>",
+          "polygon": [
+            [
+              106.81999969482422,
+              274.380859375
+            ],
+            [
+              473.5320129394531,
+              274.380859375
+            ],
+            [
+              473.5320129394531,
+              293.298583984375
+            ],
+            [
+              106.81999969482422,
+              293.298583984375
+            ]
+          ],
+          "bbox": [
+            106.81999969482422,
+            274.380859375,
+            473.5320129394531,
+            293.298583984375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>and related rules for the registration in </b></p>",
+          "polygon": [
+            [
+              106.81999969482422,
+              300.7808837890625
+            ],
+            [
+              479.36669921875,
+              300.7808837890625
+            ],
+            [
+              479.36669921875,
+              319.6986083984375
+            ],
+            [
+              106.81999969482422,
+              319.6986083984375
+            ]
+          ],
+          "bbox": [
+            106.81999969482422,
+            300.7808837890625,
+            479.36669921875,
+            319.6986083984375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>EUDAMED of actors other</b> <b>than </b></p>",
+          "polygon": [
+            [
+              106.81999969482422,
+              327.3009033203125
+            ],
+            [
+              406.98553466796875,
+              327.3009033203125
+            ],
+            [
+              406.98553466796875,
+              346.0984191894531
+            ],
+            [
+              106.81999969482422,
+              346.0984191894531
+            ]
+          ],
+          "bbox": [
+            106.81999969482422,
+            327.3009033203125,
+            406.98553466796875,
+            346.0984191894531
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>manufacturers, authorised </b></p>",
+          "polygon": [
+            [
+              106.81999969482422,
+              353.7008972167969
+            ],
+            [
+              364.6145935058594,
+              353.7008972167969
+            ],
+            [
+              364.6145935058594,
+              372.4984130859375
+            ],
+            [
+              106.81999969482422,
+              372.4984130859375
+            ]
+          ],
+          "bbox": [
+            106.81999969482422,
+            353.7008972167969,
+            364.6145935058594,
+            372.4984130859375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/11",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>representatives and importers subject to </b></p>",
+          "polygon": [
+            [
+              106.81999969482422,
+              380.22088623046875
+            ],
+            [
+              499.2633361816406,
+              380.22088623046875
+            ],
+            [
+              499.2633361816406,
+              399.0785217285156
+            ],
+            [
+              106.81999969482422,
+              399.0785217285156
+            ]
+          ],
+          "bbox": [
+            106.81999969482422,
+            380.22088623046875,
+            499.2633361816406,
+            399.0785217285156
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/12",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>the obligations of Article 31 MDR and </b></p>",
+          "polygon": [
+            [
+              106.81999969482422,
+              406.6208801269531
+            ],
+            [
+              467.0791015625,
+              406.6208801269531
+            ],
+            [
+              467.0791015625,
+              425.53863525390625
+            ],
+            [
+              106.81999969482422,
+              425.53863525390625
+            ]
+          ],
+          "bbox": [
+            106.81999969482422,
+            406.6208801269531,
+            467.0791015625,
+            425.53863525390625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/13",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>Article 28 IVDR </b></p>",
+          "polygon": [
+            [
+              106.81999969482422,
+              433.160888671875
+            ],
+            [
+              508.4710998535156,
+              433.160888671875
+            ],
+            [
+              508.4710998535156,
+              451.9584045410156
+            ],
+            [
+              106.81999969482422,
+              451.9584045410156
+            ]
+          ],
+          "bbox": [
+            106.81999969482422,
+            433.160888671875,
+            508.4710998535156,
+            451.9584045410156
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/3",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>July</b> <b>2021</b></p>",
+          "polygon": [
+            [
+              103.15616244453027,
+              489.4209844193497
+            ],
+            [
+              177.61376953125,
+              489.4209844193497
+            ],
+            [
+              177.61376953125,
+              509.70947265625
+            ],
+            [
+              103.15616244453027,
+              509.70947265625
+            ]
+          ],
+          "bbox": [
+            103.15616244453027,
+            489.4209844193497,
+            177.61376953125,
+            509.70947265625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">This document has been endorsed by the Medical Device Coordination Group  (MDCG) established by Article 103 of Regulation (EU) 2017/745. The MDCG is  composed of representatives of all Member States and it is chaired by a  representative of the European Commission.</p>",
+          "polygon": [
+            [
+              67.50452636411268,
+              598.5599969607426
+            ],
+            [
+              528.0242111244489,
+              598.5599969607426
+            ],
+            [
+              528.0242111244489,
+              663.5400085449219
+            ],
+            [
+              67.50452636411268,
+              663.5400085449219
+            ]
+          ],
+          "bbox": [
+            67.50452636411268,
+            598.5599969607426,
+            528.0242111244489,
+            663.5400085449219
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The document is not a European Commission document and it cannot be regarded  as reflecting the official position of the European Commission. Any views expressed  in this document are not legally binding and only the Court of Justice of the European  Union can give binding interpretations of Union law.</p>",
+          "polygon": [
+            [
+              67.41336636098866,
+              671.742278264658
+            ],
+            [
+              528.4835961483587,
+              671.742278264658
+            ],
+            [
+              528.4835961483587,
+              737.2080001831055
+            ],
+            [
+              67.41336636098866,
+              737.2080001831055
+            ]
+          ],
+          "bbox": [
+            67.41336636098866,
+            671.742278264658,
+            528.4835961483587,
+            737.2080001831055
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/1/Page/166",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/1/PageHeader/0'></content-ref><content-ref src='/page/1/PageHeader/2'></content-ref><content-ref src='/page/1/PageHeader/3'></content-ref><content-ref src='/page/1/SectionHeader/1'></content-ref><content-ref src='/page/1/PageFooter/16'></content-ref><content-ref src='/page/1/SectionHeader/4'></content-ref><content-ref src='/page/1/Text/5'></content-ref><content-ref src='/page/1/SectionHeader/6'></content-ref><content-ref src='/page/1/Text/7'></content-ref><content-ref src='/page/1/Text/8'></content-ref><content-ref src='/page/1/SectionHeader/9'></content-ref><content-ref src='/page/1/Text/10'></content-ref><content-ref src='/page/1/Text/11'></content-ref><content-ref src='/page/1/Text/12'></content-ref><content-ref src='/page/1/Text/166'></content-ref><content-ref src='/page/1/Footnote/14'></content-ref><content-ref src='/page/1/Footnote/15'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/1/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.14108326332995,
+              34.71010449648116
+            ],
+            [
+              303.2210998535156,
+              34.71010449648116
+            ],
+            [
+              303.2210998535156,
+              58.40838623046875
+            ],
+            [
+              67.14108326332995,
+              58.40838623046875
+            ]
+          ],
+          "bbox": [
+            67.14108326332995,
+            34.71010449648116,
+            303.2210998535156,
+            58.40838623046875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/1",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.14108326332995,
+              34.71010449648116
+            ],
+            [
+              226.13595465748975,
+              34.71010449648116
+            ],
+            [
+              226.13595465748975,
+              56.13337490119152
+            ],
+            [
+              67.14108326332995,
+              56.13337490119152
+            ]
+          ],
+          "bbox": [
+            67.14108326332995,
+            34.71010449648116,
+            226.13595465748975,
+            56.13337490119152
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              382.9422701203853,
+              56.90873367703608
+            ],
+            [
+              527.3115160579345,
+              56.90873367703608
+            ],
+            [
+              527.3115160579345,
+              72.95713986866409
+            ],
+            [
+              382.9422701203853,
+              72.95713986866409
+            ]
+          ],
+          "bbox": [
+            382.9422701203853,
+            56.90873367703608,
+            527.3115160579345,
+            72.95713986866409
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageHeader/3",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              66.94036288705821,
+              57.689852842770826
+            ],
+            [
+              524.3641357421875,
+              57.689852842770826
+            ],
+            [
+              524.3641357421875,
+              74.54840087890625
+            ],
+            [
+              66.94036288705821,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            66.94036288705821,
+            57.689852842770826,
+            524.3641357421875,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Table/pdfplumber_1",
+          "block_type": "Table",
+          "html": "<table border=\"1\" class=\"dataframe pdfplumber-table\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>MDCG 2021-13 rev.1 changes</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>New Question 9</td>\n    </tr>\n  </tbody>\n</table>",
+          "polygon": [
+            [
+              95.064,
+              102.38
+            ],
+            [
+              308.20999500000005,
+              102.38
+            ],
+            [
+              308.20999500000005,
+              152.300005
+            ],
+            [
+              95.064,
+              152.300005
+            ]
+          ],
+          "bbox": [
+            95.064,
+            102.38,
+            308.20999500000005,
+            152.300005
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {},
+          "source_page": 2,
+          "table_number": 1,
+          "extraction_method": "pdfplumber",
+          "table_data": {
+            "headers": [
+              "MDCG 2021-13 rev.1 changes"
+            ],
+            "rows": [
+              [
+                "New Question 9"
+              ]
+            ],
+            "pdfplumber_bbox": [
+              95.064,
+              102.38,
+              308.20999500000005,
+              152.300005
+            ]
+          }
+        },
+        {
+          "id": "/page/1/SectionHeader/6",
+          "block_type": "SectionHeader",
+          "html": "<h4><b>Introduction</b></h4>",
+          "polygon": [
+            [
+              67.6015163008452,
+              178.1698775253228
+            ],
+            [
+              153.95881095521094,
+              178.1698775253228
+            ],
+            [
+              153.95881095521094,
+              194.80841064453125
+            ],
+            [
+              67.6015163008452,
+              194.80841064453125
+            ]
+          ],
+          "bbox": [
+            67.6015163008452,
+            178.1698775253228,
+            153.95881095521094,
+            194.80841064453125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "4": "/page/1/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">This Q&amp;A is a document aimed at addressing questions relating to the registration in  EUDAMED of actors other than manufacturers, authorised representatives and  importers subject to the obligations of Article 31 of Regulation (EU) 2017/745 on  medical devices (MDR) and/or Article 28 of Regulation (EU) 2017/746 on <i>in vitro</i> diagnostic medical devices (IVDR). It also clarifies the cases where an Actor ID is  issued instead of an SRN.</p>",
+          "polygon": [
+            [
+              67.79015874982781,
+              205.15547937000846
+            ],
+            [
+              528.7184886403888,
+              205.15547937000846
+            ],
+            [
+              528.7184886403888,
+              300.489990234375
+            ],
+            [
+              67.79015874982781,
+              300.489990234375
+            ]
+          ],
+          "bbox": [
+            67.79015874982781,
+            205.15547937000846,
+            528.7184886403888,
+            300.489990234375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "4": "/page/1/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">This document should be read in conjunction with other relevant MDCG Guidance  documents.<sup>1</sup></p>",
+          "polygon": [
+            [
+              67.85601752831293,
+              309.71517072016917
+            ],
+            [
+              527.5218976306675,
+              309.71517072016917
+            ],
+            [
+              527.5218976306675,
+              342.25
+            ],
+            [
+              67.85601752831293,
+              342.25
+            ]
+          ],
+          "bbox": [
+            67.85601752831293,
+            309.71517072016917,
+            527.5218976306675,
+            342.25
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "4": "/page/1/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/9",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>Terminology </b></h3>",
+          "polygon": [
+            [
+              67.99499100461715,
+              352.29629312788705
+            ],
+            [
+              158.55995178222656,
+              352.29629312788705
+            ],
+            [
+              158.55995178222656,
+              370.3626403808594
+            ],
+            [
+              67.99499100461715,
+              370.3626403808594
+            ]
+          ],
+          "bbox": [
+            67.99499100461715,
+            352.29629312788705,
+            158.55995178222656,
+            370.3626403808594
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>Actor ID</b>: an Actor ID is the identifier issued to all actors registered in EUDAMED for  their identification in the system. It will be automatically generated by EUDAMED and  issued once the registration request is approved by the relevant competent authority.</p>",
+          "polygon": [
+            [
+              67.86900602480026,
+              379.4242400987171
+            ],
+            [
+              527.666809850736,
+              379.4242400987171
+            ],
+            [
+              527.666809850736,
+              428.3979797363281
+            ],
+            [
+              67.86900602480026,
+              428.3979797363281
+            ]
+          ],
+          "bbox": [
+            67.86900602480026,
+            379.4242400987171,
+            527.666809850736,
+            428.3979797363281
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/11",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>SRN</b>: a SRN is the Single Registration Number that is issued through EUDAMED to  manufacturers, authorised representatives and importers by the competent authority  in accordance with Article 31 MDR and 28 IVDR.</p>",
+          "polygon": [
+            [
+              67.71678061689478,
+              436.541772178317
+            ],
+            [
+              527.387939453125,
+              436.541772178317
+            ],
+            [
+              527.387939453125,
+              485.9100036621094
+            ],
+            [
+              67.71678061689478,
+              485.9100036621094
+            ]
+          ],
+          "bbox": [
+            67.71678061689478,
+            436.541772178317,
+            527.387939453125,
+            485.9100036621094
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/12",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>Legacy devices: </b>This guidance follows the approach set out in Guidance MDCG  2019-5 <sup>2</sup> according to which 'legacy devices' should be understood as devices, which,  in accordance with Article 120(3) MDR and Article 110(3) IVDR, are placed on the  market after MDR or IVDR dates of application respectively and until 26 May 2024, or  until the relevant certificate becomes void, if certain conditions are fulfilled.</p>",
+          "polygon": [
+            [
+              67.43018612032873,
+              494.4769020793911
+            ],
+            [
+              527.823974609375,
+              494.4769020793911
+            ],
+            [
+              527.823974609375,
+              566.9100036621094
+            ],
+            [
+              67.43018612032873,
+              566.9100036621094
+            ]
+          ],
+          "bbox": [
+            67.43018612032873,
+            494.4769020793911,
+            527.823974609375,
+            566.9100036621094
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/166",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> devices which are class I devices under Directive 93/42/EEC, for which a  declaration of conformity was drawn up prior to 26 May 2021 and for which the  conformity assessment procedure under the MDR requires the involvement of  a notified body;  devices covered by a valid certificate issued in accordance with Directives  90/385/EEC or 93/42/EEC prior to 26 May 2021;  devices covered by a valid certificate issued in accordance with Directive  98/79/EC prior to 26 May 2022.</p>",
+          "polygon": [
+            [
+              86.67850223416345,
+              579.5678484841106
+            ],
+            [
+              527.9294661130352,
+              579.5678484841106
+            ],
+            [
+              527.9294661130352,
+              692.0160064697266
+            ],
+            [
+              86.67850223416345,
+              692.0160064697266
+            ]
+          ],
+          "bbox": [
+            86.67850223416345,
+            579.5678484841106,
+            527.9294661130352,
+            692.0160064697266
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/14",
+          "block_type": "Footnote",
+          "html": "<p><sup> </sup> <sup>1</sup>All MDCG Guidance documents can be found on the European Commission Medical Devices<a href=\"https://ec.europa.eu/health/md_sector/new_regulations/guidance_en\"> website</a> dedicated section.</p>",
+          "polygon": [
+            [
+              67.41107562086744,
+              725.4599990844727
+            ],
+            [
+              526.9791296663452,
+              725.4599990844727
+            ],
+            [
+              526.9791296663452,
+              759.7075958251953
+            ],
+            [
+              67.41107562086744,
+              759.7075958251953
+            ]
+          ],
+          "bbox": [
+            67.41107562086744,
+            725.4599990844727,
+            526.9791296663452,
+            759.7075958251953
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/15",
+          "block_type": "Footnote",
+          "html": "<p><sup>2</sup> Guidance 'Registration of legacy devices in EUDAMED' – <a href=\"https://ec.europa.eu/health/sites/default/files/md_sector/docs/md_mdcg_2019_5_legacy_devices_registration_eudamed_en.pdf\">MDCG 2019-5 </a></p>",
+          "polygon": [
+            [
+              67.47301150689498,
+              755.7393111842929
+            ],
+            [
+              401.8388366699219,
+              755.7393111842929
+            ],
+            [
+              401.8388366699219,
+              771.1075973510742
+            ],
+            [
+              67.47301150689498,
+              771.1075973510742
+            ]
+          ],
+          "bbox": [
+            67.47301150689498,
+            755.7393111842929,
+            401.8388366699219,
+            771.1075973510742
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageFooter/16",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.62770153593357,
+              776.7985644183409
+            ],
+            [
+              526.9263510139523,
+              776.7985644183409
+            ],
+            [
+              526.9263510139523,
+              793.015998840332
+            ],
+            [
+              470.62770153593357,
+              793.015998840332
+            ]
+          ],
+          "bbox": [
+            470.62770153593357,
+            776.7985644183409,
+            526.9263510139523,
+            793.015998840332
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/2/Page/159",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/2/PageHeader/0'></content-ref><content-ref src='/page/2/PageHeader/1'></content-ref><content-ref src='/page/2/PageHeader/2'></content-ref><content-ref src='/page/2/PageFooter/12'></content-ref><content-ref src='/page/2/Text/3'></content-ref><content-ref src='/page/2/SectionHeader/4'></content-ref><content-ref src='/page/2/Text/5'></content-ref><content-ref src='/page/2/Text/6'></content-ref><content-ref src='/page/2/Text/7'></content-ref><content-ref src='/page/2/SectionHeader/8'></content-ref><content-ref src='/page/2/Text/9'></content-ref><content-ref src='/page/2/Text/10'></content-ref><content-ref src='/page/2/Footnote/11'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/2/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.30649188063306,
+              34.540670664949495
+            ],
+            [
+              303.2210998535156,
+              34.540670664949495
+            ],
+            [
+              303.2210998535156,
+              58.40838623046875
+            ],
+            [
+              67.30649188063306,
+              58.40838623046875
+            ]
+          ],
+          "bbox": [
+            67.30649188063306,
+            34.540670664949495,
+            303.2210998535156,
+            58.40838623046875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              382.65077343995983,
+              56.86524759566051
+            ],
+            [
+              527.3959985536052,
+              56.86524759566051
+            ],
+            [
+              527.3959985536052,
+              73.05049021883087
+            ],
+            [
+              382.65077343995983,
+              73.05049021883087
+            ]
+          ],
+          "bbox": [
+            382.65077343995983,
+            56.86524759566051,
+            527.3959985536052,
+            73.05049021883087
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.21939794122422,
+              57.69206661723707
+            ],
+            [
+              524.3641357421875,
+              57.69206661723707
+            ],
+            [
+              524.3641357421875,
+              74.54840087890625
+            ],
+            [
+              67.21939794122422,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            67.21939794122422,
+            57.69206661723707,
+            524.3641357421875,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/PageFooter/12",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.7554790198953,
+              776.3641841137717
+            ],
+            [
+              527.8460831726228,
+              776.3641841137717
+            ],
+            [
+              527.8460831726228,
+              793.015998840332
+            ],
+            [
+              470.7554790198953,
+              793.015998840332
+            ]
+          ],
+          "bbox": [
+            470.7554790198953,
+            776.3641841137717,
+            527.8460831726228,
+            793.015998840332
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/3",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>'Old' devices</b>: devices placed on the market according to the medical devices  Directives or the <i>in vitro</i> diagnostic medical devices Directive before the date of  application of the MDR and IVDR or placed on the market before the Directives  entered into force.</p>",
+          "polygon": [
+            [
+              67.97678534750374,
+              94.59271810910369
+            ],
+            [
+              528.2207108120474,
+              94.59271810910369
+            ],
+            [
+              528.2207108120474,
+              158.1400146484375
+            ],
+            [
+              67.97678534750374,
+              158.1400146484375
+            ]
+          ],
+          "bbox": [
+            67.97678534750374,
+            94.59271810910369,
+            528.2207108120474,
+            158.1400146484375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/4",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>1.</b> <b>What is the procedure to register as actor in EUDAMED? </b></h3>",
+          "polygon": [
+            [
+              104.31142850246476,
+              194.4084109054117
+            ],
+            [
+              522.9389038085938,
+              194.4084109054117
+            ],
+            [
+              522.9389038085938,
+              212.17266845703125
+            ],
+            [
+              104.31142850246476,
+              212.17266845703125
+            ]
+          ],
+          "bbox": [
+            104.31142850246476,
+            194.4084109054117,
+            522.9389038085938,
+            212.17266845703125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/2/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The procedure to register as actors in EUDAMED<sup>3</sup> will be laid down in a Commission  Implementing Regulation on EUDAMED (in preparation), which will be applicable to  all natural or legal persons registering to the system.</p>",
+          "polygon": [
+            [
+              67.79367503591388,
+              221.6390037910278
+            ],
+            [
+              528.0385053428054,
+              221.6390037910278
+            ],
+            [
+              528.0385053428054,
+              270.23797607421875
+            ],
+            [
+              67.79367503591388,
+              270.23797607421875
+            ]
+          ],
+          "bbox": [
+            67.79367503591388,
+            221.6390037910278,
+            528.0385053428054,
+            270.23797607421875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/2/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The actor registration request for any manufacturer, authorised representative,  importer or a system/procedure pack producer should be verified and approved by a  competent authority.</p>",
+          "polygon": [
+            [
+              68.1895550168131,
+              279.20661280862157
+            ],
+            [
+              527.996035020958,
+              279.20661280862157
+            ],
+            [
+              527.996035020958,
+              327.76605224609375
+            ],
+            [
+              68.1895550168131,
+              327.76605224609375
+            ]
+          ],
+          "bbox": [
+            68.1895550168131,
+            279.20661280862157,
+            527.996035020958,
+            327.76605224609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/2/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Please note that when an actor not subject to the obligations of Article 31 MDR and  28 IVDR submits an actor registration request in order to be able to report for the first  time a serious incident or a field safety corrective action (FSCA), this actor should  immediately provide information outside EUDAMED to the relevant national  competent authority (ies) on the vigilance report and the pending actor registration  request. It should also specify in the Actor registration form field \"Any other  information of significance for the competent authority\" that the registration request is  triggered by a need to report a serious incident or a field safety corrective action.  After the approval of the actor registration request, the actor will have to submit those  data to EUDAMED even if already communicated to the competent authority (ies)  outside the system.</p>",
+          "polygon": [
+            [
+              67.58839608680091,
+              336.56616134847366
+            ],
+            [
+              528.5061370311515,
+              336.56616134847366
+            ],
+            [
+              528.5061370311515,
+              512.3460083007812
+            ],
+            [
+              67.58839608680091,
+              512.3460083007812
+            ]
+          ],
+          "bbox": [
+            67.58839608680091,
+            336.56616134847366,
+            528.5061370311515,
+            512.3460083007812
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/2/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/8",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>2.</b> <b>Do manufacturers of only custom-made devices have to </b> <b>register</b> <b>as actors in EUDAMED? </b></h3>",
+          "polygon": [
+            [
+              82.45784792191435,
+              550.0270131927246
+            ],
+            [
+              493.64764404296875,
+              550.0270131927246
+            ],
+            [
+              493.64764404296875,
+              587.4626312255859
+            ],
+            [
+              82.45784792191435,
+              587.4626312255859
+            ]
+          ],
+          "bbox": [
+            82.45784792191435,
+            550.0270131927246,
+            493.64764404296875,
+            587.4626312255859
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/2/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">According to Article 31 MDR, manufacturers of only custom-made devices are  exempted from the obligation of registering as actors in EUDAMED <b>before</b> placing  their devices on the market.</p>",
+          "polygon": [
+            [
+              67.5696234715075,
+              596.2378104694805
+            ],
+            [
+              528.6617699149874,
+              596.2378104694805
+            ],
+            [
+              528.6617699149874,
+              645.4199981689453
+            ],
+            [
+              67.5696234715075,
+              645.4199981689453
+            ]
+          ],
+          "bbox": [
+            67.5696234715075,
+            596.2378104694805,
+            528.6617699149874,
+            645.4199981689453
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/2/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">However, the obligation to provide the information mentioned in Question 3 to  EUDAMED applies to manufacturers of only custom-made devices. In order to be  able to fulfil those obligations, they should register as actors in EUDAMED when  such obligation to provide information occurs.</p>",
+          "polygon": [
+            [
+              67.51370650514848,
+              653.4578054127477
+            ],
+            [
+              528.3931119135705,
+              653.4578054127477
+            ],
+            [
+              528.3931119135705,
+              719.0879974365234
+            ],
+            [
+              67.51370650514848,
+              719.0879974365234
+            ]
+          ],
+          "bbox": [
+            67.51370650514848,
+            653.4578054127477,
+            528.3931119135705,
+            719.0879974365234
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/2/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Footnote/11",
+          "block_type": "Footnote",
+          "html": "<p><sup> </sup> <sup>3</sup> For more information on how to use the Actor registration module, please refer to the document  <a href=\"https://webgate.ec.europa.eu/eudamed/media/eo-user-guide-ori-edt-production-ready-en.6d0da932.pdf\">'Guide to using EUDAMED –</a> Actor registration module'.</p>",
+          "polygon": [
+            [
+              67.8013833764218,
+              736.9759979248047
+            ],
+            [
+              501.2709045410156,
+              736.9759979248047
+            ],
+            [
+              501.2709045410156,
+              771.1972351074219
+            ],
+            [
+              67.8013833764218,
+              771.1972351074219
+            ]
+          ],
+          "bbox": [
+            67.8013833764218,
+            736.9759979248047,
+            501.2709045410156,
+            771.1972351074219
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/2/SectionHeader/8"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/2/SectionHeader/8"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/3/Page/178",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/3/PageHeader/0'></content-ref><content-ref src='/page/3/PageHeader/1'></content-ref><content-ref src='/page/3/PageHeader/2'></content-ref><content-ref src='/page/3/PageFooter/16'></content-ref><content-ref src='/page/3/SectionHeader/3'></content-ref><content-ref src='/page/3/Text/4'></content-ref><content-ref src='/page/3/Text/5'></content-ref><content-ref src='/page/3/Text/178'></content-ref><content-ref src='/page/3/Text/7'></content-ref><content-ref src='/page/3/Text/8'></content-ref><content-ref src='/page/3/SectionHeader/9'></content-ref><content-ref src='/page/3/Text/10'></content-ref><content-ref src='/page/3/Text/11'></content-ref><content-ref src='/page/3/Footnote/12'></content-ref><content-ref src='/page/3/Footnote/13'></content-ref><content-ref src='/page/3/Footnote/14'></content-ref><content-ref src='/page/3/Footnote/15'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/3/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.27237130652748,
+              34.57589370442201
+            ],
+            [
+              303.2210998535156,
+              34.57589370442201
+            ],
+            [
+              303.2210998535156,
+              58.40838623046875
+            ],
+            [
+              67.27237130652748,
+              58.40838623046875
+            ]
+          ],
+          "bbox": [
+            67.27237130652748,
+            34.57589370442201,
+            303.2210998535156,
+            58.40838623046875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/2/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              382.7035979071552,
+              56.7919127412492
+            ],
+            [
+              527.1794777973473,
+              56.7919127412492
+            ],
+            [
+              527.1794777973473,
+              72.9402419622732
+            ],
+            [
+              382.7035979071552,
+              72.9402419622732
+            ]
+          ],
+          "bbox": [
+            382.7035979071552,
+            56.7919127412492,
+            527.1794777973473,
+            72.9402419622732
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/2/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              66.81889639213043,
+              57.52002144709083
+            ],
+            [
+              524.3641357421875,
+              57.52002144709083
+            ],
+            [
+              524.3641357421875,
+              74.54840087890625
+            ],
+            [
+              66.81889639213043,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            66.81889639213043,
+            57.52002144709083,
+            524.3641357421875,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/2/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/PageFooter/16",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.68767311230715,
+              776.9322832605187
+            ],
+            [
+              527.1690778371969,
+              776.9322832605187
+            ],
+            [
+              527.1690778371969,
+              793.015998840332
+            ],
+            [
+              470.68767311230715,
+              793.015998840332
+            ]
+          ],
+          "bbox": [
+            470.68767311230715,
+            776.9322832605187,
+            527.1690778371969,
+            793.015998840332
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/2/SectionHeader/8"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/SectionHeader/3",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>3.</b> <b>When do manufacturers of only custom-made devices</b><b><sup>4</sup></b> <b>have </b> <b>to register as actors in EUDAMED?</b></h3>",
+          "polygon": [
+            [
+              82.35727870374242,
+              99.97341421641947
+            ],
+            [
+              522.3092268552227,
+              99.97341421641947
+            ],
+            [
+              522.3092268552227,
+              136.5726318359375
+            ],
+            [
+              82.35727870374242,
+              136.5726318359375
+            ]
+          ],
+          "bbox": [
+            82.35727870374242,
+            99.97341421641947,
+            522.3092268552227,
+            136.5726318359375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/3/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Articles 52(8), 56(1) and (5) MDR require notified bodies to enter the information  regarding the certificates issued for class III custom-made implantable devices in  EUDAMED. Moreover, manufacturers shall report in EUDAMED serious incidents,  field safety corrective actions and their related field safety notices (Article 87 MDR),  any trend on non-serious incidents (Article 88 MDR) for custom-made devices<sup>5</sup> .</p>",
+          "polygon": [
+            [
+              67.47826875547318,
+              146.80620775367146
+            ],
+            [
+              527.7703513042152,
+              146.80620775367146
+            ],
+            [
+              527.7703513042152,
+              226.3360595703125
+            ],
+            [
+              67.47826875547318,
+              226.3360595703125
+            ]
+          ],
+          "bbox": [
+            67.47826875547318,
+            146.80620775367146,
+            527.7703513042152,
+            226.3360595703125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/3/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Therefore, manufacturers of only custom-made devices have to register as actors in  EUDAMED in the following cases:</p>",
+          "polygon": [
+            [
+              67.6669570192582,
+              235.9787707986942
+            ],
+            [
+              527.6895339927385,
+              235.9787707986942
+            ],
+            [
+              527.6895339927385,
+              268.16796875
+            ],
+            [
+              67.6669570192582,
+              268.16796875
+            ]
+          ],
+          "bbox": [
+            67.6669570192582,
+            235.9787707986942,
+            527.6895339927385,
+            268.16796875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/3/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/178",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"> in advance of the entering of the information in EUDAMED by the notified body  regarding the first certificate for their Class III custom-made implantable  device;  they submit to EUDAMED for the first time vigilance reports for serious  incidents, field safety corrective actions with their field safety notices, or trend  reports in respect of custom-made devices of any risk class;</p>",
+          "polygon": [
+            [
+              85.47170025035176,
+              278.03838056936286
+            ],
+            [
+              528.3171967859532,
+              278.03838056936286
+            ],
+            [
+              528.3171967859532,
+              374.9259948730469
+            ],
+            [
+              85.47170025035176,
+              374.9259948730469
+            ]
+          ],
+          "bbox": [
+            85.47170025035176,
+            278.03838056936286,
+            528.3171967859532,
+            374.9259948730469
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/3/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The registration as actors in EUDAMED will be required, in the abovementioned  cases, also for non-EU manufacturers of only custom-made devices and the  authorised representatives for the concerned custom-made devices.</p>",
+          "polygon": [
+            [
+              67.84081274075832,
+              383.5074469956137
+            ],
+            [
+              528.4575733405817,
+              383.5074469956137
+            ],
+            [
+              528.4575733405817,
+              432.489990234375
+            ],
+            [
+              67.84081274075832,
+              432.489990234375
+            ]
+          ],
+          "bbox": [
+            67.84081274075832,
+            383.5074469956137,
+            528.4575733405817,
+            432.489990234375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/3/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Registered manufacturers and authorised representatives of only custom-made  devices are assigned an Actor ID that is not a SRN.</p>",
+          "polygon": [
+            [
+              67.99051260768016,
+              441.23286895887827
+            ],
+            [
+              527.9940191696512,
+              441.23286895887827
+            ],
+            [
+              527.9940191696512,
+              474.37799072265625
+            ],
+            [
+              67.99051260768016,
+              474.37799072265625
+            ]
+          ],
+          "bbox": [
+            67.99051260768016,
+            441.23286895887827,
+            527.9940191696512,
+            474.37799072265625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/3/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/SectionHeader/9",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>4.</b> <b>Do manufacturers of only</b> <b>legacy devices have to register as </b> <b>actors in EUDAMED?</b></h3>",
+          "polygon": [
+            [
+              82.59248617253915,
+              508.797814821836
+            ],
+            [
+              528.2078247070312,
+              508.797814821836
+            ],
+            [
+              528.2078247070312,
+              546.6983947753906
+            ],
+            [
+              82.59248617253915,
+              546.6983947753906
+            ]
+          ],
+          "bbox": [
+            82.59248617253915,
+            508.797814821836,
+            528.2078247070312,
+            546.6983947753906
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Yes, manufacturers of only legacy devices<sup>6</sup> will have to register as actors in  EUDAMED.</p>",
+          "polygon": [
+            [
+              67.67376051741823,
+              556.3338564348772
+            ],
+            [
+              527.6139526367188,
+              556.3338564348772
+            ],
+            [
+              527.6139526367188,
+              588.8700103759766
+            ],
+            [
+              67.67376051741823,
+              588.8700103759766
+            ]
+          ],
+          "bbox": [
+            67.67376051741823,
+            556.3338564348772,
+            527.6139526367188,
+            588.8700103759766
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/11",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">According to Article 123 (3) (d) MDR and Article 113 (3) (f) IVDR, the deadline for  such registration is 6 months after the date of publication of the notice referred to in  Article 34 (3) MDR. Member states may accept/require the use of EUDAMED for the  purpose of registration in accordance with national rules, during the transition period.</p>",
+          "polygon": [
+            [
+              67.65962092401999,
+              596.3615987884712
+            ],
+            [
+              527.9873760232997,
+              596.3615987884712
+            ],
+            [
+              527.9873760232997,
+              662.4480133056641
+            ],
+            [
+              67.65962092401999,
+              662.4480133056641
+            ]
+          ],
+          "bbox": [
+            67.65962092401999,
+            596.3615987884712,
+            527.9873760232997,
+            662.4480133056641
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Footnote/12",
+          "block_type": "Footnote",
+          "html": "<p><sup> </sup> <sup>4</sup> For more information on custom-made devices, please refer to the document 'Questions and</p>",
+          "polygon": [
+            [
+              66.752275942555,
+              690.8999938964844
+            ],
+            [
+              489.5203974264995,
+              690.8999938964844
+            ],
+            [
+              489.5203974264995,
+              714.0752748810385
+            ],
+            [
+              66.752275942555,
+              714.0752748810385
+            ]
+          ],
+          "bbox": [
+            66.752275942555,
+            690.8999938964844,
+            489.5203974264995,
+            714.0752748810385
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Footnote/13",
+          "block_type": "Footnote",
+          "html": "<p>Answers on Custom-Made Devices' - <a href=\"https://ec.europa.eu/health/sites/default/files/md_sector/docs/mdcg_2021-3_en.pdf\">MDCG_2021-3</a></p>",
+          "polygon": [
+            [
+              67.15922019823972,
+              710.91398206186
+            ],
+            [
+              308.61638927699937,
+              710.91398206186
+            ],
+            [
+              308.61638927699937,
+              725.1515960693359
+            ],
+            [
+              67.15922019823972,
+              725.1515960693359
+            ]
+          ],
+          "bbox": [
+            67.15922019823972,
+            710.91398206186,
+            308.61638927699937,
+            725.1515960693359
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Footnote/14",
+          "block_type": "Footnote",
+          "html": "<p><sup>5</sup> For more information, please refer to the document 'Questions and Answers on Custom-Made  Devices' - <a href=\"https://ec.europa.eu/health/sites/default/files/md_sector/docs/mdcg_2021-3_en.pdf\">MDCG_2021-3</a></p>",
+          "polygon": [
+            [
+              67.46695822612465,
+              720.535972588421
+            ],
+            [
+              495.8320617675781,
+              720.535972588421
+            ],
+            [
+              495.8320617675781,
+              748.1875991821289
+            ],
+            [
+              67.46695822612465,
+              748.1875991821289
+            ]
+          ],
+          "bbox": [
+            67.46695822612465,
+            720.535972588421,
+            495.8320617675781,
+            748.1875991821289
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Footnote/15",
+          "block_type": "Footnote",
+          "html": "<p><sup>6</sup> For more information, please refer to the document <a href=\"https://ec.europa.eu/health/sites/default/files/md_eudamed/docs/legacy_dvc_management_en.pdf\">'Management of legacy devices –</a> MDR  <a href=\"https://ec.europa.eu/health/sites/default/files/md_eudamed/docs/legacy_dvc_management_en.pdf\">EUDAMED' </a>and the Guidance 'Registration of legacy devices in EUDAMED' – <a href=\"https://ec.europa.eu/health/sites/default/files/md_sector/docs/md_mdcg_2019_5_legacy_devices_registration_eudamed_en.pdf\">MDCG 2019-5</a></p>",
+          "polygon": [
+            [
+              67.47247890981679,
+              742.1026435233819
+            ],
+            [
+              486.0111999511719,
+              742.1026435233819
+            ],
+            [
+              486.0111999511719,
+              771.2271194458008
+            ],
+            [
+              67.47247890981679,
+              771.2271194458008
+            ]
+          ],
+          "bbox": [
+            67.47247890981679,
+            742.1026435233819,
+            486.0111999511719,
+            771.2271194458008
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/3/SectionHeader/9"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/4/Page/140",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/4/PageHeader/1'></content-ref><content-ref src='/page/4/PageHeader/2'></content-ref><content-ref src='/page/4/PageHeader/4'></content-ref><content-ref src='/page/4/SectionHeader/0'></content-ref><content-ref src='/page/4/Text/3'></content-ref><content-ref src='/page/4/PageFooter/16'></content-ref><content-ref src='/page/4/Text/5'></content-ref><content-ref src='/page/4/Text/6'></content-ref><content-ref src='/page/4/SectionHeader/7'></content-ref><content-ref src='/page/4/Text/8'></content-ref><content-ref src='/page/4/Text/9'></content-ref><content-ref src='/page/4/Text/10'></content-ref><content-ref src='/page/4/Text/11'></content-ref><content-ref src='/page/4/SectionHeader/12'></content-ref><content-ref src='/page/4/Text/13'></content-ref><content-ref src='/page/4/Text/14'></content-ref><content-ref src='/page/4/Text/15'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/4/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.67487152637702,
+              34.51248079267656
+            ],
+            [
+              226.0662703430022,
+              34.51248079267656
+            ],
+            [
+              226.0662703430022,
+              55.95782315805355
+            ],
+            [
+              67.67487152637702,
+              55.95782315805355
+            ]
+          ],
+          "bbox": [
+            67.67487152637702,
+            34.51248079267656,
+            226.0662703430022,
+            55.95782315805355
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              383.1123346669848,
+              57.85592597017093
+            ],
+            [
+              527.2985504688484,
+              57.85592597017093
+            ],
+            [
+              527.2985504688484,
+              72.85902446906479
+            ],
+            [
+              383.1123346669848,
+              72.85902446906479
+            ]
+          ],
+          "bbox": [
+            383.1123346669848,
+            57.85592597017093,
+            527.2985504688484,
+            72.85902446906479
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/PageHeader/4",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.7254567951039,
+              58.21188031109124
+            ],
+            [
+              524.3641357421875,
+              58.21188031109124
+            ],
+            [
+              524.3641357421875,
+              74.54840087890625
+            ],
+            [
+              67.7254567951039,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            67.7254567951039,
+            58.21188031109124,
+            524.3641357421875,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/1/SectionHeader/1",
+            "3": "/page/3/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/SectionHeader/0",
+          "block_type": "SectionHeader",
+          "html": "<h2><b>Medical Devices</b></h2>",
+          "polygon": [
+            [
+              67.67487152637702,
+              34.51248079267656
+            ],
+            [
+              303.2210998535156,
+              34.51248079267656
+            ],
+            [
+              303.2210998535156,
+              58.40838623046875
+            ],
+            [
+              67.67487152637702,
+              58.40838623046875
+            ]
+          ],
+          "bbox": [
+            67.67487152637702,
+            34.51248079267656,
+            303.2210998535156,
+            58.40838623046875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/3",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"></p>",
+          "polygon": [
+            [
+              383.1123346669848,
+              57.85592597017093
+            ],
+            [
+              527.2985504688484,
+              57.85592597017093
+            ],
+            [
+              527.2985504688484,
+              72.85902446906479
+            ],
+            [
+              383.1123346669848,
+              72.85902446906479
+            ]
+          ],
+          "bbox": [
+            383.1123346669848,
+            57.85592597017093,
+            527.2985504688484,
+            72.85902446906479
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/PageFooter/16",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.6977523688405,
+              776.4423469414376
+            ],
+            [
+              527.7869820774953,
+              776.4423469414376
+            ],
+            [
+              527.7869820774953,
+              793.015998840332
+            ],
+            [
+              470.6977523688405,
+              793.015998840332
+            ]
+          ],
+          "bbox": [
+            470.6977523688405,
+            776.4423469414376,
+            527.7869820774953,
+            793.015998840332
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The obligation to register as actors in EUDAMED is applicable also to non-EU  manufacturers and authorised representatives of only legacy devices.</p>",
+          "polygon": [
+            [
+              67.676515132414,
+              74.14251598925433
+            ],
+            [
+              528.0367643803132,
+              74.14251598925433
+            ],
+            [
+              528.0367643803132,
+              105.927978515625
+            ],
+            [
+              67.676515132414,
+              105.927978515625
+            ]
+          ],
+          "bbox": [
+            67.676515132414,
+            74.14251598925433,
+            528.0367643803132,
+            105.927978515625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Registered manufacturers and authorised representatives of only legacy devices are  assigned an Actor ID that is not a SRN.</p>",
+          "polygon": [
+            [
+              67.53873284097283,
+              115.56213900667157
+            ],
+            [
+              528.2971757172937,
+              115.56213900667157
+            ],
+            [
+              528.2971757172937,
+              147.5679931640625
+            ],
+            [
+              67.53873284097283,
+              147.5679931640625
+            ]
+          ],
+          "bbox": [
+            67.53873284097283,
+            115.56213900667157,
+            528.2971757172937,
+            147.5679931640625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/SectionHeader/7",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>5.</b> <b>Do manufacturers of only 'old' devices have to register as </b> <b>actors in EUDAMED?</b></h3>",
+          "polygon": [
+            [
+              82.3606174574691,
+              182.95522275060176
+            ],
+            [
+              506.0742492675781,
+              182.95522275060176
+            ],
+            [
+              506.0742492675781,
+              220.0084228515625
+            ],
+            [
+              82.3606174574691,
+              220.0084228515625
+            ]
+          ],
+          "bbox": [
+            82.3606174574691,
+            182.95522275060176,
+            506.0742492675781,
+            220.0084228515625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/4/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Yes, manufacturers of only 'old' devices, which are made available on the Union  market and/or are still in use, will have to register as actors in EUDAMED in case  serious incidents reports or field safety corrective actions in respect of the device are  requested by the Member States to be reported in EUDAMED.</p>",
+          "polygon": [
+            [
+              67.58642605029665,
+              230.22124108223647
+            ],
+            [
+              528.4562905261138,
+              230.22124108223647
+            ],
+            [
+              528.4562905261138,
+              293.926025390625
+            ],
+            [
+              67.58642605029665,
+              293.926025390625
+            ]
+          ],
+          "bbox": [
+            67.58642605029665,
+            230.22124108223647,
+            528.4562905261138,
+            293.926025390625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/4/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The obligation to register as actors in EUDAMED is applicable also, in the  abovementioned cases, to non-EU manufacturers of only 'old' devices and their  concerned authorised representatives.</p>",
+          "polygon": [
+            [
+              67.64084830872658,
+              302.98504464751574
+            ],
+            [
+              528.7104710499646,
+              302.98504464751574
+            ],
+            [
+              528.7104710499646,
+              351.489990234375
+            ],
+            [
+              67.64084830872658,
+              351.489990234375
+            ]
+          ],
+          "bbox": [
+            67.64084830872658,
+            302.98504464751574,
+            528.7104710499646,
+            351.489990234375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/4/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In case either the manufacturer or the authorised representative is not active  anymore, serious incidents and the field safety corrective actions will not be reported  in EUDAMED and the manufacturer or authorised representative will not have to  register as actor in EUDAMED.</p>",
+          "polygon": [
+            [
+              68.01722836434391,
+              360.3440669154017
+            ],
+            [
+              528.9538850952456,
+              360.3440669154017
+            ],
+            [
+              528.9538850952456,
+              425.0379943847656
+            ],
+            [
+              68.01722836434391,
+              425.0379943847656
+            ]
+          ],
+          "bbox": [
+            68.01722836434391,
+            360.3440669154017,
+            528.9538850952456,
+            425.0379943847656
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/4/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/11",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Registered manufacturers and authorised representatives of only old devices are  assigned an Actor ID that is not a SRN.</p>",
+          "polygon": [
+            [
+              68.07941623178476,
+              433.7973325190964
+            ],
+            [
+              527.9649267701118,
+              433.7973325190964
+            ],
+            [
+              527.9649267701118,
+              466.8179931640625
+            ],
+            [
+              68.07941623178476,
+              466.8179931640625
+            ]
+          ],
+          "bbox": [
+            68.07941623178476,
+            433.7973325190964,
+            527.9649267701118,
+            466.8179931640625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/4/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/SectionHeader/12",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>6.</b> <b>Do system and procedure pack producers (SPPP) have to </b> <b>register as actors in EUDAMED?</b></h3>",
+          "polygon": [
+            [
+              82.50357109473394,
+              501.3733529747328
+            ],
+            [
+              528.175048828125,
+              501.3733529747328
+            ],
+            [
+              528.175048828125,
+              539.3426513671875
+            ],
+            [
+              82.50357109473394,
+              539.3426513671875
+            ]
+          ],
+          "bbox": [
+            82.50357109473394,
+            501.3733529747328,
+            528.175048828125,
+            539.3426513671875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/4/SectionHeader/12"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/13",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">According to Article 29 (2) MDR, before placing a system or procedure pack on the  market, the natural or legal person responsible (SPPP) has an obligation to assign a  Basic UDI-DI to be provided to the UDI database, together with the other data  referred to in Part B of Annex VI MDR.</p>",
+          "polygon": [
+            [
+              67.44102132110211,
+              548.5623754295831
+            ],
+            [
+              528.5948344886452,
+              548.5623754295831
+            ],
+            [
+              528.5948344886452,
+              613.1100006103516
+            ],
+            [
+              67.44102132110211,
+              613.1100006103516
+            ]
+          ],
+          "bbox": [
+            67.44102132110211,
+            548.5623754295831,
+            528.5948344886452,
+            613.1100006103516
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/4/SectionHeader/12"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/14",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In order to fulfil such obligation, as from 6 months after the date of publication of the  notice referred to in Article 34 (3) MDR, the SPPP will have to be registered as actor  in EUDAMED before placing a system or procedure pack on the market. Member  states may accept/require the use of EUDAMED for the purpose of registration in  accordance with national rules, during the transition period.</p>",
+          "polygon": [
+            [
+              67.60052555574278,
+              621.6248497763385
+            ],
+            [
+              528.2655176888185,
+              621.6248497763385
+            ],
+            [
+              528.2655176888185,
+              702.6480102539062
+            ],
+            [
+              67.60052555574278,
+              702.6480102539062
+            ]
+          ],
+          "bbox": [
+            67.60052555574278,
+            621.6248497763385,
+            528.2655176888185,
+            702.6480102539062
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/4/SectionHeader/12"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/4/Text/15",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Registered SPPPs are assigned an Actor ID that is not a SRN.</p>",
+          "polygon": [
+            [
+              67.75068929753915,
+              710.4483000160006
+            ],
+            [
+              403.34664832434663,
+              710.4483000160006
+            ],
+            [
+              403.34664832434663,
+              728.447998046875
+            ],
+            [
+              67.75068929753915,
+              728.447998046875
+            ]
+          ],
+          "bbox": [
+            67.75068929753915,
+            710.4483000160006,
+            403.34664832434663,
+            728.447998046875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/4/SectionHeader/12"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/4/SectionHeader/0",
+        "3": "/page/4/SectionHeader/12"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/5/Page/141",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/5/PageHeader/1'></content-ref><content-ref src='/page/5/PageHeader/2'></content-ref><content-ref src='/page/5/SectionHeader/0'></content-ref><content-ref src='/page/5/PageFooter/12'></content-ref><content-ref src='/page/5/SectionHeader/3'></content-ref><content-ref src='/page/5/Text/4'></content-ref><content-ref src='/page/5/Text/5'></content-ref><content-ref src='/page/5/Text/6'></content-ref><content-ref src='/page/5/SectionHeader/7'></content-ref><content-ref src='/page/5/Text/8'></content-ref><content-ref src='/page/5/Text/9'></content-ref><content-ref src='/page/5/Text/10'></content-ref><content-ref src='/page/5/Text/11'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/5/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              383.3952181645545,
+              58.18493747456415
+            ],
+            [
+              526.5720651468041,
+              58.18493747456415
+            ],
+            [
+              526.5720651468041,
+              74.46810672586768
+            ],
+            [
+              383.3952181645545,
+              74.46810672586768
+            ]
+          ],
+          "bbox": [
+            383.3952181645545,
+            58.18493747456415,
+            526.5720651468041,
+            74.46810672586768
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/4/SectionHeader/12"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.78101869674413,
+              58.524217002644455
+            ],
+            [
+              524.3641357421875,
+              58.524217002644455
+            ],
+            [
+              524.3641357421875,
+              74.54840087890625
+            ],
+            [
+              67.78101869674413,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            67.78101869674413,
+            58.524217002644455,
+            524.3641357421875,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/4/SectionHeader/12"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/SectionHeader/0",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.30802094966398,
+              35.11134682822631
+            ],
+            [
+              303.2210998535156,
+              35.11134682822631
+            ],
+            [
+              303.2210998535156,
+              58.40838623046875
+            ],
+            [
+              67.30802094966398,
+              58.40838623046875
+            ]
+          ],
+          "bbox": [
+            67.30802094966398,
+            35.11134682822631,
+            303.2210998535156,
+            58.40838623046875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/PageFooter/12",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.554672740869,
+              776.4422554158782
+            ],
+            [
+              527.9091243407588,
+              776.4422554158782
+            ],
+            [
+              527.9091243407588,
+              793.015998840332
+            ],
+            [
+              470.554672740869,
+              793.015998840332
+            ]
+          ],
+          "bbox": [
+            470.554672740869,
+            776.4422554158782,
+            527.9091243407588,
+            793.015998840332
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/5/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/SectionHeader/3",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>7.</b> <b>Who is the authority responsible for the approval of actor </b> <b>registration requests of SPPP located in non-EU countries?</b></h3>",
+          "polygon": [
+            [
+              80.3501379363783,
+              75.38096549355973
+            ],
+            [
+              528.0626831054688,
+              75.38096549355973
+            ],
+            [
+              528.0626831054688,
+              110.77264404296875
+            ],
+            [
+              80.3501379363783,
+              110.77264404296875
+            ]
+          ],
+          "bbox": [
+            80.3501379363783,
+            75.38096549355973,
+            528.0626831054688,
+            110.77264404296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/5/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The authority responsible for approval of non-EU SPPPs actor registration requests  should be the authority of the place where the first system or procedure pack of that  producer is to be placed on the market. The CA may gather relevant additional  information outside EUDAMED, when such information is not available inside  EUDAMED, before validating a registration request.</p>",
+          "polygon": [
+            [
+              67.37871318980488,
+              120.43606953268484
+            ],
+            [
+              528.8577198249567,
+              120.43606953268484
+            ],
+            [
+              528.8577198249567,
+              200.48797607421875
+            ],
+            [
+              67.37871318980488,
+              200.48797607421875
+            ]
+          ],
+          "bbox": [
+            67.37871318980488,
+            120.43606953268484,
+            528.8577198249567,
+            200.48797607421875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/5/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Please note that SPPP located in a non-EU country do not have an obligation to  designate an AR. Therefore, the SPPP should consider providing additional relevant  information to the CA, in order to facilitate the verification of the data provided for the  purpose of the registration request. In the \"Any other information of significance for  the competent authority<b>\" </b>field, the SPPP should specify the reason for which that  competent authority was chosen.</p>",
+          "polygon": [
+            [
+              67.39876861956618,
+              209.3764779964729
+            ],
+            [
+              528.723574083458,
+              209.3764779964729
+            ],
+            [
+              528.723574083458,
+              305.68603515625
+            ],
+            [
+              67.39876861956618,
+              305.68603515625
+            ]
+          ],
+          "bbox": [
+            67.39876861956618,
+            209.3764779964729,
+            528.723574083458,
+            305.68603515625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/5/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In case the non-EU SPPP acts also as a non-EU manufacturer, who has an  authorised representative already designated, the authority responsible for the  authorised representative should be the authority responsible for the approval of the  non-EU SPPP actor registration request.</p>",
+          "polygon": [
+            [
+              67.62267701271499,
+              314.09922213057587
+            ],
+            [
+              528.7161520854652,
+              314.09922213057587
+            ],
+            [
+              528.7161520854652,
+              379.197998046875
+            ],
+            [
+              67.62267701271499,
+              379.197998046875
+            ]
+          ],
+          "bbox": [
+            67.62267701271499,
+            314.09922213057587,
+            528.7161520854652,
+            379.197998046875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/5/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/SectionHeader/7",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>8.</b> <b>When the Actor ID may be considered as a Single </b> <b>Registration Number (SRN) pursuant to Article 31 MDR and </b> <b>Article 28 IVDR? </b></h3>",
+          "polygon": [
+            [
+              81.92349270068728,
+              414.3806884983025
+            ],
+            [
+              528.1102905273438,
+              414.3806884983025
+            ],
+            [
+              528.1102905273438,
+              470.1383972167969
+            ],
+            [
+              81.92349270068728,
+              470.1383972167969
+            ]
+          ],
+          "bbox": [
+            81.92349270068728,
+            414.3806884983025,
+            528.1102905273438,
+            470.1383972167969
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/5/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The Actor ID will only be considered as a SRN when it will be issued to a  manufacturer or authorised representative or importer of MDR non-custom-made  devices and/or of IVDR devices, as referred to in Article 31 MDR and 28 IVDR.</p>",
+          "polygon": [
+            [
+              67.5840608611215,
+              478.894309501614
+            ],
+            [
+              528.4907890723393,
+              478.894309501614
+            ],
+            [
+              528.4907890723393,
+              528.1499938964844
+            ],
+            [
+              67.5840608611215,
+              528.1499938964844
+            ]
+          ],
+          "bbox": [
+            67.5840608611215,
+            478.894309501614,
+            528.4907890723393,
+            528.1499938964844
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/5/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In case it is issued to a manufacturer (EU and non-EU) or authorised representative  or importer of only custom-made devices and/or only legacy devices and/or only 'old'  devices or to a system/procedure pack producer, this Actor ID will not be considered  as a SRN pursuant to Article 31 MDR and 28 IVDR.</p>",
+          "polygon": [
+            [
+              67.45946177907794,
+              536.6808476571196
+            ],
+            [
+              528.3538486278927,
+              536.6808476571196
+            ],
+            [
+              528.3538486278927,
+              601.5900115966797
+            ],
+            [
+              67.45946177907794,
+              601.5900115966797
+            ]
+          ],
+          "bbox": [
+            67.45946177907794,
+            536.6808476571196,
+            528.3538486278927,
+            601.5900115966797
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/5/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">As a consequence, manufacturers, authorised representatives and importers may  have an Actor ID that will be considered also as a SRN when, after their registration in EUDAMED, they become manufacturers, authorised representatives and importers  of MDR non-custom-made devices and/or of IVDR devices.</p>",
+          "polygon": [
+            [
+              67.51096907070361,
+              610.4155772371369
+            ],
+            [
+              528.0511044134721,
+              610.4155772371369
+            ],
+            [
+              528.0511044134721,
+              675.1800079345703
+            ],
+            [
+              67.51096907070361,
+              675.1800079345703
+            ]
+          ],
+          "bbox": [
+            67.51096907070361,
+            610.4155772371369,
+            528.0511044134721,
+            675.1800079345703
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/5/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/5/Text/11",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">For example, in case a manufacturer of only custom-made devices extends its  activities and becomes a non-custom-made devices manufacturer (or an IVDR  manufacturer), its Actor ID will be considered its SRN.</p>",
+          "polygon": [
+            [
+              67.62244793870286,
+              683.3200784684926
+            ],
+            [
+              527.9440352202062,
+              683.3200784684926
+            ],
+            [
+              527.9440352202062,
+              732.7799987792969
+            ],
+            [
+              67.62244793870286,
+              732.7799987792969
+            ]
+          ],
+          "bbox": [
+            67.62244793870286,
+            683.3200784684926,
+            527.9440352202062,
+            732.7799987792969
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/5/SectionHeader/7"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/4/SectionHeader/0",
+        "3": "/page/5/SectionHeader/7"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/6/Page/80",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/6/SectionHeader/0'></content-ref><content-ref src='/page/6/Text/1'></content-ref><content-ref src='/page/6/Text/2'></content-ref><content-ref src='/page/6/PageFooter/7'></content-ref><content-ref src='/page/6/SectionHeader/3'></content-ref><content-ref src='/page/6/Text/4'></content-ref><content-ref src='/page/6/Text/5'></content-ref><content-ref src='/page/6/Text/6'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/6/SectionHeader/0",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>Medical Devices</b></h3>",
+          "polygon": [
+            [
+              67.27012638120867,
+              34.7898747417827
+            ],
+            [
+              303.2210998535156,
+              34.7898747417827
+            ],
+            [
+              303.2210998535156,
+              58.40838623046875
+            ],
+            [
+              67.27012638120867,
+              58.40838623046875
+            ]
+          ],
+          "bbox": [
+            67.27012638120867,
+            34.7898747417827,
+            303.2210998535156,
+            58.40838623046875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/6/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/1",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"></p>",
+          "polygon": [
+            [
+              383.80116022143613,
+              58.28510647890086
+            ],
+            [
+              526.8290861884052,
+              58.28510647890086
+            ],
+            [
+              526.8290861884052,
+              74.09392163759878
+            ],
+            [
+              383.80116022143613,
+              74.09392163759878
+            ]
+          ],
+          "bbox": [
+            383.80116022143613,
+            58.28510647890086,
+            526.8290861884052,
+            74.09392163759878
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/6/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/2",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Medical Device Coordination Group Document MDCG 2021-13 rev.1</p>",
+          "polygon": [
+            [
+              67.77529757329138,
+              58.609312891429376
+            ],
+            [
+              524.3641357421875,
+              58.609312891429376
+            ],
+            [
+              524.3641357421875,
+              74.54840087890625
+            ],
+            [
+              67.77529757329138,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            67.77529757329138,
+            58.609312891429376,
+            524.3641357421875,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/6/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/PageFooter/7",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              471.0855746713633,
+              776.6296997613813
+            ],
+            [
+              527.1786073161012,
+              776.6296997613813
+            ],
+            [
+              527.1786073161012,
+              793.015998840332
+            ],
+            [
+              471.0855746713633,
+              793.015998840332
+            ]
+          ],
+          "bbox": [
+            471.0855746713633,
+            776.6296997613813,
+            527.1786073161012,
+            793.015998840332
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/6/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/SectionHeader/3",
+          "block_type": "SectionHeader",
+          "html": "<h3><b>9.</b> <b>Do importers who carry out the activities mentioned in </b> <b>Article 16 MDR/IVDR also need to register as manufacturers </b> <b>in EUDAMED?</b></h3>",
+          "polygon": [
+            [
+              75.5039168581254,
+              75.88785692250633
+            ],
+            [
+              528.1609497070312,
+              75.88785692250633
+            ],
+            [
+              528.1609497070312,
+              129.16839599609375
+            ],
+            [
+              75.5039168581254,
+              129.16839599609375
+            ]
+          ],
+          "bbox": [
+            75.5039168581254,
+            75.88785692250633,
+            528.1609497070312,
+            129.16839599609375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/6/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">On one hand, importers who assume the obligations incumbent on manufacturers  according to Article 16(1) MDR/IVDR, as clarified in MDCG 2018-6, have the  obligation to register as Manufacturers in EUDAMED.</p>",
+          "polygon": [
+            [
+              67.76997732935985,
+              140.37840204417228
+            ],
+            [
+              528.4368650498858,
+              140.37840204417228
+            ],
+            [
+              528.4368650498858,
+              187.2879638671875
+            ],
+            [
+              67.76997732935985,
+              187.2879638671875
+            ]
+          ],
+          "bbox": [
+            67.76997732935985,
+            140.37840204417228,
+            528.4368650498858,
+            187.2879638671875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/6/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">On the other hand, importers who carry out the activities mentioned in Article 16(2)  MDR/IVDR do not have any obligation to register as manufacturers in EUDAMED  since these activities are not considered a modification of a device that could affect  its compliance with the applicable requirements, so they do not act as a  manufacturer.</p>",
+          "polygon": [
+            [
+              67.71268019207778,
+              197.34766271766125
+            ],
+            [
+              528.3079880106659,
+              197.34766271766125
+            ],
+            [
+              528.3079880106659,
+              276.489990234375
+            ],
+            [
+              67.71268019207778,
+              276.489990234375
+            ]
+          ],
+          "bbox": [
+            67.71268019207778,
+            197.34766271766125,
+            528.3079880106659,
+            276.489990234375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/6/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/6/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In any case, importers are subject to the obligation of registering as Importers in  EUDAMED in accordance with Article 31 MDR and 28 IVDR. This registration is due  to the fact that the importer places the devices on the EU market, and is not due to  the fact that he carries out the activities mentioned in Article 16 (2) MDR/IVDR  (namely, relabelling or repackaging of devices).</p>",
+          "polygon": [
+            [
+              67.59360179372638,
+              286.05752973819773
+            ],
+            [
+              528.8741215242246,
+              286.05752973819773
+            ],
+            [
+              528.8741215242246,
+              365.99798583984375
+            ],
+            [
+              67.59360179372638,
+              365.99798583984375
+            ]
+          ],
+          "bbox": [
+            67.59360179372638,
+            286.05752973819773,
+            528.8741215242246,
+            365.99798583984375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2",
+            "2": "/page/4/SectionHeader/0",
+            "3": "/page/6/SectionHeader/3"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/4/SectionHeader/0",
+        "3": "/page/6/SectionHeader/3"
+      },
+      "images": null
+    }
+  ],
+  "block_type": "Document",
+  "metadata": {
+    "table_of_contents": [
+      {
+        "title": "MDCG 2021-13 rev.1",
+        "heading_level": null,
+        "page_id": 0,
+        "polygon": [
+          [
+            103.60152813889817,
+            228.28410261906583
+          ],
+          [
+            344.33001708984375,
+            228.28410261906583
+          ],
+          [
+            344.33001708984375,
+            256.17999267578125
+          ],
+          [
+            103.60152813889817,
+            256.17999267578125
+          ]
+        ]
+      },
+      {
+        "title": "",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            67.14108326332995,
+            34.71010449648116
+          ],
+          [
+            226.13595465748975,
+            34.71010449648116
+          ],
+          [
+            226.13595465748975,
+            56.13337490119152
+          ],
+          [
+            67.14108326332995,
+            56.13337490119152
+          ]
+        ]
+      },
+      {
+        "title": "MDCG 2021-13 rev.1 changes",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            96.90264808020603,
+            101.18497236732489
+          ],
+          [
+            268.14666240701746,
+            101.18497236732489
+          ],
+          [
+            268.14666240701746,
+            115.20172119140625
+          ],
+          [
+            96.90264808020603,
+            115.20172119140625
+          ]
+        ]
+      },
+      {
+        "title": "Introduction",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            67.6015163008452,
+            178.1698775253228
+          ],
+          [
+            153.95881095521094,
+            178.1698775253228
+          ],
+          [
+            153.95881095521094,
+            194.80841064453125
+          ],
+          [
+            67.6015163008452,
+            194.80841064453125
+          ]
+        ]
+      },
+      {
+        "title": "Terminology",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            67.99499100461715,
+            352.29629312788705
+          ],
+          [
+            158.55995178222656,
+            352.29629312788705
+          ],
+          [
+            158.55995178222656,
+            370.3626403808594
+          ],
+          [
+            67.99499100461715,
+            370.3626403808594
+          ]
+        ]
+      },
+      {
+        "title": "1. What is the procedure to register as actor in EUDAMED?",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            104.31142850246476,
+            194.4084109054117
+          ],
+          [
+            522.9389038085938,
+            194.4084109054117
+          ],
+          [
+            522.9389038085938,
+            212.17266845703125
+          ],
+          [
+            104.31142850246476,
+            212.17266845703125
+          ]
+        ]
+      },
+      {
+        "title": "2. Do manufacturers of only custom-made devices have to \nregister as actors in EUDAMED?",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            82.45784792191435,
+            550.0270131927246
+          ],
+          [
+            493.64764404296875,
+            550.0270131927246
+          ],
+          [
+            493.64764404296875,
+            587.4626312255859
+          ],
+          [
+            82.45784792191435,
+            587.4626312255859
+          ]
+        ]
+      },
+      {
+        "title": "3. When do manufacturers of only custom-made devices4 have \nto register as actors in EUDAMED?",
+        "heading_level": null,
+        "page_id": 3,
+        "polygon": [
+          [
+            82.35727870374242,
+            99.97341421641947
+          ],
+          [
+            522.3092268552227,
+            99.97341421641947
+          ],
+          [
+            522.3092268552227,
+            136.5726318359375
+          ],
+          [
+            82.35727870374242,
+            136.5726318359375
+          ]
+        ]
+      },
+      {
+        "title": "4. Do manufacturers of only legacy devices have to register as \nactors in EUDAMED?",
+        "heading_level": null,
+        "page_id": 3,
+        "polygon": [
+          [
+            82.59248617253915,
+            508.797814821836
+          ],
+          [
+            528.2078247070312,
+            508.797814821836
+          ],
+          [
+            528.2078247070312,
+            546.6983947753906
+          ],
+          [
+            82.59248617253915,
+            546.6983947753906
+          ]
+        ]
+      },
+      {
+        "title": "Medical Devices",
+        "heading_level": null,
+        "page_id": 4,
+        "polygon": [
+          [
+            67.67487152637702,
+            34.51248079267656
+          ],
+          [
+            303.2210998535156,
+            34.51248079267656
+          ],
+          [
+            303.2210998535156,
+            58.40838623046875
+          ],
+          [
+            67.67487152637702,
+            58.40838623046875
+          ]
+        ]
+      },
+      {
+        "title": "5. Do manufacturers of only 'old' devices have to register as \nactors in EUDAMED?",
+        "heading_level": null,
+        "page_id": 4,
+        "polygon": [
+          [
+            82.3606174574691,
+            182.95522275060176
+          ],
+          [
+            506.0742492675781,
+            182.95522275060176
+          ],
+          [
+            506.0742492675781,
+            220.0084228515625
+          ],
+          [
+            82.3606174574691,
+            220.0084228515625
+          ]
+        ]
+      },
+      {
+        "title": "6. Do system and procedure pack producers (SPPP) have to \nregister as actors in EUDAMED?",
+        "heading_level": null,
+        "page_id": 4,
+        "polygon": [
+          [
+            82.50357109473394,
+            501.3733529747328
+          ],
+          [
+            528.175048828125,
+            501.3733529747328
+          ],
+          [
+            528.175048828125,
+            539.3426513671875
+          ],
+          [
+            82.50357109473394,
+            539.3426513671875
+          ]
+        ]
+      },
+      {
+        "title": "Medical Devices",
+        "heading_level": null,
+        "page_id": 5,
+        "polygon": [
+          [
+            67.30802094966398,
+            35.11134682822631
+          ],
+          [
+            303.2210998535156,
+            35.11134682822631
+          ],
+          [
+            303.2210998535156,
+            58.40838623046875
+          ],
+          [
+            67.30802094966398,
+            58.40838623046875
+          ]
+        ]
+      },
+      {
+        "title": "7. Who is the authority responsible for the approval of actor \nregistration requests of SPPP located in non-EU countries?",
+        "heading_level": null,
+        "page_id": 5,
+        "polygon": [
+          [
+            80.3501379363783,
+            75.38096549355973
+          ],
+          [
+            528.0626831054688,
+            75.38096549355973
+          ],
+          [
+            528.0626831054688,
+            110.77264404296875
+          ],
+          [
+            80.3501379363783,
+            110.77264404296875
+          ]
+        ]
+      },
+      {
+        "title": "8. When the Actor ID may be considered as a Single \nRegistration Number (SRN) pursuant to Article 31 MDR and \nArticle 28 IVDR?",
+        "heading_level": null,
+        "page_id": 5,
+        "polygon": [
+          [
+            81.92349270068728,
+            414.3806884983025
+          ],
+          [
+            528.1102905273438,
+            414.3806884983025
+          ],
+          [
+            528.1102905273438,
+            470.1383972167969
+          ],
+          [
+            81.92349270068728,
+            470.1383972167969
+          ]
+        ]
+      },
+      {
+        "title": "Medical Devices",
+        "heading_level": null,
+        "page_id": 6,
+        "polygon": [
+          [
+            67.27012638120867,
+            34.7898747417827
+          ],
+          [
+            303.2210998535156,
+            34.7898747417827
+          ],
+          [
+            303.2210998535156,
+            58.40838623046875
+          ],
+          [
+            67.27012638120867,
+            58.40838623046875
+          ]
+        ]
+      },
+      {
+        "title": "9. Do importers who carry out the activities mentioned in \nArticle 16 MDR/IVDR also need to register as manufacturers \nin EUDAMED?",
+        "heading_level": null,
+        "page_id": 6,
+        "polygon": [
+          [
+            75.5039168581254,
+            75.88785692250633
+          ],
+          [
+            528.1609497070312,
+            75.88785692250633
+          ],
+          [
+            528.1609497070312,
+            129.16839599609375
+          ],
+          [
+            75.5039168581254,
+            129.16839599609375
+          ]
+        ]
+      }
+    ],
+    "page_stats": [
+      {
+        "page_id": 0,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            60
+          ],
+          [
+            "Line",
+            20
+          ],
+          [
+            "Text",
+            10
+          ],
+          [
+            "PageHeader",
+            2
+          ],
+          [
+            "SectionHeader",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 1,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            110
+          ],
+          [
+            "Line",
+            39
+          ],
+          [
+            "Text",
+            7
+          ],
+          [
+            "SectionHeader",
+            4
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "Footnote",
+            2
+          ],
+          [
+            "ListGroup",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 2,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            110
+          ],
+          [
+            "Line",
+            37
+          ],
+          [
+            "Text",
+            6
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "SectionHeader",
+            2
+          ],
+          [
+            "Footnote",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 3,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            122
+          ],
+          [
+            "Line",
+            39
+          ],
+          [
+            "Text",
+            7
+          ],
+          [
+            "Footnote",
+            4
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "SectionHeader",
+            2
+          ],
+          [
+            "ListGroup",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 4,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            90
+          ],
+          [
+            "Line",
+            34
+          ],
+          [
+            "Text",
+            10
+          ],
+          [
+            "SectionHeader",
+            3
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 5,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            92
+          ],
+          [
+            "Line",
+            37
+          ],
+          [
+            "Text",
+            7
+          ],
+          [
+            "SectionHeader",
+            3
+          ],
+          [
+            "PageHeader",
+            2
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 6,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            54
+          ],
+          [
+            "Line",
+            19
+          ],
+          [
+            "Text",
+            5
+          ],
+          [
+            "SectionHeader",
+            2
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      }
+    ],
+    "debug_data_path": "debug_data/MDCG_2021-13_rev.1",
+    "table_resolution_log": [
+      {
+        "page": 2,
+        "table_number": 1,
+        "action": "inserted_missing_marker_table",
+        "removed_overlapping_blocks": 2,
+        "reason": "Genuine revision-history table missed by Marker."
+      }
+    ],
+    "table_validation_status": "passed"
+  }
+}

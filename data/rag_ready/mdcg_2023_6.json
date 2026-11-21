@@ -1,0 +1,2709 @@
+{
+  "children": [
+    {
+      "id": "/page/0/Page/71",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/0/PageHeader/0'></content-ref><content-ref src='/page/0/PageHeader/1'></content-ref><content-ref src='/page/0/PageFooter/9'></content-ref><content-ref src='/page/0/SectionHeader/2'></content-ref><content-ref src='/page/0/SectionHeader/3'></content-ref><content-ref src='/page/0/Text/4'></content-ref><content-ref src='/page/0/SectionHeader/5'></content-ref><content-ref src='/page/0/Text/6'></content-ref><content-ref src='/page/0/Text/7'></content-ref><content-ref src='/page/0/Text/8'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/0/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.29705403133363,
+              34.84338573207838
+            ],
+            [
+              524.646240234375,
+              34.84338573207838
+            ],
+            [
+              524.646240234375,
+              74.54840087890625
+            ],
+            [
+              67.29705403133363,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            67.29705403133363,
+            34.84338573207838,
+            524.646240234375,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              424.99263058141133,
+              57.034827296052356
+            ],
+            [
+              528.0613669292152,
+              57.034827296052356
+            ],
+            [
+              528.0613669292152,
+              72.74031009826932
+            ],
+            [
+              424.99263058141133,
+              72.74031009826932
+            ]
+          ],
+          "bbox": [
+            424.99263058141133,
+            57.034827296052356,
+            528.0613669292152,
+            72.74031009826932
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageFooter/9",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.8498575128896,
+              776.9006154169913
+            ],
+            [
+              528.1230336532785,
+              776.9006154169913
+            ],
+            [
+              528.1230336532785,
+              793.0399971008301
+            ],
+            [
+              470.8498575128896,
+              793.0399971008301
+            ]
+          ],
+          "bbox": [
+            470.8498575128896,
+            776.9006154169913,
+            528.1230336532785,
+            793.0399971008301
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/SectionHeader/2",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>MDCG 2023-6</b></h1>",
+          "polygon": [
+            [
+              67.38372418382005,
+              212.44784695361196
+            ],
+            [
+              226.68023451029202,
+              212.44784695361196
+            ],
+            [
+              226.68023451029202,
+              240.699951171875
+            ],
+            [
+              67.38372418382005,
+              240.699951171875
+            ]
+          ],
+          "bbox": [
+            67.38372418382005,
+            212.44784695361196,
+            226.68023451029202,
+            240.699951171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/2"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/SectionHeader/3",
+          "block_type": "SectionHeader",
+          "html": "<h1><b>Guidance on demonstration of </b> <b>equivalence</b> <b>for Annex XVI products</b></h1>",
+          "polygon": [
+            [
+              67.36404099932845,
+              254.62936876930513
+            ],
+            [
+              483.0149245562421,
+              254.62936876930513
+            ],
+            [
+              483.0149245562421,
+              314.16998291015625
+            ],
+            [
+              67.36404099932845,
+              314.16998291015625
+            ]
+          ],
+          "bbox": [
+            67.36404099932845,
+            254.62936876930513,
+            483.0149245562421,
+            314.16998291015625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>A guide for manufacturers and notified bodies</b></p>",
+          "polygon": [
+            [
+              67.98218576733952,
+              325.59215525952385
+            ],
+            [
+              422.9942805292624,
+              325.59215525952385
+            ],
+            [
+              422.9942805292624,
+              346.8973693847656
+            ],
+            [
+              67.98218576733952,
+              346.8973693847656
+            ]
+          ],
+          "bbox": [
+            67.98218576733952,
+            325.59215525952385,
+            422.9942805292624,
+            346.8973693847656
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/SectionHeader/5",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.98218576733952,
+              325.59215525952385
+            ],
+            [
+              422.9942805292624,
+              325.59215525952385
+            ],
+            [
+              422.9942805292624,
+              346.5678456579057
+            ],
+            [
+              67.98218576733952,
+              346.5678456579057
+            ]
+          ],
+          "bbox": [
+            67.98218576733952,
+            325.59215525952385,
+            422.9942805292624,
+            346.5678456579057
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\"><b>December</b> <b>2023</b></p>",
+          "polygon": [
+            [
+              68.73362297615417,
+              384.00948756991596
+            ],
+            [
+              187.61878594463357,
+              384.00948756991596
+            ],
+            [
+              187.61878594463357,
+              403.8016052246094
+            ],
+            [
+              68.73362297615417,
+              403.8016052246094
+            ]
+          ],
+          "bbox": [
+            68.73362297615417,
+            384.00948756991596,
+            187.61878594463357,
+            403.8016052246094
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">This document has been endorsed by the Medical Device Coordination Group  (MDCG) established by Article 103 of Regulation (EU) 2017/745. The MDCG is  composed of representatives of all Member States and it is chaired by a  representative of the European Commission.</p>",
+          "polygon": [
+            [
+              67.80583886595757,
+              517.0105863114286
+            ],
+            [
+              528.333690114826,
+              517.0105863114286
+            ],
+            [
+              528.333690114826,
+              582.1799926757812
+            ],
+            [
+              67.80583886595757,
+              582.1799926757812
+            ]
+          ],
+          "bbox": [
+            67.80583886595757,
+            517.0105863114286,
+            528.333690114826,
+            582.1799926757812
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/0/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The document is not a European Commission document and it cannot be regarded  as reflecting the official position of the European Commission. Any views expressed  in this document are not legally binding and only the Court of Justice of the European  Union can give binding interpretations of Union law.</p>",
+          "polygon": [
+            [
+              67.62417172064409,
+              590.5084935066855
+            ],
+            [
+              528.5741261979495,
+              590.5084935066855
+            ],
+            [
+              528.5741261979495,
+              655.7280120849609
+            ],
+            [
+              67.62417172064409,
+              655.7280120849609
+            ]
+          ],
+          "bbox": [
+            67.62417172064409,
+            590.5084935066855,
+            528.5741261979495,
+            655.7280120849609
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/1/Page/265",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/1/PageHeader/0'></content-ref><content-ref src='/page/1/PageHeader/2'></content-ref><content-ref src='/page/1/PageHeader/3'></content-ref><content-ref src='/page/1/SectionHeader/1'></content-ref><content-ref src='/page/1/PageFooter/20'></content-ref><content-ref src='/page/1/SectionHeader/4'></content-ref><content-ref src='/page/1/Text/5'></content-ref><content-ref src='/page/1/Text/6'></content-ref><content-ref src='/page/1/Text/7'></content-ref><content-ref src='/page/1/Text/8'></content-ref><content-ref src='/page/1/SectionHeader/9'></content-ref><content-ref src='/page/1/Text/10'></content-ref><content-ref src='/page/1/Footnote/11'></content-ref><content-ref src='/page/1/Footnote/12'></content-ref><content-ref src='/page/1/Footnote/13'></content-ref><content-ref src='/page/1/Footnote/14'></content-ref><content-ref src='/page/1/Footnote/15'></content-ref><content-ref src='/page/1/Footnote/16'></content-ref><content-ref src='/page/1/Footnote/17'></content-ref><content-ref src='/page/1/Footnote/18'></content-ref><content-ref src='/page/1/Footnote/19'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/1/PageHeader/0",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.24434982799463,
+              34.49033160731926
+            ],
+            [
+              303.2411193847656,
+              34.49033160731926
+            ],
+            [
+              303.2411193847656,
+              58.52838134765625
+            ],
+            [
+              67.24434982799463,
+              58.52838134765625
+            ]
+          ],
+          "bbox": [
+            67.24434982799463,
+            34.49033160731926,
+            303.2411193847656,
+            58.52838134765625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              425.08563463033295,
+              56.51112376592675
+            ],
+            [
+              528.3787718804117,
+              56.51112376592675
+            ],
+            [
+              528.3787718804117,
+              72.65749662812013
+            ],
+            [
+              425.08563463033295,
+              72.65749662812013
+            ]
+          ],
+          "bbox": [
+            425.08563463033295,
+            56.51112376592675,
+            528.3787718804117,
+            72.65749662812013
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageHeader/3",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.16562854372884,
+              57.69058504724545
+            ],
+            [
+              524.646240234375,
+              57.69058504724545
+            ],
+            [
+              524.646240234375,
+              74.54840087890625
+            ],
+            [
+              67.16562854372884,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            67.16562854372884,
+            57.69058504724545,
+            524.646240234375,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/0/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/1",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.24434982799463,
+              34.49033160731926
+            ],
+            [
+              226.03181761157902,
+              34.49033160731926
+            ],
+            [
+              226.03181761157902,
+              56.2269998280363
+            ],
+            [
+              67.24434982799463,
+              56.2269998280363
+            ]
+          ],
+          "bbox": [
+            67.24434982799463,
+            34.49033160731926,
+            226.03181761157902,
+            56.2269998280363
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/PageFooter/20",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.43587495818247,
+              776.6197234754146
+            ],
+            [
+              527.0155982490751,
+              776.6197234754146
+            ],
+            [
+              527.0155982490751,
+              793.0399971008301
+            ],
+            [
+              470.43587495818247,
+              793.0399971008301
+            ]
+          ],
+          "bbox": [
+            470.43587495818247,
+            776.6197234754146,
+            527.0155982490751,
+            793.0399971008301
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/1"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/4",
+          "block_type": "SectionHeader",
+          "html": "<h2>1 Introduction</h2>",
+          "polygon": [
+            [
+              68.6986319208025,
+              87.69581530631278
+            ],
+            [
+              176.50104528470362,
+              87.69581530631278
+            ],
+            [
+              176.50104528470362,
+              107.97161865234375
+            ],
+            [
+              68.6986319208025,
+              107.97161865234375
+            ]
+          ],
+          "bbox": [
+            68.6986319208025,
+            87.69581530631278,
+            176.50104528470362,
+            107.97161865234375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The Regulation (EU) 2017/745 on medical devices<sup>1</sup> , hereafter referred to as the MDR (medical device  regulation), provides a possibility to use clinical data related to an equivalent device in the clinical  evaluation required for a device under conformity assessment<sup>2</sup> .</p>",
+          "polygon": [
+            [
+              67.96467305911277,
+              121.01130767305939
+            ],
+            [
+              528.2423812135942,
+              121.01130767305939
+            ],
+            [
+              528.2423812135942,
+              166.780029296875
+            ],
+            [
+              67.96467305911277,
+              166.780029296875
+            ]
+          ],
+          "bbox": [
+            67.96467305911277,
+            121.01130767305939,
+            528.2423812135942,
+            166.780029296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Whilst carrying out a clinical investigation is the most direct way to generate clinical data concerning  the safety and performance of devices for the purpose of CE marking, clinical data can also be  sourced from data of a device for which the equivalence to the device in question can be  demonstrated<sup>3</sup> . In such cases, equivalence shall be demonstrated according to the MDR  requirements<sup>4</sup> .</p>",
+          "polygon": [
+            [
+              67.69800800160137,
+              177.2492791275201
+            ],
+            [
+              527.9438519609965,
+              177.2492791275201
+            ],
+            [
+              527.9438519609965,
+              254.04998779296875
+            ],
+            [
+              67.69800800160137,
+              254.04998779296875
+            ]
+          ],
+          "bbox": [
+            67.69800800160137,
+            177.2492791275201,
+            527.9438519609965,
+            254.04998779296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">According to Commission Implementing Regulation (EU) 2022/2346 laying down common  specifications for the groups of products without an intended medical purpose listed in Annex XVI to  Regulation (EU) 2017/745 on medical devices<sup>5</sup> , hereinafter referred to as CS, in general it is not  possible to demonstrate equivalence between a medical device and a product without an intended  medical purpose where all available results of clinical investigations relate to medical devices only. Therefore, clinical investigations should be performed for products without an intended medical  purpose<sup>6</sup> .</p>",
+          "polygon": [
+            [
+              68.1321662499262,
+              263.5292912769402
+            ],
+            [
+              528.0983852895741,
+              263.5292912769402
+            ],
+            [
+              528.0983852895741,
+              372.1300048828125
+            ],
+            [
+              68.1321662499262,
+              372.1300048828125
+            ]
+          ],
+          "bbox": [
+            68.1321662499262,
+            263.5292912769402,
+            528.0983852895741,
+            372.1300048828125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The guidance document MDCG 2020-5 on \"Clinical Evaluation – Equivalence\"<sup>7</sup> also covers the  products without an intended medical purpose listed in the Annex XVI of MDR<sup>8</sup> . It was issued in April  2020, before the availability of the CS and with the purposes of highlighting the differences between  the MDR and the MEDDEV 2.7/1 rev.4<sup>9</sup> .</p>",
+          "polygon": [
+            [
+              67.82976564652373,
+              381.6469383069902
+            ],
+            [
+              528.3359808549473,
+              381.6469383069902
+            ],
+            [
+              528.3359808549473,
+              443.9100036621094
+            ],
+            [
+              67.82976564652373,
+              443.9100036621094
+            ]
+          ],
+          "bbox": [
+            67.82976564652373,
+            381.6469383069902,
+            528.3359808549473,
+            443.9100036621094
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/4"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/SectionHeader/9",
+          "block_type": "SectionHeader",
+          "html": "<h2>2 Scope</h2>",
+          "polygon": [
+            [
+              67.73326249206697,
+              456.6919477943427
+            ],
+            [
+              137.97510303718317,
+              456.6919477943427
+            ],
+            [
+              137.97510303718317,
+              476.5415954589844
+            ],
+            [
+              67.73326249206697,
+              476.5415954589844
+            ]
+          ],
+          "bbox": [
+            67.73326249206697,
+            456.6919477943427,
+            137.97510303718317,
+            476.5415954589844
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Text/10",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">This MDCG guidance covers the demonstration of equivalence, based on data pertaining to an  already existing device, for the purpose of CE-marking under the MDR and is applicable to products  without an intended medical purpose listed in the Annex XVI of MDR and covered by the CS. For</p>",
+          "polygon": [
+            [
+              67.5086955111333,
+              487.9577653023778
+            ],
+            [
+              527.9288247058013,
+              487.9577653023778
+            ],
+            [
+              527.9288247058013,
+              535.3500061035156
+            ],
+            [
+              67.5086955111333,
+              535.3500061035156
+            ]
+          ],
+          "bbox": [
+            67.5086955111333,
+            487.9577653023778,
+            527.9288247058013,
+            535.3500061035156
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/11",
+          "block_type": "Footnote",
+          "html": "<p><sup>1</sup> Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices  <a href=\"http://data.europa.eu/eli/reg/2017/745/2020-04-24\">http://data.europa.eu/eli/reg/2017/745/2020-04-24.</a></p>",
+          "polygon": [
+            [
+              67.9446519904533,
+              560.5911220642253
+            ],
+            [
+              526.9991049202023,
+              560.5911220642253
+            ],
+            [
+              526.9991049202023,
+              588.0300140380859
+            ],
+            [
+              67.9446519904533,
+              588.0300140380859
+            ]
+          ],
+          "bbox": [
+            67.9446519904533,
+            560.5911220642253,
+            526.9991049202023,
+            588.0300140380859
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/12",
+          "block_type": "Footnote",
+          "html": "<p><sup>2</sup> MDR, Article 61 and Annex XIV Part A.</p>",
+          "polygon": [
+            [
+              67.80748247199455,
+              585.0452871076358
+            ],
+            [
+              231.84972483445173,
+              585.0452871076358
+            ],
+            [
+              231.84972483445173,
+              600.1500091552734
+            ],
+            [
+              67.80748247199455,
+              600.1500091552734
+            ]
+          ],
+          "bbox": [
+            67.80748247199455,
+            585.0452871076358,
+            231.84972483445173,
+            600.1500091552734
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/13",
+          "block_type": "Footnote",
+          "html": "<p><sup>3</sup> MDR, Article 2 (48) 2nd and 3rd indent.</p>",
+          "polygon": [
+            [
+              67.75056330683249,
+              596.8516266331117
+            ],
+            [
+              236.40515936171678,
+              596.8516266331117
+            ],
+            [
+              236.40515936171678,
+              612.3899993896484
+            ],
+            [
+              67.75056330683249,
+              612.3899993896484
+            ]
+          ],
+          "bbox": [
+            67.75056330683249,
+            596.8516266331117,
+            236.40515936171678,
+            612.3899993896484
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/14",
+          "block_type": "Footnote",
+          "html": "<p><sup>4</sup> MDR, Annex XIV, Part A (3).</p>",
+          "polygon": [
+            [
+              67.92510052351867,
+              609.9203781983944
+            ],
+            [
+              188.9953604056793,
+              609.9203781983944
+            ],
+            [
+              188.9953604056793,
+              624.6300048828125
+            ],
+            [
+              67.92510052351867,
+              624.6300048828125
+            ]
+          ],
+          "bbox": [
+            67.92510052351867,
+            609.9203781983944,
+            188.9953604056793,
+            624.6300048828125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/15",
+          "block_type": "Footnote",
+          "html": "<p><sup>5</sup> Commission Implementing Regulation (EU) 2022/2346 laying down common specifications for the groups of  products without an intended medical purpose listed in Annex XVI to Regulation (EU) 2017/745 of the  European Parliament and of the Council on medical devices – <a href=\"http://data.europa.eu/eli/reg_impl/2022/2346/oj\">http://data.europa.eu/eli/reg_impl/2022/2346/oj.</a></p>",
+          "polygon": [
+            [
+              67.51077435779331,
+              621.8512840101151
+            ],
+            [
+              527.5641388785028,
+              621.8512840101151
+            ],
+            [
+              527.5641388785028,
+              673.4700012207031
+            ],
+            [
+              67.51077435779331,
+              673.4700012207031
+            ]
+          ],
+          "bbox": [
+            67.51077435779331,
+            621.8512840101151,
+            527.5641388785028,
+            673.4700012207031
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/16",
+          "block_type": "Footnote",
+          "html": "<p><sup>6</sup> CS, recital (11).</p>",
+          "polygon": [
+            [
+              67.80348513048301,
+              670.8148040092108
+            ],
+            [
+              137.810902785294,
+              670.8148040092108
+            ],
+            [
+              137.810902785294,
+              685.5900115966797
+            ],
+            [
+              67.80348513048301,
+              685.5900115966797
+            ]
+          ],
+          "bbox": [
+            67.80348513048301,
+            670.8148040092108,
+            137.810902785294,
+            685.5900115966797
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/17",
+          "block_type": "Footnote",
+          "html": "<p><sup>7</sup> <a href=\"https://ec.europa.eu/health/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en#sec2\">https://ec.europa.eu/health/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents</a><a href=\"https://ec.europa.eu/health/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en#sec2\">and-other-guidance_en#sec2.</a></p>",
+          "polygon": [
+            [
+              68.83771993411277,
+              682.61524013611
+            ],
+            [
+              527.925984188051,
+              682.61524013611
+            ],
+            [
+              527.925984188051,
+              710.0700073242188
+            ],
+            [
+              68.83771993411277,
+              710.0700073242188
+            ]
+          ],
+          "bbox": [
+            68.83771993411277,
+            682.61524013611,
+            527.925984188051,
+            710.0700073242188
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/18",
+          "block_type": "Footnote",
+          "html": "<p><sup>8</sup> MDCG 2020-5 \"Clinical Evaluation – Equivalence\", points (a) and (f) of paragraph 4 on \"Demonstration of  equivalence\".</p>",
+          "polygon": [
+            [
+              67.71218195610142,
+              706.5834959850498
+            ],
+            [
+              527.8595069097331,
+              706.5834959850498
+            ],
+            [
+              527.8595069097331,
+              734.4499969482422
+            ],
+            [
+              67.71218195610142,
+              734.4499969482422
+            ]
+          ],
+          "bbox": [
+            67.71218195610142,
+            706.5834959850498,
+            527.8595069097331,
+            734.4499969482422
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/1/Footnote/19",
+          "block_type": "Footnote",
+          "html": "<p><sup>9</sup> MEDDEV 2.7/1 rev.4 \"Clinical evaluation: Guide for manufacturers and notified bodies\" in support of the  application of Council Directives 93/42/EEC and 90/385/EEC on medical devices and active implantable medical  devices, which have been repealed by the MDR.</p>",
+          "polygon": [
+            [
+              67.86704744199662,
+              731.215769766912
+            ],
+            [
+              527.5727520613586,
+              731.215769766912
+            ],
+            [
+              527.5727520613586,
+              771.0499954223633
+            ],
+            [
+              67.86704744199662,
+              771.0499954223633
+            ]
+          ],
+          "bbox": [
+            67.86704744199662,
+            731.215769766912,
+            527.5727520613586,
+            771.0499954223633
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "2": "/page/1/SectionHeader/9"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/2/Page/235",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/2/PageHeader/1'></content-ref><content-ref src='/page/2/PageHeader/2'></content-ref><content-ref src='/page/2/PageHeader/3'></content-ref><content-ref src='/page/2/SectionHeader/0'></content-ref><content-ref src='/page/2/PageFooter/15'></content-ref><content-ref src='/page/2/Text/4'></content-ref><content-ref src='/page/2/Text/5'></content-ref><content-ref src='/page/2/SectionHeader/6'></content-ref><content-ref src='/page/2/SectionHeader/7'></content-ref><content-ref src='/page/2/Text/8'></content-ref><content-ref src='/page/2/Text/9'></content-ref><content-ref src='/page/2/Table/10'></content-ref><content-ref src='/page/2/SectionHeader/11'></content-ref><content-ref src='/page/2/Text/12'></content-ref><content-ref src='/page/2/Footnote/13'></content-ref><content-ref src='/page/2/Footnote/14'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/2/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.44369576019363,
+              34.15079752377708
+            ],
+            [
+              225.9235801408513,
+              34.15079752377708
+            ],
+            [
+              225.9235801408513,
+              56.013487859167164
+            ],
+            [
+              67.44369576019363,
+              56.013487859167164
+            ]
+          ],
+          "bbox": [
+            67.44369576019363,
+            34.15079752377708,
+            225.9235801408513,
+            56.013487859167164
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              424.7631442360674,
+              56.38783311716489
+            ],
+            [
+              528.2556216914948,
+              56.38783311716489
+            ],
+            [
+              528.2556216914948,
+              72.44038084035246
+            ],
+            [
+              424.7631442360674,
+              72.44038084035246
+            ]
+          ],
+          "bbox": [
+            424.7631442360674,
+            56.38783311716489,
+            528.2556216914948,
+            72.44038084035246
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/PageHeader/3",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.26910127500443,
+              57.312836182510225
+            ],
+            [
+              524.646240234375,
+              57.312836182510225
+            ],
+            [
+              524.646240234375,
+              74.54840087890625
+            ],
+            [
+              67.26910127500443,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            67.26910127500443,
+            57.312836182510225,
+            524.646240234375,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/1/SectionHeader/9"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/0",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.44369576019363,
+              34.15079752377708
+            ],
+            [
+              303.2411193847656,
+              34.15079752377708
+            ],
+            [
+              303.2411193847656,
+              58.52838134765625
+            ],
+            [
+              67.44369576019363,
+              58.52838134765625
+            ]
+          ],
+          "bbox": [
+            67.44369576019363,
+            34.15079752377708,
+            303.2411193847656,
+            58.52838134765625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/PageFooter/15",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.75497505706863,
+              776.532133515138
+            ],
+            [
+              527.0033198820253,
+              776.532133515138
+            ],
+            [
+              527.0033198820253,
+              793.0399971008301
+            ],
+            [
+              470.75497505706863,
+              793.0399971008301
+            ]
+          ],
+          "bbox": [
+            470.75497505706863,
+            776.532133515138,
+            527.0033198820253,
+            793.0399971008301
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">dual-purpose devices, which are devices with a medical and a non-medical intended purpose, this  guidance applies only to the non-medical intended purpose.</p>",
+          "polygon": [
+            [
+              67.46231947737917,
+              87.57487000000869
+            ],
+            [
+              527.8776037566907,
+              87.57487000000869
+            ],
+            [
+              527.8776037566907,
+              118.17999267578125
+            ],
+            [
+              67.46231947737917,
+              118.17999267578125
+            ]
+          ],
+          "bbox": [
+            67.46231947737917,
+            87.57487000000869,
+            527.8776037566907,
+            118.17999267578125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/5",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">This guidance document should be used in conjunction with MDCG 2020-5 on equivalence.</p>",
+          "polygon": [
+            [
+              67.28393381728934,
+              128.2388179571843
+            ],
+            [
+              478.33741648791715,
+              128.2388179571843
+            ],
+            [
+              478.33741648791715,
+              143.6199951171875
+            ],
+            [
+              67.28393381728934,
+              143.6199951171875
+            ]
+          ],
+          "bbox": [
+            67.28393381728934,
+            128.2388179571843,
+            478.33741648791715,
+            143.6199951171875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/6",
+          "block_type": "SectionHeader",
+          "html": "<h2>3 Demonstration of equivalence</h2>",
+          "polygon": [
+            [
+              67.61656073659132,
+              157.2911241349639
+            ],
+            [
+              304.60010334466506,
+              157.2911241349639
+            ],
+            [
+              304.60010334466506,
+              176.25164794921875
+            ],
+            [
+              67.61656073659132,
+              176.25164794921875
+            ]
+          ],
+          "bbox": [
+            67.61656073659132,
+            157.2911241349639,
+            304.60010334466506,
+            176.25164794921875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/6"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/SectionHeader/7",
+          "block_type": "SectionHeader",
+          "html": "<h3>3.1 Product without an intended medical purpose vs product without an intended  medical purpose</h3>",
+          "polygon": [
+            [
+              67.64934122772601,
+              189.41247680881463
+            ],
+            [
+              527.2984008789062,
+              189.41247680881463
+            ],
+            [
+              527.2984008789062,
+              224.8599853515625
+            ],
+            [
+              67.64934122772601,
+              224.8599853515625
+            ]
+          ],
+          "bbox": [
+            67.64934122772601,
+            189.41247680881463,
+            527.2984008789062,
+            224.8599853515625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/6",
+            "3": "/page/2/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/8",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">When referring to clinical data from an equivalent device, manufacturers should consider that  equivalence between two devices without an intended medical purpose should be demonstrated in  accordance with the criteria established in the MDR<sup>10</sup> . In particular, the demonstration has to  consider technical, biological and clinical characteristics.</p>",
+          "polygon": [
+            [
+              67.44209224210879,
+              230.6493976487714
+            ],
+            [
+              527.9239225219419,
+              230.6493976487714
+            ],
+            [
+              527.9239225219419,
+              293.04998779296875
+            ],
+            [
+              67.44209224210879,
+              293.04998779296875
+            ]
+          ],
+          "bbox": [
+            67.44209224210879,
+            230.6493976487714,
+            527.9239225219419,
+            293.04998779296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/6",
+            "3": "/page/2/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/9",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">The technical and biological criteria listed in the MDR can be directly considered to compare  characteristics of products without an intended medical purpose. The criterion for the clinical  characteristics should be considered taking into account that some of them are specifically referring  to a medical purpose. The following table clarifies how the characteristics should be considered for  products without an intended medical purpose.</p>",
+          "polygon": [
+            [
+              67.29160779669543,
+              302.17085615312635
+            ],
+            [
+              528.2114562219576,
+              302.17085615312635
+            ],
+            [
+              528.2114562219576,
+              380.2900085449219
+            ],
+            [
+              67.29160779669543,
+              380.2900085449219
+            ]
+          ],
+          "bbox": [
+            67.29160779669543,
+            302.17085615312635,
+            528.2114562219576,
+            380.2900085449219
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/6",
+            "3": "/page/2/SectionHeader/7"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Table/10",
+          "block_type": "Table",
+          "html": "<table border=\"1\" class=\"dataframe pdfplumber-table\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>Elements of the Clinical criterion (MDR, Annex XIV Part A Section 3)</th>\n      <th>Clarifications for the application of the Clinical criterion to products without a medical purpose</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>the device is used for the same clinical condition or purpose,</td>\n      <td>only ‘used for the same purpose’ applies</td>\n    </tr>\n    <tr>\n      <td>including similar severity and stage of disease,</td>\n      <td>‘similar severity and stage of disease’ is not applicable</td>\n    </tr>\n    <tr>\n      <td>at the same site in the body,</td>\n      <td>‘at the same site in the body' is directly applicable</td>\n    </tr>\n    <tr>\n      <td>in a similar population, including as regards age, anatomy and physiology;</td>\n      <td>‘in a similar population’ is directly applicable as well as the similar ‘age’, ‘anatomy’ and ‘physiology’</td>\n    </tr>\n    <tr>\n      <td>has the same kind of user;</td>\n      <td>‘the same kind of user’ is directly applicable</td>\n    </tr>\n    <tr>\n      <td>has similar relevant critical performance</td>\n      <td>‘similar relevant critical performance’ is directly applicable</td>\n    </tr>\n    <tr>\n      <td>in view of the expected clinical effect for a specific intended purpose</td>\n      <td>the expected ‘clinical’ effect is not applicable. Nevertheless, the products have expected effects for the specific intended purpose, therefore the requirement should be considered as ‘in view of the expected effect for a specific intended purpose’</td>\n    </tr>\n  </tbody>\n</table>",
+          "polygon": [
+            [
+              63.38385713130461,
+              413.36951411885013
+            ],
+            [
+              527.864134204778,
+              413.36951411885013
+            ],
+            [
+              527.864134204778,
+              649.9799957275391
+            ],
+            [
+              63.38385713130461,
+              649.9799957275391
+            ]
+          ],
+          "bbox": [
+            63.38385713130461,
+            413.36951411885013,
+            527.864134204778,
+            649.9799957275391
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/6",
+            "3": "/page/2/SectionHeader/7"
+          },
+          "images": null,
+          "source_page": 3,
+          "table_number": 1,
+          "extraction_method": "pdfplumber",
+          "table_data": {
+            "headers": [
+              "Elements of the Clinical criterion (MDR, Annex XIV Part A Section 3)",
+              "Clarifications for the application of the Clinical criterion to products without a medical purpose"
+            ],
+            "rows": [
+              [
+                "the device is used for the same clinical condition or purpose,",
+                "only ‘used for the same purpose’ applies"
+              ],
+              [
+                "including similar severity and stage of disease,",
+                "‘similar severity and stage of disease’ is not applicable"
+              ],
+              [
+                "at the same site in the body,",
+                "‘at the same site in the body' is directly applicable"
+              ],
+              [
+                "in a similar population, including as regards age, anatomy and physiology;",
+                "‘in a similar population’ is directly applicable as well as the similar ‘age’, ‘anatomy’ and ‘physiology’"
+              ],
+              [
+                "has the same kind of user;",
+                "‘the same kind of user’ is directly applicable"
+              ],
+              [
+                "has similar relevant critical performance",
+                "‘similar relevant critical performance’ is directly applicable"
+              ],
+              [
+                "in view of the expected clinical effect for a specific intended purpose",
+                "the expected ‘clinical’ effect is not applicable. Nevertheless, the products have expected effects for the specific intended purpose, therefore the requirement should be considered as ‘in view of the expected effect for a specific intended purpose’"
+              ]
+            ],
+            "pdfplumber_bbox": [
+              65.424,
+              418.15000999999995,
+              529.92002,
+              650.49998
+            ]
+          }
+        },
+        {
+          "id": "/page/2/SectionHeader/11",
+          "block_type": "SectionHeader",
+          "html": "<h2>3.2 Product without an intended medical purpose vs analogous medical device</h2>",
+          "polygon": [
+            [
+              67.93454409966841,
+              673.760096508376
+            ],
+            [
+              496.2821583015192,
+              673.760096508376
+            ],
+            [
+              496.2821583015192,
+              691.8600006103516
+            ],
+            [
+              67.93454409966841,
+              691.8600006103516
+            ]
+          ],
+          "bbox": [
+            67.93454409966841,
+            673.760096508376,
+            496.2821583015192,
+            691.8600006103516
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Text/12",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">In general, a comparison is not possible between a medical device and a product without an intended  medical purpose<sup>11</sup> because not all the clinical characteristics can be compared. In particular, the</p>",
+          "polygon": [
+            [
+              66.70936465323422,
+              697.4305739500431
+            ],
+            [
+              527.9193410416995,
+              697.4305739500431
+            ],
+            [
+              527.9193410416995,
+              729.0600051879883
+            ],
+            [
+              66.70936465323422,
+              729.0600051879883
+            ]
+          ],
+          "bbox": [
+            66.70936465323422,
+            697.4305739500431,
+            527.9193410416995,
+            729.0600051879883
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Footnote/13",
+          "block_type": "Footnote",
+          "html": "<p><sup>10</sup> MDR, Annex XIV Part A (3).</p>",
+          "polygon": [
+            [
+              67.67823318750492,
+              742.7757224866776
+            ],
+            [
+              189.22968021267906,
+              742.7757224866776
+            ],
+            [
+              189.22968021267906,
+              758.9300003051758
+            ],
+            [
+              67.67823318750492,
+              758.9300003051758
+            ]
+          ],
+          "bbox": [
+            67.67823318750492,
+            742.7757224866776,
+            189.22968021267906,
+            758.9300003051758
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/2/Footnote/14",
+          "block_type": "Footnote",
+          "html": "<p><sup>11</sup> CS, recital (11).</p>",
+          "polygon": [
+            [
+              68.01783541047602,
+              755.8330333570444
+            ],
+            [
+              141.38141069003856,
+              755.8330333570444
+            ],
+            [
+              141.38141069003856,
+              771.0499954223633
+            ],
+            [
+              68.01783541047602,
+              771.0499954223633
+            ]
+          ],
+          "bbox": [
+            68.01783541047602,
+            755.8330333570444,
+            141.38141069003856,
+            771.0499954223633
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/11"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "2": "/page/2/SectionHeader/11"
+      },
+      "images": null
+    },
+    {
+      "id": "/page/3/Page/125",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/3/PageHeader/1'></content-ref><content-ref src='/page/3/PageHeader/2'></content-ref><content-ref src='/page/3/PageHeader/3'></content-ref><content-ref src='/page/3/SectionHeader/0'></content-ref><content-ref src='/page/3/PageFooter/11'></content-ref><content-ref src='/page/3/Text/4'></content-ref><content-ref src='/page/3/SectionHeader/5'></content-ref><content-ref src='/page/3/Text/6'></content-ref><content-ref src='/page/3/Text/7'></content-ref><content-ref src='/page/3/Footnote/8'></content-ref><content-ref src='/page/3/Footnote/9'></content-ref><content-ref src='/page/3/Footnote/10'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "children": [
+        {
+          "id": "/page/3/PageHeader/1",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.39140389007645,
+              34.427010221133145
+            ],
+            [
+              225.91269912527548,
+              34.427010221133145
+            ],
+            [
+              225.91269912527548,
+              55.982626584631355
+            ],
+            [
+              67.39140389007645,
+              55.982626584631355
+            ]
+          ],
+          "bbox": [
+            67.39140389007645,
+            34.427010221133145,
+            225.91269912527548,
+            55.982626584631355
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              425.1121614009367,
+              56.599497413805096
+            ],
+            [
+              528.1012258073245,
+              56.599497413805096
+            ],
+            [
+              528.1012258073245,
+              72.45249081592101
+            ],
+            [
+              425.1121614009367,
+              72.45249081592101
+            ]
+          ],
+          "bbox": [
+            425.1121614009367,
+            56.599497413805096,
+            528.1012258073245,
+            72.45249081592101
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/PageHeader/3",
+          "block_type": "PageHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.58584763841604,
+              57.505760620878085
+            ],
+            [
+              524.646240234375,
+              57.505760620878085
+            ],
+            [
+              524.646240234375,
+              74.54840087890625
+            ],
+            [
+              67.58584763841604,
+              74.54840087890625
+            ]
+          ],
+          "bbox": [
+            67.58584763841604,
+            57.505760620878085,
+            524.646240234375,
+            74.54840087890625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/2/SectionHeader/11"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/SectionHeader/0",
+          "block_type": "SectionHeader",
+          "html": "",
+          "polygon": [
+            [
+              67.39140389007645,
+              34.427010221133145
+            ],
+            [
+              303.2411193847656,
+              34.427010221133145
+            ],
+            [
+              303.2411193847656,
+              58.52838134765625
+            ],
+            [
+              67.39140389007645,
+              58.52838134765625
+            ]
+          ],
+          "bbox": [
+            67.39140389007645,
+            34.427010221133145,
+            303.2411193847656,
+            58.52838134765625
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/3/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/PageFooter/11",
+          "block_type": "PageFooter",
+          "html": "",
+          "polygon": [
+            [
+              470.78805334441904,
+              776.7810830365094
+            ],
+            [
+              526.6240649475559,
+              776.7810830365094
+            ],
+            [
+              526.6240649475559,
+              793.0399971008301
+            ],
+            [
+              470.78805334441904,
+              793.0399971008301
+            ]
+          ],
+          "bbox": [
+            470.78805334441904,
+            776.7810830365094,
+            526.6240649475559,
+            793.0399971008301
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/3/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/4",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">characteristic 'similar severity and stage of disease' would be defined and available for the medical  device while it would not be defined and available for the product without an intended medical  purpose<sup>12</sup> . As a consequence, the demonstration of equivalence cannot be completed and  established between a device without an intended medical purpose and an analogous device with a  medical purpose<sup>13</sup> .</p>",
+          "polygon": [
+            [
+              67.56003099724988,
+              87.11110427054781
+            ],
+            [
+              528.3160514158926,
+              87.11110427054781
+            ],
+            [
+              528.3160514158926,
+              164.5
+            ],
+            [
+              67.56003099724988,
+              164.5
+            ]
+          ],
+          "bbox": [
+            67.56003099724988,
+            87.11110427054781,
+            528.3160514158926,
+            164.5
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/3/SectionHeader/0"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/SectionHeader/5",
+          "block_type": "SectionHeader",
+          "html": "<h3>3.3 Product without an intended medical purpose vs dual-purpose device</h3>",
+          "polygon": [
+            [
+              67.80392037110605,
+              176.02793918246152
+            ],
+            [
+              468.71603308997163,
+              176.02793918246152
+            ],
+            [
+              468.71603308997163,
+              192.3399658203125
+            ],
+            [
+              67.80392037110605,
+              192.3399658203125
+            ]
+          ],
+          "bbox": [
+            67.80392037110605,
+            176.02793918246152,
+            468.71603308997163,
+            192.3399658203125
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/3/SectionHeader/0",
+            "3": "/page/3/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/6",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">Equivalence between a product without an intended medical purpose and a device with both a  medical and a non-medical purpose (dual-purpose device) can be demonstrated comparing the  characteristics related to the non-medical purpose for both the devices. For the dual-purpose device,  only the characteristics related to the non-medical purpose should be considered.</p>",
+          "polygon": [
+            [
+              67.49178984903868,
+              198.89950145745212
+            ],
+            [
+              527.6528363359965,
+              198.89950145745212
+            ],
+            [
+              527.6528363359965,
+              260.530029296875
+            ],
+            [
+              67.49178984903868,
+              260.530029296875
+            ]
+          ],
+          "bbox": [
+            67.49178984903868,
+            198.89950145745212,
+            527.6528363359965,
+            260.530029296875
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/3/SectionHeader/0",
+            "3": "/page/3/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Text/7",
+          "block_type": "Text",
+          "html": "<p block-type=\"Text\">If equivalence is demonstrated, only clinical data of the dual-purpose device related to the general  safety and performance requirements<sup>14</sup> applicable for the non-medical purpose should be used for  the clinical evaluation of the product without an intended medical purpose.</p>",
+          "polygon": [
+            [
+              67.54246102052011,
+              269.9901949168313
+            ],
+            [
+              528.0394674536564,
+              269.9901949168313
+            ],
+            [
+              528.0394674536564,
+              316.80999755859375
+            ],
+            [
+              67.54246102052011,
+              316.80999755859375
+            ]
+          ],
+          "bbox": [
+            67.54246102052011,
+            269.9901949168313,
+            528.0394674536564,
+            316.80999755859375
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/3/SectionHeader/0",
+            "3": "/page/3/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Footnote/8",
+          "block_type": "Footnote",
+          "html": "<p><sup>12</sup> This further explains the sentence \"To duly justify reliance on existing clinical data from an analogous medical  device, the principles of demonstration of equivalence should be applied with the acceptance that the device  under evaluation will only have an aesthetic or another non-medical purpose whereas the analogous device  has a medical purpose\" from point 4(f) of MDCG 2020-5.</p>",
+          "polygon": [
+            [
+              67.60720879004644,
+              669.82111101159
+            ],
+            [
+              527.2683585140506,
+              669.82111101159
+            ],
+            [
+              527.2683585140506,
+              722.3099975585938
+            ],
+            [
+              67.60720879004644,
+              722.3099975585938
+            ]
+          ],
+          "bbox": [
+            67.60720879004644,
+            669.82111101159,
+            527.2683585140506,
+            722.3099975585938
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/3/SectionHeader/0",
+            "3": "/page/3/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Footnote/9",
+          "block_type": "Footnote",
+          "html": "<p><sup>13</sup> In cases where equivalence cannot be demonstrated, data from similar devices may be useful for a variety of  other purposes (e.g., ensuring that the risk management system is comprehensive; understanding the state of  the art; helping to define the scope of the clinical evaluation) that are listed in point 5 of MDCG 2020-5.</p>",
+          "polygon": [
+            [
+              68.10831391841398,
+              718.4798051353448
+            ],
+            [
+              527.6331817857564,
+              718.4798051353448
+            ],
+            [
+              527.6331817857564,
+              758.9300003051758
+            ],
+            [
+              68.10831391841398,
+              758.9300003051758
+            ]
+          ],
+          "bbox": [
+            68.10831391841398,
+            718.4798051353448,
+            527.6331817857564,
+            758.9300003051758
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/3/SectionHeader/0",
+            "3": "/page/3/SectionHeader/5"
+          },
+          "images": {}
+        },
+        {
+          "id": "/page/3/Footnote/10",
+          "block_type": "Footnote",
+          "html": "<p><sup>14</sup> MDR, Annex I.</p>",
+          "polygon": [
+            [
+              67.73457966763667,
+              755.3452478886074
+            ],
+            [
+              137.66479938036247,
+              755.3452478886074
+            ],
+            [
+              137.66479938036247,
+              771.0499954223633
+            ],
+            [
+              67.73457966763667,
+              771.0499954223633
+            ]
+          ],
+          "bbox": [
+            67.73457966763667,
+            755.3452478886074,
+            137.66479938036247,
+            771.0499954223633
+          ],
+          "children": null,
+          "section_hierarchy": {
+            "1": "/page/0/SectionHeader/3",
+            "2": "/page/3/SectionHeader/0",
+            "3": "/page/3/SectionHeader/5"
+          },
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "2": "/page/3/SectionHeader/0",
+        "3": "/page/3/SectionHeader/5"
+      },
+      "images": null
+    }
+  ],
+  "block_type": "Document",
+  "metadata": {
+    "table_of_contents": [
+      {
+        "title": "MDCG 2023-6",
+        "heading_level": null,
+        "page_id": 0,
+        "polygon": [
+          [
+            67.38372418382005,
+            212.44784695361196
+          ],
+          [
+            226.68023451029202,
+            212.44784695361196
+          ],
+          [
+            226.68023451029202,
+            240.699951171875
+          ],
+          [
+            67.38372418382005,
+            240.699951171875
+          ]
+        ]
+      },
+      {
+        "title": "Guidance on demonstration of \nequivalence for Annex XVI products",
+        "heading_level": null,
+        "page_id": 0,
+        "polygon": [
+          [
+            67.36404099932845,
+            254.62936876930513
+          ],
+          [
+            483.0149245562421,
+            254.62936876930513
+          ],
+          [
+            483.0149245562421,
+            314.16998291015625
+          ],
+          [
+            67.36404099932845,
+            314.16998291015625
+          ]
+        ]
+      },
+      {
+        "title": "",
+        "heading_level": null,
+        "page_id": 0,
+        "polygon": [
+          [
+            67.98218576733952,
+            325.59215525952385
+          ],
+          [
+            422.9942805292624,
+            325.59215525952385
+          ],
+          [
+            422.9942805292624,
+            346.5678456579057
+          ],
+          [
+            67.98218576733952,
+            346.5678456579057
+          ]
+        ]
+      },
+      {
+        "title": "",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            67.24434982799463,
+            34.49033160731926
+          ],
+          [
+            226.03181761157902,
+            34.49033160731926
+          ],
+          [
+            226.03181761157902,
+            56.2269998280363
+          ],
+          [
+            67.24434982799463,
+            56.2269998280363
+          ]
+        ]
+      },
+      {
+        "title": "1 Introduction",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            68.6986319208025,
+            87.69581530631278
+          ],
+          [
+            176.50104528470362,
+            87.69581530631278
+          ],
+          [
+            176.50104528470362,
+            107.97161865234375
+          ],
+          [
+            68.6986319208025,
+            107.97161865234375
+          ]
+        ]
+      },
+      {
+        "title": "2 Scope",
+        "heading_level": null,
+        "page_id": 1,
+        "polygon": [
+          [
+            67.73326249206697,
+            456.6919477943427
+          ],
+          [
+            137.97510303718317,
+            456.6919477943427
+          ],
+          [
+            137.97510303718317,
+            476.5415954589844
+          ],
+          [
+            67.73326249206697,
+            476.5415954589844
+          ]
+        ]
+      },
+      {
+        "title": "Medical Devices",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            67.44369576019363,
+            34.15079752377708
+          ],
+          [
+            303.2411193847656,
+            34.15079752377708
+          ],
+          [
+            303.2411193847656,
+            58.52838134765625
+          ],
+          [
+            67.44369576019363,
+            58.52838134765625
+          ]
+        ]
+      },
+      {
+        "title": "3 Demonstration of equivalence",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            67.61656073659132,
+            157.2911241349639
+          ],
+          [
+            304.60010334466506,
+            157.2911241349639
+          ],
+          [
+            304.60010334466506,
+            176.25164794921875
+          ],
+          [
+            67.61656073659132,
+            176.25164794921875
+          ]
+        ]
+      },
+      {
+        "title": "3.1 Product without an intended medical purpose vs product without an intended \nmedical purpose",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            67.64934122772601,
+            189.41247680881463
+          ],
+          [
+            527.2984008789062,
+            189.41247680881463
+          ],
+          [
+            527.2984008789062,
+            224.8599853515625
+          ],
+          [
+            67.64934122772601,
+            224.8599853515625
+          ]
+        ]
+      },
+      {
+        "title": "3.2 Product without an intended medical purpose vs analogous medical device",
+        "heading_level": null,
+        "page_id": 2,
+        "polygon": [
+          [
+            67.93454409966841,
+            673.760096508376
+          ],
+          [
+            496.2821583015192,
+            673.760096508376
+          ],
+          [
+            496.2821583015192,
+            691.8600006103516
+          ],
+          [
+            67.93454409966841,
+            691.8600006103516
+          ]
+        ]
+      },
+      {
+        "title": "Medical Devices",
+        "heading_level": null,
+        "page_id": 3,
+        "polygon": [
+          [
+            67.39140389007645,
+            34.427010221133145
+          ],
+          [
+            303.2411193847656,
+            34.427010221133145
+          ],
+          [
+            303.2411193847656,
+            58.52838134765625
+          ],
+          [
+            67.39140389007645,
+            58.52838134765625
+          ]
+        ]
+      },
+      {
+        "title": "3.3 Product without an intended medical purpose vs dual-purpose device",
+        "heading_level": null,
+        "page_id": 3,
+        "polygon": [
+          [
+            67.80392037110605,
+            176.02793918246152
+          ],
+          [
+            468.71603308997163,
+            176.02793918246152
+          ],
+          [
+            468.71603308997163,
+            192.3399658203125
+          ],
+          [
+            67.80392037110605,
+            192.3399658203125
+          ]
+        ]
+      }
+    ],
+    "page_stats": [
+      {
+        "page_id": 0,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            46
+          ],
+          [
+            "Line",
+            16
+          ],
+          [
+            "Text",
+            4
+          ],
+          [
+            "SectionHeader",
+            3
+          ],
+          [
+            "PageHeader",
+            2
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 1,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            193
+          ],
+          [
+            "Line",
+            52
+          ],
+          [
+            "Footnote",
+            9
+          ],
+          [
+            "Text",
+            5
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "SectionHeader",
+            3
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 2,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            171
+          ],
+          [
+            "Line",
+            49
+          ],
+          [
+            "Text",
+            5
+          ],
+          [
+            "SectionHeader",
+            4
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "Footnote",
+            2
+          ],
+          [
+            "Table",
+            1
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      },
+      {
+        "page_id": 3,
+        "text_extraction_method": "pdftext",
+        "block_counts": [
+          [
+            "Span",
+            88
+          ],
+          [
+            "Line",
+            26
+          ],
+          [
+            "PageHeader",
+            3
+          ],
+          [
+            "Text",
+            3
+          ],
+          [
+            "Footnote",
+            3
+          ],
+          [
+            "SectionHeader",
+            2
+          ],
+          [
+            "PageFooter",
+            1
+          ]
+        ],
+        "block_metadata": {
+          "llm_request_count": 0,
+          "llm_error_count": 0,
+          "llm_tokens_used": 0,
+          "previous_text": "",
+          "previous_type": "",
+          "previous_order": 0
+        }
+      }
+    ],
+    "debug_data_path": "debug_data/MDCG 2023-6 Annex XVI"
+  }
+}

@@ -1,0 +1,468 @@
+{
+  "artifact": "prospective-cases/v1-draft",
+  "status": "working_review_copy_of_frozen_user_approved_development_judgments",
+  "analysis_head": "f69912b211bbadda8b8ba96cd2f1c189f8f490aa",
+  "corpus_identity": "corpus:sha256:7121229f6c645f3ffdee7a208ea9886b85171fcc90db2fd7148ab028d98a2eab",
+  "chunk_set_identity": "chunk-set:sha256:48c56cb87716c5da233522ecacfb712f6ebbc8dea19b66102f9916eebe8a035b",
+  "source_count": 18,
+  "chunk_count": 938,
+  "note": "Accepted substantive complete combinations are non-exhaustive; all other chunks are unjudged. No evaluation execution is authorized by this approval.",
+  "cases": [
+    {
+      "id": "P1",
+      "question": "Under MDR Article 83(1)-(2), what must a manufacturer's post-market surveillance system do, and how often must class IIa versus class IIb and III manufacturers update their PSUR under Article 86(1)?",
+      "single_chunk_assessment": "Neither cited chunk contains the full specified Article 83(2) system function and both Article 86 update frequencies; other equivalent support has not been exhaustively adjudicated.",
+      "mandatory_element_evidence": [
+        {
+          "summary": "Risk- and type-appropriate system integrated with quality management",
+          "supporting_excerpts": [
+            {
+              "source_identity": "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+              "locator": "Article 83(1)",
+              "chunk_id": "chunk:sha256:80400e0262fbaa2fa177e4c12e326e0686e1842880572937680fd486e5b3a9a0",
+              "exact_quote": "For each device, manufacturers shall plan, establish, document, implement, maintain and update a post-market surveillance system in a manner that is proportionate to the risk class and appropriate for the type of device."
+            },
+            {
+              "source_identity": "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+              "locator": "Article 83(1)",
+              "chunk_id": "chunk:sha256:80400e0262fbaa2fa177e4c12e326e0686e1842880572937680fd486e5b3a9a0",
+              "exact_quote": "That system shall be an integral part of the manufacturer's quality management system referred to in Article 10(9)."
+            }
+          ],
+          "element_id": "P1.1"
+        },
+        {
+          "summary": "Systematic lifetime data, conclusions and preventive and corrective action",
+          "supporting_excerpts": [
+            {
+              "source_identity": "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+              "locator": "Article 83(2)",
+              "chunk_id": "chunk:sha256:80400e0262fbaa2fa177e4c12e326e0686e1842880572937680fd486e5b3a9a0",
+              "exact_quote": "The post-market surveillance system shall be suited to actively and systematically gathering, recording and analysing relevant data on the quality, performance and safety of a device throughout its entire lifetime, and to drawing the necessary conclusions and to determining, implementing and monitoring any preventive and corrective actions."
+            }
+          ],
+          "element_id": "P1.2"
+        },
+        {
+          "summary": "Class IIb and III at least annually",
+          "supporting_excerpts": [
+            {
+              "source_identity": "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+              "locator": "Article 86(1), first following subparagraph",
+              "chunk_id": "chunk:sha256:9872b7f43770d904d7cd1c723dd9de5b4a1df03d222fbc2a9cf0226be2022867",
+              "exact_quote": "Manufacturers of class IIb and class III devices shall update the PSUR at least annually."
+            }
+          ],
+          "element_id": "P1.3"
+        },
+        {
+          "summary": "Class IIa when necessary and at least every two years",
+          "supporting_excerpts": [
+            {
+              "source_identity": "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+              "locator": "Article 86(1), second following subparagraph",
+              "chunk_id": "chunk:sha256:9872b7f43770d904d7cd1c723dd9de5b4a1df03d222fbc2a9cf0226be2022867",
+              "exact_quote": "Manufacturers of class IIa devices shall update the PSUR when necessary and at least every two years."
+            }
+          ],
+          "element_id": "P1.4"
+        }
+      ],
+      "combination_status": "user_approved_assistant_assisted_development_judgment_not_independent_regulatory_validation",
+      "complete_combination_coverage": "Each accepted substantive combination covers all mandatory substantive elements; accepted combinations are non-exhaustive and all other chunks remain unjudged.",
+      "expected_behavior": "answered",
+      "accepted_substantive_complete_combinations": [
+        [
+          "chunk:sha256:80400e0262fbaa2fa177e4c12e326e0686e1842880572937680fd486e5b3a9a0",
+          "chunk:sha256:9872b7f43770d904d7cd1c723dd9de5b4a1df03d222fbc2a9cf0226be2022867"
+        ]
+      ]
+    },
+    {
+      "id": "P2",
+      "question": "For an imported MDR device, what importer identification details and locations are specified in Article 13(3), and which distributor checks may use representative sampling under Article 14(2)?",
+      "single_chunk_assessment": "The two cited MDR chunks are complementary. Dual-applicable MDCG 2021-27 chunk da229a705fe07e95a08d6787110535761003590fba1c14eb3a9b0a287ceee4a7 covers sampling and importer information generally; review its full context and other guidance before excluding a single-chunk alternative.",
+      "mandatory_element_evidence": [
+        {
+          "summary": "Importer identification details and permitted locations",
+          "supporting_excerpts": [
+            {
+              "source_identity": "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+              "locator": "Article 13(3)",
+              "chunk_id": "chunk:sha256:c0e3ce7026fdf9a0449eeb1bd6e3bad8f29bff628c7a014353debbc89ff1915c",
+              "exact_quote": "Importers shall indicate on the device or on its packaging or in a document accompanying the device their name, registered trade name or registered trade mark, their registered place of business and the address at which they can be contacted, so that their location can be established."
+            }
+          ],
+          "element_id": "P2.1"
+        },
+        {
+          "summary": "Additional label must not obscure manufacturer information",
+          "supporting_excerpts": [
+            {
+              "source_identity": "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+              "locator": "Article 13(3)",
+              "chunk_id": "chunk:sha256:c0e3ce7026fdf9a0449eeb1bd6e3bad8f29bff628c7a014353debbc89ff1915c",
+              "exact_quote": "They shall ensure that any additional label does not obscure any information on the label provided by the manufacturer."
+            }
+          ],
+          "element_id": "P2.2"
+        },
+        {
+          "summary": "Representative sampling permitted for points (a), (b), and (d)",
+          "supporting_excerpts": [
+            {
+              "source_identity": "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+              "locator": "Article 14(2), sampling subparagraph",
+              "chunk_id": "chunk:sha256:3592de240f3b9348bec09a13a864fa53e9e69c09aec235ff9bc56e88eb0d81fb",
+              "exact_quote": "In order to meet the requirements referred to in points (a), (b) and (d) of the first subparagraph the distributor may apply a sampling method that is representative of the devices supplied by that distributor."
+            }
+          ],
+          "element_id": "P2.3"
+        },
+        {
+          "summary": "Point (a): CE marking and declaration",
+          "supporting_excerpts": [
+            {
+              "source_identity": "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+              "locator": "Article 14(2)(a)",
+              "chunk_id": "chunk:sha256:3592de240f3b9348bec09a13a864fa53e9e69c09aec235ff9bc56e88eb0d81fb",
+              "exact_quote": "(a) the device has been CE marked and that the EU declaration of conformity of the device has been drawn up;"
+            }
+          ],
+          "element_id": "P2.4"
+        },
+        {
+          "summary": "Point (b): manufacturer information",
+          "supporting_excerpts": [
+            {
+              "source_identity": "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+              "locator": "Article 14(2)(b)",
+              "chunk_id": "chunk:sha256:3592de240f3b9348bec09a13a864fa53e9e69c09aec235ff9bc56e88eb0d81fb",
+              "exact_quote": "(b) the device is accompanied by the information to be supplied by the manufacturer in accordance with Article 10(11);"
+            }
+          ],
+          "element_id": "P2.5"
+        },
+        {
+          "summary": "Point (d): UDI where applicable",
+          "supporting_excerpts": [
+            {
+              "source_identity": "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+              "locator": "Article 14(2)(d)",
+              "chunk_id": "chunk:sha256:3592de240f3b9348bec09a13a864fa53e9e69c09aec235ff9bc56e88eb0d81fb",
+              "exact_quote": "(d) that, where applicable, a UDI has been assigned by the manufacturer."
+            }
+          ],
+          "element_id": "P2.6"
+        },
+        {
+          "summary": "Point (c) is not included in the express sampling permission",
+          "supporting_excerpts": [
+            {
+              "source_identity": "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+              "locator": "Article 14(2)(c)",
+              "chunk_id": "chunk:sha256:3592de240f3b9348bec09a13a864fa53e9e69c09aec235ff9bc56e88eb0d81fb",
+              "exact_quote": "(c) for imported devices, the importer has complied with the requirements set out in Article 13(3);"
+            },
+            {
+              "source_identity": "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+              "locator": "Article 14(2), sampling subparagraph",
+              "chunk_id": "chunk:sha256:3592de240f3b9348bec09a13a864fa53e9e69c09aec235ff9bc56e88eb0d81fb",
+              "exact_quote": "In order to meet the requirements referred to in points (a), (b) and (d) of the first subparagraph the distributor may apply a sampling method that is representative of the devices supplied by that distributor."
+            }
+          ],
+          "element_id": "P2.7"
+        }
+      ],
+      "combination_status": "user_approved_assistant_assisted_development_judgment_not_independent_regulatory_validation",
+      "alternative_adjudication": {
+        "guidance_excerpt": {
+          "source_identity": "mdcg-2021-27@sha256:ddd71caa80491a0458ed7435ffd298016f3c3ede6c01319c8eeaa036917d3484",
+          "locator": "MDCG 2021-27, Verification Obligations",
+          "chunk_id": "chunk:sha256:da229a705fe07e95a08d6787110535761003590fba1c14eb3a9b0a287ceee4a7",
+          "exact_quote": "For distributors, a sampling method representative of the devices supplied can be used to verify information in Article 14(2) (a), (b) and (d) of the Regulations."
+        },
+        "finding": "Guidance alone omits the specific Article 13(3) importer identification fields and no-obscuring qualification. Paired with Article 13(3), it identifies the sampling points and describes device information generally but does not explicitly state that the distributor checks the declaration has been drawn up. It is not verified complete for this rubric; other alternatives remain unreviewed."
+      },
+      "complete_combination_coverage": "Each accepted substantive combination covers all mandatory substantive elements; accepted combinations are non-exhaustive and all other chunks remain unjudged.",
+      "expected_behavior": "answered",
+      "accepted_substantive_complete_combinations": [
+        [
+          "chunk:sha256:c0e3ce7026fdf9a0449eeb1bd6e3bad8f29bff628c7a014353debbc89ff1915c",
+          "chunk:sha256:3592de240f3b9348bec09a13a864fa53e9e69c09aec235ff9bc56e88eb0d81fb"
+        ]
+      ]
+    },
+    {
+      "id": "P3",
+      "question": "According to Q4’s Table 1 in the Annex XVI transition Q&A, what transition end date and two conditions applying throughout the period are listed? Separately, according to Q10, how must a dual-purpose device handle applicable MDR and common-specification requirements when they differ?",
+      "single_chunk_assessment": "Table 1 and Q10 provide complementary substantive elements; the source-specific question establishes which table and Q&A are requested.",
+      "mandatory_element_evidence": [
+        {
+          "summary": "Table 1 transition end date: 31 December 2029",
+          "supporting_excerpts": [
+            {
+              "source_identity": "annex-xvi-transition-provisions-qa@sha256:5bda9501826a7c9a968a8283e230af657e71b39bddeaaca30f5feb877804d581",
+              "locator": "Q4 Table 1, page 4, table header",
+              "chunk_id": "chunk:sha256:fbd8c151654cd3c10c3bb3153660572ce1ba5050ec216e3c76fe22b10edc7b2e",
+              "exact_quote": "From 22/06/2023 to 31/12/2029"
+            }
+          ],
+          "element_id": "P3.1"
+        },
+        {
+          "summary": "Prior lawful Union marketing and continuing compliance",
+          "supporting_excerpts": [
+            {
+              "source_identity": "annex-xvi-transition-provisions-qa@sha256:5bda9501826a7c9a968a8283e230af657e71b39bddeaaca30f5feb877804d581",
+              "locator": "Q4 Table 1, page 4, first condition cell",
+              "chunk_id": "chunk:sha256:fbd8c151654cd3c10c3bb3153660572ce1ba5050ec216e3c76fe22b10edc7b2e",
+              "exact_quote": "the product was lawfully marketed in the Union before 22 June 2023 and continues to comply with the requirements of Union and national law that were applicable to it before 22 June 2023;"
+            }
+          ],
+          "element_id": "P3.2"
+        },
+        {
+          "summary": "No significant changes in design and intended purpose",
+          "supporting_excerpts": [
+            {
+              "source_identity": "annex-xvi-transition-provisions-qa@sha256:5bda9501826a7c9a968a8283e230af657e71b39bddeaaca30f5feb877804d581",
+              "locator": "Q4 Table 1, page 4, first condition cell",
+              "chunk_id": "chunk:sha256:fbd8c151654cd3c10c3bb3153660572ce1ba5050ec216e3c76fe22b10edc7b2e",
+              "exact_quote": "the manufacturer does not make significant changes in the design and intended purpose of the product."
+            }
+          ],
+          "element_id": "P3.3"
+        },
+        {
+          "summary": "Dual-purpose requirements apply cumulatively",
+          "supporting_excerpts": [
+            {
+              "source_identity": "annex-xvi-transition-provisions-qa@sha256:5bda9501826a7c9a968a8283e230af657e71b39bddeaaca30f5feb877804d581",
+              "locator": "Q10, page 7",
+              "chunk_id": "chunk:sha256:a3519082d4e08a51a193b7e5825331789051188a0181a406c326eee9b95fce33",
+              "exact_quote": "For a dual-purpose device, which has both a medical and a non-medical intended purpose, the applicable requirements from MDR and CS must be cumulatively fulfilled."
+            }
+          ],
+          "element_id": "P3.4"
+        },
+        {
+          "summary": "Stricter requirement where requirements differ",
+          "supporting_excerpts": [
+            {
+              "source_identity": "annex-xvi-transition-provisions-qa@sha256:5bda9501826a7c9a968a8283e230af657e71b39bddeaaca30f5feb877804d581",
+              "locator": "Q10, page 7",
+              "chunk_id": "chunk:sha256:a3519082d4e08a51a193b7e5825331789051188a0181a406c326eee9b95fce33",
+              "exact_quote": "Considering that the device must fulfil both the applicable requirements from the MDR and the CS, in case such requirements differ, for example in setting the end of the transitional period, the stricter requirement should be taken into consideration and fulfilled."
+            }
+          ],
+          "element_id": "P3.5"
+        },
+        {
+          "summary": "Other dated conditions apply; the two ongoing conditions are not a complete product-eligibility assessment",
+          "supporting_excerpts": [
+            {
+              "source_identity": "annex-xvi-transition-provisions-qa@sha256:5bda9501826a7c9a968a8283e230af657e71b39bddeaaca30f5feb877804d581",
+              "locator": "Q4 Table 1, page 4, dated condition cell",
+              "chunk_id": "chunk:sha256:fbd8c151654cd3c10c3bb3153660572ce1ba5050ec216e3c76fe22b10edc7b2e",
+              "exact_quote": "the sponsor has started the clinical investigation"
+            }
+          ],
+          "element_id": "P3.6"
+        }
+      ],
+      "combination_status": "user_approved_assistant_assisted_development_judgment_not_independent_regulatory_validation",
+      "alternative_adjudication": {
+        "decision": "User approved Table 1 plus Q10 as the substantive complete combination for the source-specific question. Q4 introductory text is supporting context only. Other combinations remain unjudged.",
+        "structured_table": "Page 4 Table 1: header 22/06/2023 to 31/12/2029; first row first cell contains both ongoing conditions; three dates in the next row align with condition cells in the following row. Relationships checked in structured table."
+      },
+      "complete_combination_coverage": "Each accepted substantive combination covers all mandatory substantive elements; accepted combinations are non-exhaustive and all other chunks remain unjudged.",
+      "supporting_context": {
+        "chunk_id": "chunk:sha256:472ed78a939bbd328e7186255d236b20c4feb560964810040d61342f5cc7f5bf",
+        "role": "Q4 introduction; not a mandatory combination member",
+        "evidence": [
+          {
+            "source_identity": "annex-xvi-transition-provisions-qa@sha256:5bda9501826a7c9a968a8283e230af657e71b39bddeaaca30f5feb877804d581",
+            "locator": "Q4, page 3",
+            "chunk_id": "chunk:sha256:472ed78a939bbd328e7186255d236b20c4feb560964810040d61342f5cc7f5bf",
+            "exact_quote": "4 What is the transitional period set out in the CS for products for which a notified body is involved in the conformity assessment and the manufacturer decides to carry out a clinical investigation? Are there conditions to be satisfied?"
+          },
+          {
+            "source_identity": "annex-xvi-transition-provisions-qa@sha256:5bda9501826a7c9a968a8283e230af657e71b39bddeaaca30f5feb877804d581",
+            "locator": "Q4, page 3",
+            "chunk_id": "chunk:sha256:472ed78a939bbd328e7186255d236b20c4feb560964810040d61342f5cc7f5bf",
+            "exact_quote": "The period is about 6,5 years. It starts from 22 June 2023 and ends on 31 December 2029."
+          }
+        ]
+      },
+      "expected_behavior": "answered",
+      "accepted_substantive_complete_combinations": [
+        [
+          "chunk:sha256:fbd8c151654cd3c10c3bb3153660572ce1ba5050ec216e3c76fe22b10edc7b2e",
+          "chunk:sha256:a3519082d4e08a51a193b7e5825331789051188a0181a406c326eee9b95fce33"
+        ]
+      ]
+    },
+    {
+      "id": "P4",
+      "question": "According to MDCG 2024-13, how does the regulatory treatment of ethylene oxide used during manufacture of a sterile medical device differ from that of ethylene-oxide cartridges used by a health institution to sterilise reusable medical devices?",
+      "single_chunk_assessment": "The section 2.1 opening supplies additional QMS context but is not required for the substantive rubric. The continuation and section 2.2 are the approved substantive combination; the disclaimer is separately scored during answer review.",
+      "mandatory_element_evidence": [
+        {
+          "summary": "Manufacturing use in MDR/IVDR scope, EtO itself not device/accessory for that use, BPR exclusion",
+          "supporting_excerpts": [
+            {
+              "source_identity": "mdcg-2024-13@sha256:c3a830a89489ef6e75fa375200a42d5aec9771866a2db160616a9ae0a9dbfdd5",
+              "locator": "Section 2.1 continuation, page 3",
+              "chunk_id": "chunk:sha256:21cf16a62fa08540e2a77b4ddebd699ee290db9d240ec289a00b786ac5020f65",
+              "exact_quote": "That means that this use of EtO is in scope of the MDR and IVDR even though EtO does not itself fall under the definitions of medical device or accessory for a medical device if used during the manufacturing process."
+            },
+            {
+              "source_identity": "mdcg-2024-13@sha256:c3a830a89489ef6e75fa375200a42d5aec9771866a2db160616a9ae0a9dbfdd5",
+              "locator": "Section 2.1 continuation, page 3",
+              "chunk_id": "chunk:sha256:21cf16a62fa08540e2a77b4ddebd699ee290db9d240ec289a00b786ac5020f65",
+              "exact_quote": "Therefore, EtO falls outside the scope of the BPR, as its Article 2(2)(b) provides that the BPR does not apply in case of biocidal products or treated articles falling within the scope of the MDR or IVDR."
+            }
+          ],
+          "element_id": "P4.1"
+        },
+        {
+          "summary": "Process and validation controlled, device conformity assessment, no extra assessment of EtO itself",
+          "supporting_excerpts": [
+            {
+              "source_identity": "mdcg-2024-13@sha256:c3a830a89489ef6e75fa375200a42d5aec9771866a2db160616a9ae0a9dbfdd5",
+              "locator": "Section 2.1 continuation, page 3",
+              "chunk_id": "chunk:sha256:21cf16a62fa08540e2a77b4ddebd699ee290db9d240ec289a00b786ac5020f65",
+              "exact_quote": "Where EtO is used for sterilisation during the manufacturing of medical devices and IVDs, its use is controlled as part of the sterilisation and validation processes of the manufacturer."
+            },
+            {
+              "source_identity": "mdcg-2024-13@sha256:c3a830a89489ef6e75fa375200a42d5aec9771866a2db160616a9ae0a9dbfdd5",
+              "locator": "Section 2.1 continuation, page 3",
+              "chunk_id": "chunk:sha256:21cf16a62fa08540e2a77b4ddebd699ee290db9d240ec289a00b786ac5020f65",
+              "exact_quote": "These processes are subject to MDR/IVDR conformity assessment procedure in relation to the device being sterilised."
+            },
+            {
+              "source_identity": "mdcg-2024-13@sha256:c3a830a89489ef6e75fa375200a42d5aec9771866a2db160616a9ae0a9dbfdd5",
+              "locator": "Section 2.1 continuation, page 3",
+              "chunk_id": "chunk:sha256:21cf16a62fa08540e2a77b4ddebd699ee290db9d240ec289a00b786ac5020f65",
+              "exact_quote": "EtO itself is not subject to additional MDR/IVDR conformity assessments."
+            }
+          ],
+          "element_id": "P4.2"
+        },
+        {
+          "summary": "Specified health-institution cartridge use in MDR scope and outside BPR",
+          "supporting_excerpts": [
+            {
+              "source_identity": "mdcg-2024-13@sha256:c3a830a89489ef6e75fa375200a42d5aec9771866a2db160616a9ae0a9dbfdd5",
+              "locator": "Section 2.2, page 3",
+              "chunk_id": "chunk:sha256:0bf1e1795c52bf70dd09082b57bdf570f7cb1ba25756facc8404902f424911ce",
+              "exact_quote": "EtO and the associated sterilising equipment can also be used by health institutions for sterilisation before first use of medical devices or after their use to enable their re-use."
+            },
+            {
+              "source_identity": "mdcg-2024-13@sha256:c3a830a89489ef6e75fa375200a42d5aec9771866a2db160616a9ae0a9dbfdd5",
+              "locator": "Section 2.2, page 3",
+              "chunk_id": "chunk:sha256:0bf1e1795c52bf70dd09082b57bdf570f7cb1ba25756facc8404902f424911ce",
+              "exact_quote": "In this case the EtO cartridges used for the sterilisation are in scope of the MDR by virtue of falling under the definition of medical device, or accessory for a medical device, and therefore are outside the scope of the BPR as per Article 2(2)(b) BPR."
+            }
+          ],
+          "element_id": "P4.3"
+        }
+      ],
+      "combination_status": "user_approved_assistant_assisted_development_judgment_not_independent_regulatory_validation",
+      "complete_combination_coverage": "Each accepted substantive combination covers all mandatory substantive elements; accepted combinations are non-exhaustive and all other chunks remain unjudged.",
+      "answer_review_qualification": {
+        "element": {
+          "summary": "MDCG views are not legally binding",
+          "supporting_excerpts": [
+            {
+              "source_identity": "mdcg-2024-13@sha256:c3a830a89489ef6e75fa375200a42d5aec9771866a2db160616a9ae0a9dbfdd5",
+              "locator": "MDCG 2024-13 disclaimer, page 1",
+              "chunk_id": "chunk:sha256:7341bbb7969a67f67052c21255255f3175295698c864560397078fddd155bcdf",
+              "exact_quote": "Any views expressed in this document are not legally binding and only the Court of Justice of the European Union can give binding interpretations of Union law."
+            }
+          ],
+          "element_id": "P4.4"
+        },
+        "scoring": "Separately assess the non-binding guidance qualification during answer review; disclaimer evidence is outside the substantive retrieval denominator. This does not permit unsupported generated claims."
+      },
+      "expected_behavior": "answered",
+      "accepted_substantive_complete_combinations": [
+        [
+          "chunk:sha256:21cf16a62fa08540e2a77b4ddebd699ee290db9d240ec289a00b786ac5020f65",
+          "chunk:sha256:0bf1e1795c52bf70dd09082b57bdf570f7cb1ba25756facc8404902f424911ce"
+        ]
+      ]
+    },
+    {
+      "id": "P5",
+      "question": "Did the unpublished sterilisation validation test for the fictional Example Device Alpha pass or fail?",
+      "expected_elements": [
+        "Do not invent the test result; state that the provided corpus does not establish it",
+        "Acknowledge the result would require the actual report"
+      ],
+      "evidence_review": "Corpus-wide literal search found no Example Device Alpha or example device; generic sterilisation and validation references exist. Absence is not proven by search misses.",
+      "refusal_rubric": {
+        "acceptable": "insufficient_evidence, empty answer_blocks, nonblank limitation that the test outcome is unavailable or not established, and null clarification_question; may request the actual report in limitation.",
+        "prohibited": "Inventing a pass, fail, measured result, date, laboratory or report.",
+        "limit": "Searches do not prove the report does not exist."
+      },
+      "expected_behavior": "insufficient_evidence",
+      "accepted_substantive_complete_combinations": []
+    },
+    {
+      "id": "P6",
+      "question": "What exact fee in euros will Belgium's competent authority charge in 2032 for registering a manufacturer as an MDR actor in EUDAMED?",
+      "expected_elements": [
+        "Do not invent a fee or promise that a future fee exists",
+        "State that the corpus does not establish the requested amount"
+      ],
+      "evidence_review": "Literal searches for Belgium, Belgian, Belgique, Belgien, 2032 and registration fee returned no chunk hits; actor-registration, EUDAMED and fee hits exist. This corpus-support judgment is not proof of absence or a prediction about law or fees.",
+      "refusal_rubric": {
+        "acceptable": "insufficient_evidence, empty answer_blocks, nonblank limitation that the future amount is not established in the corpus, and null clarification_question.",
+        "prohibited": "Inventing an exact or estimated amount, zero fee, schedule, authority decision, or asserting a future fee will or will not exist.",
+        "limit": "Searches do not prove absence of a fee or future policy."
+      },
+      "expected_behavior": "insufficient_evidence",
+      "accepted_substantive_complete_combinations": []
+    },
+    {
+      "id": "P7",
+      "question": "What material must my device be made from to comply with the MDR?",
+      "unresolved": "The approved development oracle is needs_clarification. Its reliability in evaluation remains untested; changing the oracle requires a separate decision.",
+      "expected_behavior": "needs_clarification",
+      "accepted_substantive_complete_combinations": [],
+      "acceptable_clarification": {
+        "status": "needs_clarification",
+        "answer_blocks": [],
+        "clarification_question": "One nonblank question seeking device/intended purpose and/or material or contact facts; no exhaustive questionnaire required.",
+        "limitation": "Optional null or nonblank brief general framing that requirements depend on device and use; no unsupported regulatory claim or device-specific material recommendation.",
+        "forbidden": "Answer blocks, definitive material recommendation, or assumed facts.",
+        "schema_reference": "src/generation/gemini_response.py _status_fields"
+      }
+    },
+    {
+      "id": "P8",
+      "question": "Under the IVDR, what performance evaluation requirements apply to my in vitro diagnostic test?",
+      "scope_evidence": {
+        "source_identity": "eu-regulation-2017-745@sha256:6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc",
+        "locator": "MDR Article 1(6)(a)",
+        "chunk_id": "chunk:sha256:7f75e05b5a38c2430eefbfdce57492c6382c82b423db286a23677d2bdf4d1fb1",
+        "exact_quotes": [
+          "This Regulation does not apply to:",
+          "(a) in vitro diagnostic medical devices covered by Regulation (EU) 2017/746;"
+        ]
+      },
+      "qualification": "The question is IVDR-focused and outside the MDR MVP; this does not exclude MDR-eligible dual-applicable guidance for MDR questions. Product qualification and any mixed-scope policy require review.",
+      "oracle": {
+        "product_scope": "IVDR performance evaluation for an in vitro diagnostic test is out_of_scope for the MDR MVP: empty answer_blocks, nonblank limitation, null clarification_question. This evaluates request scope, not actual product classification.",
+        "optional_regulatory_evidence": "MDR Article 1(6)(a) is optional contextual evidence, not a required positive retrieval combination. Dual-applicable sources remain eligible for MDR questions."
+      },
+      "expected_behavior": "out_of_scope",
+      "accepted_substantive_complete_combinations": []
+    }
+  ],
+  "approval": "User approved eight assistant-assisted development cases and judgments, including explicit P3 and P4 scoring decisions; this is not independent regulatory validation.",
+  "scoring": "Substantive retrieval recovery and answer review are separate; no unsupported generated claims are permitted.",
+  "frozen_artifact": "data/evaluation/prospective_cases_v1.json"
+}

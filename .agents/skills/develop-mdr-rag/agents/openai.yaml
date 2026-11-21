@@ -1,0 +1,14 @@
+interface:
+  display_name: MDR RAG Development
+  short_description: Build and validate the MDR RAG safely
+  default_prompt: Use $develop-mdr-rag to continue developing my MDR RAG project from
+    the approved decisions.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

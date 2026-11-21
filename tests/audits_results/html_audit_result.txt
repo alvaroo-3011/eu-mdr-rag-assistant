@@ -1,0 +1,232 @@
+﻿Project root: <project-root>
+RAG-ready directory: <project-root>\data\rag_ready
+
+========================================================================================
+SOURCE IDENTITY
+========================================================================================
+Filename: regulation_eu_2017_745_consolidated_2026_07_19.html
+File size: 1,725,814 bytes
+SHA-256: 6c9193c32149080ef77edae4afdff2e885599d9851feec5cf05c1a26c78258fc
+HTML title: Consolidated TEXT: 32017R0745 ÔÇö EN ÔÇö 19.07.2026
+
+Relevant HTML comments:
+  - CONVEX # converter_version:9.18.0 # generated_on:20260811-1956
+
+Identity checks:
+  Regulation (EU) 2017/745 text detected: True
+  Consolidated CELEX identifier 02017R0745 detected: True
+
+========================================================================================
+GENERAL HTML STRUCTURE
+========================================================================================
+Visible text length: 600,250 characters
+Total HTML elements: 14,687
+
+Most common tags:
+  div: 5712
+  p: 2847
+  span: 2293
+  td: 947
+  col: 671
+  tr: 426
+  a: 396
+  table: 332
+  colgroup: 332
+  tbody: 332
+  li: 160
+  i: 120
+  br: 44
+  hr: 21
+  ul: 17
+  script: 15
+  link: 7
+  meta: 6
+  html: 1
+  head: 1
+
+Most common classes:
+  norm: 3000
+  list: 1759
+  grid-container: 1287
+  grid-list: 1287
+  grid-list-column-1: 1287
+  grid-list-column-2: 1287
+  inline-element: 623
+  no-parag: 540
+  boldface: 210
+  tbl-norm: 207
+  eli-subdivision: 126
+  toc-eli-label: 125
+  title-article-norm: 124
+  eli-title: 124
+  stitle-article-norm: 124
+  fa: 121
+  anchorarrow: 104
+  fa-arrow-down: 93
+  modref: 68
+  italics: 57
+  title-gr-seq-level-2: 52
+  title-gr-seq-level-3: 52
+  title-gr-seq-level-4: 52
+  toc-item: 34
+  superscript: 26
+  separator-annex: 18
+  title-annex-1: 18
+  nav: 17
+  title-gr-seq-level-1: 17
+  fa-angle-right: 16
+
+========================================================================================
+LEGAL HIERARCHY
+========================================================================================
+Article heading elements detected: 208
+Unique numbered articles detected: 123
+Lettered articles detected: ['10a', '10b', '10c', '12a', '14a', '14b', '15a', '20a']
+Missing Articles 1ÔÇô123: []
+Unexpected numeric articles: []
+
+Chapter heading elements detected: 24
+Unique chapters detected: ['I', 'II', 'III', 'IV', 'IX', 'V', 'VI', 'VII', 'VIII', 'X']
+Missing Chapters IÔÇôX: []
+
+Annex heading elements detected: 17
+Unique annexes detected: ['I', 'II', 'III', 'IV', 'IX', 'V', 'VI', 'VII', 'VIII', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII']
+Missing Annexes IÔÇôXVII: []
+
+Section heading elements detected: 10
+
+Article heading examples:
+  'Article 1' -> p#id-ce112d9f-5f52-412e-8583-a99c38941487.title-article-norm
+  'Article 2' -> p#id-ecd4e68c-020f-4d90-9b80-aec0e6ca1f93.title-article-norm
+  'Article 3' -> p#id-12890bea-31e9-48a6-afa0-55631c25ea15.title-article-norm
+  'Article 4' -> p#id-fe352e79-6b04-458e-bf72-8ba65a4f2bf3.title-article-norm
+  'Article 5' -> p#id-fb75c9a0-ec3d-4bcc-81cd-079822e3b856.title-article-norm
+  'Article 6' -> p#id-82e7b607-cfb8-4192-8c12-bd5a3a2a6aed.title-article-norm
+  'Article 7' -> p#id-177b20e0-54a9-459b-ab63-82b3fbefc722.title-article-norm
+  'Article 8' -> p#id-39965d79-f841-4268-89db-c913602c52a6.title-article-norm
+
+Chapter heading examples:
+  'CHAPTER I' -> p#id-933feabd-34b3-4746-966f-738145ebb06e.title-division-1
+  'CHAPTER II' -> p#id-e3e7e140-42e8-4d34-8594-5a5475103f79.title-division-1
+  'CHAPTER III' -> p#id-9f146f4d-c41e-4c23-9b66-f98d2065bfce.title-division-1
+  'CHAPTER IV' -> p#id-8901d627-2975-45d8-869a-413f0ab19f83.title-division-1
+  'CHAPTER V' -> p#id-8c8374c8-362a-4ec9-a1cf-cbe5456fcbdd.title-division-1
+  'CHAPTER VI' -> p#id-f2de7614-0dba-4274-bf5e-3e6e7b36ce40.title-division-1
+  'CHAPTER VII' -> p#id-2f84311f-cafd-4d2c-bca8-069df3d1ad81.title-division-1
+  'CHAPTER VIII' -> p#id-da175c8d-6b04-47ec-a461-b32c2096085e.title-division-1
+
+Annex heading examples:
+  'ANNEX I' -> p#id-ad25fc10-3215-4945-afd6-41fa9be7a340.title-annex-1
+  'ANNEX II' -> p#id-cb4d614b-2607-4172-8653-02576750f160.title-annex-1
+  'ANNEX III' -> p#id-7c92bd8a-cbd4-4b40-a628-9d02eaadc6cb.title-annex-1
+  'ANNEX IV' -> p#id-f910d122-5513-4f78-943f-0d41d91779be.title-annex-1
+  'ANNEX V' -> p#id-173d5629-e550-48bc-ad7a-49a926e2c569.title-annex-1
+  'ANNEX VI' -> p#id-ea76aa1c-fb8d-4706-a117-08841c6651a1.title-annex-1
+  'ANNEX VII' -> p#id-e8d4ea9e-9d7e-4aa9-aaac-6619b90a2429.title-annex-1
+  'ANNEX VIII' -> p#id-cbc0a17f-7853-4327-9357-b2b28f302677.title-annex-1
+
+Repeated Article heading labels:
+  Article 2: 7
+  Article 17: 7
+  Article 12: 5
+  Article 15: 5
+  Article 20: 5
+  Article 22: 5
+  Article 7: 3
+  Article 8: 3
+  Article 9: 3
+  Article 10: 3
+  Article 13: 3
+  Article 14: 3
+  Article 16: 3
+  Article 18: 3
+  Article 19: 3
+  Article 21: 3
+  Article 23: 3
+  Article 24: 3
+  Article 36: 3
+  Article 51: 3
+
+Most common containers surrounding Article headings:
+  div.eli-container: 208
+  div#docHtml.col-md-9: 208
+  div.row.row-offcanvas: 180
+  div#enc_1.eli-subdivision: 124
+  div.centered: 84
+  div#anx_XVII: 84
+  div.container-fluid: 84
+  div#cpt_VI: 22
+  div#cpt_II: 21
+  div#cpt_VII: 18
+  div#cpt_IV: 16
+  div#cpt_III: 10
+  div#cpt_V: 10
+  div#cpt_X: 10
+  div#cpt_V.sct_2: 9
+
+========================================================================================
+TABLES, LISTS AND LOCATORS
+========================================================================================
+Tables: 332
+Ordered lists: 0
+Unordered lists: 17
+List items: 160
+Elements with IDs: 796
+Duplicated IDs: 0
+
+Potential editorial/page-related classes:
+  modref: 68
+  footnote: 13
+  hd-modifiers: 2
+
+Possible consolidation amendment markers:
+  Ôû╝B: 32
+  Ôû║M1: 15
+  Ôû╝M5: 11
+  Ôû║C1: 8
+  Ôû╝M1: 7
+  Ôû╝C2: 5
+  Ôû╝C1: 4
+  Ôû╝M3: 4
+  Ôû║C2: 3
+  Ôû║M5: 2
+  Ôû╝M6: 2
+  Ôû║B: 1
+  Ôû║M2: 1
+  Ôû║M3: 1
+  Ôû║M4: 1
+  Ôû║M6: 1
+  Ôû║M7: 1
+  Ôû║M8: 1
+  Ôû╝M2: 1
+  Ôû╝M7: 1
+  Ôû╝M8: 1
+  Ôû╝M4: 1
+
+========================================================================================
+TEXT QUALITY
+========================================================================================
+Unicode replacement characters: 0
+Null characters: 0
+Non-breaking spaces: 0
+Soft hyphens: 0
+Repeated substantial paragraph values: 13
+
+Repeated paragraph examples:
+  3 times: The manufacturer or, where the manufacturer does not have a registered place of business in a Member State, its authorised representative shall, for a period ending no sooner th...
+  2 times: on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC
+  2 times: the device has been CE marked and that the EU declaration of conformity of the device has been drawn up;
+  2 times: a diploma, certificate or other evidence of formal qualification, awarded on completion of a university degree or of a course of study recognised as equivalent by the Member Sta...
+  2 times: four years of professional experience in regulatory affairs or in quality management systems relating to medical devices.
+  2 times: The implementing acts referred to in the first subparagraph shall be adopted in accordance with the examination procedure referred to in Article 114(3).
+  2 times: sutures, staples, dental fillings, dental braces, tooth crowns, screws, wedges, plates, wires, pins, clips, connectors,
+  2 times: any device deficiency that might have led to a serious adverse event if appropriate action had not been taken, intervention had not occurred, or circumstances had been less fort...
+  2 times: The implementing acts referred to in the first paragraph shall be adopted in accordance with the examination procedure referred to in Article 114(3).
+  2 times: status of the device (on the market, no longer placed on the market, recalled, field safety corrective action initiated).
+
+########################################################################################
+HTML AUDIT RESULT
+########################################################################################
+RESULT: NO CRITICAL STRUCTURAL ISSUES DETECTED
+
+The HTML appears suitable for designing the MDR ingestion adapter. Its detected selectors and hierarchy must still be reviewed before production ingestion.
